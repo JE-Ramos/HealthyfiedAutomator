@@ -1,0 +1,110 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied ",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Healthified recipe is perfect for those looking to enjoy a high-protein, high-fiber meal without sacrificing taste. Featuring boneless milkfish, fresh vegetables like eggplant, young corn, tomatoes, red onion, and string beans, and seasoned with thyme, pepper, and garlic powder, it's a nutritious option that doesn't skimp on flavor. Ideal for anyone wanting to keep their meals healthy and delicious.",
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
+  "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "502",
+    "carbohydrateContent": "20",
+    "fiberContent": "8",
+    "sugarContent": "9",
+    "sodiumContent": "764",
+    "proteinContent": "37",
+    "fatContent": "31",
+    "saturatedFatContent": "12",
+    "monounsaturatedFatContent": "10",
+    "polyunsaturatedFatContent": "2",
+    "unsaturatedFatContent": 12,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp ground, Pepper",
+    "1  tsp(s) Spices, garlic powder",
+    "1  tsp Thyme, fresh",
+    "15 g Butter - Unsalted",
+    "150 g Tomatoes",
+    "190 g Fresh String Beans",
+    "2  tbsp , Extra Virgin Olive Oil",
+    "218 g Young Corn - Cut",
+    "3 large Egg",
+    "300 g Eggplant, raw",
+    "40 g Red Onion",
+    "420 g Boneless Milkfish (Bangus)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 180°C (356°F).",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Boneless Milkfish under cold water and pat dry with paper towels. Place on a baking tray.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wash the Eggplant, Young Corn, Tomatoes, and Fresh String Beans, then cut into desired pieces. Peel and finely chop the Red Onion.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange the chopped vegetables around the Milkfish on the baking tray.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, beat the Eggs with Thyme, Pepper, and Garlic Powder.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drizzle the Eggplant, Young Corn, Tomatoes, and String Beans with Extra Virgin Olive Oil and sprinkle with sea salt to taste.",
+      "time": "5 minutes",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dollop Butter and the beaten egg mixture over the Milkfish and vegetables.",
+      "time": "5 minutes",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in the preheated oven until the Milkfish is cooked through and the vegetables are tender, about 20-25 minutes.",
+      "time": "25 minutes",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the Healthified warm, garnished with fresh thyme if desired.",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": []
+}

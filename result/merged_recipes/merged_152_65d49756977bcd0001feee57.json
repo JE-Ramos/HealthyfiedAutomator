@@ -1,0 +1,97 @@
+{
+  "post_id": "65d49756977bcd0001feee57",
+  "title": "Beef Yakiniku Mackerel Meal",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Beef Yakiniku Mackerel Meal",
+    "recipeYield": "5",
+    "recipeIngredient": [
+      "0.25 cup raw (92g), Bellpepper",
+      "0.50 head, large (about 5-1/2\" dia), Cabbage, red, raw",
+      "0.50 large ear (7-9\" long), White on the Cob",
+      "1 Medium Size Zucchini, Zucchini Slice",
+      "1 cup/85 g (uncooked), Kabocha Squash",
+      "1 eggplant, peeled (yield from 1-1/4 lb), Eggplant, raw",
+      "1 large, Mushrooms, enoki, raw",
+      "1 tbsp, Butter - Salted",
+      "2 fillet, Fish, mackerel, Atlantic, raw",
+      "2 tsp(s), Virgin Coconut Oil",
+      "30 g, Yellow Bellpepper",
+      "432 gram, Yakiniku (Beef Tips)",
+      "50 grams, Daikon Root"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "389",
+      "carbohydrateContent": "19",
+      "fiberContent": "6",
+      "sugarContent": "10",
+      "sodiumContent": "145",
+      "proteinContent": "29",
+      "fatContent": "19",
+      "saturatedFatContent": "9",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 5,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the vegetables: peel and slice the Daikon Root, husk and slice the White on the Cob, slice the raw Bellpeppers, peel and slice the eggplant, and slice the red cabbage and medium-size Zucchini."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a grill pan over medium heat and lightly grease it with Virgin Coconut Oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grill the Yakiniku Beef Tips on the preheated pan, turning occasionally, until browned and cooked through, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate pan, melt the Butter - Salted over medium heat. Add the sliced vegetables (Daikon Root, Corn, Bellpeppers, Eggplant, Red Cabbage, and Zucchini) and sauté until they start to soften, about 5-7 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the Mushrooms, enoki, raw to the vegetables and continue to sauté until all vegetables are tender, about 3-4 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grill the Fish, mackerel, Atlantic, raw fillets on the preheated grill pan until cooked through, about 5-6 minutes per side."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble the meal by adding a serving of grilled Yakiniku Beef and Mackerel on a plate, accompanied by the colorful array of sautéed vegetables and Kabocha Squash on the side."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-protein",
+      "low-carb"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Beef Yakiniku Mackerel Meal is a delectable fusion dish that combines the flavors of rich beef yakiniku and savory mackerel, making it an excellent choice for those following a high-protein, low-carb, and high-fiber diet. Perfect for individuals seeking healthful yet delicious meal options, this recipe will delight your taste buds and support your well-being.",
+    "prepTime": "PT20M",
+    "cookTime": "PT25M",
+    "totalTime": "PT45M",
+    "keywords": "high-protein,low-carb,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_152_65d49756977bcd0001feee57.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/152_65d49756977bcd0001feee57.json",
+  "original_files": [
+    "152_65d49756977bcd0001feee57.json",
+    "149_65d49756977bcd0001feee57.json"
+  ]
+}

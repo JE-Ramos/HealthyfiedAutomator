@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Zucchini Corn Radish Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/zucchini-corn-radish-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Zucchini Corn Radish Salad is a perfect blend of flavors and textures, tailored for those following a healthy lifestyle. With its low-carb, low-sodium, and low-sugar ingredients, it's an ideal choice for a nutritious and refreshing meal. Whether you're looking for a healthy recipe to add to your collection or seeking to maintain a balanced diet, this salad is a delightful choice.",
+  "prepTime": "PT15M",
+  "cookTime": "PT7M",
+  "totalTime": "PT22M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "5",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "60",
+    "carbohydrateContent": "8",
+    "fiberContent": "1",
+    "sugarContent": "2",
+    "sodiumContent": "28",
+    "proteinContent": "1",
+    "fatContent": "3",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp(s) Virgin Coconut Oil",
+    "0.50  cup Chopped, Red Onion",
+    "1  tbsp Cane Vinegar",
+    "1  ear Ear of Corn",
+    "1 medium Squash, zucchini, baby, raw",
+    "3  tsp(s) Butter (Salted)",
+    "50 g raw, Daikon Radish - Raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the vegetables: Slice 1 medium zucchini, cut the kernels off 1 ear of corn, and thinly slice 50g of raw Daikon radish.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan, melt 3 tsp of butter over medium heat.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the corn kernels to the pan and sauté for about 5 minutes, until slightly softened and golden.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix in 0.25 tsp of virgin coconut oil with the corn and cook for an additional 2 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, combine the sautéed corn, sliced zucchini, sliced radish, and 0.50 cup of chopped red onion.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drizzle the salad with 1 Tbsp of cane vinegar, gently toss to combine all the ingredients.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

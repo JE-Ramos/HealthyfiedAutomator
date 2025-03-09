@@ -1,0 +1,80 @@
+{
+  "post_id": "65d496c9977bcd0001feeb84",
+  "title": "Tuna Sashimi Dinner",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Tuna Sashimi Dinner",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "500 gram, Sashimi Tuna"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "235",
+      "carbohydrateContent": "0",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "59",
+      "proteinContent": "41",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ensure the Sashimi Tuna is fresh and of sushi-grade quality."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the tuna in the freezer for about an hour to make slicing easier."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the tuna from the freezer and, using a sharp knife, slice it into thin slices, about 1/8 inch thick."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Arrange the tuna slices neatly on a serving plate."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Optionally, garnish with microgreens or a light drizzle of soy sauce and wasabi on the side for those who enjoy a bit of spice."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "http://schema.org/LowCarbDiet",
+      "http://schema.org/LowFatDiet",
+      "http://schema.org/LowSaltDiet"
+    ],
+    "description": "This Tuna Sashimi Dinner recipe is perfect for those who are looking for a healthy meal that is high in protein and low in carbs, sodium, and sugar. It's an ideal option for anyone dedicated to maintaining a nutritious diet without sacrificing flavor.",
+    "prepTime": "PT70M",
+    "cookTime": "PT0M",
+    "totalTime": "PT70M",
+    "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_211_65d496c9977bcd0001feeb84.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/211_65d496c9977bcd0001feeb84.json",
+  "original_files": [
+    "211_65d496c9977bcd0001feeb84.json",
+    "208_65d496c9977bcd0001feeb84.json"
+  ]
+}

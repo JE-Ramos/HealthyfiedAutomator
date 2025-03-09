@@ -1,0 +1,88 @@
+{
+  "post_id": "65d49737977bcd0001feedb0",
+  "title": "2018/10/11 Lunch Bangus And Broccoli Carrots",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/11 Lunch Bangus and Broccoli Carrots",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "1 tbsp(s), Butter - Unsalted",
+      "200 g, Carrots, raw",
+      "400 g, Broccoli, raw",
+      "400 gram, Milkfish"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "342",
+      "carbohydrateContent": "15",
+      "fiberContent": "5",
+      "sugarContent": "6",
+      "sodiumContent": "284",
+      "proteinContent": "34",
+      "fatContent": "17",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep your vegetables: Wash the broccoli and carrots under cold water. Chop the broccoli into florets and slice the carrots into thin rounds."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the vegetables: In a mixing bowl, combine the broccoli and carrot slices. Toss with 0.25 teaspoon salt and 0.25 teaspoon ground pepper until evenly coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the vegetables: Melt 1 tablespoon of unsalted butter in a large pan over medium heat. Add the seasoned vegetables and sauté for about 5 minutes until they are tender but still crisp. Remove from pan and set aside.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the bangus: Rinse the milkfish under cold water and pat dry with paper towels. Season lightly with salt and pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the bangus: In the same pan, add another tablespoon of butter if necessary. Place the milkfish in the pan and cook for about 4 minutes on each side, or until golden brown and cooked through.",
+        "time": "PT8M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the dish: Arrange the sautéed vegetables on a plate and top with the cooked bangus. Serve immediately for a nutritious and delicious meal."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-protein",
+      "low-carb"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This high-protein, low-carb, and high-fiber lunch recipe featuring bangus (milkfish) and broccoli carrots is perfect for those seeking nutritious, healthified meals. It's a fantastic choice for anyone looking to enjoy a healthy recipe that doesn't compromise on flavor.",
+    "prepTime": "PT15M",
+    "cookTime": "PT13M",
+    "totalTime": "PT28M",
+    "keywords": "high-protein,low-carb,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_165_65d49737977bcd0001feedb0.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/165_65d49737977bcd0001feedb0.json",
+  "original_files": [
+    "165_65d49737977bcd0001feedb0.json",
+    "162_65d49737977bcd0001feedb0.json"
+  ]
+}

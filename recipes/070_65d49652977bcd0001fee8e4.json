@@ -1,0 +1,89 @@
+{
+  "post_id": "65d49652977bcd0001fee8e4",
+  "title": "Salt And Pepper Pork",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Salt and Pepper Pork",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.06 tsp, Salt",
+      "5 g, Green onions",
+      "6 clove , Garlic",
+      "250 gram, Pork Tenderloin",
+      "1 tbsp, Extra virgin olive oil",
+      "1 tsp, ground, Black pepper"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "141",
+      "carbohydrateContent": "3",
+      "fiberContent": "0",
+      "sugarContent": "1",
+      "sodiumContent": "94",
+      "proteinContent": "17",
+      "fatContent": "7",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "4",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 5,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Start by slicing the pork tenderloin into thin strips."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely mince the garlic and chop the green onions, setting them aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the salt and ground black pepper together."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the pork tenderloin strips with the salt and pepper mixture, ensuring they're evenly coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the extra virgin olive oil in a pan over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the oil is hot, add the minced garlic to the pan and saut\u00e9 for about 2 minutes, until fragrant."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the seasoned pork strips to the pan, and cook for 8-10 minutes, or until the pork is cooked through and slightly golden on the outside, stirring occasionally."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finally, garnish the pork with the chopped green onions before serving."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Dive into a healthier version of a classic with our Healthyfied Salt and Pepper Pork. Perfect for those following low-carb, low-sodium, and low-sugar diets, this recipe ensures you don't have to compromise on flavor to keep things on the healthier side. Ideal for anyone looking to enjoy delicious, health-conscious recipes.",
+    "prepTime": "PT15M",
+    "cookTime": "PT12M",
+    "totalTime": "PT27M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

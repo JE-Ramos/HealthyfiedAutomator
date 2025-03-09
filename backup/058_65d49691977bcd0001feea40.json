@@ -1,0 +1,80 @@
+{
+  "post_id": "65d49691977bcd0001feea40",
+  "title": "Sky High Fiber Honey Toast",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Sky-High Fiber Honey Toast",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "0.50 cup, Rolled Oats",
+      "2 large, Egg",
+      "1 tbsp, Honey",
+      "4 slice (40g), Sugar Free 100% Whole Wheat Bread"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "189",
+      "carbohydrateContent": "28",
+      "fiberContent": "4",
+      "sugarContent": "5",
+      "sodiumContent": "206",
+      "proteinContent": "9",
+      "fatContent": "5",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 350\u00b0F (175\u00b0C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, beat the eggs thoroughly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In another bowl, mix the rolled oats with the beaten eggs until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lay the sugar-free whole wheat bread slices on a baking tray."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the oats and egg mixture evenly over the bread slices."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle honey over each bread slice."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 15 minutes, or until the topping is golden brown and slightly crisp."
+      }
+    ],
+    "tags": [
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a delightful and nutritious start to your day with our Sky-High Fiber Honey Toast! Perfect for those seeking a low-sugar yet delicious breakfast option, this recipe transforms classic ingredients into a healthy masterpiece. With rolled oats, sugar-free whole wheat bread, and the natural sweetness of honey, this toast is not just a treat to your taste buds but also a step towards a healthier lifestyle. Ideal for anyone embracing health-conscious dining without compromising on taste.",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "keywords": "low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

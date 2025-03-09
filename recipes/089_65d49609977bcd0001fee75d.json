@@ -1,0 +1,66 @@
+{
+  "post_id": "65d49609977bcd0001fee75d",
+  "title": "Parmesan Corn",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Parmesan Corn",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "1 cup, Corn",
+      "1 tablespoon, Parmesan"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "85",
+      "carbohydrateContent": "16",
+      "fiberContent": "1",
+      "sugarContent": "4",
+      "sodiumContent": "0",
+      "proteinContent": "3",
+      "fatContent": "2",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse 1 cup of corn under cold water and drain."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet over medium heat, cook the corn until heated through, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the skillet from heat and sprinkle 1 tablespoon of Parmesan over the hot corn. Stir until the Parmesan is melted and evenly distributed."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a guilt-free side dish with our Healthyfied Parmesan Corn. This recipe caters to those looking for low-carb, low-sodium, and low-sugar options without sacrificing taste. Perfect for anyone on a journey to healthier eating, our Healthyfied Parmesan Corn combines the sweetness of corn with the savory depth of Parmesan cheese to create a simple, yet satisfying dish.",
+    "prepTime": "PT5M",
+    "cookTime": "PT5M",
+    "totalTime": "PT10M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

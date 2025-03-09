@@ -1,0 +1,103 @@
+{
+  "post_id": "65d496ea977bcd0001feec30",
+  "title": "Beef With Mushroom",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Beef with mushroom",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 tsp, Salt",
+      "0.25 tsp, ground, Black pepper",
+      "1 lemon yields, Lemon juice, raw",
+      "100.00 G, Ginisang Pechay",
+      "15 g, Garlic",
+      "15 g, Red onion",
+      "150 g, Water Cress",
+      "20 gram(s), Butter - Unsalted",
+      "300 g, Button",
+      "400 gram, Beef Sukiyaki Meat"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "278",
+      "carbohydrateContent": "7",
+      "fiberContent": "2",
+      "sugarContent": "1",
+      "sodiumContent": "446",
+      "proteinContent": "33",
+      "fatContent": "14",
+      "saturatedFatContent": "6",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the ingredients: Thinly slice the beef sukiyaki meat if not already sliced. Finely chop the garlic and red onion. Rinse the water cress and button mushrooms."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the beef slices with salt, black pepper, and lemon juice. Let them marinate for 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, melt the butter over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the garlic and red onion to the pan and sauté until they are soft and fragrant, about 3 minutes.",
+        "time": "3 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Increase the heat to high, add the marinated beef slices to the pan and cook until they are browned on each side, about 2-3 minutes per side.",
+        "time": "4-6 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the button mushrooms to the pan and cook until they are soft, about 4 minutes.",
+        "time": "4 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the mushrooms are cooked, add the water cress and cook until wilted, about 2 minutes.",
+        "time": "2 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the beef and mushrooms hot, optionally with ginisang pechay on the side."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "high-sodium",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in this high-protein, low-carb Beef with Mushroom recipe that's perfect for those looking to enjoy a healthy but flavorful meal. Packed with succulent beef sukiyaki meat and juicy button mushrooms, this dish is a delicious way to maintain a healthy diet without compromising on taste. Ideal for anyone seeking healthified recipes that are low in sugar and high in satisfaction.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_192_65d496ea977bcd0001feec30.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/192_65d496ea977bcd0001feec30.json",
+  "original_files": [
+    "192_65d496ea977bcd0001feec30.json",
+    "195_65d496ea977bcd0001feec30.json"
+  ]
+}

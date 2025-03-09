@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Lemon Orange Chicken Thighs",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-lemon-orange-chicken-thighs.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a high-protein, low-carb, and low-sugar culinary delight with our Healthyfied Lemon Orange Chicken Thighs. These succulent chicken thighs, marinated in a zesty lemon-orange sauce, not only cater to your health goals but also promise a burst of flavors that'll leave you craving for more. Perfect for anyone following a health-conscious diet without sacrificing taste.",
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "totalTime": "PT50M",
+  "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "534",
+    "carbohydrateContent": "8",
+    "fiberContent": "1",
+    "sugarContent": "4",
+    "sodiumContent": "290",
+    "proteinContent": "34",
+    "fatContent": "39",
+    "saturatedFatContent": "14",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.12  teaspoon Salt",
+    "0.50  tablespoon Cornstarch",
+    "1  fruit Lemon",
+    "1  tbsp Orange Sauce",
+    "1  tsp Granulated Garlic",
+    "1  tsp Ground Black Pepper",
+    "1  tsp ground, Dried Thyme",
+    "2  sachets Stevia Sweet - Sachets",
+    "35 g Butter, unsalted",
+    "600 g Chicken Thigh Fillet - Boneless With Skin"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 375°F (190°C).",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the chicken by patting the chicken thigh fillets dry with a paper towel.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the chicken thighs on both sides with the ground black pepper, salt, granulated garlic, and dried thyme.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, mix the orange sauce, juice from 1 lemon, cornstarch, and stevia sachets until well combined.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet over medium-high heat, melt the butter. Once hot, add the seasoned chicken thighs, skin-side down, and sear until golden brown, about 5 minutes each side.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the chicken thighs are browned, transfer them to a baking dish and pour the lemon-orange sauce mixture over the chicken.",
+      "time": "5 minutes",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in the preheated oven until the chicken is cooked through and the sauce thickens, about 25-30 minutes.",
+      "time": "30 minutes",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let the chicken rest for a few minutes before serving. The resting time allows the juices to redistribute, ensuring your chicken is juicy and flavorful.",
+      "time": "5 minutes",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": []
+}

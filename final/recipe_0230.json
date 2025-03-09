@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/11/06 Lunch Tilapia Caulirice",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/11/06-lunch-tilapia-caulirice.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This high-protein, low-carb, and low-sugar 2018/11/06 Lunch Tilapia Caulirice is perfect for those looking to maintain a healthy lifestyle without sacrificing flavor. Inspired by Healthy Recipes and Healthified Recipes, this meal combines the light taste of tilapia with the hearty texture of caulirice, marjoram seasoning, and fresh eggplants to create a dish that's not just good for you, but also delicious.",
+  "prepTime": "PT10M",
+  "cookTime": "PT9M",
+  "totalTime": "PT19M",
+  "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "202",
+    "carbohydrateContent": "6",
+    "fiberContent": "3",
+    "sugarContent": "4",
+    "sodiumContent": "231",
+    "proteinContent": "36",
+    "fatContent": "5",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.12  teaspoon Salt",
+    "0.12  tsp ground, Pepper",
+    "1  tsp Spices, marjoram, dried",
+    "300 g Eggplant, raw",
+    "600 g Tilapia"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Tilapia under cold water and pat dry with paper towels.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the eggplant into small cubes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the tilapia with marjoram, salt, and pepper.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat a non-stick pan over medium heat and cook the tilapia for 4 minutes on each side or until it flakes easily with a fork.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the tilapia and in the same pan, add the eggplant cubes. Cook until they are tender, approximately 5 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the tilapia atop the cooked eggplant as a healthy and satisfying caulirice alternative.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

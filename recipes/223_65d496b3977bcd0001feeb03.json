@@ -1,0 +1,98 @@
+{
+  "post_id": "65d496b3977bcd0001feeb03",
+  "title": "2018/11/06 Dinner Chicke Gizzard",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/11/06 Dinner Chicke Gizzard",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "300 g, Chicken, gizzard, all classes, raw",
+      "300 g, Carrots, raw",
+      "250 g, Asparagus - Raw",
+      "1 large, Egg",
+      "1 tablespoon, Oil - Olive",
+      "5.00 g, Garlic, raw",
+      "15.00 g, Ginger root - Raw",
+      "0.50 Tablespoons, Salt"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "222",
+      "carbohydrateContent": "14",
+      "fiberContent": "5",
+      "sugarContent": "7",
+      "sodiumContent": "233",
+      "proteinContent": "23",
+      "fatContent": "9",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "4",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 5,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the chicken gizzards under cold water and then trim any excess fat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the carrots into thin slices and the asparagus into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic and ginger root."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pot, bring water to a boil and blanch the asparagus for 2-3 minutes, then remove and set aside. This should take about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the olive oil in a pan over medium heat and saut\u00e9 the minced garlic and ginger until fragrant, about 2 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken gizzards to the pan and cook until they are browned on all sides and nearly cooked through, approximately 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced carrots to the pan, sprinkle with salt, and cook for an additional 10 minutes or until the carrots are tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the gizzards and carrots are cooking, boil the large egg to your desired doneness, peel, and then slice."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the gizzards and carrots are done, add the blanched asparagus to the pan and heat everything together for another 3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the chicken gizzard mix with slices of boiled egg on top."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This 2018/11/06 Dinner Chicken Gizzard recipe is perfect for those seeking a high-protein, low-carb, and high-fiber meal. It's designed to nourish your body and satisfy your taste buds while sticking to your healthy eating goals. Featuring tender chicken gizzard, crunchy carrots, fresh asparagus, and a rich blend of garlic and ginger, this dish is a hearty and healthified option for any dinner.",
+    "prepTime": "PT20M",
+    "cookTime": "PT45M",
+    "totalTime": "PT65M",
+    "keywords": "high-protein,low-carb,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "post_id": "65d4978f977bcd0001feef41",
+  "title": "Edamame Pasta Meal",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Edamame Pasta Meal",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "4.00 beans (4\" long), Beans, snap, green, raw",
+      "0.50 cup, banana blossom",
+      "1 tsp(s), Butter - Unsalted",
+      "0.20 tablespoon, Virgin Coconut Oil",
+      "0.20 tbsp., Extra Virgin Olive Oil",
+      "0.20 tbsp, Fresh Squeezed Lemon Juice",
+      "0.83 ounces (56 grams), Organic Edamame Pasta",
+      "50 grams, Belly",
+      "25 grams 1 ear, Veggie - Corn on the Cob",
+      "0.17 medium, Carrots, raw",
+      "0.17 tsp(s), Organic Soy Sauce",
+      "0.17 tbsp(s), Honey",
+      "0.17 Tbsp, Cane Vinegar",
+      "5 g(s), Sharp Cheddar Cheese",
+      "5 gram, Mozzarella Cheese",
+      "10 g, Squid Ink"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "466",
+      "carbohydrateContent": "22",
+      "fiberContent": "7",
+      "sugarContent": "6",
+      "sodiumContent": "292",
+      "proteinContent": "22",
+      "fatContent": "32",
+      "saturatedFatContent": "11",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Begin by preparing your ingredients: snap the beans into 1-inch pieces, slice the banana blossom, dice the carrot, and shave the corn off the cob."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pan, melt butter and virgin coconut oil over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced carrot, beans, banana blossom, and shaved corn to the pan. Saut\u00e9 for 10 minutes until the vegetables are tender.",
+        "time": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate pot, cook the edamame pasta according to package instructions, usually taking about 8 minutes, then drain.",
+        "time": "PT8M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the belly into thin strips and saut\u00e9 in a pan with extra virgin olive oil until crispy, about 5 minutes.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cooked pasta, saut\u00e9ed vegetables, and crispy belly in a large bowl. Drizzle with fresh squeezed lemon juice, organic soy sauce, honey, and cane vinegar. Toss well to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the pasta with finely grated sharp cheddar cheese, mozzarella cheese, and sprinkle squid ink over the dish for an enhanced flavor."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Edamame Pasta Meal is a powerhouse of nutrition, perfect for those seeking a delicious, healthified option. Packed with high-protein and high-fiber ingredients, it's a scrumptious choice for anyone wanting to enjoy healthy recipes without compromising on taste.",
+    "prepTime": "PT20M",
+    "cookTime": "PT23M",
+    "totalTime": "PT43M",
+    "keywords": "high-protein,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

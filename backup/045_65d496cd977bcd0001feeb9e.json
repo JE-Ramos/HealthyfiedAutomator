@@ -1,0 +1,76 @@
+{
+  "post_id": "65d496cd977bcd0001feeb9e",
+  "title": "Red Cabbage Tamarind Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Red Cabbage Tamarind Salad",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "2 cup, chopped, Cabbage, red, raw",
+      "30 g, Red",
+      "1 tbsp (16g), Tamarind Puree",
+      "3 Egg, Organic Selenium Egg",
+      "2 tbsp., Extra Virgin Olive Oil"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "238",
+      "carbohydrateContent": "9",
+      "fiberContent": "2",
+      "sugarContent": "4",
+      "sodiumContent": "49",
+      "proteinContent": "13",
+      "fatContent": "18",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "7",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 8,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop the red cabbage into thin strips."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Hard boil the eggs: place eggs in a saucepan, cover with water, bring to a boil, then reduce heat and simmer for 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After boiling, transfer the eggs to a bowl of cold water to cool, then peel and slice."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the chopped red cabbage, sliced eggs, and tamarind puree. Drizzle with extra virgin olive oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss everything together until the salad is evenly coated with the tamarind puree and olive oil. Serve chilled or at room temperature."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in the vibrant and refreshing flavors of our Healthyfied Red Cabbage Tamarind Salad. This dish is a treasure trove of nutrition, perfect for those following a low-carb, low-sodium, and low-sugar diet. It's designed to tantalize your taste buds while keeping your health in check. Experience the delightful blend of crunchy red cabbage, tangy tamarind, and rich, organic selenium eggs complemented by a drizzle of extra virgin olive oil. A true embodiment of healthful eating without compromising on taste!",
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "post_id": "65d4966d977bcd0001fee980",
+  "title": "Galunggong In Coconut Aminos",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Galunggong In Coconut Aminos",
+    "recipeYield": "5",
+    "recipeIngredient": [
+      "1 tablespoon, Oil - Olive",
+      "1 tsp, ground, Spices, pepper, black",
+      "250 g, Data From Pacific Ocean Fisheries",
+      "4 tsp, Coconut Aminos"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "160",
+      "carbohydrateContent": "2",
+      "fiberContent": "0",
+      "sugarContent": "1",
+      "sodiumContent": "72",
+      "proteinContent": "12",
+      "fatContent": "12",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "5",
+      "polyunsaturatedFatContent": "4",
+      "unsaturatedFatContent": 9,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Data From Pacific Ocean Fisheries (Galunggong) under cold water and pat dry with paper towels."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the Galunggong with 1 tsp of ground black pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, heat 1 tablespoon of olive oil over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the oil is hot, add the seasoned Galunggong to the pan and cook for 4 minutes on each side or until golden and cooked through."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle 4 tsp of Coconut Aminos over the Galunggong in the last minute of cooking, allowing it to glaze the fish.",
+        "time": "PT1M"
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in the flavors of the Pacific with this healthful Galunggong In Coconut Aminos recipe. Perfect for anyone following a low-carb, low-sodium, and low-sugar diet, this dish is a flavorful and nutritious option that brings you closer to your health goals while satisfying your palate.",
+    "prepTime": "PT10M",
+    "cookTime": "PT9M",
+    "totalTime": "PT19M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_257_65d4966d977bcd0001fee980.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/257_65d4966d977bcd0001fee980.json",
+  "original_files": [
+    "257_65d4966d977bcd0001fee980.json",
+    "260_65d4966d977bcd0001fee980.json"
+  ]
+}

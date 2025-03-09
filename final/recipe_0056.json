@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Meal 2020-11-15",
+  "image": [
+    "https://healthyfied.me/images/recipes/meal-2020-11-15.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a high-protein, low-carb meal with this exquisite scallop and shrimp salad. Perfect for those following a health-conscious diet without sacrificing flavor. Enjoy a mix of succulent scallops and tender shrimp atop a crisp bed of lettuce, complemented by fresh tomato and a hint of onion for a tantalizing dish that's both nutritious and delicious.",
+  "prepTime": "PT15M",
+  "cookTime": "PT17M",
+  "totalTime": "PT32M",
+  "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "189",
+    "carbohydrateContent": "5",
+    "fiberContent": "1",
+    "sugarContent": "2",
+    "sodiumContent": "759",
+    "proteinContent": "26",
+    "fatContent": "6",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50 g Onion",
+    "0.50 medium Tomato",
+    "1 large Egg",
+    "1  scallops Scallops Large 6 Scallops",
+    "113 g Shrimp",
+    "3  cup (3 oz), Lettuce"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the scallops and shrimp under cold water and pat them dry.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Boil the egg until hard-boiled, then cool, peel and slice.",
+      "time": "PT10M",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the lettuce, dice the onion, and slice the tomato.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan, sear the scallops over medium-high heat until golden brown on each side, about 2 minutes per side.",
+      "time": "PT4M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the same pan, cook the shrimp until they are pink and opaque, about 2-3 minutes.",
+      "time": "PT3M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Assemble the salad by placing the lettuce in a large bowl. Top with the cooked scallops, shrimp, sliced egg, diced onion, and tomato slices.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss gently to combine and serve immediately.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

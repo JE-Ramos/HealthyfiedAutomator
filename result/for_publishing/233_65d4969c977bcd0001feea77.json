@@ -1,0 +1,86 @@
+{
+  "post_id": "65d4969c977bcd0001feea77",
+  "title": "Squid In Creamy Ink",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Squid in Creamy Ink",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "55.00 g, Red Onion",
+      "300 g, Squid",
+      "43.00 g, Garlic, raw",
+      "0.25 tsp(s), Salt",
+      "1 tsp, ground, Pepper",
+      "1 tbsp, Coconut Vinegar",
+      "2 cup (8 fl oz), Water - Municipal",
+      "300 g, Banana Blossom/ Flower",
+      "1 g, Squid Ink",
+      "29.00 g, Ginger root - Raw",
+      "10 g, Coconut Cream Powder (Correct)"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "199",
+      "carbohydrateContent": "21",
+      "fiberContent": "6",
+      "sugarContent": "1",
+      "sodiumContent": "65",
+      "proteinContent": "19",
+      "fatContent": "4",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Finely dice the Red Onion, mince the Garlic, and grate the Ginger root."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Clean the Squid, making sure to remove the ink sack intact and set it aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel the Banana Blossom, chop it into bite-size pieces, and soak in a bowl with 1 cup of water and Coconut Vinegar for 10 minutes, then drain."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, saut\u00e9 the diced Onion, minced Garlic, and grated Ginger with a splash of water until softened, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the Squid and drained Banana Blossom to the pan, seasoning with Salt and Pepper. Cook for another 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dissolve the Coconut Cream Powder in 1 cup of water and add it to the pan along with the Squid Ink. Stir well and simmer for another 15 minutes until the squid is tender and the sauce has thickened."
+      }
+    ],
+    "tags": [
+      "low-sodium",
+      "low-sugar",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a unique and healthy culinary adventure with our Squid in Creamy Ink recipe. Perfect for those seeking a low-sodium, low-sugar, and high-fiber meal that doesn't compromise on flavor. This dish is a part of our Healthyfied recipe collection, designed to offer delicious, health-conscious options for your dining pleasure.",
+    "prepTime": "PT20M",
+    "cookTime": "PT30M",
+    "totalTime": "PT50M",
+    "keywords": "low-sodium,low-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

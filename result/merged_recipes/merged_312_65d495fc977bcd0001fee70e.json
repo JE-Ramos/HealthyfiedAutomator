@@ -1,0 +1,89 @@
+{
+  "post_id": "65d495fc977bcd0001fee70e",
+  "title": "Buttered Herbed Corn And Carrot",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Buttered Herbed Corn And Carrot",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 tbsp, Butter (Salted)",
+      "129.00 g, Carrots, raw",
+      "200 g, Baby Corn"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "73",
+      "carbohydrateContent": "6",
+      "fiberContent": "3",
+      "sugarContent": "3",
+      "sodiumContent": "260",
+      "proteinContent": "2",
+      "fatContent": "4",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash the Baby Corn and Carrots under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the carrots into thin rounds."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the Baby Corn into halves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring a pot of water to a boil and blanch the Baby Corn and Carrots for 3 minutes, then drain and set aside.",
+        "time": "PT3M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, melt 1 tbsp of Butter over medium heat.",
+        "time": "PT1M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the blanched Baby Corn and Carrots to the pan and sauté for 5 minutes, or until they are slightly softened and coated with butter.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve hot as a delicious and nutritious side dish."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Buttered Herbed Corn and Carrot recipe is perfect for those who are looking for a healthy, low-carb, and low-sugar side dish. Its simple yet delicious flavors will complement any main course, making it a must-try for healthy recipe enthusiasts.",
+    "prepTime": "PT10M",
+    "cookTime": "PT9M",
+    "totalTime": "PT19M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_312_65d495fc977bcd0001fee70e.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/312_65d495fc977bcd0001fee70e.json",
+  "original_files": [
+    "312_65d495fc977bcd0001fee70e.json",
+    "315_65d495fc977bcd0001fee70e.json"
+  ]
+}

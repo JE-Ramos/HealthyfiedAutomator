@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied No Mayo Coleslaw",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-no-mayo-coleslaw.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Healthyfied No Mayo Coleslaw is a delicious, low-carb alternative to traditional coleslaw, perfect for those following a healthier lifestyle. Packed with fresh cabbage, red peppers, and a tangy lemon juice dressing, it's a refreshing side dish for any meal.",
+  "prepTime": "PT15M",
+  "cookTime": "",
+  "totalTime": "PT45M",
+  "keywords": "low-carb,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "88",
+    "carbohydrateContent": "12",
+    "fiberContent": "3",
+    "sugarContent": "9",
+    "sodiumContent": "224",
+    "proteinContent": "5",
+    "fatContent": "2",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  teaspoon Salt",
+    "0.25  tsp ground, Pepper",
+    "10 g Sliced Black Olives",
+    "100 g Greek live yogurt",
+    "130 g Red",
+    "2 (3.5g), Coconut Sugar (Low Gi)",
+    "3  cup chopped, Cabbage, raw",
+    "3  tbsp(s) Lemon juice, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare your vegetables: Chop the cabbage and dice the red pepper. Set aside.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, combine the Greek live yogurt, salt, lemon juice, ground pepper, and coconut sugar. Mix until well combined.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chopped cabbage, diced red pepper, and sliced black olives to the bowl with the dressing. Toss until the vegetables are evenly coated.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let the coleslaw sit for at least 30 minutes in the fridge to allow the flavors to meld.",
+      "name": "Step 4"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

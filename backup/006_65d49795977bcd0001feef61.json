@@ -1,0 +1,89 @@
+{
+  "post_id": "65d49795977bcd0001feef61",
+  "title": "Salmon Vegetable Pancake (Copy)",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "healthyfied salmon vegetable pancake (copy)",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "15 ml, Kewpie Mayo (Tbs)",
+      "3 tbsp, Salted Butter",
+      "100 gram, Mozzarella Cheese",
+      "0.50 can, Pink Salmon",
+      "0.50 cup raw (92g), Bellpepper",
+      "6 egg (50g), Eggs",
+      "1 Cup, Chopped, Red Onion",
+      "300 g, Red Cabbage - Raw",
+      "20 g, Tomato Puree",
+      "2 c. (25g), Fresh"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "481",
+      "carbohydrateContent": "13",
+      "fiberContent": "6",
+      "sugarContent": "7",
+      "sodiumContent": "668",
+      "proteinContent": "29",
+      "fatContent": "34",
+      "saturatedFatContent": "16",
+      "monounsaturatedFatContent": "5",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 6,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Start by dicing the bell pepper and chopping the red onion. Shred the red cabbage finely."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain and flake the pink salmon from the can."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, beat the eggs thoroughly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To the beaten eggs, add diced bell pepper, chopped onion, shredded red cabbage, flaked pink salmon, tomato puree, and Kewpie Mayo. Mix well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the salted butter on a pan over medium heat. Pour the mixture into the pan, spreading evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the pancake for about 4 minutes on one side, then carefully flip it over."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle mozzarella cheese over the top and cook for another 4 minutes until the cheese is melted and the pancake is cooked through."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into a mouthwatering experience with our healthyfied salmon vegetable pancake! This recipe is a perfect blend of high-protein, low-carb, high-sodium, and high-fiber ingredients designed for those who love to keep their meals nutritious without sacrificing flavor. Featuring the goodness of pink salmon, mozzarella cheese, fresh veggies, and a touch of Kewpie Mayo, this dish brings a delightful fusion of tastes that makes eating healthy an absolute pleasure. Ideal for anyone following a diet focused on healthful recipes, this pancake promises a tasty and nourishing meal.",
+    "prepTime": "PT15M",
+    "cookTime": "PT8M",
+    "totalTime": "PT23M",
+    "keywords": "high-protein,low-carb,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

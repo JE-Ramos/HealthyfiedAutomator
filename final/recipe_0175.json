@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/11/28 Dinner",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/11/28-dinner.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This healthy and delicious dinner is perfect for those looking for a nutritious meal that is high in protein, fiber, and essential nutrients, but also mindful of sodium levels. Tagged as both 'Healthyfied' and part of 'Healthy Recipes', it's an ideal choice for health-conscious individuals seeking flavorful 'Healthified Recipes'.",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "326",
+    "carbohydrateContent": "22",
+    "fiberContent": "10",
+    "sugarContent": "10",
+    "sodiumContent": "881",
+    "proteinContent": "30",
+    "fatContent": "14",
+    "saturatedFatContent": "8",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "10",
+    "unsaturatedFatContent": 10,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  teaspoon Salt",
+    "0.25  tsp (5g) (1/2 tsp= clove), Spice World",
+    "0.25  tsp ground, Pepper",
+    "100 g Fresh Salmon",
+    "150 g Broccoli, raw",
+    "72 g Cut Baby Corn",
+    "87 g Tomatoes",
+    "97 g Eggplant, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 200°C (392°F).",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wash the broccoli, baby corn, tomatoes, and eggplant under cold water. Cut the broccoli into florets, slice the baby corn diagonally, dice the tomatoes, and cut the eggplant into cubes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the vegetables and fresh salmon with salt, pepper, and Spice World according to taste.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange the vegetables and salmon on a baking tray lined with parchment paper. Ensure the salmon is placed skin-side down.",
+      "time": "PT10M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roast in the preheated oven until the vegetables are tender and the salmon is cooked through, approximately 20 minutes.",
+      "time": "PT20M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the roasted vegetables and salmon hot, seasoned with additional spices if desired.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

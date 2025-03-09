@@ -1,0 +1,125 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Batutay With Mashpotato",
+  "image": [
+    "https://healthyfied.me/images/recipes/batutay-with-mashpotato.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a heart-healthy and flavorsome meal with our Batutay With Mashpotato recipe. Crafted for those seeking high-protein, high-sodium, and high-fiber options, this dish is a perfect blend of nutritious ingredients and aromatic herbs that promise not only a health boost but also a delightful culinary experience. A unique combination of ground pork, fresh vegetables, and soothing herbs, this recipe is bound to become a staple in your healthy eating journey.",
+  "prepTime": "PT20M",
+  "cookTime": "PT40M",
+  "totalTime": "PT60M",
+  "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "589",
+    "carbohydrateContent": "52",
+    "fiberContent": "7",
+    "sugarContent": "13",
+    "sodiumContent": "587",
+    "proteinContent": "40",
+    "fatContent": "28",
+    "saturatedFatContent": "9",
+    "monounsaturatedFatContent": "11",
+    "polyunsaturatedFatContent": "2",
+    "unsaturatedFatContent": 13,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.12  cup Garlic, raw",
+    "0.21  cup Blanched Green Beans",
+    "0.25  teaspoon Salt",
+    "0.50  tsp ground, Pepper",
+    "1  tablespoons Salt",
+    "1  tsp(s) Rosemary, fresh",
+    "1  tsp Spices, marjoram, dried",
+    "1  tsp Thyme, fresh",
+    "100 ml Milk",
+    "200 g Eggplant, raw",
+    "250 g Carrots, raw",
+    "3  teaspoon Sugar",
+    "360 g Pork, fresh, ground, cooked",
+    "480 g Potato",
+    "50 g Pork Intestine - Fresh, Raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Clean the Pork Intestine thoroughly under running water, then chop finely.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel the carrots and dice them along with finely mincing the garlic.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the green beans into 1-inch pieces and slice the eggplant.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel the potatoes and cut them into quarters.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, mix the ground pork, chopped pork intestine, minced garlic, diced carrots, salt, sugar, marjoram, thyme, rosemary, and ground pepper until well combined.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Form the mixture into sausages and set aside for 10 minutes to marinate.",
+      "time": "PT10M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet over medium heat, cook the sausages until browned on all sides and cooked through, about 15 minutes.",
+      "time": "PT15M",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the sausages are cooking, boil the potatoes in salted water until tender, about 20 minutes.",
+      "time": "PT20M",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the potatoes and return them to the pot. Add milk, 0.25 teaspoon salt, and mash until smooth and creamy.",
+      "time": "PT5M",
+      "name": "Step 9"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Steam the green beans and sliced eggplant until tender, about 5 minutes.",
+      "time": "PT5M",
+      "name": "Step 10"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the sausages on a bed of mashed potatoes, accompanied by the steamed green beans and eggplant.",
+      "name": "Step 11"
+    }
+  ],
+  "suitableForDiet": []
+}

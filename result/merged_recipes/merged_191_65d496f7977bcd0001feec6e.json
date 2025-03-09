@@ -1,0 +1,101 @@
+{
+  "post_id": "65d496f7977bcd0001feec6e",
+  "title": "Cream Dory Bellpepper Basil",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Cream dory Bellpepper Basil",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "21.00 g, Fresh Basil Leaves",
+      "28 gram, Sharp Cheddar Cheese",
+      "500 gram, Pangasius Fillet",
+      "6 medium, Egg"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "290",
+      "carbohydrateContent": "3",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "491",
+      "proteinContent": "41",
+      "fatContent": "13",
+      "saturatedFatContent": "6",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 5,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 375°F (190°C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs into a bowl and whisk until fully beaten."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grate the Sharp Cheddar Cheese."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the Pangasius fillet with salt and pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the fresh basil leaves finely."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the Pangasius fillets in a baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the beaten eggs over the fillets, ensuring they are well covered."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the grated cheddar cheese on top of the egg-covered fillets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for about 20 minutes, or until the fish is cooked through and the cheese is golden brown."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Garnish with freshly chopped basil leaves before serving."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "high-sodium",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Cream dory Bellpepper Basil recipe is perfect for those seeking a high-protein, low-carb meal. It's healthy, with a focus on fresh flavors from basil and bell pepper, making it a great choice for anyone looking to enjoy a healthful and delicious meal.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_191_65d496f7977bcd0001feec6e.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/191_65d496f7977bcd0001feec6e.json",
+  "original_files": [
+    "191_65d496f7977bcd0001feec6e.json",
+    "188_65d496f7977bcd0001feec6e.json"
+  ]
+}

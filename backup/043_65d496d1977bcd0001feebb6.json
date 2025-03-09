@@ -1,0 +1,115 @@
+{
+  "post_id": "65d496d1977bcd0001feebb6",
+  "title": "Eggplant Lasagna",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Eggplant Lasagna",
+    "recipeYield": "12",
+    "recipeIngredient": [
+      "190 gram, Parmesan block",
+      "1 container (8.00 oz), Mozzarella brick low-moisture parr-skim",
+      "1311.00 g, Eggplant, raw",
+      "440 grams, Passata",
+      "500 gram, Lean Ground Beef",
+      "20.00 g, Parsley, fresh",
+      "176.00 g, Spinach - Raw",
+      "93 g, White Onion Raw",
+      "30.00 g, Garlic, raw",
+      "291 grams, Tomatoes",
+      "1 tsp, ground (2.3 g), Black Pepper - Ground",
+      "1 tsp, Thyme, fresh",
+      "2 tsp, leaves, Spices, basil, dried",
+      "1 tsp(s), Spices, rosemary, dried",
+      "1 tsp, ground, Spices, oregano, dried",
+      "1 tsp, Spices, marjoram, dried",
+      "1 tablespoon, Oil - Olive"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "243",
+      "carbohydrateContent": "12",
+      "fiberContent": "5",
+      "sugarContent": "6",
+      "sodiumContent": "296",
+      "proteinContent": "21",
+      "fatContent": "13",
+      "saturatedFatContent": "7",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare all your vegetables: Slice the eggplant into 1/4 inch slices. Finely chop the parsley, dice the tomatoes, and the white onion, and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 375\u00b0F (190\u00b0C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large skillet, heat the olive oil over medium heat. Add the minced garlic and diced onions, saut\u00e9ing until translucent, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the lean ground beef to the skillet and cook until browned, breaking it apart with a spoon, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the passata, chopped tomatoes, and all the dried herbs (basil, oregano, thyme, rosemary, marjoram) to the beef mixture. Season with ground black pepper. Let it simmer for 15 minutes, until the sauce has thickened."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate pan, saut\u00e9 the spinach until wilted, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To assemble the lasagna, layer the bottom of a baking dish with slices of eggplant, followed by a layer of the beef and passata sauce, then a layer of saut\u00e9ed spinach. Sprinkle with chopped parsley."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Repeat the layers until all components are used, finishing with a layer of eggplant slices on top."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grate the Parmesan and mozzarella cheeses. Mix them together and sprinkle the cheese mixture over the top layer of eggplant."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover the baking dish with aluminium foil and bake in the preheated oven for 25 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the foil and bake for an additional 20 minutes, or until the cheese is golden and bubbly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let it rest for 10 minutes before serving. Enjoy your Healthyfied Eggplant Lasagna hot."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in the comforting flavors of this Healthyfied Eggplant Lasagna, a perfect fusion of high-protein, low-carb, and high-fiber ingredients designed to delight health-conscious gourmets. This reimagined classic keeps your nutritional goals in check without compromising on taste. A hearty ensemble of lean ground beef, fresh vegetables, and rich herbs, layered between succulent slices of eggplant and smothered in a duo of cheeses, makes each bite a wholesome delight. Welcome to your new favorite way to enjoy lasagna\u2014where health meets taste, splendidly.",
+    "prepTime": "PT30M",
+    "cookTime": "PT45M",
+    "totalTime": "PT75M",
+    "keywords": "high-protein,low-carb,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

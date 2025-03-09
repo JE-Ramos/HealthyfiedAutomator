@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Broccoli Mango Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-broccoli-mango-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Healthyfied Broccoli Mango Salad is a vibrant, high-protein, high-fiber dish perfect for those looking to enjoy healthy, flavorful meals. Incorporating the sweetness of mango with the crunch of fresh broccoli and the zest from red onions, this salad offers a delightful mix of textures and tastes. It's ideal for anyone following a health-conscious diet without compromising on taste.",
+  "prepTime": "PT15M",
+  "cookTime": "PT9M",
+  "totalTime": "PT24M",
+  "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Boiling",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "405",
+    "carbohydrateContent": "33",
+    "fiberContent": "7",
+    "sugarContent": "20",
+    "sodiumContent": "701",
+    "proteinContent": "24",
+    "fatContent": "22",
+    "saturatedFatContent": "10",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  teaspoon Salt",
+    "0.25  tsp ground, Pepper",
+    "3 large Egg",
+    "300 g Broccoli, raw",
+    "300 g Mangos, raw",
+    "45 g Red Onion",
+    "75 g Red",
+    "8 piece (30g), longanisa"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Begin by hard boiling the eggs: place them in a pot of cold water, bring to a boil, then cover and remove from heat. Let them sit for 9 minutes, then transfer to cold water to cool.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the eggs are cooking, wash the broccoli and mango. Cut the broccoli into bite-sized florets and dice the mango into cubes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Thinly slice the red onion.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the eggs are cool, peel and chop them into pieces.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large salad bowl, combine the broccoli florets, diced mango, sliced red onion, chopped eggs, and longanisa (cut into bite-sized pieces if not already).",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the salad with salt and pepper, then toss gently to ensure all ingredients are evenly mixed and coated.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

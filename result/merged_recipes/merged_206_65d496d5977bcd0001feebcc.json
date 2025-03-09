@@ -1,0 +1,84 @@
+{
+  "post_id": "65d496d5977bcd0001feebcc",
+  "title": "Sweet Potato Pimento",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Sweet potato Pimento",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.50 tbsp(s), Butter - Unsalted",
+      "1 tbsp, Parmesan cheese",
+      "200 g, Sweet potato",
+      "30 g, Red Capsicum"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "251",
+      "carbohydrateContent": "42",
+      "fiberContent": "7",
+      "sugarContent": "9",
+      "sodiumContent": "202",
+      "proteinContent": "5",
+      "fatContent": "7",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel and cut the sweet potato into cubes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the red capsicum."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 180°C (350°F)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, combine sweet potato cubes, diced red capsicum, and unsalted butter.",
+        "time": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the mixture to a baking tray and bake for 25 minutes or until the sweet potatoes are tender.",
+        "time": "PT25M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from the oven and sprinkle with Parmesan cheese before serving."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This high-fiber, healthified Sweet Potato Pimento dish is a perfect example of a healthy recipe that doesn't compromise on taste. Packed with the goodness of sweet potatoes, enhanced with the flavor of red capsicum, and a sprinkle of Parmesan cheese, this dish is bound to be a delightful addition to your meal plan.",
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "keywords": "high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_206_65d496d5977bcd0001feebcc.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/206_65d496d5977bcd0001feebcc.json",
+  "original_files": [
+    "206_65d496d5977bcd0001feebcc.json",
+    "203_65d496d5977bcd0001feebcc.json"
+  ]
+}

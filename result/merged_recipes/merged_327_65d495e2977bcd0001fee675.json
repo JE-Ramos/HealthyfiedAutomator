@@ -1,0 +1,77 @@
+{
+  "post_id": "65d495e2977bcd0001fee675",
+  "title": "Roast Turkey Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Roast Turkey Salad",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 cup chopped, Carrots, raw",
+      "1 cup, chopped, Cabbage, raw",
+      "100 gram, Roasted Turkey Breast",
+      "5 g, Cucumber",
+      "5.00 gram, Onion"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "51",
+      "carbohydrateContent": "3",
+      "fiberContent": "1",
+      "sugarContent": "2",
+      "sodiumContent": "163",
+      "proteinContent": "7",
+      "fatContent": "1",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your vegetables: chop the cabbage, dice the onion, slice the cucumber, and chop the carrots."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the chopped cabbage, diced onion, sliced cucumber, and chopped carrots."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the roasted turkey breast into bite-sized pieces and add to the bowl with the vegetables."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss all the ingredients together until well mixed. If desired, add your favorite low-carb dressing to enhance the flavor."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "This Roast Turkey Salad is the perfect combination for anyone looking for a healthy, low-carb, and low-sugar meal. Full of freshness and flavor, it brings together the best of healthified recipes to create a dish that's not only delicious but also good for you.",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "totalTime": "PT15M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_327_65d495e2977bcd0001fee675.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/327_65d495e2977bcd0001fee675.json",
+  "original_files": [
+    "327_65d495e2977bcd0001fee675.json",
+    "330_65d495e2977bcd0001fee675.json"
+  ]
+}

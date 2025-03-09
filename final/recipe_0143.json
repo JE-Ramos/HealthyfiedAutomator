@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/10/10 Dinner",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/10/10-dinner.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This 2018/10/10 Dinner is perfect for those seeking a high-protein, high-fiber lifestyle. Engage in a delightful culinary experience with this healthified recipe, designed to keep you on track with your healthy diet goals while tantalizing your taste buds with its array of flavors.",
+  "prepTime": "PT20M",
+  "cookTime": "PT22M",
+  "totalTime": "PT42M",
+  "keywords": "high-protein,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "418",
+    "carbohydrateContent": "30",
+    "fiberContent": "7",
+    "sugarContent": "11",
+    "sodiumContent": "201",
+    "proteinContent": "32",
+    "fatContent": "20",
+    "saturatedFatContent": "8",
+    "monounsaturatedFatContent": "7",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 8,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp(s) Salt",
+    "0.25  tsp ground (2.3 g), Black Pepper - Ground",
+    "0.40 kg Zucchini Raw Organic",
+    "1  pat (1\" sq, 1/3\" high), Butter - Unsalted",
+    "100 g Eggplant, raw",
+    "14 g Sharp Cheddar Cheese",
+    "2  cup (133 g), Sweet Potato",
+    "2 medium Carrots, raw",
+    "374 g Sirloin, Raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prep your ingredients: Dice the carrots, eggplant, sweet potato, and zucchini into bite-sized pieces. Grate the sharp cheddar cheese.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the sirloin with salt and ground black pepper to taste.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet, melt the butter over medium heat. Add the seasoned sirloin and cook for about 8 minutes on each side for medium-rare, or until desired doneness. Remove the sirloin from the skillet and set aside.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the diced vegetables until they're tender and lightly browned, about 10 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the cooked sirloin into thin strips and return it to the skillet with the vegetables. Stir to combine.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle the grated sharp cheddar cheese over the sirloin and vegetable mix. Cover the skillet and let the cheese melt for about 2 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the dish warm, garnished with a pinch of black pepper or fresh herbs if desired.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

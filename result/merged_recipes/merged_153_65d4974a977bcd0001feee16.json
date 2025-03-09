@@ -1,0 +1,97 @@
+{
+  "post_id": "65d4974a977bcd0001feee16",
+  "title": "Dried Chicken Arrozcaldo",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Dried Chicken Arrozcaldo",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 tsp, Black Pepper - Ground",
+      "1 pcs, Organic Coco Sugar",
+      "190 g, Adlai Rice (Job's Tears)",
+      "2 tsp, Spices, ginger, ground",
+      "300 gram, Chicken Thigh Skinless Boneless",
+      "4 cup (8 fl oz), Water - Municipal",
+      "5.00 g, Ginger root - Raw",
+      "50 g, Red",
+      "70.00 g, Capsicum - Green"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "372",
+      "carbohydrateContent": "53",
+      "fiberContent": "1",
+      "sugarContent": "3",
+      "sodiumContent": "93",
+      "proteinContent": "29",
+      "fatContent": "5",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop the 300 gram of chicken thigh into cubes, peel and mince the 5.00 g of ginger root, and dice the 70.00 g of capsicum."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse 190 g of Adlai Rice (Job's Tears) under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, bring 4 cups (8 fl oz) of water to a boil. Add the minced ginger, 2 tsp of ground ginger, and 0.25 tsp of black pepper. Let it simmer for 5 minutes to infuse the water with ginger flavor.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cubed chicken thighs to the pot and simmer until they are fully cooked, approximately 20 minutes.",
+        "time": "PT20M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the rinsed Adlai Rice to the pot and let it simmer until the rice is tender and the porridge has thickened, about 30 minutes.",
+        "time": "PT30M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Halfway through the cooking, add the diced capsicum and 1 pcs of organic coco sugar into the pot. Stir well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the arrozcaldo with additional black pepper according to taste. Serve hot and enjoy your healthy and comforting meal."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a comforting bowl of Dried Chicken Arrozcaldo, a healthy twist on the traditional Filipino porridge. Packed with high-protein chicken, enriched with the healing qualities of ginger, and made with Adlai rice for a low-sugar option, this recipe is perfect for those seeking a nutritious yet heartwarming meal. Perfect for anyone on a low-sodium diet, this healthified recipe brings warmth and wellness to your table.",
+    "prepTime": "PT15M",
+    "cookTime": "PT55M",
+    "totalTime": "PT70M",
+    "keywords": "high-protein,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_153_65d4974a977bcd0001feee16.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/153_65d4974a977bcd0001feee16.json",
+  "original_files": [
+    "153_65d4974a977bcd0001feee16.json",
+    "156_65d4974a977bcd0001feee16.json"
+  ]
+}

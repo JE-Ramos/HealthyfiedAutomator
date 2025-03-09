@@ -1,0 +1,82 @@
+{
+  "post_id": "65d49690977bcd0001feea3a",
+  "title": "Carrot Bell Pepper Omelette",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Carrot Bell Pepper Omelette",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "3 large, Egg",
+      "0.50 Bell Pepper, Green Bell Pepper",
+      "0.25 cup(s), Parmesan",
+      "1 cup, Shredded Carrots"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "189",
+      "carbohydrateContent": "10",
+      "fiberContent": "3",
+      "sugarContent": "6",
+      "sodiumContent": "159",
+      "proteinContent": "14",
+      "fatContent": "10",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Begin by whisking 3 large eggs in a bowl until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely dice the 0.50 green bell pepper and add it to the eggs."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shred 1 cup of carrots and mix them into the egg and bell pepper mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in 0.25 cups of grated Parmesan cheese into the mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a non-stick skillet over medium heat and pour in the omelette mixture, spreading it evenly across the skillet. Let it cook for 3 minutes.",
+        "time": "PT3M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently flip the omelette and cook for an additional 2 minutes, or until the eggs are fully set.",
+        "time": "PT2M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the omelette warm, optionally garnished with fresh herbs or avocado slices."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Carrot Bell Pepper Omelette is a perfect addition to your collection of healthy recipes. Not only is it low-carb, but it's also packed with nutritious ingredients like shredded carrots and green bell pepper, making it an ideal choice for anyone looking to maintain a healthy lifestyle.",
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "totalTime": "PT15M",
+    "keywords": "low-carb,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

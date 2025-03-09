@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Vegetable Tamarind Miso Sinigang (Sour soup)",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-vegetable-tamarind-miso-sinigang-(sour-soup).jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in the unique blend of tangy and umami flavors with our Healthyfied Vegetable Tamarind Miso Sinigang. Perfect for anyone looking for low-sodium, hearty, and health-conscious options, this sour soup is a delicious take on a classic Filipino favorite, making it a must-try for any health-conscious individual.",
+  "prepTime": "PT30M",
+  "cookTime": "PT17M",
+  "totalTime": "PT47M",
+  "keywords": "low-sodium,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "102",
+    "carbohydrateContent": "24",
+    "fiberContent": "4",
+    "sugarContent": "12",
+    "sodiumContent": "120",
+    "proteinContent": "4",
+    "fatContent": "1",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  cup pulp, Tamarinds, raw",
+    "1  tsp(s) Salt",
+    "14 g Garlic, raw",
+    "15 g Fresh Green Chilli",
+    "167 g Raddish",
+    "192 g Eggplant, raw",
+    "2  tsp ground, Pepper",
+    "21 g Yellow Miso",
+    "42 g Spinach - Raw",
+    "54 g Red Onion"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the vegetables: slice the eggplant, radish, and finely chop the garlic and red onion. Cut the green chili in half.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Boil the tamarind pulp in 2 cups of water for about 15 minutes to extract the juice, then strain it to remove the seeds and husks.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot, bring 6 cups of water to a boil, then add the strained tamarind juice, garlic, onion, and green chili. Let it simmer for 5 minutes.",
+      "time": "PT5M",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sliced eggplant and radish to the pot and cook until they are tender, about 10 minutes.",
+      "time": "PT10M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in yellow miso paste until well combined, then season with salt and pepper to taste.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finally, add the spinach and let it wilt in the hot soup, about 2 minutes before turning off the heat.",
+      "time": "PT2M",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

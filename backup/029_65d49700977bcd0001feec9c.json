@@ -1,0 +1,93 @@
+{
+  "post_id": "65d49700977bcd0001feec9c",
+  "title": "Squid Ink Alog",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Squid Ink ALog",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "30 g, Squid Rings",
+      "0.20 container (32 gs ea.), Squid Ink",
+      "0.25 cup (55g), \uc728\ubb34 (Job's Tears)",
+      "0.20 oz (85 grams), Octopus Legs, Cooked",
+      "0.50 large, Egg, whole, cooked, hard-boiled",
+      "0.20 head, large (6-7\" dia), Cauliflower - Raw",
+      "0.20 tbsp(s), Ginger root - Raw",
+      "0.10 Cup, Chopped, Red Onion",
+      "3 clove, Garlic, raw",
+      "0.20 cup raw, Bellpepper"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "297",
+      "carbohydrateContent": "41",
+      "fiberContent": "6",
+      "sugarContent": "8",
+      "sodiumContent": "133",
+      "proteinContent": "24",
+      "fatContent": "5",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the \uc728\ubb34 (Job's Tears) under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the \uc728\ubb34 (Job's Tears) in a pot of boiling water until tender, about 20 minutes, then drain and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the red onion and bell pepper. Mince the garlic and ginger root. Cut the cauliflower into small florets. Slice the squid rings and octopus legs into bite-sized pieces. Cut the hard-boiled egg into quarters."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, saut\u00e9 the red onion, bell pepper, garlic, and ginger in a bit of oil until softened, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the squid ink, squid rings, and octopus legs to the pot. Cook for an additional 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cooked \uc728\ubb34 (Job's Tears) and cauliflower to the pot. Pour enough water to cover all the ingredients. Bring to a boil and then simmer for about 20 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with salt and pepper to taste. Continue to simmer for another 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve hot, garnishing each bowl with a quarter of a hard-boiled egg."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Squid Ink Arroz Caldo is a 'Healthyfied' version of the classic Filipino congee. It is packed with high-protein ingredients such as squid rings and octopus legs, low in sodium, and contains high-fiber components like \uc728\ubb34 (Job's Tears) and cauliflower. Perfect for anyone looking for healthy recipes that do not compromise on taste and texture.",
+    "prepTime": "PT30M",
+    "cookTime": "PT55M",
+    "totalTime": "PT85M",
+    "keywords": "high-protein,low-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

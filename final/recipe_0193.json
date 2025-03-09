@@ -1,0 +1,113 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Potato Pasto with Garlic Tomato Spinach Sauce",
+  "image": [
+    "https://healthyfied.me/images/recipes/potato-pasto-with-garlic-tomato-spinach-sauce.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a plate of Potato Pasta with Garlic Tomato Spinach Sauce, a perfect blend of high-fiber and nutritious ingredients designed to suit your healthy lifestyle. With fresh spinach, ripe tomatoes, crunchy carrots, and a hint of garlic, this dish is not just good for you but also packed with flavors that will delight your taste buds.",
+  "prepTime": "PT15M",
+  "cookTime": "PT17M",
+  "totalTime": "PT32M",
+  "keywords": "high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "2",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "275",
+    "carbohydrateContent": "33",
+    "fiberContent": "10",
+    "sugarContent": "7",
+    "sodiumContent": "197",
+    "proteinContent": "10",
+    "fatContent": "15",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "10",
+    "polyunsaturatedFatContent": "2",
+    "unsaturatedFatContent": 12,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50 medium Carrots, raw",
+    "1 medium Potato",
+    "100 g Egg Plant",
+    "12 clove Garlic, raw",
+    "16  oz Fresh Spinach Leaves",
+    "2  tbsp Extra Virgin Olive Oil",
+    "4  oz(s) Tomatoes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Begin by peeling and dicing the potato into small cubes.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the tomatoes, and carrot into small pieces and set aside.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Thinly slice the 12 cloves of garlic and set aside.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the eggplant into small cubes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot, bring water to a boil and add the diced potato. Cook for about 5 minutes until tender but still firm.",
+      "time": "PT5M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet over medium heat, add the extra virgin olive oil and sauté the sliced garlic until golden brown.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the tomatoes and carrot to the skillet and cook until they begin to soften, about 5 minutes.",
+      "time": "PT5M",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the eggplant to the skillet and continue to cook for an additional 5 minutes.",
+      "time": "PT5M",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the fresh spinach leaves and cook until they wilt, about 2 minutes.",
+      "time": "PT2M",
+      "name": "Step 9"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the sautéed vegetables with the boiled potatoes in a large serving bowl and toss well.",
+      "name": "Step 10"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

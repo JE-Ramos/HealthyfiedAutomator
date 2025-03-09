@@ -1,0 +1,86 @@
+{
+  "post_id": "65d496ac977bcd0001feead6",
+  "title": "Fresh Mushroomsoup",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Fresh Mushroomsoup",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 tsp(s), Salt",
+      "0.25 tsp, ground, Pepper",
+      "2 tsp (5g) (1/2 tsp= clove), Spice World",
+      "3 cup (8 fl oz), Water - Municipal",
+      "300 g, Broccoli, raw",
+      "300 g, Cauliflower - Raw",
+      "45 g, Coconut Cream Powder (Correct)",
+      "500 g, Button",
+      "60 g, Capsicum Green",
+      "75 g, Red"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "218",
+      "carbohydrateContent": "25",
+      "fiberContent": "8",
+      "sugarContent": "10",
+      "sodiumContent": "98",
+      "proteinContent": "12",
+      "fatContent": "11",
+      "saturatedFatContent": "9",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the button mushrooms, broccoli, cauliflower, red onion, and green capsicum under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the button mushrooms, broccoli, cauliflower, red onion, and green capsicum into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, bring 3 cups of water to a boil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped vegetables and garlic (Spice World) to the boiling water, and simmer for 15 minutes until the vegetables are tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the coconut cream powder, salt, and ground pepper, and continue to simmer for another 5 minutes."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "low-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a bowl of Healthyfied Fresh Mushroom Soup, perfect for those seeking a nutritious meal without compromising on taste. This delightful soup is not only low in sodium and high in fiber but also aligns with a health-conscious lifestyle. Packed with fresh mushrooms, broccoli, red onions, green capsicum, and cauliflower, and subtly enhanced with coconut cream and spices, it's a guilt-free indulgence for health aficionados.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "low-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_049_65d496ac977bcd0001feead6.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/049_65d496ac977bcd0001feead6.json",
+  "original_files": [
+    "049_65d496ac977bcd0001feead6.json",
+    "052_65d496ac977bcd0001feead6.json"
+  ]
+}

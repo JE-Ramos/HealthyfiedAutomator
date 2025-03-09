@@ -1,0 +1,94 @@
+{
+  "post_id": "65d49770977bcd0001feeeda",
+  "title": "2018/11/08 Lunch",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/11/08 Lunch",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 tsp, Thyme, fresh",
+      "198.00 g, Carrots, raw",
+      "350 g, Broccoli, raw",
+      "516 g, Longganisa"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "420",
+      "carbohydrateContent": "59",
+      "fiberContent": "5",
+      "sugarContent": "17",
+      "sodiumContent": "1133",
+      "proteinContent": "28",
+      "fatContent": "9",
+      "saturatedFatContent": "7",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375°F (190°C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash the carrots and broccoli under cold water. Pat them dry with a paper towel."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the carrots into bite-sized pieces and chop the broccoli into florets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the carrots and broccoli on a baking sheet. Drizzle with olive oil and sprinkle with fresh thyme. Toss to coat evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roast in the preheated oven for 25 minutes, or until the vegetables are tender and slightly caramelized.",
+        "time": "PT25M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the vegetables are roasting, remove the casing from the Longganisa and form into small patties."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Longganisa patties in a skillet over medium heat for about 10 minutes, turning once, until fully cooked.",
+        "time": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the roasted carrots and broccoli alongside the cooked Longganisa patties."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-protein",
+      "high-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This '2018/11/08 Lunch' recipe is perfect for those looking for a high-protein, high-fiber meal that doesn't compromise on taste. Featuring a delightful mix of carrots, broccoli, and the savory delight of Longganisa, spiced with fresh thyme, it's a healthified twist on your midday meal that promises to be both nutritious and delicious.",
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_141_65d49770977bcd0001feeeda.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/141_65d49770977bcd0001feeeda.json",
+  "original_files": [
+    "141_65d49770977bcd0001feeeda.json",
+    "138_65d49770977bcd0001feeeda.json"
+  ]
+}

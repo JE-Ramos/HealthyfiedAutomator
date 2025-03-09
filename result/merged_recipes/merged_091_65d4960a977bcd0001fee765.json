@@ -1,0 +1,78 @@
+{
+  "post_id": "65d4960a977bcd0001fee765",
+  "title": "No Mayo Coleslaw",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied No Mayo Coleslaw",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "10.00 g, Sliced Black Olives",
+      "100 g, Greek live yogurt",
+      "130.00 g, Red",
+      "2 (3.5g), Coconut Sugar (Low Gi)",
+      "3 cup, chopped, Cabbage, raw",
+      "3 tbsp(s), Lemon juice, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "88",
+      "carbohydrateContent": "12",
+      "fiberContent": "3",
+      "sugarContent": "9",
+      "sodiumContent": "224",
+      "proteinContent": "5",
+      "fatContent": "2",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your vegetables: Chop the cabbage and dice the red pepper. Set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the Greek live yogurt, salt, lemon juice, ground pepper, and coconut sugar. Mix until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped cabbage, diced red pepper, and sliced black olives to the bowl with the dressing. Toss until the vegetables are evenly coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the coleslaw sit for at least 30 minutes in the fridge to allow the flavors to meld."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "This Healthyfied No Mayo Coleslaw is a delicious, low-carb alternative to traditional coleslaw, perfect for those following a healthier lifestyle. Packed with fresh cabbage, red peppers, and a tangy lemon juice dressing, it's a refreshing side dish for any meal.",
+    "prepTime": "PT15M",
+    "totalTime": "PT45M",
+    "keywords": "low-carb,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_091_65d4960a977bcd0001fee765.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/091_65d4960a977bcd0001fee765.json",
+  "original_files": [
+    "091_65d4960a977bcd0001fee765.json",
+    "088_65d4960a977bcd0001fee765.json"
+  ]
+}

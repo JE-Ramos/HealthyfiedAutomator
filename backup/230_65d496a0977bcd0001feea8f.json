@@ -1,0 +1,96 @@
+{
+  "post_id": "65d496a0977bcd0001feea8f",
+  "title": "Tomato Spinach Fusilli Pasta",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Tomato Spinach Fusilli Pasta",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "2 tbsp(s), Garlic Powder",
+      "1 tbsp., Extra Virgin Olive Oil",
+      "2 cup, cooked, Fusilli-cooked",
+      "0.50 cup, Spinach - Raw",
+      "1.50 cup, Tomato.",
+      "1 tsp, Salt",
+      "1 teaspoon, Pepper",
+      "0.50 tbsp, Cheese - Parmesan, shredded"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "206",
+      "carbohydrateContent": "36",
+      "fiberContent": "3",
+      "sugarContent": "3",
+      "sodiumContent": "588",
+      "proteinContent": "6",
+      "fatContent": "4",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the ingredients: Wash and chop the tomatoes, rinse the spinach, and grate the Parmesan cheese if not pre-shredded."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, bring water to a boil and cook fusilli according to package instructions until al dente, then drain and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large skillet, heat the extra virgin olive oil over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add garlic powder to the skillet and saut\u00e9 for 1 minute.",
+        "time": "PT1M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped tomatoes to the skillet and cook until they start to break down, about 5 minutes.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the spinach to the skillet and cook until wilted, about 2 minutes.",
+        "time": "PT2M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the vegetable mixture with salt and pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cooked fusilli to the skillet, toss well to combine with the tomato and spinach mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the pasta sprinkled with shredded Parmesan cheese."
+      }
+    ],
+    "tags": [
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a delicious and healthy Tomato Spinach Fusilli Pasta that's perfect for those seeking high-sodium, low-sugar meal options. This healthified recipe combines the luscious flavors of fresh tomatoes, nutritious spinach, and perfectly cooked fusilli, topped with a sprinkle of Parmesan cheese to create a wholesome dish.",
+    "prepTime": "PT10M",
+    "cookTime": "PT8M",
+    "totalTime": "PT18M",
+    "keywords": "high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

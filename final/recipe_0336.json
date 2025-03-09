@@ -1,0 +1,111 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Garlic Lemony Caulirice",
+  "image": [
+    "https://healthyfied.me/images/recipes/garlic-lemony-caulirice.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Discover the delightful flavors of Garlic Lemony Caulirice, a perfect dish for anyone seeking a healthy and vibrant meal. This low-carb, low-sodium, and low-sugar recipe brings together the freshness of cauliflower, red onion, yellow bell pepper, and garlic, with a zesty twist of lemon. It's an ideal choice for those looking for nourishing healthified recipes that don't sacrifice taste.",
+  "prepTime": "PT15M",
+  "cookTime": "PT16M",
+  "totalTime": "PT31M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "40",
+    "carbohydrateContent": "9",
+    "fiberContent": "2",
+    "sugarContent": "3",
+    "sodiumContent": "24",
+    "proteinContent": "2",
+    "fatContent": "0",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp(s) Salt",
+    "1  tsp (5g) (1/2 tsp= clove), Spice World",
+    "1  tsp ground (2.3 g), Black Pepper - Ground",
+    "133 g Yellow, Raw",
+    "177 g Cauliflower - Raw",
+    "22 g Garlic, raw",
+    "3  tsp(s) Lemon juice, raw",
+    "59 g Red Onion"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the cauliflower, red onion, and yellow bell pepper under cold water.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the cauliflower into florets, dice the red onion, and chop the yellow bell pepper.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mince the garlic.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a food processor, pulse the cauliflower florets until they reach a rice-like consistency.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet over medium heat, sauté the diced red onion and chopped yellow bell pepper for about 5 minutes, until softened.",
+      "time": "PT5M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the minced garlic to the skillet and cook for an additional 1 minute, until fragrant.",
+      "time": "PT1M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the cauliflower rice, and continue to sauté for about 8 minutes, until the cauliflower is tender.",
+      "time": "PT8M",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season with salt and ground black pepper to taste.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the lemon juice and cook for an additional 2 minutes.",
+      "time": "PT2M",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

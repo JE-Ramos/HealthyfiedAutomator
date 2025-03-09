@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Dory-ALog",
+  "image": [
+    "https://healthyfied.me/images/recipes/dory-alog.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Our Dory-ALog is a high-protein, high-sodium culinary delight that's been healthified for those who love to indulge in healthy recipes. Perfect for anyone looking to enrich their diet with nutritious, yet incredibly flavorful dishes.",
+  "prepTime": "PT15M",
+  "cookTime": "PT29M",
+  "totalTime": "PT44M",
+  "keywords": "high-protein,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "420",
+    "carbohydrateContent": "54",
+    "fiberContent": "3",
+    "sugarContent": "8",
+    "sodiumContent": "1426",
+    "proteinContent": "24",
+    "fatContent": "11",
+    "saturatedFatContent": "3",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup (55g), 율무 (Job's Tears)",
+    "0.25  fruit Whole Fruit Raw",
+    "0.33  cup cooked, Pechay",
+    "1  fillet Cream Dory",
+    "10 ml All Purpose Pesto",
+    "50 g Baby Corn Spears"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the 율무 (Job's Tears) under cold water until the water runs clear.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the 율무 (Job's Tears) according to package instructions until tender, about 20 minutes, then set aside.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the baby corn spears and chop the pechay.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the whole fruit into wedges.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the cream dory fillet with salt and pepper to taste.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a non-stick skillet, cook the cream dory fillet over medium heat until golden brown and cooked through, about 4 minutes per side.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a separate pan, lightly sauté the baby corn spears and chopped pechay for about 5 minutes.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the cooked 율무 (Job's Tears) with the sautéed vegetables. Add the all-purpose pesto and mix until the ingredients are well coated.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the pesto mix topped with the cooked cream dory fillet and garnish with the fruit wedges.",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/10/18",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/10/18.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This healthified recipe is perfect for those looking to indulge in a high-protein, high-fiber meal with a delightful twist. Combining the nuttiness of Adlai Rice with the freshness of tomatoes, okra, and capsicum, and the unique flavor of papaya relish, this dish is a hearty option for anyone seeking a nutritious yet delicious meal. Suited for a diet conscious about fibre and protein intake, this recipe promises a flavorful experience that doesn't compromise on health.",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "461",
+    "carbohydrateContent": "62",
+    "fiberContent": "5",
+    "sugarContent": "7",
+    "sodiumContent": "464",
+    "proteinContent": "34",
+    "fatContent": "9",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  teaspoon Salt",
+    "0.25  tsp ground, Pepper",
+    "15 g Garlic, raw",
+    "190 g Adlai Rice (Job's Tears)",
+    "2  tablespoon Coconut Amino",
+    "2  tbsp(s) Papaya Relish (43515.0)",
+    "200 g Tomatoes",
+    "250 g Okra, raw",
+    "250 g chicken",
+    "3 large Egg",
+    "30 g Red Onion",
+    "90 g Capsicum - Green"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Adlai Rice under cold water until the water runs clear.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the Adlai Rice according to package instructions until tender, then set aside.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the chicken into bite-sized pieces.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the ends off the okra and slice into rounds.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the tomatoes and capsicum.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finely chop the red onion and garlic.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Beat the eggs in a bowl and season with salt and pepper.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet over medium heat, cook the chicken pieces until browned and cooked through, about 10 minutes.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the onion and garlic to the skillet and sauté until soft, about 5 minutes.",
+      "name": "Step 9"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the okra, tomatoes, and capsicum to the skillet and cook until they're softened, about 10 minutes.",
+      "name": "Step 10"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drizzle the coconut amino over the mixture and add the papaya relish, stirring well to combine.",
+      "name": "Step 11"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the beaten eggs over the skillet mixture, allowing the eggs to set without stirring, about 5 minutes.",
+      "name": "Step 12"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Gently fold the cooked Adlai Rice into the skillet, mixing well to ensure everything is evenly incorporated.",
+      "name": "Step 13"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

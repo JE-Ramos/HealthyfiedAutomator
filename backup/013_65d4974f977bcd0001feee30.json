@@ -1,0 +1,98 @@
+{
+  "post_id": "65d4974f977bcd0001feee30",
+  "title": "Low Sugar Adlai Arrozcaldo",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Adlai Arrozcaldo",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "250 gram, Boneless Chicken Thigh",
+      "190 g, Adlai Rice (Job's Tears)",
+      "0.25 tsp, ground, Pepper",
+      "1 tbsp(s), Lemon juice, raw",
+      "200 g, Carrots, raw",
+      "30.00 g, Red Onion",
+      "15.00 g, Garlic, raw",
+      "5.00 g, Ginger root - Raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "376",
+      "carbohydrateContent": "55",
+      "fiberContent": "2",
+      "sugarContent": "4",
+      "sodiumContent": "99",
+      "proteinContent": "24",
+      "fatContent": "5",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Begin by dicing the red onion and carrots, mincing the garlic, and thinly slicing the ginger."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Adlai Rice under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, combine the Adlai Rice with 6 cups of water, diced onion, minced garlic, and sliced ginger. Bring to a boil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the rice mixture is coming to a boil, season the boneless chicken thigh with ground pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once boiling, reduce the heat to a simmer and add the seasoned chicken thigh to the pot. Allow to simmer for about 20 minutes, or until the chicken is fully cooked.",
+        "time": "PT20M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the chicken from the pot, let cool, then shred it into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return the shredded chicken to the pot and add diced carrots. Cook for an additional 10 minutes, until the carrots are tender.",
+        "time": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the arrozcaldo with lemon juice and additional ground pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve hot and enjoy your nutritious Adlai Arrozcaldo."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowSaltDiet",
+      "https://schema.org/LowSugarDiet",
+      "https://schema.org/HighProteinDiet"
+    ],
+    "description": "This Adlai Arrozcaldo is a healthified twist on the classic Filipino comfort food, perfect for anyone looking for a high-protein, low-sodium, and low-sugar meal. Packed with nourishing ingredients like boneless chicken thigh, Adlai rice (Job's Tears), and a medley of vegetables, this recipe offers a hearty and flavorful dish that supports a healthy lifestyle.",
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "keywords": "high-protein,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "post_id": "65d4963a977bcd0001fee85d",
+  "title": "Balsamic Chicken Tomato Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Balsamic Chicken Tomato Salad",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.12 cup, Tomato Boiled",
+      "0.50 cup  (72gm), Ice Berg Lettuce",
+      "0.67 dash, Salt, table",
+      "1 tbsp, Spices, pepper, white",
+      "1 tsp(s), Balsamic Vinegarette",
+      "1.00 oz, Chicken Breast (Grilled)",
+      "7.50 g, All-Bran Regular"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "123",
+      "carbohydrateContent": "13",
+      "fiberContent": "4",
+      "sugarContent": "2",
+      "sodiumContent": "185",
+      "proteinContent": "11",
+      "fatContent": "2",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Season the chicken breast with salt and white pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grill the chicken breast over medium heat until fully cooked, approximately 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Ice Berg Lettuce under cold water and chop it."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil the tomato for about 5 minutes, then allow to cool before chopping."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the grilled chicken, chopped lettuce, and tomato."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle with balsamic vinaigrette and toss to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the All-Bran Regular on top of the salad for an added crunch."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "This Balsamic Chicken Tomato Salad is a perfect choice for anyone looking for a healthy, low-carb, and low-sugar meal option. Its fresh ingredients and light dressing make it an ideal recipe for those who are health-conscious but still crave delicious flavors.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_281_65d4963a977bcd0001fee85d.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/281_65d4963a977bcd0001fee85d.json",
+  "original_files": [
+    "281_65d4963a977bcd0001fee85d.json",
+    "284_65d4963a977bcd0001fee85d.json"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "post_id": "65d496d6977bcd0001feebd2",
+  "title": "Beef Spaghetti Sauce",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Beef Spaghetti Sauce",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "300 g, Ground Beef",
+      "1 cup, Tomato Puree",
+      "63.00 g, Red Onion",
+      "2 tsp(s), Salt",
+      "2 tsp, ground, Pepper",
+      "1 tsp, Thyme, fresh",
+      "1 tsp, ground, Basil, fresh",
+      "1 tsp, Spices, marjoram, dried",
+      "20 g, Capsicum - Green",
+      "18.00 g, Red",
+      "3 tsp(s), Extra Virgin Olive Oil"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "255",
+      "carbohydrateContent": "9",
+      "fiberContent": "2",
+      "sugarContent": "5",
+      "sodiumContent": "175",
+      "proteinContent": "22",
+      "fatContent": "15",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Finely dice the red onion, capsicum (green and red), and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the extra virgin olive oil in a large skillet over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced onions and capsicum to the skillet and saut\u00e9 until they are soft, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Increase the heat to medium-high and add the ground beef to the skillet, cooking until browned, about 8 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix in the tomato puree, salt, ground pepper, thyme, basil, and marjoram. Reduce heat to low and let simmer for 15 minutes to allow flavors to blend."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Beef Spaghetti Sauce is a perfect blend for those looking for a high-protein, low-carb, and low-sugar option to add to their healthy recipe collection. Infused with the fresh herbal notes of thyme, basil, and marjoram, and richly seasoned with salt and pepper, this sauce promises a robust flavor that enhances any pasta dish.",
+    "prepTime": "PT15M",
+    "cookTime": "PT28M",
+    "totalTime": "PT43M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "post_id": "65d49614977bcd0001fee795",
+  "title": "Cucumber Strawberry Yogurt Shake",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Cucumber Strawberry Yogurt Shake",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 regular, Cucumber",
+      "0.25 cup, Soy milk",
+      "2 packet, Stevia In the Raw",
+      "5 berry, Strawberry",
+      "2 tbsp, Greek Yogurt, Plain, Whole, 3.25%"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "96",
+      "carbohydrateContent": "15",
+      "fiberContent": "2",
+      "sugarContent": "9",
+      "sodiumContent": "43",
+      "proteinContent": "6",
+      "fatContent": "3",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash the cucumber and strawberries under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the cucumber into smaller pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced cucumber, soy milk, Stevia In the Raw, strawberries, and Greek yogurt into a blender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend on high speed for about 2 minutes or until smooth.",
+        "time": "PT2M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the shake into glasses and enjoy immediately."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Discover a refreshing and low-carb delight with our Healthyfied Cucumber Strawberry Yogurt Shake. Tailored to suit health-conscious individuals, this low-sodium recipe is a perfect blend of wholesome ingredients designed to refresh and rejuvenate. Dive into a world of tasty, healthified recipes with this easy-to-make shake that promises flavor without compromise.",
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "keywords": "low-carb,low-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

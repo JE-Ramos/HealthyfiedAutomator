@@ -1,0 +1,90 @@
+{
+  "post_id": "65d496f1977bcd0001feec50",
+  "title": "Orange “Soy” Salmon",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Orange “Soy” Salmon",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "3 tps, Coconut Aminos",
+      "300 g, Oranges, raw, navels",
+      "500 g, Salmon Tail"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "287",
+      "carbohydrateContent": "15",
+      "fiberContent": "2",
+      "sugarContent": "10",
+      "sodiumContent": "91",
+      "proteinContent": "36",
+      "fatContent": "10",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375°F (190°C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the salmon tail under cold water and pat dry with paper towels."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel the oranges and segment them over a bowl to catch the juice. Squeeze the remaining membrane to extract all the juice."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix the coconut aminos with half of the orange juice."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the salmon tail in a baking dish and pour the coconut aminos and orange juice mixture over it, ensuring it's well-coated.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven until the salmon is cooked through and flakes easily with a fork, about 20-25 minutes.",
+        "time": "PT20M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the salmon with the remaining orange segments and drizzle with the sauce from the baking dish."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-carb",
+      "low-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a high-protein, low-carb, and low-sodium meal with our Orange “Soy” Salmon. A perfect combination of juicy oranges and savory salmon, tailored for those who enjoy healthy yet flavorful recipes. This dish is a testament to how health-conscious choices do not have to compromise on taste, making it a must-try for anyone looking to enhance their culinary repertoire with healthier options.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "keywords": "high-protein,low-carb,low-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_190_65d496f1977bcd0001feec50.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/190_65d496f1977bcd0001feec50.json",
+  "original_files": [
+    "190_65d496f1977bcd0001feec50.json",
+    "193_65d496f1977bcd0001feec50.json"
+  ]
+}

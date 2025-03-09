@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Pesto Tomato Potato",
+  "image": [
+    "https://healthyfied.me/images/recipes/pesto-tomato-potato.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Pesto Tomato Potato recipe is perfect for anyone looking to enjoy a delicious, healthy meal without compromising on taste. Featuring low-carb, low-sodium, and low-sugar ingredients, it's an ideal choice for health-conscious foodies. Dive into a dish that aligns with your wellness goals while tantalizing your taste buds with the rich flavors of pesto, fresh tomatoes, and tender baby potatoes.",
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "109",
+    "carbohydrateContent": "16",
+    "fiberContent": "2",
+    "sugarContent": "4",
+    "sodiumContent": "101",
+    "proteinContent": "2",
+    "fatContent": "4",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "1",
+    "polyunsaturatedFatContent": "2",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "2  tbsp Pesto Sauce (Updated)",
+    "335 g Yellow Baby Potatoes",
+    "50 g Red Onion",
+    "80 g White Onion Raw",
+    "80 g Tomatoes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash the Yellow Baby Potatoes thoroughly and cut them into halves.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel and finely chop the White Onion and Red Onion.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the Tomatoes into small pieces.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring a pot of water to boil and cook the Yellow Baby Potatoes until tender, about 15 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet, sauté the chopped onions over medium heat until translucent, about 5 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the diced tomatoes to the skillet and cook until soft, about 5 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the Pesto Sauce and add the boiled Yellow Baby Potatoes. Mix well until the potatoes are fully coated with the pesto and tomato mixture. Cook for an additional 5 minutes to allow the flavors to meld.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

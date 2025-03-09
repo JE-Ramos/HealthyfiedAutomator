@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/10/05 Lunch",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/10/05-lunch.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This delicious 2018/10/05 Lunch recipe, featuring Yakiniku (Beef Tips) and a host of fresh vegetables, is perfect for those looking for a high-fiber, healthy meal option. Infused with tantalizing sauces and spices, this dish not only nourishes your body but also tantalizes your taste buds, making it a standout addition to your collection of healthified recipes.",
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
+  "keywords": "high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "323",
+    "carbohydrateContent": "21",
+    "fiberContent": "5",
+    "sugarContent": "9",
+    "sodiumContent": "186",
+    "proteinContent": "16",
+    "fatContent": "18",
+    "saturatedFatContent": "5",
+    "monounsaturatedFatContent": "4",
+    "polyunsaturatedFatContent": "7",
+    "unsaturatedFatContent": 11,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp(s) Salt",
+    "1  tbsp(s) Seeds, sesame seeds, whole, dried",
+    "1  tsp ground (2.3 g), Black Pepper - Ground",
+    "150 g Capsicum - Green",
+    "177.50 g Yakiniku (Beef Tips)",
+    "3  tbsp (15g), Mayonnaise",
+    "4  cup chopped, Cabbage, raw",
+    "5 g Garlic, raw",
+    "56 g Red Onion",
+    "8  tbsp Tomato Purée"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dice the red onion, mince the garlic, and chop the green capsicum and cabbage. Set aside.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl, marinate the Yakiniku (Beef Tips) with salt, black pepper, and 2 tablespoons of tomato purée. Let it sit for 10 minutes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a pan over medium heat and cook the marinated beef tips for 5 minutes, or until browned. Set aside.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the same pan, add a tablespoon of sesame oil and sauté the diced onion, minced garlic, and chopped capsicum for 5 minutes or until they are slightly softened.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the remaining tomato purée to the pan along with the chopped cabbage. Cook for another 10 minutes, stirring occasionally.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return the cooked beef tips to the pan. Mix well to combine all the ingredients.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the mixture hot, garnished with sesame seeds and drizzled with mayonnaise.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

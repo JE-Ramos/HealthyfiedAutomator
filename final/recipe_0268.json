@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "4 Ingredient Pancake",
+  "image": [
+    "https://healthyfied.me/images/recipes/4-ingredient-pancake.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a healthier lifestyle with these easy-to-make 4 Ingredient Pancakes. Perfect for those following a low-sodium diet, these pancakes are not just nutritious but also cater to your health goals. Enjoy the unique blend of flavors and start your day with a healthified twist!",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "keywords": "low-sodium,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "5",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "144",
+    "carbohydrateContent": "25",
+    "fiberContent": "0",
+    "sugarContent": "9",
+    "sodiumContent": "54",
+    "proteinContent": "3",
+    "fatContent": "4",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "2 g Egg, Large Whole",
+    "2  tsp(s) Virgin Coconut Oil",
+    "2  tsp Clabber Girl",
+    "5 piece Saba"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Peel the saba bananas and mash them thoroughly in a bowl.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a separate bowl, beat the eggs until they are well mixed.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the mashed saba bananas with the beaten eggs. Stir in the clabber girl (baking powder) until the mixture is well combined.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the virgin coconut oil in a non-stick pan over medium heat.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour 1/4 cup of the pancake mixture into the pan. Cook for about 2-3 minutes on each side or until golden brown.",
+      "time": "PT5M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Repeat with the remaining batter. Serve the pancakes hot.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

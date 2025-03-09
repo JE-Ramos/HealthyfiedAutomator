@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Ginataang Tambakol (Yellow Fin tuna)",
+  "image": [
+    "https://healthyfied.me/images/recipes/ginataang-tambakol-(yellow-fin-tuna).jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in the flavors of Ginataang Tambakol (Yellow Fin Tuna), a high-protein, low-carb, and low-sugar delight designed for lovers of healthy recipes. This dish, a part of our Healthified Recipes collection, merges the richness of coconut cream with the tenderness of Yellow Fin Tuna, enhanced with the subtle heat of peppers and the aromatic blend of ginger, garlic, and onions, making it a perfect choice for those monitoring their sodium intake without compromising on taste.",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274",
+    "carbohydrateContent": "5",
+    "fiberContent": "1",
+    "sugarContent": "3",
+    "sodiumContent": "460",
+    "proteinContent": "43",
+    "fatContent": "8",
+    "saturatedFatContent": "7",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 1,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  teaspoon Salt",
+    "0.50  tsp ground, Pepper",
+    "10 g Garlic, raw",
+    "30 g Coconut Cream Powder (Correct)",
+    "30 g Red Onion",
+    "415 g Yellow Fin Tuna",
+    "5 g Ginger root - Raw",
+    "70 g Bellpepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the ingredients: thinly slice the Red Onion, mince the Ginger and Garlic, cut the Bellpepper into strips.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot, mix the Coconut Cream Powder with 200ml of warm water to create coconut cream. Stir until well combined.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sliced Red Onion, minced Ginger, and Garlic to the pot. Cook over medium heat for 5 minutes to soften.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Gently add the Yellow Fin Tuna to the pot. Season with Salt and Pepper. Let it simmer for 10 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finally, add the Bellpepper strips to the pot. Cover and let it cook for an additional 5 minutes.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

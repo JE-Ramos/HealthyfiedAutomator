@@ -1,0 +1,94 @@
+{
+  "post_id": "65d496d2977bcd0001feebbe",
+  "title": "Sunday Camachile",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Sunday camachile",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "50 g, Manila Tamarind, Guamuchil, Camachile",
+      "15.00 G, Tomatoes",
+      "5.00 g, Filipino-Dried Mackerel",
+      "15 gram, Rib Roast",
+      "30.00 g, Asparagus - Raw",
+      "10.00 g, Carrots, raw",
+      "100 g, Vegetable Kare-kare",
+      "0.50 cup, chopped, Sweet potato leaves, raw",
+      "75 g, Fresh Lumpia",
+      "15.00 g, Potato"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "244",
+      "carbohydrateContent": "35",
+      "fiberContent": "3",
+      "sugarContent": "2",
+      "sodiumContent": "124",
+      "proteinContent": "13",
+      "fatContent": "7",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Manila Tamarind, tomatoes, carrots, asparagus, and potato under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Soak the Filipino-Dried Mackerel in water for 10 minutes to rehydrate."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the tomatoes, carrots and potato. Cut the asparagus into 1-inch pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Rib Roast in a pan over medium heat for about 10 minutes until browned and tender. Remove and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same pan, add the rehydrated Mackerel, diced vegetables, and Manila Tamarind. Cook for 7 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the fresh Lumpia and Vegetable Kare-kare mix to the pan. Combine thoroughly and cook for another 5 minutes.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lastly, stir in the sweet potato leaves and cook until just wilted, about 2 minutes.",
+        "time": "PT2M"
+      }
+    ],
+    "tags": [
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Delve into the heart of healthy Filipino cuisine with our Sunday camachile recipe. This dish is marvelously low-sodium and low-sugar, combining the unique flavors of Manila Tamarind with a medley of fresh vegetables and fish. Perfect for those looking to enjoy traditional flavors while keeping their meals nutritious and health-friendly. This recipe is a tribute to healthy eating without compromising on taste, making it a perfect addition to your collection of healthy recipes.",
+    "prepTime": "PT20M",
+    "cookTime": "PT24M",
+    "totalTime": "PT44M",
+    "suiteableForDiet": [
+      "http://schema.org/LowSaltDiet",
+      "http://schema.org/LowSugarDiet"
+    ],
+    "keywords": "low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

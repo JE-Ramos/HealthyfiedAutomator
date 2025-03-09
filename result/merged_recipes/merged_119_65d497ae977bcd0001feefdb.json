@@ -1,0 +1,77 @@
+{
+  "post_id": "65d497ae977bcd0001feefdb",
+  "title": "Globe Lunch",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Globe Lunch",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.03 Ear, Corn on the Cob",
+      "1 Each, Roasted Chicken Breast",
+      "1 cup, Sitaw",
+      "1 serving, Bananas, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "554",
+      "carbohydrateContent": "40",
+      "fiberContent": "3",
+      "sugarContent": "15",
+      "sodiumContent": "183",
+      "proteinContent": "72",
+      "fatContent": "11",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the Sitaw by trimming the ends and cutting them into 2-inch long pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shred the roasted chicken breast into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the corn off the cob in kernels."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and slice the banana."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the Sitaw, roasted chicken breast, and corn kernels. Top with banana slices."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein"
+    ],
+    "suitableForDiet": [],
+    "description": "Globe Lunch is a high-protein, healthified meal that brings together the nourishing goodness of Sitaw, roasted chicken breast, corn on the cob, and bananas. Ideal for anyone looking for healthy recipes that don't compromise on flavor or nutritional value.",
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "PT10M",
+    "suiteableForDiet": [],
+    "keywords": "high-protein,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_119_65d497ae977bcd0001feefdb.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/119_65d497ae977bcd0001feefdb.json",
+  "original_files": [
+    "119_65d497ae977bcd0001feefdb.json",
+    "116_65d497ae977bcd0001feefdb.json"
+  ]
+}

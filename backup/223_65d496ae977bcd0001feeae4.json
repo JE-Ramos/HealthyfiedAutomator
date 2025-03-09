@@ -1,0 +1,87 @@
+{
+  "post_id": "65d496ae977bcd0001feeae4",
+  "title": "2018/10/24 Breakfast Broccoli Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/24 Breakfast Broccoli Salad",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "400 g, Broccoli, raw",
+      "150 g, Carrots, raw",
+      "250 gram, Ground Beef",
+      "10.00 g, Garlic, raw",
+      "30.00 g, Red Onion",
+      "1 tsp, Spices, marjoram, dried",
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "220",
+      "carbohydrateContent": "15",
+      "fiberContent": "5",
+      "sugarContent": "5",
+      "sodiumContent": "328",
+      "proteinContent": "21",
+      "fatContent": "9",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the broccoli under cold water and chop into small florets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel the carrots and chop them finely."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic and finely dice the red onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet over medium heat, cook the ground beef until browned, about 5-7 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the minced garlic, diced red onion, marjoram, salt, and pepper to the beef. Stir and cook for an additional 2-3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Steam the broccoli and carrots until tender, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the steamed vegetables with the beef mixture. Toss well to combine."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sugar",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This high-protein, low-carb, low-sugar, high-fiber Breakfast Broccoli Salad is perfect for those who are looking for a Healthyfied recipe to kickstart their day. Full of nutrients and flavors, it's a great addition to your Healthy Recipes collection.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "high-protein,low-carb,low-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "post_id": "65d4975f977bcd0001feee87",
+  "title": "Ice Cream Sandwich",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "healthyfied ice cream sandwich",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "2 slice, Mikes Keto Bread, Homemade",
+      "2 tbsp(s), Chocolate Ice Cream",
+      "1 medium, Egg",
+      "0.25 cup, Unsweetened Almond Milk"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "407",
+      "carbohydrateContent": "16",
+      "fiberContent": "3",
+      "sugarContent": "1",
+      "sodiumContent": "155",
+      "proteinContent": "41",
+      "fatContent": "46",
+      "saturatedFatContent": "8",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Slice the Mike's Keto Bread if not pre-sliced."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, beat the egg and mix with unsweetened almond milk."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dip each slice of bread into the egg and almond milk mixture, ensuring both sides are well coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a non-stick skillet over medium heat, cook the dipped bread slices for about 2-3 minutes on each side or until golden brown.",
+        "time": "PT6M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Allow the cooked bread slices to cool slightly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread 1 tbsp of chocolate ice cream on one slice of the slightly cooled bread, then top with the other slice to form a sandwich."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve immediately or freeze for a firmer ice cream texture."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a guilt-free treat with our Healthyfied Ice Cream Sandwich, perfect for those following a high-protein, low-carb, and low-sugar diet. Enjoy the union of homemade Mike's Keto Bread with rich chocolate ice cream, offering a smarter choice for your dessert cravings.",
+    "prepTime": "PT10M",
+    "cookTime": "PT6M",
+    "totalTime": "PT16M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

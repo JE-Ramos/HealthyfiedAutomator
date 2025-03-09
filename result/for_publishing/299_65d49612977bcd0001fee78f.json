@@ -1,0 +1,80 @@
+{
+  "post_id": "65d49612977bcd0001fee78f",
+  "title": "Toasted Squash Green Beans",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Toasted Squash Green Beans",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "1 cup/85 g (uncooked), Kabocha Squash",
+      "1 cup, Baguio Beans",
+      "1 PIECE, Red Bell Peppers",
+      "8 oz, Egg Plant",
+      "1 Tablespoons, Salt",
+      "1 tsp, ground, Spices, pepper, black",
+      "0.50 Lemon, Half Lemon"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "92",
+      "carbohydrateContent": "23",
+      "fiberContent": "10",
+      "sugarContent": "10",
+      "sodiumContent": "215",
+      "proteinContent": "4",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 400\u00b0F (200\u00b0C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash and cut the Kabocha squash into small cubes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Trim the ends off the Baguio beans and cut them in half if they are too long."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the red bell peppers and eggplant into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, mix the prepared squash, beans, bell peppers, eggplant, salt, and black pepper. Squeeze the lemon over the mixture and toss until everything is evenly coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the vegetables out in a single layer on a baking sheet. Roast in the oven for 25 minutes, or until the vegetables are tender and lightly browned, stirring halfway through the cooking time."
+      }
+    ],
+    "tags": [
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "This Toasted Squash Green Beans recipe is a perfect blend of health and flavor. Packed with high-fiber ingredients, it's part of our Healthyfied collection that transforms traditional recipes into healthier versions. Ideal for anyone looking to add nutritious yet delicious dishes to their diet.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "keywords": "high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

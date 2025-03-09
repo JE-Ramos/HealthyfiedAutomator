@@ -1,0 +1,89 @@
+{
+  "post_id": "65d49721977bcd0001feed40",
+  "title": "Cafe France Bacon Potato Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Cafe France Bacon Potato Salad",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.06 tsp(s), Salt",
+      "0.06 tsp, ground, Pepper",
+      "1 cup, Potato",
+      "2 tablespoon, Mayo",
+      "5.00 g, Carrots, raw",
+      "5.00 g, Lean Rasher",
+      "5.00 g, Lettuce, green leaf, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "326",
+      "carbohydrateContent": "33",
+      "fiberContent": "3",
+      "sugarContent": "2",
+      "sodiumContent": "285",
+      "proteinContent": "3",
+      "fatContent": "20",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "5",
+      "polyunsaturatedFatContent": "12",
+      "unsaturatedFatContent": 17,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel and dice the potatoes into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring a pot of salted water to a boil and add the diced potatoes. Cook until tender, about 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the potatoes are cooking, dice the carrots and cut the lean rasher into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, cook the lean rasher pieces until crispy, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, mix the cooked potatoes, crispy lean rasher, diced carrots, and chopped green leaf lettuce."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with salt and ground pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add 2 tablespoons of mayo to the salad and gently toss to combine."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a healthier version of everyone's favorite side dish with this Café France Bacon Potato Salad. Crafted with the finest ingredients and tailored for a low-sugar diet, this recipe brings together the crispness of green leaf lettuce, the heartiness of potatoes, and the savory delight of lean bacon. A touch of mayo ties it all together into a dish that's perfect for those seeking health-conscious recipes without sacrificing flavor.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_174_65d49721977bcd0001feed40.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/174_65d49721977bcd0001feed40.json",
+  "original_files": [
+    "174_65d49721977bcd0001feed40.json",
+    "177_65d49721977bcd0001feed40.json"
+  ]
+}

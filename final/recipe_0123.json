@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Saturday Liver",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-saturday-liver.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in the delicious and nutritious Healthyfied Saturday Liver recipe, perfect for those looking to enjoy a high-protein, high-fiber meal. This recipe combines the rich flavors of chicken livers and milkfish with fresh vegetables and fruits, creating a healthful dish that aligns with a Healthy Recipes lifestyle.",
+  "prepTime": "PT15M",
+  "cookTime": "PT17M",
+  "totalTime": "PT32M",
+  "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "514",
+    "carbohydrateContent": "39",
+    "fiberContent": "15",
+    "sugarContent": "22",
+    "sodiumContent": "632",
+    "proteinContent": "39",
+    "fatContent": "26",
+    "saturatedFatContent": "3",
+    "monounsaturatedFatContent": "12",
+    "polyunsaturatedFatContent": "3",
+    "unsaturatedFatContent": 15,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp Salt",
+    "0.75  cup cubed, Avocado",
+    "1  tsp(s) Parsley, fresh",
+    "100 g Mango",
+    "100 g Chicken Livers",
+    "200 g Eggplant, raw",
+    "5 g Garlic",
+    "5 g Red onion",
+    "50 g Fish, milkfish, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the ingredients: Peel and cube the mango, slice the eggplant, finely chop the parsley, mince the garlic, and chop the red onion.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the chicken livers and fish with salt.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet over medium heat, sauté the garlic and red onion until fragrant, about 2 minutes.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the seasoned chicken livers to the skillet and cook until browned on all sides, approximately 5 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the fish to the skillet and cook until it flakes easily with a fork, about 5 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Include the sliced eggplant in the skillet and cook until softened, about 5 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finally, add the cubed mango and avocado to the skillet. Stir gently to combine and heat through for about 2 minutes.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Garnish with fresh parsley before serving.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": []
+}

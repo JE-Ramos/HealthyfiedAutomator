@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Mixed Cucumber Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/mixed-cucumber-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Mixed Cucumber Salad is not only a high-fiber, healthy choice but also caters to those looking for healthified recipes with a touch of indulgence. Perfect for anyone looking to enjoy a nutritious, yet delicious, meal.",
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT20M",
+  "keywords": "high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "269",
+    "carbohydrateContent": "31",
+    "fiberContent": "5",
+    "sugarContent": "13",
+    "sodiumContent": "583",
+    "proteinContent": "15",
+    "fatContent": "10",
+    "saturatedFatContent": "3",
+    "monounsaturatedFatContent": "3",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 4,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  cup Mango",
+    "1 large Egg, whole, cooked, hard-boiled",
+    "1 medium Carrots, baby, raw",
+    "10 g Whole Almonds (Almendras)",
+    "2 small whole, Small",
+    "3  stick Imitation crab",
+    "350 g Cucumber"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Peel and thinly slice the cucumber.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel the mango and cut it into small cubes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Julienne the baby carrots.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the hard-boiled egg into small pieces.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the imitation crab into bite-size pieces.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the almonds coarsely.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large mixing bowl, combine the sliced cucumber, cubed mango, julienned carrots, chopped egg, imitation crab, and almonds.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the ingredients gently to ensure they are well mixed. Serve chilled or at room temperature.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

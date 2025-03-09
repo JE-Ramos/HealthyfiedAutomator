@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken Rosemary Thyme",
+  "image": [
+    "https://healthyfied.me/images/recipes/chicken-rosemary-thyme.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Chicken Rosemary Thyme recipe is the epitome of a wholesome, nutritious meal, perfectly suitable for health-conscious individuals. Featuring high-protein, low-carb, low-sodium, and low-sugar ingredients, it's crafted to cater to those pursuing a healthy lifestyle without compromising on flavor. Each bite is infused with the aromatic essences of rosemary and thyme, promising a delightful culinary experience.",
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
+  "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "231",
+    "carbohydrateContent": "2",
+    "fiberContent": "0",
+    "sugarContent": "0",
+    "sodiumContent": "11",
+    "proteinContent": "40",
+    "fatContent": "7",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  tbsp Butter - Salted",
+    "1  tsp(s) Spices, rosemary, dried",
+    "1  tsp leaves, Spices, thyme, dried",
+    "22 g Garlic, raw",
+    "720 g Fillets"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 375°F (190°C).",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pat the chicken fillets dry with paper towels to ensure proper seasoning.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mince the garlic.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, mix the minced garlic, dried thyme, and dried rosemary.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rub the chicken fillets with the butter, then coat evenly with the garlic, thyme, and rosemary mixture.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the seasoned chicken fillets in a baking dish.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in the preheated oven for 25 minutes, or until the chicken is cooked through and the juices run clear.",
+      "time": "PT25M",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let the chicken rest for a few minutes before serving to allow the juices to redistribute.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

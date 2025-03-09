@@ -1,0 +1,77 @@
+{
+  "post_id": "65d495bf977bcd0001fee5aa",
+  "title": "Adobong Sitaw",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Adobong Sitaw",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "40 gram, Fresh String Beans",
+      "2 tsp(s), Soy Sauce",
+      "1 tsp, ground, Spices, pepper, black",
+      "0.25 tsp(s), Salt"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "21",
+      "carbohydrateContent": "4",
+      "fiberContent": "2",
+      "sugarContent": "1",
+      "sodiumContent": "628",
+      "proteinContent": "1",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the fresh string beans by trimming the ends and cutting them into 2-inch lengths."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, heat a tablespoon of oil over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the prepared string beans to the pan and saut\u00e9 for about 5 minutes, or until they start to soften.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the string beans with soy sauce, ground black pepper, and salt. Stir well to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue to cook the string beans for another 5 minutes until they are fully cooked and the flavors are well blended.",
+        "time": "PT5M"
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "Adobong Sitaw offers a healthy twist on a traditional Filipino favorite, ideal for those on a low-carb, low-sugar diet but who don't mind a bit of a sodium kick. This dish is perfect for anyone looking to enjoy classic flavors in a healthified way.",
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "keywords": "low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

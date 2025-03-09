@@ -1,0 +1,77 @@
+{
+  "post_id": "65d49741977bcd0001feede5",
+  "title": "Chicken Sandwich Filling",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Chicken Sandwich Filling ",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "28 gram, White onion",
+      "0.50 tbsp(s), Organic Coconut Aminos",
+      "1 tsp, Ground Black Pepper",
+      "0.12 teaspoon, Salt",
+      "250 gram, Chicken breast, cooked, skinless",
+      "35 g, Mayonnaise"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "357",
+      "carbohydrateContent": "4",
+      "fiberContent": "1",
+      "sugarContent": "2",
+      "sodiumContent": "845",
+      "proteinContent": "37",
+      "fatContent": "20",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Finely dice the white onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shred the cooked chicken breast into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine the diced onion, shredded chicken breast, organic coconut aminos, ground black pepper, salt, and mayonnaise."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix all the ingredients until well combined and the chicken is evenly coated with the mayonnaise and seasoning mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the mixture rest in the refrigerator for about 15 minutes to allow the flavors to meld together."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Chicken Sandwich Filling is perfect for those looking for a high-protein, low-carb option. It's seasoned with just the right amount of spices and dressed with a touch of mayonnaise, making it a delicious addition to your healthy recipe collection. Whether you're on a health kick or just looking for something delicious and nutritious, this sandwich filling fits the bill.",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "totalTime": "PT15M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

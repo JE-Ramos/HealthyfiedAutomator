@@ -1,0 +1,84 @@
+{
+  "post_id": "65d497b9977bcd0001fef00f",
+  "title": "Pepper Chicken Paratha Bowl",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Pepper Chicken Paratha Bowl",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "2 tbsp(s), Ground Black Pepper",
+      "2 tbsp(s), Thyme, fresh",
+      "1 tbsp, Butter Unsalted",
+      "0.50 medium , Tomato",
+      "0.25 medium, Red onion",
+      "1.00 grams, Gourmet Tinapa",
+      "1 tsp, Parmesan cheese, shredded",
+      "50 gram(s), Radish",
+      "5 g, Leek",
+      "0.12 lemon, Juiced Organic Lemon",
+      "226 gram, Chicken Thigh Skinless Boneless",
+      "1 piece, Paratha"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "725",
+      "carbohydrateContent": "53",
+      "fiberContent": "9",
+      "sugarContent": "6",
+      "sodiumContent": "661",
+      "proteinContent": "52",
+      "fatContent": "36",
+      "saturatedFatContent": "17",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Start by prepping your ingredients: Dice the tomato, finely slice the red onion, grate the Parmesan cheese, slice the radish, thinly slice the leek, and juice the lemon."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the chicken thighs with ground black pepper and thyme."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, melt butter over medium heat. Add the seasoned chicken thighs and cook each side for about 7 minutes or until fully cooked. Remove from heat and let it rest before slicing."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same pan, lightly saut\u00e9 the red onion, tomato, and radish for about 5 minutes or until they are softened."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the paratha according to package instructions until golden and crispy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble the bowl: Start with a base of sliced chicken, then add the saut\u00e9ed vegetables. Top with gourmet tinapa, grated Parmesan cheese, sliced leek, and a squeeze of lemon juice over everything."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [],
+    "description": "This Pepper Chicken Paratha Bowl is a delectable fusion of flavors, perfect for those who appreciate a high-protein, high-fiber, and healthified meal. With a savory blend of ground black pepper, fresh thyme, and gourmet tinapa, paired with the freshness of tomato, red onion, and radish, this dish offers a nutritious yet delicious option for your meal plans. The incorporation of skinless boneless chicken thigh ensures a rich protein intake, while the paratha adds a delightful carb counterpoint, making this bowl not just healthy but also incredibly satisfying.",
+    "prepTime": "PT15M",
+    "cookTime": "PT12M",
+    "totalTime": "PT27M",
+    "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

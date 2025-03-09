@@ -1,0 +1,84 @@
+{
+  "post_id": "65d49750977bcd0001feee38",
+  "title": "Steamed Boneless Bangus",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Steamed Boneless Bangus",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "1 tsp, ground, Pepper",
+      "8 Tomatoes, One Single Cherry Tomato",
+      "5 clove, Garlic, raw",
+      "0.50 small, Red Onion",
+      "1 tsp(s), Extra-Virgin Olive Oil",
+      "12 oz, Boneless Milkfish Belly"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "380",
+      "carbohydrateContent": "5",
+      "fiberContent": "1",
+      "sugarContent": "3",
+      "sodiumContent": "52",
+      "proteinContent": "47",
+      "fatContent": "21",
+      "saturatedFatContent": "6",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "1"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Boneless Milkfish Belly under cold water and pat dry with paper towels."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely chop the Garlic and Red Onion, and slice the Tomatoes into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the Milkfish Belly with ground Pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the Extra-Virgin Olive Oil in a steamer over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "On the steamer tray, lay out the seasoned Milkfish Belly and top with the chopped Garlic, Onion, and Tomatoes.",
+        "time": "Preparation time: 10 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover and steam for about 15 minutes or until the Milkfish Belly is fully cooked.",
+        "time": "Cooking time: 15 minutes"
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This 'Healthyfied Steamed Boneless Bangus' is perfect for those looking for a high-protein, low-carb, low-sodium, and low-sugar meal option. Crafted with health in mind, this recipe aligns with modern nutritional preferences, offering a delicious and nourishing dish that fits seamlessly into a healthy lifestyle.",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

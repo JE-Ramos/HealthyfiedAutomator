@@ -1,0 +1,88 @@
+{
+  "post_id": "65d49640977bcd0001fee881",
+  "title": "Saut\u00e9ed Cabbage And Egg Rice Alternative",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Saut\u00e9ed Cabbage and Egg - Rice Alternative",
+    "recipeYield": "5",
+    "recipeIngredient": [
+      "500 gram, Green cabbage",
+      "5 large, Egg",
+      "50 gram, Red onion",
+      "30 gram, Garlic",
+      "0.12 teaspoon, Salt",
+      "1 tsp, ground, Spices, pepper, white",
+      "1 tablespoon, Butter, salted"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "131",
+      "carbohydrateContent": "9",
+      "fiberContent": "3",
+      "sugarContent": "4",
+      "sodiumContent": "167",
+      "proteinContent": "8",
+      "fatContent": "7",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Finely chop the green cabbage, dice the red onion, and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs into a bowl and beat them lightly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter in a large pan over medium heat.",
+        "time": "PT2M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced red onion and minced garlic to the pan and saut\u00e9 until soft and fragrant, about 5 minutes.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Increase the heat to medium-high, add the chopped cabbage to the pan, and cook for 8-10 minutes or until the cabbage is wilted and slightly golden.",
+        "time": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Reduce the heat to low, season the mixture with salt and white pepper, then pour the beaten eggs evenly over the cabbage. Let it cook without stirring for 3-5 minutes, or until the eggs are set.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently stir to combine the eggs and cabbage mixture. Serve hot as a delicious and healthy rice alternative."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Saut\u00e9ed Cabbage and Egg recipe is a fantastic low-carb and low-sugar alternative to traditional rice dishes. Perfect for those seeking a healthful twist on comfort food, it combines the nutritional benefits of green cabbage with the richness of eggs, flavored with red onion, garlic, and white pepper. This recipe is part of our Healthyfied and Healthy Recipes collection, making it an excellent choice for anyone looking to enjoy delicious meals without compromising on health goals.",
+    "prepTime": "PT15M",
+    "cookTime": "PT22M",
+    "totalTime": "PT37M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

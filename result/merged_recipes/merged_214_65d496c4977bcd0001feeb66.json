@@ -1,0 +1,102 @@
+{
+  "post_id": "65d496c4977bcd0001feeb66",
+  "title": "2018/10/11 Dinner Red Cabbage Cumin",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/11 Dinner Red Cabbage Cumin",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.12 tsp, whole, Spices, cumin seed",
+      "0.25 tsp(s), Salt",
+      "0.25 tsp, ground, Pepper",
+      "10.00 g, Garlic, raw",
+      "250 gram, chicken",
+      "30.00 g, Cabbage, red, raw",
+      "30.00 g, Red Onion",
+      "300 g, Steamed",
+      "4 large, Egg",
+      "4 tbsp(s), Tomato Puree",
+      "65 g, Capsicum - Green"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "233",
+      "carbohydrateContent": "9",
+      "fiberContent": "2",
+      "sugarContent": "5",
+      "sodiumContent": "198",
+      "proteinContent": "27",
+      "fatContent": "10",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the ingredients by washing the capsicum, steamed red cabbage, and red onion. Then, chop the capsicum, shred the cabbage, dice the red onion, and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs into a bowl and whisk them lightly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same bowl, add the tomato puree, ground pepper, salt, and cumin seed. Mix everything well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the chicken into small pieces and add it to the mixture, ensuring that it's well-coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a large skillet over medium heat. Once hot, add the chicken and cook until browned and cooked through, about 5 minutes per side. Take the chicken out and set aside.",
+        "time": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same skillet, add the capsicum, cabbage, red onion, and garlic. Sauté until they start to soften, approximately 5 minutes.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return the chicken to the skillet. Stir in the previously whisked eggs and cook until the eggs are set, about 3 minutes.",
+        "time": "PT3M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Adjust seasoning with additional salt and pepper if needed. Serve hot."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Red Cabbage Cumin recipe is a delicious, high-protein, low-carb, and low-sugar dinner option. Perfect for those who are looking for healthy recipes that do not compromise on taste. With ingredients like tender chicken, fresh vegetables, and a hint of cumin, this dish is a great way to enjoy a hearty meal that's both nutritious and satisfying.",
+    "prepTime": "PT15M",
+    "cookTime": "PT18M",
+    "totalTime": "PT33M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_214_65d496c4977bcd0001feeb66.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/214_65d496c4977bcd0001feeb66.json",
+  "original_files": [
+    "214_65d496c4977bcd0001feeb66.json",
+    "211_65d496c4977bcd0001feeb66.json"
+  ]
+}

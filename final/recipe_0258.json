@@ -1,0 +1,113 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Beef Potato Carrot Tomato Basil Pasta",
+  "image": [
+    "https://healthyfied.me/images/recipes/beef-potato-carrot-tomato-basil-pasta.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a wholesome and healthified meal with our Beef Potato Carrot Tomato Basil Pasta. This recipe brings together the savory flavors of beef, the earthiness of potatoes and carrots, the sweet burst of cherry tomatoes, and the fresh aroma of basil leaves in a delightful dance that is perfect for anyone looking to enjoy healthy recipes without compromising taste. Perfect for those who love a hint of high-sodium yet nourishing meals.",
+  "prepTime": "PT20M",
+  "cookTime": "PT18M",
+  "totalTime": "PT38M",
+  "keywords": "high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "6",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "161",
+    "carbohydrateContent": "21",
+    "fiberContent": "4",
+    "sugarContent": "6",
+    "sodiumContent": "549",
+    "proteinContent": "8",
+    "fatContent": "5",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "1",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 1,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  cup Parmesan Cheese - Shaved",
+    "1  carrot Medium, Medium Carrot",
+    "1  cup Chopped, Red Onion",
+    "1  teaspoon Salt",
+    "1  tsp(s) Extra Virgin Olive Oil",
+    "1  tsp ground, Pepper",
+    "2 small Small Potato",
+    "200 g Egg Plant",
+    "200 g Beef Yakiniku",
+    "260 g Cherry Tomato",
+    "50 g Fresh Basil Leaves"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Begin by peeling and dicing the small potatoes and medium carrot into small pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the red onion and slice the cherry tomatoes in half.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the eggplant into small cubes.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Thinly slice the beef yakiniku if not already done.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet, heat the extra virgin olive oil over medium heat. Add the diced potatoes and carrot, and sauté for about 5 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chopped red onion and eggplant cubes to the skillet and continue to sauté for another 5 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Introduce the beef yakiniku to the skillet and cook until the beef is browned, about 5 minutes.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the cherry tomatoes, salt, and pepper, and let cook until the tomatoes are just soft, about 3 minutes.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Turn off the heat and mix in the fresh basil leaves and shaved Parmesan cheese until the cheese is slightly melted.",
+      "name": "Step 9"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the Beef Potato Carrot Tomato Basil Pasta hot and enjoy!",
+      "name": "Step 10"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

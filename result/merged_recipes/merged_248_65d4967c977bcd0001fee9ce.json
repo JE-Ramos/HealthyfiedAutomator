@@ -1,0 +1,81 @@
+{
+  "post_id": "65d4967c977bcd0001fee9ce",
+  "title": "Homemade Spaghetti",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Homemade Spaghetti",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "0.25 cup chopped, White Onion",
+      "0.25 cup, Diced",
+      "1 teaspoon, Pepper",
+      "1 tsp, Salt",
+      "100 gram, Spaghetti",
+      "4 piece, Sausage"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "175",
+      "carbohydrateContent": "48",
+      "fiberContent": "4",
+      "sugarContent": "1",
+      "sodiumContent": "1460",
+      "proteinContent": "11",
+      "fatContent": "6",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Slice the sausage into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring a large pot of water to a boil, add salt, and cook the spaghetti according to package instructions until al dente. Drain and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the white onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, heat a tablespoon of olive oil over medium heat. Sauté the diced onion and sliced sausage until the onion is translucent and sausage is lightly browned, about 8-10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cooked spaghetti to the pan with the sausage and onions. Season with salt and pepper to taste. Toss everything together until well combined, cooking for an additional 2-3 minutes."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in this delicious Homemade Spaghetti that marries the goodness of a high-sodium and low-sugar diet, perfectly fitting for those seeking healthy yet flavorful meal options. This dish is part of our 'Healthified Recipes' collection, proving that you can enjoy your favorite meals in a healthier way.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_248_65d4967c977bcd0001fee9ce.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/248_65d4967c977bcd0001fee9ce.json",
+  "original_files": [
+    "248_65d4967c977bcd0001fee9ce.json",
+    "251_65d4967c977bcd0001fee9ce.json"
+  ]
+}

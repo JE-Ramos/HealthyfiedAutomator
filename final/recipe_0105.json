@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Salad Dressing - Lemon Hint Vinaigrette",
+  "image": [
+    "https://healthyfied.me/images/recipes/salad-dressing---lemon-hint-vinaigrette.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Lemon Hint Vinaigrette is a perfect embodiment of a Healthyfied recipe, making it ideal for anyone following a low-carb and low-sugar diet. The tangy lemon juice paired with the subtle heat of white pepper creates a refreshing dressing that elevates any salad.",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "13",
+    "carbohydrateContent": "5",
+    "fiberContent": "0",
+    "sugarContent": "2",
+    "sodiumContent": "145",
+    "proteinContent": "0",
+    "fatContent": "0",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.06  tsp(s) White Pepper",
+    "0.06  tsp Rock Salt",
+    "0.25  cup(s) Vinegar",
+    "0.25  cup Lemon juice, raw",
+    "1  packet Sugar Substitute"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, add 0.25 cup of lemon juice and 0.25 cup of vinegar.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add 0.06 tsp of rock salt and 0.06 tsp(s) of white pepper to the mixture.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add 1 packet of sugar substitute to the bowl and whisk all the ingredients together until the sugar substitute is fully dissolved and the dressing is well combined.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Taste the dressing and adjust the seasoning if needed.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Store the vinaigrette in a sealed container in the refrigerator until ready to use.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

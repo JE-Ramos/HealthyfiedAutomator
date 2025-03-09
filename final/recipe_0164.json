@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/12/05 Burger Lunch",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/12/05-burger-lunch.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This low-carb, low-sodium, and low-sugar burger lunch is a healthy alternative for those looking to enjoy a classic dish without the guilt. Perfect for individuals following a health-conscious diet, this recipe combines the juicy, savory flavors of a traditional burger with the crisp freshness of carrots and asparagus, making it a delicious and nutritious meal option.",
+  "prepTime": "PT10M",
+  "cookTime": "PT16M",
+  "totalTime": "PT26M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "334",
+    "carbohydrateContent": "11",
+    "fiberContent": "4",
+    "sugarContent": "5",
+    "sodiumContent": "137",
+    "proteinContent": "19",
+    "fatContent": "24",
+    "saturatedFatContent": "9",
+    "monounsaturatedFatContent": "3",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 4,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp(s) Salt",
+    "1  tablespoon Oil - Olive",
+    "200 g Asparagus - Raw",
+    "251 g Carrots, raw",
+    "300 g Burger"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your grill or skillet over medium-high heat.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the vegetables: Peel and chop the carrots into thin slices; Trim the asparagus and cut into bite-sized pieces.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the burger with 0.25 tsp of salt.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lightly brush the grill or skillet with 1 tablespoon of olive oil.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the burger on the grill or skillet, cooking for about 4 minutes per side or until it reaches the desired level of doneness.",
+      "cookTime": "PT8M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the burger cooks, add the chopped carrots and asparagus to a separate part of the grill or another skillet. Grill or sauté with a bit of olive oil until the vegetables are tender, about 6-8 minutes.",
+      "cookTime": "PT8M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the burger alongside the grilled carrots and asparagus.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

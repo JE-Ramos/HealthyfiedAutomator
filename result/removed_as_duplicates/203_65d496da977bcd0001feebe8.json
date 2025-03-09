@@ -1,0 +1,84 @@
+{
+  "post_id": "65d496da977bcd0001feebe8",
+  "title": "2018/10/19 Lunch Pancit",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/19 Lunch Pancit",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "200 g, Okra, raw",
+      "50 g, Cabbage, raw",
+      "100 g, Carrots, raw",
+      "180 g (cooked), Instant Vegetable Noodles",
+      "15 grams, Calamansi",
+      "6 tablespoon, Coconut Amino",
+      "400 gram, chicken"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "256",
+      "carbohydrateContent": "21",
+      "fiberContent": "4",
+      "sugarContent": "7",
+      "sodiumContent": "498",
+      "proteinContent": "29",
+      "fatContent": "6",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the okra, cabbage, and carrots under cold water. Slice the okra, shred the cabbage, and julienne the carrots."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the chicken into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the instant vegetable noodles according to package instructions until tender, then drain and set aside. (Cook time: PT10M)"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, cook the chicken pieces until no longer pink and fully cooked through. (Cook time: PT10M)"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the prepared okra, cabbage, and carrots to the pan with the chicken. Stir well and cook until the vegetables are tender but still crisp. (Cook time: PT5M)"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix in the cooked instant noodles with the vegetable and chicken mixture. Stir well to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Squeeze the calamansi over the pancit and add the coconut amino. Stir well to ensure everything is evenly coated."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-sodium",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This '2018/10/19 Lunch Pancit' recipe is tailored for those looking for a high-protein, healthy meal option without compromising on taste. Perfectly blending the nutritious goodness of okra, cabbage, carrots, and chicken with the delightful flavors of instant vegetable noodles, coconut amino, and a splash of calamansi, this dish is a healthified twist on the classic Pancit. Whether you're aiming to maintain a balanced diet or simply in search of a deliciously healthy recipe, this dish promises to satisfy your cravings while nourishing your body.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "keywords": "high-protein,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

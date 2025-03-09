@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken Citrus Crabstick Pear Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/chicken-citrus-crabstick-pear-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a high-protein, high-fiber delicacy with our Chicken Citrus Crabstick Pear Salad. Perfect for those looking to maintain a healthy lifestyle without sacrificing flavor. Each bite is a fusion of tender boiled chicken, crisp Iceberg lettuce, succulent seafood crabstick, and crunchy baby corn, all complemented by the freshness of orange and pear. Topped off with a boiled egg for an extra protein punch, this salad is not just a meal; it's a healthy, flavorful journey!",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "300",
+    "carbohydrateContent": "44",
+    "fiberContent": "6",
+    "sugarContent": "20",
+    "sodiumContent": "625",
+    "proteinContent": "25",
+    "fatContent": "9",
+    "saturatedFatContent": "3",
+    "monounsaturatedFatContent": "3",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 4,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  cup Ice Burg Lettuce",
+    "0.50 medium breast, Boiled Chicken Breast",
+    "0.50  pear 1 Medium",
+    "1 large egg (50 g), Egg, Large, Boiled",
+    "1 small 5 oz, Small Orange 5 oz",
+    "16.56 g Young Baby Corn",
+    "3  sticks Seafood Crabstick"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Shred the Iceberg lettuce, slice the seafood crabstick, dice the young baby corn, and cut the boiled chicken breast into small pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel and segment the small orange, and chop the pear into bite-sized pieces.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the boiled large egg into thin slices or wedges.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large mixing bowl, combine the lettuce, crabstick, baby corn, chicken, orange segments, and pear. Gently toss to mix.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top the salad with egg slices and serve immediately.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

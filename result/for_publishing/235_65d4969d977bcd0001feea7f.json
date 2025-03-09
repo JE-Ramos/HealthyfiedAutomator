@@ -1,0 +1,72 @@
+{
+  "post_id": "65d4969d977bcd0001feea7f",
+  "title": "Beef Honey Onion",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Beef Honey onion",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "200 gram, Beef Sukiyaki Meat",
+      "1 tbsp(s), Honey",
+      "1 onion (medium), Onion",
+      "0.25 tsp(s), Salt",
+      "1 tsp, ground (2.3 g), Black Pepper - Ground",
+      "1 tbsp, Oyster sauce"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "200",
+      "carbohydrateContent": "16",
+      "fiberContent": "1",
+      "sugarContent": "13",
+      "sodiumContent": "562",
+      "proteinContent": "22",
+      "fatContent": "5",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine the beef sukiyaki meat with honey, salt, ground black pepper, and oyster sauce. Let it marinate for at least 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, saut\u00e9 the sliced onion until translucent and slightly caramelized, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the marinated beef to the pan and cook until the beef is fully cooked and the sauce has thickened, about 10 minutes."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Beef Honey Onion recipe is perfectly tailored for those adhering to a high-protein and low-carb diet, while also being a healthified version of a beloved classic. Seasoned with a hint of sweetness from honey and the robust flavors of black pepper and oyster sauce, it's an enticing dish for anyone looking to maintain a healthy lifestyle without sacrificing taste.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "high-protein,low-carb,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "post_id": "65d49648977bcd0001fee8ae",
+  "title": "Tomato Alpine Penne Pasta",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Tomato Alpine Penne Pasta",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "250 gram, Cooked Penne Rigate",
+      "2 tsp, Salt",
+      "2 teaspoon, Pepper",
+      "1.50 cup, Diced",
+      "1 medium (110.7g), Medium Size",
+      "100 gms, Cheese"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "136",
+      "carbohydrateContent": "23",
+      "fiberContent": "3",
+      "sugarContent": "2",
+      "sodiumContent": "1519",
+      "proteinContent": "5",
+      "fatContent": "1",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the ingredients: Rinse the cooked Penne Rigate under warm water and set aside. Dice the tomato and grate the cheese."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the diced tomato with 2 tsp of salt and 2 tsp of pepper, mix well to ensure even distribution."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large skillet over medium heat, add the seasoned diced tomato and cook until they soften, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cooked Penne Rigate to the skillet with the tomatoes and stir to combine. Heat through, about 2-3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn off the heat and add the grated cheese over the pasta. Stir well until the cheese melts and coats the pasta evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the Tomato Alpine Penne Pasta hot, garnished with additional cheese if desired."
+      }
+    ],
+    "tags": [
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "This Tomato Alpine Penne Pasta is a perfect choice for those looking for a healthified twist on a classic pasta dish. With its low sugar content, it suits a diet conscious of maintaining low sugar levels while not compromising on taste. The high-sodium tag suggests a flavorful experience, making it an ideal recipe for those who appreciate a well-seasoned meal. Enjoy a wholesome and Healthy Recipe that brings a creative twist to your table.",
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "keywords": "high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "No Milk Chicken Sopas",
+  "image": [
+    "https://healthyfied.me/images/recipes/no-milk-chicken-sopas.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a heartwarming bowl of No Milk Chicken Sopas. Perfect for those looking for a high-protein and healthier twist on traditional recipes. This nourishing soup, part of our Healthyfied collection, is sure to satisfy your craving for comfort food.",
+  "prepTime": "PT20M",
+  "cookTime": "PT35M",
+  "totalTime": "PT55M",
+  "keywords": "high-protein,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "301",
+    "carbohydrateContent": "40",
+    "fiberContent": "4",
+    "sugarContent": "6",
+    "sodiumContent": "334",
+    "proteinContent": "25",
+    "fatContent": "5",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "100 g Calendula Noodles",
+    "128 g Cabbage, raw",
+    "16 clove Garlic, raw",
+    "213 g Carrots, raw",
+    "300 g Chicken   Legs  and  thighs",
+    "84 g Red Onion"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the chicken legs and thighs under cold water and pat dry.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the cabbage and carrots, and mince the garlic.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the red onion.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot, bring water to a boil and add the chicken legs and thighs. Cook for about 25 minutes until the chicken is fully cooked.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the chicken from the pot and shred it into bite-sized pieces.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the same pot, sauté the garlic and red onion until fragrant.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the diced cabbage and carrots to the pot and cook until they are softened.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return the shredded chicken to the pot and add the Calendula noodles. Cook until the noodles are tender.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the soup to taste with salt and pepper. Serve hot.",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

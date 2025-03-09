@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied White Christmas Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-white-christmas-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Healthyfied White Christmas Salad is a festive treat for anyone looking to enjoy the holidays while keeping it low-carb but not compromising on flavor. With a high-sodium profile, it’s perfect for those who are keeping an eye on their carb intake but love a flavorful salad. This salad combines the crispiness of radishes with the sweetness of tomatoes and the sharp tang of red onion, all seasoned to perfection. It’s a celebration of healthy recipes that don’t skimp on taste!",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "keywords": "low-carb,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "42",
+    "carbohydrateContent": "9",
+    "fiberContent": "1",
+    "sugarContent": "6",
+    "sodiumContent": "447",
+    "proteinContent": "3",
+    "fatContent": "0",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp ground, Pepper",
+    "0.50  teaspoon Salt",
+    "112 g Tomatoes",
+    "425 g Raddish",
+    "70 g Red Bellpepper (Ounces)",
+    "70 g Red Onion"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the radish, tomatoes, red bell pepper, and red onion under cold water.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the radish, tomatoes, red bell pepper, and slice the red onion thinly.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large salad bowl, combine the diced radish, tomatoes, red bell pepper, and sliced onion.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the salad with salt and pepper, then toss well to ensure the vegetables are evenly coated.",
+      "name": "Step 4"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

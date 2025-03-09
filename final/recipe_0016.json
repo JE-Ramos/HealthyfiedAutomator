@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "PrepMeal Ham Cabbage Bowl",
+  "image": [
+    "https://healthyfied.me/images/recipes/prepmeal-ham-cabbage-bowl.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This PrepMeal Ham Cabbage Bowl is a powerhouse meal, perfect for those looking to enjoy a high-protein, high-fiber dish that doesn't skimp on flavor. Part of our Healthyfied Recipes collection, it combines the sweetness of honey smoked ham with the nutritious crunch of cabbage and carrots, making it not just a feast for the palate but also a boon for your health.",
+  "prepTime": "PT20M",
+  "cookTime": "PT18M",
+  "totalTime": "PT38M",
+  "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "329",
+    "carbohydrateContent": "26",
+    "fiberContent": "6",
+    "sugarContent": "10",
+    "sodiumContent": "986",
+    "proteinContent": "30",
+    "fatContent": "12",
+    "saturatedFatContent": "4",
+    "monounsaturatedFatContent": "5",
+    "polyunsaturatedFatContent": "2",
+    "unsaturatedFatContent": 7,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "12 g Garlic, raw",
+    "250 g Ham - Honey, smoked, cooked",
+    "300 g Carrots, raw",
+    "400 g Cabbage, raw",
+    "6 large Egg",
+    "70 g Red Onion"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the cabbage and carrots under cold water, then chop the cabbage and dice the carrots.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel and thinly slice the red onion. Mince the garlic.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet over medium heat, cook the sliced onion and minced garlic for about 3 minutes, until softened.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chopped cabbage and diced carrots to the skillet. Stir occasionally, cooking for about 10 minutes until the vegetables are tender.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the vegetables are cooking, boil the eggs in a separate pot for 7 minutes for soft-boiled eggs, or 10 minutes for hard-boiled. Once cooked, remove from heat, cool in cold water, peel and set aside.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the ham into bite-sized pieces and add to the skillet with the vegetables. Cook for an additional 5 minutes, stirring occasionally.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the boiled eggs in half and serve on top of the ham and vegetable mixture.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

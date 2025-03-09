@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Refreshing Salsa",
+  "image": [
+    "https://healthyfied.me/images/recipes/refreshing-salsa.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Refreshing Salsa recipe is perfect for those on a healthy eating journey. With its low-carb, low-sodium, and low-sugar ingredients, it's an ideal addition to your collection of healthy recipes. The combination of crisp cucumber, sweet cherry tomatoes, zesty red onion, crunchy sesame seeds, spicy black pepper, and vibrant yellow bell pepper makes this salsa not just healthy but also bursting with flavor. Whether you're looking for a nutritious topping for your grilled dishes or a vibrant side that brings life to your meals, this salsa has got you covered.",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "44",
+    "carbohydrateContent": "8",
+    "fiberContent": "2",
+    "sugarContent": "3",
+    "sodiumContent": "52",
+    "proteinContent": "2",
+    "fatContent": "1",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.05  tsp Rock Salt",
+    "1 small Red Onion",
+    "1  tsp(s) Seeds, sesame seeds, whole, dried",
+    "1  tsp ground, Spices, pepper, black",
+    "150 g Cherry Tomato",
+    "200 g Cucumber",
+    "50 g Yellow Bellpepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dice the cucumber, cherry tomatoes, red onion, and yellow bell pepper into small, even pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the diced vegetables in a large mixing bowl.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sesame seeds, ground black pepper, and rock salt to the vegetables.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Gently mix all the ingredients until evenly distributed.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Allow the salsa to sit for 5 minutes, letting the flavors meld together.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the salsa chilled or at room temperature for the best flavor experience.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

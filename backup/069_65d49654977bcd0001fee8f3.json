@@ -1,0 +1,84 @@
+{
+  "post_id": "65d49654977bcd0001fee8f3",
+  "title": "Tofu Sisig With Egg",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Tofu Sisig with Egg",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "45.00 g, Red Onion",
+      "30 g, Red",
+      "15 g, Fresh Green Chilli",
+      "2 tablespoon, Coconut Amino",
+      "1 tbsp, Coconut",
+      "3 large, Egg",
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "30.00 g, Garlic, raw",
+      "50 g, Leeks",
+      "0.55 grams, Firm Tofu"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "143",
+      "carbohydrateContent": "8",
+      "fiberContent": "1",
+      "sugarContent": "3",
+      "sodiumContent": "390",
+      "proteinContent": "8",
+      "fatContent": "10",
+      "saturatedFatContent": "6",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Start by dicing the red onion, red bell pepper, and leeks. Mince the garlic and chop the fresh green chilli."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a non-stick skillet, crumble the firm tofu and cook over medium-high heat for about 5 minutes until browned. Set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using the same skillet, add a bit of coconut oil and saut\u00e9 garlic, onion, bell pepper, green chilli, and leeks until softened, about 5-7 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return the tofu to the skillet. Add coconut amino, salt, and pepper. Stir well to combine all ingredients. Reduce heat to medium and let it cook for an additional 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate pan, fry the eggs to your liking."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the tofu sisig hot, topped with a fried egg on each serving. Enjoy your healthy meal!"
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Tofu Sisig with Egg recipe is perfect for anyone looking to enjoy a classic Filipino dish with a healthy twist. Low-carb and low-sugar, it's a guilt-free option that doesn't compromise on flavor. Dive into this blend of fragrant spices, fresh veggies, and hearty tofu for a satisfying meal.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

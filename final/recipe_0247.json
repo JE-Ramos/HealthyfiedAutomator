@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Homemade Spaghetti",
+  "image": [
+    "https://healthyfied.me/images/recipes/homemade-spaghetti.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in this delicious Homemade Spaghetti that marries the goodness of a high-sodium and low-sugar diet, perfectly fitting for those seeking healthy yet flavorful meal options. This dish is part of our 'Healthified Recipes' collection, proving that you can enjoy your favorite meals in a healthier way.",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "keywords": "high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "2",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "175",
+    "carbohydrateContent": "48",
+    "fiberContent": "4",
+    "sugarContent": "1",
+    "sodiumContent": "1460",
+    "proteinContent": "11",
+    "fatContent": "6",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup chopped, White Onion",
+    "0.25  cup Diced",
+    "1  teaspoon Pepper",
+    "1  tsp Salt",
+    "100 g Spaghetti",
+    "4 piece Sausage"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Slice the sausage into bite-sized pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring a large pot of water to a boil, add salt, and cook the spaghetti according to package instructions until al dente. Drain and set aside.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the white onion.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan, heat a tablespoon of olive oil over medium heat. Sauté the diced onion and sliced sausage until the onion is translucent and sausage is lightly browned, about 8-10 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cooked spaghetti to the pan with the sausage and onions. Season with salt and pepper to taste. Toss everything together until well combined, cooking for an additional 2-3 minutes.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

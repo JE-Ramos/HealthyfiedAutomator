@@ -1,0 +1,66 @@
+{
+  "post_id": "65d49693977bcd0001feea46",
+  "title": "Salad Dressing Garlic Mayo (500 Ml)",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Salad Dressing - Garlic Mayo (500 ML)",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "5 Clove (3 g), Garlic, Raw Clove",
+      "470 milliliter, Mayonnaise",
+      "4 Tbsp, Vinegar"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "1935",
+      "carbohydrateContent": "69",
+      "fiberContent": "1",
+      "sugarContent": "64",
+      "sodiumContent": "3851",
+      "proteinContent": "1",
+      "fatContent": "191",
+      "saturatedFatContent": "32",
+      "monounsaturatedFatContent": "95",
+      "polyunsaturatedFatContent": "64",
+      "unsaturatedFatContent": 159,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel and finely mince the garlic cloves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, combine the minced garlic with mayonnaise."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the vinegar to the mayo and garlic mixture and whisk until the vinegar is well incorporated and the mixture is smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the garlic mayo to a container and refrigerate for at least 1 hour to allow the flavors to meld together."
+      }
+    ],
+    "tags": [
+      "high-sodium",
+      "high-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [],
+    "description": "This Garlic Mayo Salad Dressing recipe is perfect for those looking to add a flavorful twist to their salads without compromising on health. Although it is tagged as high-sodium and high-sugar, this version has been healthified to fit into healthy eating plans, making it a guilt-free addition to your meals.",
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "PT10M",
+    "keywords": "high-sodium,high-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

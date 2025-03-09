@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied omurice",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-omurice.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in this Healthyfied omurice, a delicious low-carb and low-sugar twist on the traditional Japanese omelette rice. Made with keto-friendly ingredients, this dish perfectly blends healthy eating with mouthwatering flavors, making it an ideal choice for those seeking nutritious yet satisfying meals.",
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Boiling",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "292",
+    "carbohydrateContent": "9",
+    "fiberContent": "3",
+    "sugarContent": "0",
+    "sodiumContent": "142",
+    "proteinContent": "13",
+    "fatContent": "22",
+    "saturatedFatContent": "10",
+    "monounsaturatedFatContent": "3",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  container (150 gs ea.), Shirataki Noodles",
+    "1  tbsp Butter",
+    "2 g (50g), Eggs",
+    "34 g Keto Ketchup"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the Shirataki Noodles by rinsing them under cold water and boiling for 2 minutes. Then, drain and set aside to dry.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a mixing bowl, whisk the eggs until well beaten.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat half a tablespoon of butter in a non-stick skillet over medium heat. Pour in the eggs and cook for 2-3 minutes until the omelette is just set. Carefully fold the omelette in half and then slide it onto a plate.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the same skillet, add the remaining butter and sauté the prepared Shirataki Noodles for about 5 minutes, or until they begin to slightly brown.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the Keto Ketchup with the noodles, mixing well to ensure the noodles are evenly coated. Cook for an additional 2 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the noodle mixture on the plate and gently fold the omelette over the top. Serve immediately for a warm, comforting meal.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

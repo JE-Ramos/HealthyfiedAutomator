@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Ginataang Kalabasa",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-ginataang-kalabasa.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Healthyfied Ginataang Kalabasa recipe is a revitalized version of a Filipino classic, tailored for those seeking high-protein and low-carb options without compromising on taste. Crafted for health-conscious individuals, this dish blends the richness of coconut cream with the natural sweetness of kabocha squash, enhanced by the savory notes of ham and uncured bacon, all while keeping an eye on your sodium intake.",
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "totalTime": "PT50M",
+  "keywords": "high-protein,low-carb,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "321",
+    "carbohydrateContent": "15",
+    "fiberContent": "3",
+    "sugarContent": "7",
+    "sodiumContent": "1053",
+    "proteinContent": "20",
+    "fatContent": "20",
+    "saturatedFatContent": "10",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup (90g), Coconut Cream",
+    "0.75 cup/85 g (uncooked), Kabocha Squash",
+    "2  cooked slices, Uncured Bacon",
+    "25 g Ham",
+    "50 g Green String Beans"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash the green string beans thoroughly and cut them into 2-inch pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the ham into small cubes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel the kabocha squash and cut into bite-sized pieces.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan, sauté the diced ham until it's lightly browned, about 5 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the kabocha squash to the pan, cover, and let it cook until it starts to soften, about 15 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the coconut cream into the pan, mixing well with the ham and squash. Allow to simmer until the mixture thickens, about 10 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the green string beans and cook until they are tender but still crisp, about 5 minutes.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Crumble the cooked uncured bacon and sprinkle over the dish before serving.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

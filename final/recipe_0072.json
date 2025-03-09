@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Sautéed Cabbage and Egg - Rice Alternative",
+  "image": [
+    "https://healthyfied.me/images/recipes/sautéed-cabbage-and-egg---rice-alternative.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Sautéed Cabbage and Egg recipe is a fantastic low-carb and low-sugar alternative to traditional rice dishes. Perfect for those seeking a healthful twist on comfort food, it combines the nutritional benefits of green cabbage with the richness of eggs, flavored with red onion, garlic, and white pepper. This recipe is part of our Healthyfied and Healthy Recipes collection, making it an excellent choice for anyone looking to enjoy delicious meals without compromising on health goals.",
+  "prepTime": "PT15M",
+  "cookTime": "PT22M",
+  "totalTime": "PT37M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "5",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "131",
+    "carbohydrateContent": "9",
+    "fiberContent": "3",
+    "sugarContent": "4",
+    "sodiumContent": "167",
+    "proteinContent": "8",
+    "fatContent": "7",
+    "saturatedFatContent": "3",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.12  teaspoon Salt",
+    "1  tablespoon Butter, salted",
+    "1  tsp ground, Spices, pepper, white",
+    "30 g Garlic",
+    "5 large Egg",
+    "50 g Red onion",
+    "500 g Green cabbage"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Finely chop the green cabbage, dice the red onion, and mince the garlic.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Crack the eggs into a bowl and beat them lightly.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Melt the butter in a large pan over medium heat.",
+      "time": "PT2M",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the diced red onion and minced garlic to the pan and sauté until soft and fragrant, about 5 minutes.",
+      "time": "PT5M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Increase the heat to medium-high, add the chopped cabbage to the pan, and cook for 8-10 minutes or until the cabbage is wilted and slightly golden.",
+      "time": "PT10M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Reduce the heat to low, season the mixture with salt and white pepper, then pour the beaten eggs evenly over the cabbage. Let it cook without stirring for 3-5 minutes, or until the eggs are set.",
+      "time": "PT5M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Gently stir to combine the eggs and cabbage mixture. Serve hot as a delicious and healthy rice alternative.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

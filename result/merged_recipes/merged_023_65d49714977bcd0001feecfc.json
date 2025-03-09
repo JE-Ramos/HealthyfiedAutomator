@@ -1,0 +1,97 @@
+{
+  "post_id": "65d49714977bcd0001feecfc",
+  "title": "Beef Bellpepper Bolognaise",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Beef Bellpepper Bolognaise ",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "0.06 teaspoon, Salt",
+      "0.50 cup (8 fl oz), Water",
+      "1 tablespoon, Olive oil",
+      "1 teaspoon, Basil, fresh",
+      "1 teaspoon, Black pepper",
+      "1 tsp, Marjoram",
+      "1 tsp, Thyme, fresh",
+      "1 tsp, White Pepper",
+      "100 gram, Bolognese",
+      "130.00 g, Bellpepper Red",
+      "250.00 g (4 oz), Beef"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "311",
+      "carbohydrateContent": "8",
+      "fiberContent": "2",
+      "sugarContent": "2",
+      "sodiumContent": "161",
+      "proteinContent": "29",
+      "fatContent": "18",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "5",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 6,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the bell pepper under cold water, then dice it into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large skillet, heat the olive oil over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced bell pepper to the skillet and sauté for about 5 minutes until slightly softened."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Increase the heat to medium-high and add the beef to the skillet. Cook for about 10 minutes, breaking it apart with a spatula until browned.",
+        "time": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the beef and bell pepper mixture with salt, white pepper, thyme, basil, marjoram, and black pepper. Stir well to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in the water and add the bolognese sauce to the skillet. Stir to combine and bring to a simmer. Reduce heat to low and let it simmer for about 20 minutes, allowing the flavors to meld.",
+        "time": "PT20M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Taste and adjust seasoning as needed. Serve hot."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Beef Bellpepper Bolognaise brings a high-protein and low-carb delight to your table, perfect for health enthusiasts looking for low-sugar yet flavorful options. Each bite is an infusion of healthy and healthified ingredients designed to nourish your body and tantalize your taste buds with a blend of fresh herbs and robust flavors.",
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_023_65d49714977bcd0001feecfc.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/023_65d49714977bcd0001feecfc.json",
+  "original_files": [
+    "023_65d49714977bcd0001feecfc.json",
+    "026_65d49714977bcd0001feecfc.json"
+  ]
+}

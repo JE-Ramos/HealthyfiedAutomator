@@ -1,0 +1,92 @@
+{
+  "post_id": "65d496bf977bcd0001feeb4c",
+  "title": "Ampalaya Egg",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Ampalaya Egg",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "0.50 teaspoon, Salt",
+      "1 Cup, Chopped, Red Onion",
+      "1 clove, Garlic, raw",
+      "1 tbsp, Butter - Salted",
+      "1000 g, Bitter Melon",
+      "2 large, Egg",
+      "3 oz(s), Tomatoes"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "231",
+      "carbohydrateContent": "10",
+      "fiberContent": "15",
+      "sugarContent": "4",
+      "sodiumContent": "696",
+      "proteinContent": "12",
+      "fatContent": "12",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Bitter Melon under cold water, cut in half lengthwise, remove the seeds, and slice thinly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the tomatoes and chop the red onion. Mince the garlic clove."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, melt the butter over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sauté the chopped onion and minced garlic in the pan until they become soft and fragrant, about 3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced bitter melon to the pan and cook until it begins to soften, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the diced tomatoes and salt, cooking for another 3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs directly into the pan over the vegetables and scramble gently until the eggs are fully cooked, about 4 minutes."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-sodium",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Ampalaya Egg recipe is a healthy, nutritious choice for anyone seeking a low-carb, low-sugar, and high-fiber meal. Perfectly suited for health-conscious individuals looking for 'Healthyfied' options, this dish brings together the unique bitterness of bitter melon with the richness of eggs, creating a savory experience that's beneficial for your diet.",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "keywords": "low-carb,high-sodium,low-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_212_65d496bf977bcd0001feeb4c.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/212_65d496bf977bcd0001feeb4c.json",
+  "original_files": [
+    "212_65d496bf977bcd0001feeb4c.json",
+    "215_65d496bf977bcd0001feeb4c.json"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "post_id": "65d4968b977bcd0001feea18",
+  "title": "Pan Grilled Bangus",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Pan Grilled Bangus",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 tsp (5g) (1/2 tsp= clove), Spice World",
+      "3 tsp, ground (2.3 g), Black Pepper - Ground",
+      "310 gram, Boneless Milkfish (Bangus)"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "183",
+      "carbohydrateContent": "6",
+      "fiberContent": "1",
+      "sugarContent": "0",
+      "sodiumContent": "415",
+      "proteinContent": "20",
+      "fatContent": "9",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the Boneless Milkfish (Bangus) by rinsing it under cold water and patting it dry with paper towels."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the Bangus with 3 tsp of ground black pepper and 1 tsp of minced garlic (Spice World). Ensure it's evenly coated on all sides."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your grill pan over medium heat. Once heated, place the seasoned Bangus on the grill."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grill the Bangus for about 4 minutes on each side, or until cooked through and the skin is crisp.",
+        "time": "PT8M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the Bangus from the grill and let it rest for a couple of minutes before serving."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "high-sodium",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Pan Grilled Bangus recipe is perfect for those looking to enjoy a healthy and delicious meal. The dish is high in protein, low in carbohydrates and sugar, and has a bold flavor profile thanks to the black pepper and garlic. It's an excellent choice for anyone following a healthy eating plan and looking for 'Healthified' recipes.",
+    "prepTime": "PT10M",
+    "cookTime": "PT8M",
+    "totalTime": "PT18M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_242_65d4968b977bcd0001feea18.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/242_65d4968b977bcd0001feea18.json",
+  "original_files": [
+    "242_65d4968b977bcd0001feea18.json",
+    "245_65d4968b977bcd0001feea18.json"
+  ]
+}

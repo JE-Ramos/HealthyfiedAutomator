@@ -1,0 +1,83 @@
+{
+  "post_id": "65d49611977bcd0001fee787",
+  "title": "Raspberry Mango Yogurt",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Raspberry Mango Yogurt",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "0.50 cup, Raspberries All Natural (Frozen",
+      "1 tbsp, Chia Seed",
+      "1 tbsp, whole, Seeds, flaxseed",
+      "200 g, Greek live yogurt",
+      "50 g, Mangos, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "91",
+      "carbohydrateContent": "9",
+      "fiberContent": "3",
+      "sugarContent": "5",
+      "sodiumContent": "18",
+      "proteinContent": "6",
+      "fatContent": "3",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the Greek live yogurt into a mixing bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the frozen raspberries, flaxseeds, chia seeds, and raw mango pieces to the bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix all the ingredients thoroughly until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chill the mixture in the refrigerator for about 30 minutes to allow the flavors to meld."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the yogurt in a bowl or glass of your choice."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Raspberry Mango Yogurt is a delightful mix of tangy raspberries and sweet mangoes blended into creamy Greek yogurt. Perfect for those following low-carb, low-sodium, and low-sugar diets, this healthy recipe is an excellent choice for anyone looking to enjoy a nutritious and delicious treat.",
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "PT40M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_303_65d49611977bcd0001fee787.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/303_65d49611977bcd0001fee787.json",
+  "original_files": [
+    "303_65d49611977bcd0001fee787.json",
+    "300_65d49611977bcd0001fee787.json"
+  ]
+}

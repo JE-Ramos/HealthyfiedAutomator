@@ -1,0 +1,75 @@
+{
+  "post_id": "65d4965f977bcd0001fee92a",
+  "title": "Gourmet Pesto Chicken",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Gourmet Pesto Chicken",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "421.00 g, Fillets",
+      "25 ml, All Purpose Pesto",
+      "2 tbsp(s), Lemon juice, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "150",
+      "carbohydrateContent": "1",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "0",
+      "proteinContent": "23",
+      "fatContent": "6",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375\u00b0F (190\u00b0C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chicken fillets on a baking sheet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the all-purpose pesto evenly over each chicken fillet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 25 minutes or until the chicken is thoroughly cooked."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the chicken from the oven and immediately drizzle with lemon juice before serving."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Gourmet Pesto Chicken recipe is a perfect choice for anyone looking for a delicious, high-protein and low-carb option. Packed with flavors and health benefits, this dish is also low in sodium and sugar, making it a superb pick for a healthy meal. Ideal for those who enjoy healthy yet flavorful dishes.",
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

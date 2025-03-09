@@ -1,0 +1,110 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Tinolang tahong",
+  "image": [
+    "https://healthyfied.me/images/recipes/tinolang-tahong.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Tinolang tahong, a delightful and nutritious dish, is perfect for those who love a healthy meal with a high-protein, high-sodium, and high-fiber profile. This recipe promises not just a burst of flavors but also a wealth of health benefits, making it a perfect addition to your collection of Healthy Recipes and Healthified Recipes.",
+  "prepTime": "PT20M",
+  "cookTime": "PT25M",
+  "totalTime": "PT45M",
+  "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Boiling",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "366",
+    "carbohydrateContent": "32",
+    "fiberContent": "5",
+    "sugarContent": "20",
+    "sodiumContent": "782",
+    "proteinContent": "33",
+    "fatContent": "8",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "1",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 1,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp(s) Salt",
+    "1  tsp Oil - Olive",
+    "1  tsp ground (2.3 g), Black Pepper - Ground",
+    "20 g Garlic, raw",
+    "7 g Ginger root - Raw",
+    "700 g Papayas, raw",
+    "71 g Red Onion",
+    "780 g Mussels"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the mussels under cold water, scrubbing the shells to remove any dirt or debris.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel and chop the garlic and ginger root. Set aside.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel and slice the red onion. Set aside.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel the papaya, remove the seeds, and cut it into cubes. Set aside.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot, heat the olive oil over medium heat. Add the chopped garlic, ginger, and sliced onion. Sauté for about 5 minutes until softened.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the mussels to the pot and cook for 3-5 minutes until they start to open.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add enough water to cover the mussels, then season with salt and ground black pepper. Bring to a boil.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once boiling, add the cubed papayas and simmer for about 10-15 minutes, or until the papaya is tender and the mussels are fully opened.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Discard any mussels that did not open. Adjust the seasoning if needed.",
+      "name": "Step 9"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve hot and enjoy your nutritious Tinolang tahong.",
+      "name": "Step 10"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

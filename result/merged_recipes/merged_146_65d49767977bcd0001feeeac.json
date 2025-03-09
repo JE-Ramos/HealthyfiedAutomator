@@ -1,0 +1,81 @@
+{
+  "post_id": "65d49767977bcd0001feeeac",
+  "title": "Baguio Pinikpikan",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Baguio Pinikpikan",
+    "recipeYield": "20",
+    "recipeIngredient": [
+      "1.50 kg(s), Sorakaya (Bottle Gourd)",
+      "200 gram, Chicken Livers",
+      "200 gram, gizzard",
+      "3 kg(s), Free Range Chicken",
+      "3 large, Egg, yolk, raw, fresh"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "414",
+      "carbohydrateContent": "3",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "346",
+      "proteinContent": "42",
+      "fatContent": "28",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your ingredients: Clean the gizzard and chicken livers, separate the egg yolks, cut the free range chicken into serving pieces, and peel and chop the sorakaya (bottle gourd)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, bring water to a boil and add the chicken pieces. Simmer for 20 minutes to cook the chicken thoroughly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the gizzard and chicken livers to the pot and cook for an additional 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Incorporate the chopped sorakaya into the mix and simmer until the vegetables are tender, about 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully remove the pot from the heat, and gently stir in the egg yolks to thicken the broth, ensuring the mix does not come to a boil again."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in the hearty and nutritious Baguio Pinikpikan - a high-protein, low-carb, and low-sugar dish that embodies the essence of healthy living. Perfectly tailored for those seeking delicious yet health-conscious options, this recipe transforms traditional ingredients into a modern masterpiece.",
+    "prepTime": "PT30M",
+    "cookTime": "PT45M",
+    "totalTime": "PT75M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_146_65d49767977bcd0001feeeac.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/146_65d49767977bcd0001feeeac.json",
+  "original_files": [
+    "146_65d49767977bcd0001feeeac.json",
+    "143_65d49767977bcd0001feeeac.json"
+  ]
+}

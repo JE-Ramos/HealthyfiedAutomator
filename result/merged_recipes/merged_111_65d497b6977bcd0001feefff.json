@@ -1,0 +1,74 @@
+{
+  "post_id": "65d497b6977bcd0001feefff",
+  "title": "Garlic Pepper Salmon Belly",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Garlic Pepper Salmon Belly",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 teaspoon, Salt",
+      "1 tsp, ground, Pepper",
+      "5.00 g, Garlic, raw",
+      "500 grams, Belly"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "636",
+      "carbohydrateContent": "1",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "722",
+      "proteinContent": "17",
+      "fatContent": "57",
+      "saturatedFatContent": "12",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep the ingredients: Mince the garlic and season the salmon belly with salt and ground pepper on all sides."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a non-stick skillet over medium-high heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the salmon belly, skin-side down first, for about 3-4 minutes until the skin is crispy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flip the salmon and add the minced garlic to the skillet, cooking for an additional 3-4 minutes until the salmon is golden and cooked through."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-sodium",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [],
+    "description": "Indulge in the flavors of the sea with this Garlic Pepper Salmon Belly recipe. Perfect for those following a low-carb and low-sugar diet, this dish is not only healthy but also packed with the goodness of omega-3 fatty acids. Elevate your mealtime with a recipe that prioritizes your health without compromising on taste.",
+    "prepTime": "PT10M",
+    "cookTime": "PT8M",
+    "totalTime": "PT18M",
+    "keywords": "low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_111_65d497b6977bcd0001feefff.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/111_65d497b6977bcd0001feefff.json",
+  "original_files": [
+    "111_65d497b6977bcd0001feefff.json",
+    "114_65d497b6977bcd0001feefff.json"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "post_id": "65d49615977bcd0001fee79c",
+  "title": "Pea Hummus",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Pea Hummus ",
+    "recipeYield": "5",
+    "recipeIngredient": [
+      "40 gram, Olive oil",
+      "0.12 teaspoon, Salt",
+      "1 teaspoon, Garlic powder",
+      "4 gram, Lemon juice",
+      "100 milliliter, Water",
+      "30 grams, POD Plain Plant Pea Protein",
+      "1 tsp, ground, Black pepper",
+      "1 tsp, ground, Basil, dried"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "98",
+      "carbohydrateContent": "1",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "132",
+      "proteinContent": "5",
+      "fatContent": "8",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "6",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 7,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the ingredients: measure and set aside Olive oil, Salt, Garlic powder, Lemon juice, Water, POD Plain Plant Pea Protein, Black pepper, and dried Basil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a blender or food processor, combine all the ingredients: Olive oil, Salt, Garlic powder, Lemon juice, Water, POD Plain Plant Pea Protein, Black pepper, and dried Basil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend the mixture on high speed until smooth and creamy, about 2 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Taste and adjust seasoning as needed, adding more salt, lemon juice, or garlic powder according to your preference."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the hummus to a serving bowl and drizzle with a bit of olive oil, and optionally garnish with a sprinkle of black pepper and dried basil."
+      }
+    ],
+    "tags": [
+      "keto",
+      "low carb",
+      "diabetic-friendly",
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Healthyfied Pea Hummus is perfect for anyone following a ketogenic, low carb, diabetic-friendly, low sodium, and low sugar diet. Crafted with wholesome ingredients, this hummus promises a delicious way to stick to your health goals. Dive into the delightful world of Healthy Recipes with this easy-to-make, nutritious snack.",
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "PT10M",
+    "keywords": "keto,low carb,diabetic-friendly,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2019/02/05 Eggplant Omelette With Ground Beef",
+  "image": [
+    "https://healthyfied.me/images/recipes/2019/02/05-eggplant-omelette-with-ground-beef.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Eggplant Omelette With Ground Beef is a perfect combination of high-protein, low-carb, and high-fiber ingredients, making it an ideal choice for anyone looking for a healthy yet satisfying meal. Tailored to fit the Healthy Recipes and Healthified Recipes tags, this dish brings together the richness of ground beef and the lightness of eggplant in a unique blend that's sure to tantalize your taste buds.",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "keywords": "high-protein,low-carb,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "409",
+    "carbohydrateContent": "15",
+    "fiberContent": "5",
+    "sugarContent": "7",
+    "sodiumContent": "356",
+    "proteinContent": "32",
+    "fatContent": "26",
+    "saturatedFatContent": "7",
+    "monounsaturatedFatContent": "10",
+    "polyunsaturatedFatContent": "3",
+    "unsaturatedFatContent": 13,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp(s) Salt",
+    "0.25  tsp ground, Pepper",
+    "1  pat (1\" sq, 1/3\" high), Butter - Unsalted",
+    "1  tsp(s) Rosemary, fresh",
+    "1  tsp Spices, marjoram, dried",
+    "1  tsp Thyme, fresh",
+    "10 g Garlic, raw",
+    "10 g Ginger root - Raw",
+    "135 g Red Onion",
+    "136 g Eggplant, raw",
+    "154 g Young Corn - Cut",
+    "182 g Tomatoes",
+    "2  tbsp , Extra Virgin Olive Oil",
+    "250 g Ground Beef 93%",
+    "3 g Fresh Basil Leaves",
+    "332 g Cabbage, chinese (pak-choi), raw",
+    "5 g Parsley, fresh",
+    "6 medium Egg"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dice the red onion, chop the young corn, dice the tomatoes, slice the eggplant into rounds, finely chop the parsley, ginger root, and garlic, and tear the fresh basil leaves, thyme, and rosemary for preparation.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet, heat the extra virgin olive oil and butter over medium heat until the butter is melted.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the diced red onion and chopped young corn to the skillet and sauté for about 5 minutes or until the onion becomes translucent.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the ground beef to the skillet, breaking it apart with a spatula. Cook for about 10 minutes or until the beef is browned.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Incorporate the diced tomatoes, sliced eggplant, chopped parsley, ginger root, garlic, salt, pepper, dried marjoram, fresh thyme, and fresh rosemary into the skillet. Cook for another 10 minutes, stirring occasionally.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the beef mixture is cooking, beat the eggs in a bowl and set aside.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the beef mixture has cooked, pour the beaten eggs over it evenly. Allow the eggs to set and cook for about 5 minutes.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Garnish the omelette with fresh basil leaves before serving.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

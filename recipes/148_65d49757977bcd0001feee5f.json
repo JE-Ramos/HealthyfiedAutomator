@@ -1,0 +1,89 @@
+{
+  "post_id": "65d49757977bcd0001feee5f",
+  "title": "2018/09/24 Lunch",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/09/24 Lunch",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 large, Egg",
+      "30.00 g, Grapes - Raw",
+      "1 small (2-1/4\" dia), Tangerines, (mandarin oranges), raw",
+      "50 g (1/3 cup), Lean Ground Pork",
+      "1 roll, Steamed Bean Curd Roll With Pork and Veg",
+      "20 gram, Lettuce Iceberg",
+      "15 gram, Salad Topper"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "395",
+      "carbohydrateContent": "29",
+      "fiberContent": "4",
+      "sugarContent": "20",
+      "sodiumContent": "138",
+      "proteinContent": "20",
+      "fatContent": "23",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Boil the egg to your preferred doneness, then peel and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash the grapes and tangerines, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the lean ground pork with your choice of herbs and spices."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the seasoned ground pork in a pan over medium heat for about 10 minutes, until fully cooked."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the steamed bean curd roll according to package instructions."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash the lettuce iceberg and chop it for the salad base."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble the salad by placing the chopped lettuce on a plate, topping it with the cooked ground pork, and adding the steamed bean curd roll slices. Garnish with the salad topper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the prepared egg, grapes, and tangerines on the side to complete your nutritious lunch."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-sodium",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This '2018/09/24 Lunch' recipe is a perfect blend of high-protein and low-sodium ingredients, making it an ideal choice for anyone looking to enjoy healthy, nutritious meals without compromising on taste. Featuring a combination of fresh fruits, lean ground pork, steamed bean curd roll, and crisp iceberg lettuce, this lunch is not only healthy but also delicious and satisfying.",
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "keywords": "high-protein,low-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

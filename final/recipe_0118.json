@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "03/21 Cheap Steak",
+  "image": [
+    "https://healthyfied.me/images/recipes/03/21-cheap-steak.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This '03/21 Cheap Steak' recipe is perfect for those who are looking for a nutritious and delicious meal that's high in protein and fiber, but low in carbs and sodium. It embodies the essence of healthy eating without sacrificing flavor, making it ideal for anyone seeking to maintain a healthy lifestyle through their diet. Whether you're looking for healthy recipes or aiming to healthify your meals, this dish fits perfectly into your culinary repertoire.",
+  "prepTime": "PT20M",
+  "cookTime": "PT22M",
+  "totalTime": "PT42M",
+  "keywords": "high-protein,low-carb,low-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "543",
+    "carbohydrateContent": "18",
+    "fiberContent": "6",
+    "sugarContent": "8",
+    "sodiumContent": "83",
+    "proteinContent": "31",
+    "fatContent": "40",
+    "saturatedFatContent": "4",
+    "monounsaturatedFatContent": "8",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 9,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  tbsp(s) Butter - Unsalted",
+    "1  tbsp(s) Cranberries - Dried, sweetened",
+    "1  tbsp Rosemary, fresh",
+    "1  tsp Thyme, fresh",
+    "180 g Broccoli, raw",
+    "2  tablespoon Oil - Olive",
+    "2  tsp(s) Spices, garlic powder",
+    "400 g Cauliflower - Raw",
+    "5 g Olives",
+    "586 g Rib Eye",
+    "60 g Red",
+    "60 g Carrots, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Cauliflower, Broccoli, Carrots, and Red peppers under cold water.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the Cauliflower and Broccoli into small florets, slice the Carrots, and dice the Red peppers.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the Rib Eye with garlic powder, thyme, and rosemary.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pan, heat the olive oil over medium-high heat and cook the Rib Eye for about 6 minutes on each side for medium-rare.",
+      "cookTime": "PT12M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the steak from the pan and let it rest.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the same pan, melt the butter and add the Cauliflower, Broccoli, Carrots, and Red peppers. Cook over medium heat until they are softened, about 10 minutes.",
+      "cookTime": "PT10M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the Cranberries and Olives to the vegetables and stir well.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the rested Rib Eye and serve with the sautéed vegetables on the side.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowSaltDiet"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Spicy Kimchi Beef Rice with Adlai Grains and Vegetables",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-kimchi-beef-rice.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Healthyfied Kimchi Beef Rice is the perfect combination of savory, spicy, and hearty—a health-conscious take on traditional flavors. Packed with high-protein and reimagined with a high-sodium twist, this dish offers a delicious way to enjoy healthy recipes without sacrificing taste. Ideal for anyone looking to indulge in healthified recipes that are as nourishing as they are flavorful.",
+  "prepTime": "PT15M",
+  "cookTime": "PT40M",
+  "totalTime": "PT55M",
+  "keywords": "high-protein,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "410",
+    "carbohydrateContent": "49",
+    "fiberContent": "4",
+    "sugarContent": "7",
+    "sodiumContent": "713",
+    "proteinContent": "30",
+    "fatContent": "11",
+    "saturatedFatContent": "4",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25 tsp salt",
+    "0.25 tsp ground pepper",
+    "0.25 tsp ginger powder",
+    "1 tsp sesame seeds, whole",
+    "142.5 g adlai rice (job's tears)",
+    "15 g garlic, raw",
+    "190 g kimchi",
+    "268 g steamed vegetables",
+    "285 g ground beef",
+    "3.5 g coco sugar",
+    "55 g red onion",
+    "83 g green capsicum"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place the adlai rice (job's tears) in a large bowl. Add cold water until it covers the rice by about 2.5 cm (1 inch). Using your hand, swirl the rice gently in the water. The water will become cloudy. Carefully pour out this cloudy water, being careful not to pour out the rice. Repeat this process 2-3 times until the water runs relatively clear.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the washed rice to a medium pot. Add 2 cups of water for every 1 cup of adlai rice. Bring to a boil over high heat, then reduce the heat to low, cover with a lid, and simmer for about 20 minutes. The rice is done when it is tender and the water is absorbed. Turn off the heat and keep covered for an additional 5 minutes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the rice is cooking, prepare your vegetables. Peel and finely chop the red onion into small pieces (about 0.5 cm). Peel and mince the garlic into very small pieces. Cut the green capsicum (bell pepper) into small cubes of about 0.5-1 cm.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place a large frying pan or wok over medium heat. Once hot, add the ground beef, breaking it apart with a wooden spoon or spatula. Cook for about 8-10 minutes, stirring occasionally, until the beef is no longer pink and has browned slightly.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chopped onion, minced garlic, and diced green capsicum to the pan with the cooked beef. Also add the sesame seeds, ginger powder, salt, pepper, and coco sugar. Stir everything together and cook for another 5 minutes until the vegetables have softened.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Take the kimchi and chop it into smaller pieces if it's in large chunks. Add the chopped kimchi to the pan with the beef and vegetable mixture. Stir well and cook for 5 more minutes, allowing the flavors to combine. The kimchi will release some liquid and become slightly softer.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the rice is done and has rested, fluff it with a fork. Then add the cooked rice to the pan with the beef and kimchi mixture. If your pan isn't large enough, you can do this in a large mixing bowl instead. Gently fold everything together until well mixed.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Taste the mixture and add more salt or pepper if needed. Transfer the finished kimchi beef rice to serving bowls and enjoy while hot.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/GlutenFreeDiet"
+  ]
+}

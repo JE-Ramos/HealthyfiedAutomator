@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/11/07 Lunch Steak",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/11/07-lunch-steak.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This high-protein, low-carb, low-sodium, and low-sugar lunch steak recipe is a perfect example of a healthified meal that doesn't compromise on flavor. Ideal for those following a healthy diet, this recipe brings out the best in quality porterhouse steak paired with tender asparagus, seasoned perfectly with a hint of pepper and the aromatic presence of garlic and sesame seeds. A must-try for health enthusiasts!",
+  "prepTime": "PT15M",
+  "cookTime": "PT14M",
+  "totalTime": "PT29M",
+  "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "454",
+    "carbohydrateContent": "4",
+    "fiberContent": "2",
+    "sugarContent": "2",
+    "sodiumContent": "100",
+    "proteinContent": "38",
+    "fatContent": "31",
+    "saturatedFatContent": "11",
+    "monounsaturatedFatContent": "14",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 15,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp ground, Pepper",
+    "1  tsp(s) Seeds, sesame seeds, whole, dried",
+    "260 g Asparagus - Raw",
+    "5 g Garlic, raw",
+    "536 g Porterhouse"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your grill or pan over high heat.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Trim the asparagus and, if desired, peel the lower stalks for more uniform cooking.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Crush the garlic and mix with sesame seeds in a small bowl.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rub the porterhouse steak with the garlic and sesame seed mixture, then season with ground pepper.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the steak on the grill or pan, let it cook for about 5 minutes per side for medium-rare, or adjust time based on desired doneness. (Cooking time: PT10M)",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While steak is cooking, steam or grill the asparagus until tender but still crisp, which should take about 3-4 minutes. (Cooking time: PT4M)",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let the steak rest for 5 minutes after cooking to redistribute juices.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the steak alongside or topped with the asparagus.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

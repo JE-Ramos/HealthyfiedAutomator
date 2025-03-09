@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Globe Lunch",
+  "image": [
+    "https://healthyfied.me/images/recipes/globe-lunch.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a nutritious and fulfilling 'Globe Lunch' that's perfect for anyone looking to maintain a healthy diet without compromising on taste. This dish packs a high-protein and low-carb punch, featuring a succulently roasted chicken breast paired with sautéed string beans and a side of corn on the cob. It's an ideal meal for those seeking healthy, delicious options that are low in sugar.",
+  "prepTime": "PT10M",
+  "cookTime": "PT45M",
+  "totalTime": "PT55M",
+  "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "228",
+    "carbohydrateContent": "10",
+    "fiberContent": "4",
+    "sugarContent": "1",
+    "sodiumContent": "367",
+    "proteinContent": "28",
+    "fatContent": "9",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 1,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.03  ear Corn on the Cob",
+    "1  each Roasted Chicken Breast",
+    "150 g Sauteed String Beans"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 375°F (190°C) for roasting the chicken breast.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the chicken breast with salt and pepper, and place it on a baking tray.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roast the chicken breast in the preheated oven until the internal temperature reaches 165°F (74°C), about 25-30 minutes.",
+      "time": "PT30M",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the chicken is roasting, trim the ends off the string beans.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a pan over medium heat and sauté the string beans with a bit of olive oil until tender, about 5-7 minutes.",
+      "time": "PT7M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring a pot of water to a boil and cook the corn on the cob until tender, about 5-8 minutes.",
+      "time": "PT8M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the roasted chicken breast and serve it alongside the sautéed string beans and boiled corn on the cob.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

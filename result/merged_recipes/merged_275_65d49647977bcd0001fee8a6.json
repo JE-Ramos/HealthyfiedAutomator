@@ -1,0 +1,86 @@
+{
+  "post_id": "65d49647977bcd0001fee8a6",
+  "title": "Beef Kangkong In Soy",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Beef Kangkong in Soy",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 teaspoon, Salt",
+      "1 tsp, ground, Pepper",
+      "117 grams, Tomatoes",
+      "200 gram, Ground Beef",
+      "59.00 g, Red Onion",
+      "90.00 g, Water Spinach"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "134",
+      "carbohydrateContent": "3",
+      "fiberContent": "1",
+      "sugarContent": "3",
+      "sodiumContent": "855",
+      "proteinContent": "14",
+      "fatContent": "7",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Begin by dicing the tomatoes and finely chopping the red onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Thoroughly wash the water spinach and chop it into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, cook the ground beef until it is fully browned. This should take about 8 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced tomatoes and chopped red onion to the pan with the beef. Cook together for 5 minutes until the vegetables are softened."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the salt and ground pepper, adjusting the seasoning according to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finally, add the chopped water spinach to the pan, cooking until wilted, about 2 minutes."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-sodium",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Beef Kangkong in Soy recipe is perfect for those following a low-carb and low-sugar diet, but with a mindful note on its high sodium content. Ideal for anyone looking to enjoy healthy yet flavorful dishes, this recipe combines the rich taste of ground beef with the fresh crunch of water spinach, all seasoned with a hint of soy for an irresistible, healthified meal.",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "keywords": "low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_275_65d49647977bcd0001fee8a6.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/275_65d49647977bcd0001fee8a6.json",
+  "original_files": [
+    "275_65d49647977bcd0001fee8a6.json",
+    "278_65d49647977bcd0001fee8a6.json"
+  ]
+}

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{name}}</title>
+    <meta name="description" content="{{description}}">
+</head>
+<body>
+    <article class="recipe">
+        <h1>{{name}}</h1>
+        
+        <div class="recipe-image">
+            <img src="{{image}}" alt="{{name}}">
+        </div>
+        
+        <div class="recipe-description">
+            <p>{{description}}</p>
+        </div>
+        
+        <div class="recipe-meta">
+            <p><strong>Prep Time:</strong> {{prepTime}}</p>
+            <p><strong>Cook Time:</strong> {{cookTime}}</p>
+            <p><strong>Total Time:</strong> {{totalTime}}</p>
+            <p><strong>Servings:</strong> {{recipeYield}}</p>
+            <p><strong>Cuisine:</strong> {{recipeCuisine}}</p>
+            <p><strong>Category:</strong> {{recipeCategory}}</p>
+        </div>
+        
+        <div class="recipe-nutrition">
+            <h3>Nutrition Information</h3>
+            <ul>
+                <li><strong>Calories:</strong> {{nutrition.calories}}</li>
+                <li><strong>Carbohydrates:</strong> {{nutrition.carbohydrateContent}}g</li>
+                <li><strong>Protein:</strong> {{nutrition.proteinContent}}g</li>
+                <li><strong>Fat:</strong> {{nutrition.fatContent}}g</li>
+                <li><strong>Fiber:</strong> {{nutrition.fiberContent}}g</li>
+                <li><strong>Sugar:</strong> {{nutrition.sugarContent}}g</li>
+                <li><strong>Sodium:</strong> {{nutrition.sodiumContent}}mg</li>
+            </ul>
+        </div>
+        
+        <div class="recipe-ingredients">
+            <h3>Ingredients</h3>
+            <ul>
+                {{#each recipeIngredient}}
+                <li>{{this}}</li>
+                {{/each}}
+            </ul>
+        </div>
+        
+        <div class="recipe-instructions">
+            <h3>Instructions</h3>
+            <ol>
+                {{#each recipeInstructions}}
+                <li>{{this.text}}</li>
+                {{/each}}
+            </ol>
+        </div>
+        
+        <div class="recipe-tags">
+            <p><strong>Dietary Information:</strong> 
+                {{#each suitableForDiet}}
+                <span class="diet-tag">{{this}}</span>
+                {{/each}}
+            </p>
+        </div>
+    </article>
+</body>
+</html> 

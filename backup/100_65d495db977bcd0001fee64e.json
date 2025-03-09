@@ -1,0 +1,95 @@
+{
+  "post_id": "65d495db977bcd0001fee64e",
+  "title": "Chopseuy",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Chopseuy",
+    "recipeYield": "12",
+    "recipeIngredient": [
+      "141.00 g, Cauliflower - Raw",
+      "158.00 g, Carrots, raw",
+      "169.00 g, Chinese Cabbage - Pak-Choi (Pechay)",
+      "54.00 g, Red Onion",
+      "81 g, Red",
+      "314.00 g, Broccoli, raw",
+      "199 gram, Young Corn - Cut",
+      "67.00 g, Ground Beef",
+      "203 g (3.5 oz.), White Beech Mushrooms",
+      "4 tsp, Coconut Amino",
+      "2 tsp, Black Pepper - Ground",
+      "1 tbsp (18 g), Panda Brand Oyster Sauce",
+      "13.00 g, Garlic, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "47",
+      "carbohydrateContent": "7",
+      "fiberContent": "3",
+      "sugarContent": "3",
+      "sodiumContent": "164",
+      "proteinContent": "3",
+      "fatContent": "1",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Cauliflower, Carrots, Chinese Cabbage (Pak-Choi), Red Onion, Red Bell Pepper, Broccoli, Young Corn under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the cauliflower, carrots, broccoli, and young corn into bite-sized pieces. Slice the Chinese cabbage, red onion, and red bell pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pan, cook the ground beef over medium heat until browned, about 5-7 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the minced garlic to the beef and cook for another 2 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the white beech mushrooms, cauliflower, carrots, broccoli, and young corn, cooking for 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced pak-choi, red onion, and red bell pepper to the pan, cooking for another 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the chopseuy with coconut amino, black pepper, and oyster sauce. Stir well and cook for an additional 5 minutes."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "Indulge in the goodness of a 'Healthyfied Chopseuy', a perfect blend of fresh vegetables and lean ground beef, making it a low-carb and low-sugar delight. This recipe caters to those seeking to maintain a healthy lifestyle without compromising on flavor. Packed with nutrients and designed for healthy eating, this chopseuy is not just a meal; it's a step towards a healthier you.",
+    "prepTime": "PT15M",
+    "cookTime": "PT22M",
+    "totalTime": "PT37M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

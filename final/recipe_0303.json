@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Creamy egg bellpepper sesame",
+  "image": [
+    "https://healthyfied.me/images/recipes/creamy-egg-bellpepper-sesame.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a savory and healthy meal with our Creamy Egg Bell Pepper Sesame recipe. Tailored for those following a low-carb, low-sodium, and low-sugar diet, this dish emanates a perfect blend of nutritious ingredients. It promises a delightful culinary experience, making it an excellent choice for health-conscious individuals seeking flavorful yet wholesome meals.",
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "84",
+    "carbohydrateContent": "5",
+    "fiberContent": "1",
+    "sugarContent": "3",
+    "sodiumContent": "59",
+    "proteinContent": "5",
+    "fatContent": "5",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.19  tsp(s) Salt",
+    "1  tsp Oil - Sesame",
+    "1  tsp ground, Pepper",
+    "127 g Yellow, Raw",
+    "2 large Egg",
+    "89 g Red"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Thoroughly wash the yellow and red bell peppers under cold water.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the yellow and red bell peppers into thin strips.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl, beat the eggs with salt and ground pepper until well combined.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the sesame oil in a pan over medium heat.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sliced bell peppers to the pan and sauté for about 5 minutes, until they are soft.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the beaten egg mixture over the sautéed peppers. Let it cook without stirring for 2-3 minutes, until the eggs start to set.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Gently stir the mixture, ensuring the eggs are fully cooked and creamy, about 2 more minutes.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

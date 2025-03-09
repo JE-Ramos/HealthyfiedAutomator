@@ -1,0 +1,102 @@
+{
+  "post_id": "65d4971d977bcd0001feed2c",
+  "title": "2018/10/19 Dinner Chicken Paprika",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/19 Dinner Chicken Paprika",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 tsp(s), Spices, cumin seed",
+      "1 tsp, Spices, paprika",
+      "1.50 tbsp, Butter (Salted)",
+      "10.00 g, Garlic, raw",
+      "100 g, Eggplant, raw",
+      "15 gram, Cheese - Parmesan, shredded",
+      "250 g, Fresh Baby Potatoes",
+      "250 gram, Chicken",
+      "3 large, Egg",
+      "30.00 g, Red Onion",
+      "60 g, Red",
+      "90 g, Capsicum - Green"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "321",
+      "carbohydrateContent": "25",
+      "fiberContent": "4",
+      "sugarContent": "6",
+      "sodiumContent": "296",
+      "proteinContent": "28",
+      "fatContent": "14",
+      "saturatedFatContent": "6",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven for roasting baby potatoes at 200°C (400°F)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash the baby potatoes and cut them into halves. Place them on a baking tray, drizzle with a bit of oil and season with salt. Roast in the oven until golden and tender, about 25 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the potatoes are roasting, dice the red onion, chop the capsicum (green and red), and slice the eggplant."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crush the garlic and cut the chicken into bite-size pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter in a large pan over medium heat, add the garlic, onion, and chicken. Season with paprika and cumin. Cook until the chicken is browned and cooked through, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the capsicum and eggplant to the pan. Cook until the vegetables are soft, about 5-7 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat the eggs in a bowl, then pour over the chicken and vegetable mixture in the pan. Allow the egg to set slightly before stirring to combine everything, cook for another 3-4 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle shredded Parmesan cheese over the top and let it melt into the hot chicken and vegetable mix."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the chicken paprika hot with the roasted baby potatoes on the side."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This high-protein, healthified dinner recipe featuring Chicken Paprika is perfect for those looking to enjoy a hearty, nutritious meal. Packed with rich spices like paprika and cumin, and loaded with vegetables such as capsicum, onion, and eggplant, this dish is not only flavorful but also contributes to a healthy diet. Topped with parmesan cheese and served alongside baby potatoes, it's a well-rounded meal that's sure to satisfy.",
+    "prepTime": "PT20M",
+    "cookTime": "PT45M",
+    "totalTime": "PT65M",
+    "keywords": "high-protein,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_180_65d4971d977bcd0001feed2c.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/180_65d4971d977bcd0001feed2c.json",
+  "original_files": [
+    "180_65d4971d977bcd0001feed2c.json",
+    "177_65d4971d977bcd0001feed2c.json"
+  ]
+}

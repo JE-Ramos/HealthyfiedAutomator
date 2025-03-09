@@ -1,0 +1,82 @@
+{
+  "post_id": "65d497a0977bcd0001feef99",
+  "title": "2010/10/10 Lunch",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2010/10/10 Lunch",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "40.00 g, Red Onion",
+      "13.00 g, Garlic, raw",
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "190 g, Adlai Rice (Job's Tears)",
+      "400 g, Amapalaya (Bitter Gourd)",
+      "200 grams, Belly"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "505",
+      "carbohydrateContent": "53",
+      "fiberContent": "4",
+      "sugarContent": "1",
+      "sodiumContent": "413",
+      "proteinContent": "16",
+      "fatContent": "23",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Finely dice the Red Onion. Mince the Garlic. Slice the Amapalaya (Bitter Gourd) into thin strips. Cut the Belly into bite-size pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Adlai Rice under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Adlai Rice according to package instructions until tender, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, saut\u00e9 the Red Onion and Garlic until soft, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced Amapalaya (Bitter Gourd) to the pan and cook until it begins to soften, about 8 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the Belly pieces with Salt and Pepper, then add to the pan. Cook until the meat is browned and fully cooked, around 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cooked meat and vegetables with the Adlai Rice. Stir everything together until well combined. Adjust seasoning with Salt and Pepper, if necessary."
+      }
+    ],
+    "tags": [
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [],
+    "description": "This 2010/10/10 Lunch recipe is perfect for those seeking healthy, high-sodium, low-sugar options. Featuring Adlai Rice, Amapalaya (Bitter Gourd), and Belly, this dish is a nutritious choice for anyone following Healthyfied or Healthified Recipes diets.",
+    "prepTime": "PT20M",
+    "cookTime": "PT23M",
+    "totalTime": "PT43M",
+    "keywords": "high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

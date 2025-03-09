@@ -1,0 +1,90 @@
+{
+  "post_id": "65d496be977bcd0001feeb43",
+  "title": "Chicken Rosemary Thyme",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Chicken Rosemary Thyme",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "720 g, Fillets",
+      "0.50 tbsp, Butter - Salted",
+      "22.00 g, Garlic, raw",
+      "1 tsp, leaves, Spices, thyme, dried",
+      "1 tsp(s), Spices, rosemary, dried"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "231",
+      "carbohydrateContent": "2",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "11",
+      "proteinContent": "40",
+      "fatContent": "7",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375\u00b0F (190\u00b0C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pat the chicken fillets dry with paper towels to ensure proper seasoning."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix the minced garlic, dried thyme, and dried rosemary."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rub the chicken fillets with the butter, then coat evenly with the garlic, thyme, and rosemary mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the seasoned chicken fillets in a baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 25 minutes, or until the chicken is cooked through and the juices run clear.",
+        "time": "PT25M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the chicken rest for a few minutes before serving to allow the juices to redistribute."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Chicken Rosemary Thyme recipe is the epitome of a wholesome, nutritious meal, perfectly suitable for health-conscious individuals. Featuring high-protein, low-carb, low-sodium, and low-sugar ingredients, it's crafted to cater to those pursuing a healthy lifestyle without compromising on flavor. Each bite is infused with the aromatic essences of rosemary and thyme, promising a delightful culinary experience.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

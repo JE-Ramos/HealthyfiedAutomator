@@ -1,0 +1,93 @@
+{
+  "post_id": "65d496a4977bcd0001feeaa7",
+  "title": "Low Cal Refreshing Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Low Cal Refreshing Salad",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 medium, Carrots, raw",
+      "0.50 cup, Ice Burg Lettuce",
+      "1 large egg, Egg Hard Boiled Large",
+      "0.50 cucumber (8-1/4\"), Cucumber - With peel, raw",
+      "6 almond, Nuts, almonds",
+      "2 sticks (86 g), Ichiban Alaskan Crab Flavored",
+      "0.25 cup (120g) drained, Young Corn - Cut"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "208",
+      "carbohydrateContent": "21",
+      "fiberContent": "5",
+      "sugarContent": "8",
+      "sodiumContent": "408",
+      "proteinContent": "14",
+      "fatContent": "9",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "4",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 6,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel and slice the carrot."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash and chop the Ice Burg Lettuce."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and slice the cucumber."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roughly chop the almonds."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the Ichiban Alaskan Crab Flavored sticks."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain and slice the young corn."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the hard-boiled egg."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large salad bowl, combine the sliced carrot, chopped lettuce, sliced cucumber, chopped almonds, sliced crab flavored sticks, sliced young corn, and sliced hard-boiled egg. Toss gently to mix.",
+        "image": "https://example.com/photos/1x1/photo.jpg"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve immediately for the freshest taste. Enjoy your Low Cal Refreshing Salad!"
+      }
+    ],
+    "tags": [
+      "high-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into a fresh and Healthyfied journey with our Low Cal Refreshing Salad! Perfect for those who relish balanced meals, this salad is packed with high-fiber ingredients and a tantalizing mix that caters to your health-conscious palate. Ideal for anyone looking for Healthy Recipes without compromising on flavor. Its vibrant ingredients, including carrots, lettuce, hard-boiled eggs, cucumber, almonds, Alaskan crab flavored sticks, and young corn, make it a delightful choice for a nutritious meal.",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "totalTime": "PT15M",
+    "keywords": "high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

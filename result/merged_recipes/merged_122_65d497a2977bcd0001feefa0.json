@@ -1,0 +1,94 @@
+{
+  "post_id": "65d497a2977bcd0001feefa0",
+  "title": "Healthyfied Creamy Parmesan Garlic Salmon",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Creamy Parmesan Garlic Salmon",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 tsp(s), Salt",
+      "0.25 tsp, ground, Pepper",
+      "0.33 cup(s), Grated Parmesan Cheese",
+      "10 gram(s), Butter - Unsalted",
+      "10.00 g, Garlic, raw",
+      "140 ml, Sterilized full cream milk",
+      "2 tablespoon, Oil - Olive",
+      "20.00 g, Spinach - Raw",
+      "500 gram, Salmon Fillets",
+      "80 gram, Original",
+      "80.00 grams, Raw Red Spinach"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "505",
+      "carbohydrateContent": "6",
+      "fiberContent": "1",
+      "sugarContent": "3",
+      "sodiumContent": "652",
+      "proteinContent": "52",
+      "fatContent": "31",
+      "saturatedFatContent": "15",
+      "monounsaturatedFatContent": "7",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 8,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare all your ingredients: Rinse and dry the raw red and spinach. Mince the garlic. Measure out the milk, butter, salt, pepper, olive oil, parmesan cheese, and have the salmon fillets ready."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet, heat the olive oil over medium heat. Season the salmon fillets with salt and pepper, then cook for about 4-5 minutes on each side or until golden and cooked through. This should take approximately 10 minutes. Transfer the salmon to a plate and cover to keep warm."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same skillet, add the butter. Once melted, add the minced garlic and sauté for 1-2 minutes until fragrant."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lower the heat, and slowly add the sterilized full cream milk to the skillet, stirring constantly. Then, stir in the grated parmesan cheese until melted and the sauce begins to thicken."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return the salmon fillets to the skillet, spooning the creamy garlic parmesan sauce over them. Continue to cook for an additional 2-3 minutes, allowing the salmon to soak up the flavors of the sauce."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Meanwhile, quickly sauté the red and raw spinach in a separate pan with a dash of olive oil, just until wilted, approximately 2-3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the salmon fillets hot, topped with the sautéed spinach and extra sauce from the skillet. Enjoy your Healthyfied Creamy Parmesan Garlic Salmon!"
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "high-sodium",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [],
+    "description": "Indulge in the flavors of our Healthyfied Creamy Parmesan Garlic Salmon, crafted to satisfy your cravings for a high-protein, low-carb meal. Perfect for those monitoring their sodium and sugar intake, this recipe blends the richness of salmon with the freshness of spinach, all coated in a heavenly creamy garlic parmesan sauce. Elevate your dining experience with this nutritious dish that doesn't compromise on taste.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_122_65d497a2977bcd0001feefa0.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/122_65d497a2977bcd0001feefa0.json",
+  "original_files": [
+    "122_65d497a2977bcd0001feefa0.json",
+    "125_65d497a2977bcd0001feefa0.json"
+  ]
+}

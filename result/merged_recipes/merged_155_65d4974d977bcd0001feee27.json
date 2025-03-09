@@ -1,0 +1,81 @@
+{
+  "post_id": "65d4974d977bcd0001feee27",
+  "title": "Scrambled Egg With Bacon Mushroom",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "scrambled egg with bacon mushroom",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.25 cup, shredded, Cheddar cheese",
+      "100 g, Button Mushroom",
+      "2 medium, Egg",
+      "25 g, Raw Bacon"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "376",
+      "carbohydrateContent": "8",
+      "fiberContent": "3",
+      "sugarContent": "4",
+      "sodiumContent": "983",
+      "proteinContent": "23",
+      "fatContent": "28",
+      "saturatedFatContent": "11",
+      "monounsaturatedFatContent": "10",
+      "polyunsaturatedFatContent": "4",
+      "unsaturatedFatContent": 14,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop the bacon into small pieces. Slice the button mushrooms."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a non-stick skillet over medium heat, cook the chopped bacon for about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced mushrooms to the skillet and cook with bacon for another 5 minutes until the mushrooms are soft."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat the eggs in a bowl. Add the shredded cheddar cheese to the beaten eggs and mix well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the egg and cheese mixture into the skillet with the bacon and mushrooms. Stir gently for about 3-4 minutes or until the eggs are fully cooked and scrambled."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "high-sodium",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This scrambled egg with bacon mushroom recipe is perfect for those who are looking for a high-protein, low-carb meal. Being low in sugar yet high in sodium, it's a great option for individuals following a healthy diet, or anyone wanting to enjoy a 'healthified' version of a classic breakfast dish. Dive into a delicious start to your day with this satisfying combination of eggs, bacon, mushroom, and cheese.",
+    "prepTime": "PT10M",
+    "cookTime": "PT13M",
+    "totalTime": "PT23M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_155_65d4974d977bcd0001feee27.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/155_65d4974d977bcd0001feee27.json",
+  "original_files": [
+    "155_65d4974d977bcd0001feee27.json",
+    "152_65d4974d977bcd0001feee27.json"
+  ]
+}

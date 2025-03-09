@@ -1,0 +1,102 @@
+{
+  "post_id": "65d4961e977bcd0001fee7d4",
+  "title": "Dory Blossom Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Dory Blossom Salad",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 Carrot Medium, Medium Carrot",
+      "1 fillet, Cream Dory",
+      "1 tbsp, leaves, Spices, basil, dried",
+      "133 g, Cucumber",
+      "2 cup, Chopped Romaine",
+      "25 g, Green Bellpepper",
+      "25 g, Yellow Bellpepper",
+      "50 gram, Extra Firm",
+      "50 grams, Tomatoes"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "105",
+      "carbohydrateContent": "14",
+      "fiberContent": "3",
+      "sugarContent": "3",
+      "sodiumContent": "473",
+      "proteinContent": "7",
+      "fatContent": "3",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Begin by washing all the vegetables - romaine, carrot, cucumber, yellow bell pepper, and green bell pepper. Pat them dry."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the romaine, peel and cut the carrot into thin slices, and thinly slice the cucumber, yellow bell pepper, and green bell pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the tomatoes and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the cream dory fillet with a pinch of salt and pepper, according to your taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a non-stick pan over medium heat and cook the cream dory fillet until golden and cooked through, about 4-5 minutes each side."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the fillet cool for a few minutes, then flake it using a fork."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the chopped romaine, sliced carrot, cucumber, bell peppers, diced tomatoes, flaked dory, and extra firm tofu (cut into cubes)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle dried basil over the salad and gently toss to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the salad fresh and enjoy a burst of health in every bite."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-sodium",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "Indulge in a healthy and refreshing Dory Blossom Salad, perfect for those following a low-carb and low-sugar diet without compromising on flavor. This salad combines the succulence of cream dory with the crunch of fresh vegetables and the aromatic touch of basil, making it a must-try dish.",
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "keywords": "low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_298_65d4961e977bcd0001fee7d4.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/298_65d4961e977bcd0001fee7d4.json",
+  "original_files": [
+    "298_65d4961e977bcd0001fee7d4.json",
+    "295_65d4961e977bcd0001fee7d4.json"
+  ]
+}

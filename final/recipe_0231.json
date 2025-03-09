@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken Squash Soup",
+  "image": [
+    "https://healthyfied.me/images/recipes/chicken-squash-soup.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in the savory delight of our Chicken Squash Soup, a heartwarming blend that embodies health and taste. Perfect for those seeking a high-protein, low-carb meal, this soup promises a nutritional boost with low sugar content and the wholesome goodness of ingredients like pumpkin and Moringa Oleifera leaves. A treasure trove for anyone on a health journey, especially tailored for those following a healthy lifestyle.",
+  "prepTime": "PT15M",
+  "cookTime": "PT35M",
+  "totalTime": "PT50M",
+  "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "2",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "208",
+    "carbohydrateContent": "8",
+    "fiberContent": "1",
+    "sugarContent": "3",
+    "sodiumContent": "434",
+    "proteinContent": "30",
+    "fatContent": "6",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  teaspoon Salt",
+    "0.25  tsp ground, Pepper",
+    "1 g Moringa Oleifera Leaves",
+    "126 g Pumpkin, raw",
+    "15 g Garlic, raw",
+    "18 g Fresh Turmeric Root",
+    "300 g chicken",
+    "57 g Red Onion"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the ingredients: Cut the chicken into small pieces; dice the red onion; mince the garlic; peel and grate the fresh turmeric root; wash and chop the Moringa Oleifera leaves; cube the pumpkin.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot, combine the chicken, red onion, garlic, salt, pepper, and grated turmeric root. Add enough water to cover the ingredients.",
+      "time": "PT0M",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring to a boil over medium heat, then reduce to a simmer, cooking for 20 minutes until the chicken is tender.",
+      "time": "PT20M",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cubed pumpkin to the pot and simmer for another 10 minutes until the pumpkin is soft.",
+      "time": "PT10M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the Moringa Oleifera leaves and cook for an additional 5 minutes.",
+      "time": "PT5M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Taste and adjust seasoning with more salt and pepper if needed. Serve hot.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

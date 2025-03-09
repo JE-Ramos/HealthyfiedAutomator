@@ -1,0 +1,93 @@
+{
+  "post_id": "65d4963b977bcd0001fee864",
+  "title": "Soy Free Beef Steak",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Soy Free Beef Steak",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "1 tsp (5g) (1/2 tsp= clove), Spice World",
+      "300 grams, Lean Beef",
+      "60 g, White Onion Raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "126",
+      "carbohydrateContent": "2",
+      "fiberContent": "0",
+      "sugarContent": "2",
+      "sodiumContent": "264",
+      "proteinContent": "23",
+      "fatContent": "3",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the 60g of white onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the 300 grams of lean beef evenly with 0.25 teaspoon of salt, 0.25 teaspoon of ground pepper, and 1 teaspoon of Spice World."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the seasoned beef sit for 10 minutes to absorb the flavors."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a grill or skillet over medium-high heat.",
+        "image": "Cooking time: 5 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the beef for 4-5 minutes on each side for medium-rare, or until desired doneness.",
+        "image": "Cooking time: 8-10 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the beef from the heat and let it rest for 5 minutes.",
+        "image": "Cooking time: 5 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve hot, garnished with the sliced white onions."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "Indulge in a high-protein, low-carb, and low-sugar delight with our Healthyfied Soy Free Beef Steak. Perfect for those seeking nutritious yet delicious healthy recipes, this dish promises to be a flavorful journey into health-conscious dining.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_080_65d4963b977bcd0001fee864.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/080_65d4963b977bcd0001fee864.json",
+  "original_files": [
+    "080_65d4963b977bcd0001fee864.json",
+    "077_65d4963b977bcd0001fee864.json"
+  ]
+}

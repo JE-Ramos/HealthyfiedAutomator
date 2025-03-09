@@ -1,0 +1,93 @@
+{
+  "post_id": "65d49682977bcd0001fee9f2",
+  "title": "2019/01/05 Salad Stop Make Your Own",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2019/01/05 Salad Stop Make Your Own",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.06 cup, Lentils, raw",
+      "1 large, Egg",
+      "10.00 g, Cabbage, red, raw",
+      "10.00 gram, Olives",
+      "15 g (1 mediano), Pomelo",
+      "15 g, Baby Leaf Rocket",
+      "15 g, Beans",
+      "15.00 g, Beet Root",
+      "15.00 g, Spinach - Raw",
+      "30.00 g, Broccoli, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "180",
+      "carbohydrateContent": "20",
+      "fiberContent": "5",
+      "sugarContent": "3",
+      "sodiumContent": "144",
+      "proteinContent": "13",
+      "fatContent": "6",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the spinach, cabbage, beet root, and broccoli under cold water until clean."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the lentils and beans in boiling water according to package instructions until tender, then drain. Estimated time: 20 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and section the pomelo."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil the egg until hard-boiled, approximately 10 minutes, then cool, peel, and slice or chop."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the olives, beet root, and broccoli into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large salad bowl, combine the spinach, shredded red cabbage, chopped olives, lentils, beans, beet root, broccoli, pomelo sections, and baby leaf rocket. Toss gently to mix."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the salad with sliced egg and serve fresh."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into a bowl of freshness with our '2019/01/05 Salad Stop Make Your Own' recipe, a delightful mix perfect for those who love low-sugar, high-fiber meals. This healthy recipe combines an assortment of greens and beans, promising a nutritious punch in every bite. Ideal for anyone following a health-conscious lifestyle!",
+    "prepTime": "PT20M",
+    "cookTime": "PT30M",
+    "totalTime": "PT50M",
+    "keywords": "low-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_246_65d49682977bcd0001fee9f2.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/246_65d49682977bcd0001fee9f2.json",
+  "original_files": [
+    "246_65d49682977bcd0001fee9f2.json",
+    "243_65d49682977bcd0001fee9f2.json"
+  ]
+}

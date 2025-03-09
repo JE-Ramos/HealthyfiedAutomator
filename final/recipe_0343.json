@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Adobong Sitaw",
+  "image": [
+    "https://healthyfied.me/images/recipes/adobong-sitaw.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Adobong Sitaw offers a healthy twist on a traditional Filipino favorite, ideal for those on a low-carb, low-sugar diet but who don't mind a bit of a sodium kick. This dish is perfect for anyone looking to enjoy classic flavors in a healthified way.",
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "keywords": "low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "21",
+    "carbohydrateContent": "4",
+    "fiberContent": "2",
+    "sugarContent": "1",
+    "sodiumContent": "628",
+    "proteinContent": "1",
+    "fatContent": "0",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp(s) Salt",
+    "1  tsp ground, Spices, pepper, black",
+    "2  tsp(s) Soy Sauce",
+    "40 g Fresh String Beans"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the fresh string beans by trimming the ends and cutting them into 2-inch lengths.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan, heat a tablespoon of oil over medium heat.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the prepared string beans to the pan and sauté for about 5 minutes, or until they start to soften.",
+      "time": "PT5M",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the string beans with soy sauce, ground black pepper, and salt. Stir well to combine.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Continue to cook the string beans for another 5 minutes until they are fully cooked and the flavors are well blended.",
+      "time": "PT5M",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

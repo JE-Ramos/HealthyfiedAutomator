@@ -1,0 +1,108 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Tomato Spinach Fusilli Pasta",
+  "image": [
+    "https://healthyfied.me/images/recipes/tomato-spinach-fusilli-pasta.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a delicious and healthy Tomato Spinach Fusilli Pasta that's perfect for those seeking high-sodium, low-sugar meal options. This healthified recipe combines the luscious flavors of fresh tomatoes, nutritious spinach, and perfectly cooked fusilli, topped with a sprinkle of Parmesan cheese to create a wholesome dish.",
+  "prepTime": "PT10M",
+  "cookTime": "PT8M",
+  "totalTime": "PT18M",
+  "keywords": "high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "206",
+    "carbohydrateContent": "36",
+    "fiberContent": "3",
+    "sugarContent": "3",
+    "sodiumContent": "588",
+    "proteinContent": "6",
+    "fatContent": "4",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "3",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  cup Spinach - Raw",
+    "0.50  tbsp Cheese - Parmesan, shredded",
+    "1  tbsp , Extra Virgin Olive Oil",
+    "1  teaspoon Pepper",
+    "1  tsp Salt",
+    "1.50  cup Tomato.",
+    "2  cup cooked, Fusilli-cooked",
+    "2  tbsp(s) Garlic Powder"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the ingredients: Wash and chop the tomatoes, rinse the spinach, and grate the Parmesan cheese if not pre-shredded.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot, bring water to a boil and cook fusilli according to package instructions until al dente, then drain and set aside.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet, heat the extra virgin olive oil over medium heat.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add garlic powder to the skillet and sauté for 1 minute.",
+      "time": "PT1M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chopped tomatoes to the skillet and cook until they start to break down, about 5 minutes.",
+      "time": "PT5M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the spinach to the skillet and cook until wilted, about 2 minutes.",
+      "time": "PT2M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the vegetable mixture with salt and pepper.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cooked fusilli to the skillet, toss well to combine with the tomato and spinach mixture.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the pasta sprinkled with shredded Parmesan cheese.",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

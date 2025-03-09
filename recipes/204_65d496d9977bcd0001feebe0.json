@@ -1,0 +1,92 @@
+{
+  "post_id": "65d496d9977bcd0001feebe0",
+  "title": "2018/10/09 Dinner Vegetables (Meat Is Chicken Tomato)",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/09 Dinner Vegetables (Meat is Chicken Tomato)",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "400 g, Cauliflower - Raw",
+      "200 g, Broccoli, raw",
+      "6 large, Egg",
+      "60 g, Red",
+      "60 g, Yellow, Raw",
+      "30.00 g, Capsicum - Green",
+      "0.25 teaspoon, Salt",
+      "15 g (1 Tbsp), Butter Unsalted",
+      "1 tbsp, leaves, Spices, thyme, dried"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "256",
+      "carbohydrateContent": "17",
+      "fiberContent": "6",
+      "sugarContent": "7",
+      "sodiumContent": "401",
+      "proteinContent": "18",
+      "fatContent": "14",
+      "saturatedFatContent": "6",
+      "monounsaturatedFatContent": "5",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 7,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375\u00b0F (190\u00b0C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the cauliflower and broccoli under cold water, then chop them into bite-sized florets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the red, yellow, and green capsicum."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, whisk the eggs and season with salt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grease a baking dish with butter, then add the chopped vegetables. Pour the whisked eggs over the vegetables evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the dried thyme leaves over the top."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 30-35 minutes, or until the eggs are set and the vegetables are tender.",
+        "time": "PT35M"
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "high-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This delicious dinner is perfect for those on a low-carb, high-fiber diet. Featuring vegetables like cauliflower, broccoli, and colorful bell peppers, and enriched with the protein from eggs, and the unique flavor of thyme, this meal is 'healthyfied' to keep you satisfied in the healthiest way possible.",
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "suiteableForDiet": [
+      "http://schema.org/LowCarbDiet",
+      "http://schema.org/HighFiberDiet"
+    ],
+    "keywords": "low-carb,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

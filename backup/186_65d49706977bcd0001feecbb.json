@@ -1,0 +1,90 @@
+{
+  "post_id": "65d49706977bcd0001feecbb",
+  "title": "No Milk Chicken Sopas",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "No Milk Chicken Sopas",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "300 gram, Chicken   Legs  and  thighs",
+      "128.00 g, Cabbage, raw",
+      "213.00 g, Carrots, raw",
+      "16 clove, Garlic, raw",
+      "84.00 g, Red Onion",
+      "100 g, Calendula Noodles"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "301",
+      "carbohydrateContent": "40",
+      "fiberContent": "4",
+      "sugarContent": "6",
+      "sodiumContent": "334",
+      "proteinContent": "25",
+      "fatContent": "5",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the chicken legs and thighs under cold water and pat dry."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the cabbage and carrots, and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the red onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, bring water to a boil and add the chicken legs and thighs. Cook for about 25 minutes until the chicken is fully cooked."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the chicken from the pot and shred it into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same pot, saut\u00e9 the garlic and red onion until fragrant."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced cabbage and carrots to the pot and cook until they are softened."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return the shredded chicken to the pot and add the Calendula noodles. Cook until the noodles are tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the soup to taste with salt and pepper. Serve hot."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a heartwarming bowl of No Milk Chicken Sopas. Perfect for those looking for a high-protein and healthier twist on traditional recipes. This nourishing soup, part of our Healthyfied collection, is sure to satisfy your craving for comfort food.",
+    "prepTime": "PT20M",
+    "cookTime": "PT35M",
+    "totalTime": "PT55M",
+    "keywords": "high-protein,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

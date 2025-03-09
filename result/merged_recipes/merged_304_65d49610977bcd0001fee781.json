@@ -1,0 +1,82 @@
+{
+  "post_id": "65d49610977bcd0001fee781",
+  "title": "2018/11/08 Dinner Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/11/08 Dinner Salad",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "3.00 g, Coco sugar",
+      "3.00 g, Garlic, raw",
+      "30 grams, Greek Yogurt Plain",
+      "300 g, Cabbage, raw",
+      "380.00 g, Carrots, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "91",
+      "carbohydrateContent": "20",
+      "fiberContent": "6",
+      "sugarContent": "10",
+      "sodiumContent": "303",
+      "proteinContent": "3",
+      "fatContent": "1",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash the cabbage and carrots thoroughly under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the cabbage and grate the carrots, then combine in a large salad bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix together Greek yogurt, minced garlic, coco sugar, salt, and pepper until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the yogurt dressing over the cabbage and carrot mixture. Toss until all ingredients are well coated with the dressing."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "Delight in the fresh, high-fiber essence of our 2018/11/08 Dinner Salad. A harmonious blend of raw cabbage and carrots, seasoned with a twist of salt, pepper, and a hint of coco sugar. Infused with the creamy richness of Greek yogurt and the pungent kick of raw garlic, this salad is a testament to healthy, yet scrumptious dining. Perfect for anyone on a quest for Healthy Recipes that do not compromise on flavor, this Healthified salad will invigorate your meal with its nutritious goodness.",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "totalTime": "PT15M",
+    "keywords": "high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_304_65d49610977bcd0001fee781.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/304_65d49610977bcd0001fee781.json",
+  "original_files": [
+    "304_65d49610977bcd0001fee781.json",
+    "301_65d49610977bcd0001fee781.json"
+  ]
+}

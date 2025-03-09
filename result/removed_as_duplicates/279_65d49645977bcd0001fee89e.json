@@ -1,0 +1,84 @@
+{
+  "post_id": "65d49645977bcd0001fee89e",
+  "title": "Beef Egg Patty (One Patty Per Serving About 3\u201d Dia)",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Beef Egg Patty (One Patty per Serving About 3\u201d Dia)",
+    "recipeYield": "8",
+    "recipeIngredient": [
+      "3 medium, Egg",
+      "50 grams, Onion",
+      "15.00 g, Garlic, raw",
+      "1 tsp, Spices, marjoram, dried",
+      "1 tsp (0 g), Herb - Taragon (Dried)",
+      "1 tsp(s), Salt",
+      "1 tsp, ground (2.3 g), Black Pepper - Ground",
+      "555 gram, Lean Ground Beef"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "134",
+      "carbohydrateContent": "2",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "87",
+      "proteinContent": "16",
+      "fatContent": "6",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Finely dice the onion and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, beat the eggs lightly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced onion, minced garlic, marjoram, tarragon, salt, black pepper, and lean ground beef to the bowl with the beaten eggs. Mix thoroughly until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a skillet or non-stick pan over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Scoop out a portion of the beef and egg mixture and form into a patty approximately 3\u201d in diameter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the patty in the preheated skillet, cooking for 5 minutes on each side or until fully cooked through.",
+        "time": "PT10M"
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Beef Egg Patty recipe is perfect for those following a low-carb, low-sodium, and low-sugar diet. It is a healthy take on a classic dish, aiming to provide a nutritious meal without sacrificing flavor. Ideal for everyone looking to maintain a healthy lifestyle with delicious, healthified recipes.",
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

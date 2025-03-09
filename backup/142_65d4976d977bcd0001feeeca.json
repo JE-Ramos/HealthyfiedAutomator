@@ -1,0 +1,92 @@
+{
+  "post_id": "65d4976d977bcd0001feeeca",
+  "title": "Ground Beef With Cheese",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Ground Beef with Cheese",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "800 g, Cauliflower",
+      "24 tomato, One Single Cherry Tomato",
+      "30 gram, Creme Cheese Spread",
+      "0.25 tsp, Salt",
+      "0.25 tsp, ground, Black pepper",
+      "1 lemon yields, Lemon juice, raw",
+      "30 g, Butter",
+      "600 g, Ground Beef",
+      "0.25 cup, Milk - Whole, 3.25% milkfat"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "419",
+      "carbohydrateContent": "16",
+      "fiberContent": "5",
+      "sugarContent": "29",
+      "sodiumContent": "339",
+      "proteinContent": "37",
+      "fatContent": "25",
+      "saturatedFatContent": "11",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375\u00b0F (190\u00b0C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the cauliflower under cold water and chop it into small florets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring a pot of water to a boil and blanch the cauliflower florets for about 5 minutes until tender. Drain well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, combine the blanched cauliflower, cream cheese spread, salt, black pepper, lemon juice, butter, and milk. Mash the ingredients together until smooth, for approximately 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet over medium heat, cook the ground beef until browned and no longer pink, about 15 minutes. Season with salt and pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon the cooked ground beef into a baking dish as the first layer. Top it with the cauliflower and cheese mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the cherry tomatoes and arrange them on top of the cauliflower mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 20 minutes, until the top is golden and bubbly."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sugar",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a healthy twist on comfort food with our Ground Beef with Cheese recipe. Rich in protein and fiber, this low-carb dish is perfect for those seeking a nutritious yet satisfying meal. Featuring succulent ground beef, creamy cheese spread, and a touch of lemon for zest, it's a high-fiber, high-protein choice that doesn't skimp on flavor. Perfect for anyone on a health-conscious journey without sacrificing taste.",
+    "prepTime": "PT25M",
+    "cookTime": "PT35M",
+    "totalTime": "PT60M",
+    "keywords": "high-protein,low-carb,high-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

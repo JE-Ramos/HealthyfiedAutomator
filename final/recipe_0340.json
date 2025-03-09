@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Eggplant in Caramelized Tomato",
+  "image": [
+    "https://healthyfied.me/images/recipes/eggplant-in-caramelized-tomato.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Eggplant in Caramelized Tomato recipe is a low-carb, low-sodium, and low-sugar delight that fits perfectly into a healthy lifestyle. Considered among healthy recipes, this dish is packed with flavors that are sure to please anyone looking to eat well without sacrificing taste.",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "32",
+    "carbohydrateContent": "7",
+    "fiberContent": "3",
+    "sugarContent": "4",
+    "sodiumContent": "7",
+    "proteinContent": "1",
+    "fatContent": "0",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup Tomato Puree",
+    "10 g Garlic, raw",
+    "200 g Eggplant, raw",
+    "60 g Red Onion"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Begin by slicing the 200g of raw eggplant into rounds or strips, depending on your preference.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finely chop 60g of red onion and 10g of raw garlic, setting them aside for later use.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a non-stick skillet over medium heat, sauté the chopped onion and garlic until they start to soften and become fragrant, about 3 minutes.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sliced eggplant to the skillet and cook until the eggplant is tender and slightly browned, approximately 8 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour 0.25 cup of tomato puree over the cooked eggplant. Stir well to ensure the eggplant slices are fully coated with the tomato puree.",
+      "cookTime": "PT5M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Continue cooking the eggplant in the tomato puree, allowing the mixture to simmer until the puree has caramelized onto the eggplant, about 7 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from heat and let it sit for a couple of minutes before serving. Enjoy your Eggplant in Caramelized Tomato hot or at room temperature.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

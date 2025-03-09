@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Low Cal Refreshing Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/low-cal-refreshing-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Low Cal Refreshing Salad is perfect for those who are looking for a healthful twist in their diet. Loaded with high-protein, high-fiber ingredients and a hint of sweetness, this recipe is an ideal choice for those pursuing healthy yet delicious meals. Whether you're looking to healthify your diet or simply in search of a nutritious option, this salad encompasses all.",
+  "prepTime": "PT15M",
+  "cookTime": "PT5M",
+  "totalTime": "PT20M",
+  "keywords": "high-protein,high-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1507",
+    "carbohydrateContent": "86",
+    "fiberContent": "39",
+    "sugarContent": "33",
+    "sodiumContent": "223",
+    "proteinContent": "61",
+    "fatContent": "115",
+    "saturatedFatContent": "10",
+    "monounsaturatedFatContent": "70",
+    "polyunsaturatedFatContent": "29",
+    "unsaturatedFatContent": 99,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  cucumber (8-1/4\"), Cucumber - With peel, raw",
+    "1 head large, Lettuce, iceberg (includes crisphead types), raw",
+    "1 large Egg, whole, cooked, fried",
+    "1 medium Carrots, raw",
+    "2.25  cup ground, Nuts, almonds"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash the lettuce, carrots, cucumber under cold water. Pat dry with paper towels.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the iceberg lettuce into bite-sized pieces.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel and grate the carrot.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the cucumber into thin rounds.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fry the egg until fully cooked, then set aside to cool. Once cooled, slice into strips or chop.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large mixing bowl, combine the chopped lettuce, grated carrot, cucumber rounds, and ground almonds.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the fried egg to the bowl and gently toss all ingredients until well combined.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately for the freshest taste.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": []
+}

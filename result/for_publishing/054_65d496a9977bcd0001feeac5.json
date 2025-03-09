@@ -1,0 +1,84 @@
+{
+  "post_id": "65d496a9977bcd0001feeac5",
+  "title": "Cajun Shrimp",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Cajun Shrimp",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "1 tbls, Tomato Ketchup",
+      "0.06 teaspoon, Salt",
+      "0.06 tsp, Ground Black Pepper",
+      "1 teaspoon, Basil, fresh",
+      "250 gram, Shrimp",
+      "2 tablespoon, Butter, unsalted",
+      "0.25 tsp., Cajun Seasoning",
+      "0.50 cup, Mixed vegetables, frozen"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "213",
+      "carbohydrateContent": "6",
+      "fiberContent": "1",
+      "sugarContent": "3",
+      "sodiumContent": "890",
+      "proteinContent": "18",
+      "fatContent": "13",
+      "saturatedFatContent": "8",
+      "monounsaturatedFatContent": "4",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 5,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your vegetables by rinsing the mixed vegetables under cold water to thaw."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and devein the shrimp, ensuring they're ready for cooking."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the tomato ketchup, salt, ground black pepper, basil, and Cajun seasoning. Stir until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the shrimp to the bowl and toss them in the seasoning mix until they are evenly coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the butter in a skillet over medium heat. Once hot, add the seasoned shrimp. Cook for 2 minutes.",
+        "cookTime": "PT2M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the mixed vegetables to the skillet with the shrimp. Cook for an additional 5-7 minutes until the shrimp are pink and fully cooked and the vegetables are tender.",
+        "cookTime": "PT7M"
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into the essence of Louisiana with this Healthified Cajun Shrimp recipe. Perfect for anyone following a low-carb, low-sugar diet, yet not compromising on flavor. Rich in spices and packed with vibrant mixed vegetables, this dish brings a nutritious twist to your table while catering to a health-conscious lifestyle.",
+    "prepTime": "PT15M",
+    "cookTime": "PT9M",
+    "totalTime": "PT24M",
+    "keywords": "low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

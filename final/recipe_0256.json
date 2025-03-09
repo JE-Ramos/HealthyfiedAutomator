@@ -1,0 +1,102 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken Shirataki Honey Ginger",
+  "image": [
+    "https://healthyfied.me/images/recipes/chicken-shirataki-honey-ginger.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Chicken Shirataki Honey Ginger recipe is a delicious blend of high-protein and low-carb ingredients, perfect for anyone looking to enjoy a healthy meal without sacrificing flavor. With a savory mix of chicken thigh, fresh veggies, and a hint of sweet honey and zesty ginger, it's ideal for those following a low-sodium and low-sugar diet. Dive into this healthified culinary creation that not only nourishes your body but also satisfies your taste buds with each bite.",
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M",
+  "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "160",
+    "carbohydrateContent": "9",
+    "fiberContent": "2",
+    "sugarContent": "3",
+    "sodiumContent": "93",
+    "proteinContent": "23",
+    "fatContent": "4",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  tsp(s) Honey",
+    "1  tsp ground (2.3 g), Black Pepper - Ground",
+    "11 g Whole Dried Shitake",
+    "135 g Capsicum, Red",
+    "136 g Yellow, Raw",
+    "15 g Raw, Grated",
+    "428 g Chicken Thigh Skinless Boneless"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Soak the Whole Dried Shitake in warm water until softened, then slice thinly.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the Capsicum, Red and Yellow, Raw into small pieces.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the Chicken Thigh Skinless Boneless into bite-sized chunks.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Grate 15g of raw ginger.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan, heat some oil over medium heat and cook the chicken chunks until browned on all sides, about 8 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sliced Dried Shitake, diced Capsicum, grated Ginger, Honey, and Ground Black Pepper to the pan. Stir well to combine.",
+      "time": "PT10M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the pan, reduce the heat to low, and let the chicken simmer with the vegetables and seasonings until fully cooked and flavors meld, about 20 minutes.",
+      "time": "PT20M",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the Chicken Shirataki Honey Ginger hot, garnished with a sprinkle of freshly ground black pepper or chopped herbs if desired.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Sky-High Fiber Honey Toast",
+  "image": [
+    "https://healthyfied.me/images/recipes/sky-high-fiber-honey-toast.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a delightful and nutritious start to your day with our Sky-High Fiber Honey Toast! Perfect for those seeking a low-sugar yet delicious breakfast option, this recipe transforms classic ingredients into a healthy masterpiece. With rolled oats, sugar-free whole wheat bread, and the natural sweetness of honey, this toast is not just a treat to your taste buds but also a step towards a healthier lifestyle. Ideal for anyone embracing health-conscious dining without compromising on taste.",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "keywords": "low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "189",
+    "carbohydrateContent": "28",
+    "fiberContent": "4",
+    "sugarContent": "5",
+    "sodiumContent": "206",
+    "proteinContent": "9",
+    "fatContent": "5",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "1",
+    "polyunsaturatedFatContent": "2",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  cup Rolled Oats",
+    "1  tbsp Honey",
+    "2 large Egg",
+    "4 slice (40g), Sugar Free 100% Whole Wheat Bread"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 350°F (175°C).",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, beat the eggs thoroughly.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In another bowl, mix the rolled oats with the beaten eggs until well combined.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lay the sugar-free whole wheat bread slices on a baking tray.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread the oats and egg mixture evenly over the bread slices.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drizzle honey over each bread slice.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in the preheated oven for 15 minutes, or until the topping is golden brown and slightly crisp.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

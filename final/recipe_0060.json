@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Sky-High Fibre Creamy Toast - Plain",
+  "image": [
+    "https://healthyfied.me/images/recipes/sky-high-fibre-creamy-toast---plain.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Enjoy a healthier start to your day with our Sky-High Fibre Creamy Toast - Plain, a masterpiece crafted for those who appreciate low-sugar, healthified recipes. This dish combines the wholesome goodness of whole wheat bread, oats, and protein from egg, creating a balanced and nutritious breakfast that keeps you fueled.",
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "keywords": "low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "164",
+    "carbohydrateContent": "26",
+    "fiberContent": "4",
+    "sugarContent": "4",
+    "sodiumContent": "158",
+    "proteinContent": "7",
+    "fatContent": "4",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "1",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 2,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  cup ( 8 oz--250 ml ), Ice Cold Water",
+    "0.50  cup Quick Cook Oats",
+    "1 large egg (50g), Egg",
+    "2  packet Sugar Substitute",
+    "4 slice (70 g), Whole Wheat Bread",
+    "4  tbsp(s) Milk powder"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Whisk the large egg in a bowl until smooth.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add milk powder and ice cold water to the egg and continue to whisk until the mixture is well combined.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the quick cook oats and sugar substitute into the mixture, ensuring everything is evenly distributed.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat a non-stick skillet or pan over medium heat.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Soak each slice of whole wheat bread in the mixture, ensuring both sides are well coated.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the soaked bread slices on the preheated skillet for about 2 minutes on each side or until golden brown.",
+      "time": "PT4M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the creamy toast hot, ideally with a side of fresh fruits or a dollop of your favorite low-sugar jam for an extra burst of flavor.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Gourmet Pesto Chicken",
+  "image": [
+    "https://healthyfied.me/images/recipes/gourmet-pesto-chicken.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Gourmet Pesto Chicken recipe is a perfect choice for anyone looking for a delicious, high-protein and low-carb option. Packed with flavors and health benefits, this dish is also low in sodium and sugar, making it a superb pick for a healthy meal. Ideal for those who enjoy healthy yet flavorful dishes.",
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "150",
+    "carbohydrateContent": "1",
+    "fiberContent": "0",
+    "sugarContent": "0",
+    "sodiumContent": "0",
+    "proteinContent": "23",
+    "fatContent": "6",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "2  tbsp(s) Lemon juice, raw",
+    "25 ml All Purpose Pesto",
+    "421 g Fillets"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 375°F (190°C).",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the chicken fillets on a baking sheet.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread the all-purpose pesto evenly over each chicken fillet.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in the preheated oven for 25 minutes or until the chicken is thoroughly cooked.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the chicken from the oven and immediately drizzle with lemon juice before serving.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

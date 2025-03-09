@@ -1,0 +1,88 @@
+{
+  "post_id": "65d496f9977bcd0001feec77",
+  "title": "Cream Dory Bellpepper Basil",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Cream dory Bellpepper Basil",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "6 medium, Egg",
+      "28 gram, Sharp Cheddar Cheese",
+      "500 gram, Pangasius Fillet",
+      "21.00 g, Fresh Basil Leaves"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "290",
+      "carbohydrateContent": "3",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "491",
+      "proteinContent": "41",
+      "fatContent": "13",
+      "saturatedFatContent": "6",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 5,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375\u00b0F (190\u00b0C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs into a bowl and beat them lightly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grate the sharp cheddar cheese and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Pangasius fillet under cold water and pat dry with paper towels."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the fresh basil leaves finely."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, combine the beaten eggs, grated cheese, and chopped basil. Mix well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lay the Pangasius fillets in a baking dish and cover them with the egg-cheese-basil mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 20 minutes or until the fillets are cooked through and the topping is golden brown.",
+        "time": "PT20M"
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a healthy and flavorful journey with our Cream dory Bellpepper Basil recipe. Perfect for those following a high-protein, low-carb diet without compromising on taste. This dish is crafted with succulent Pangasius fillet, enriched with the aromatic presence of fresh basil leaves, and complemented with a sharp cheddar cheese topping, making it a hearty yet healthy choice.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

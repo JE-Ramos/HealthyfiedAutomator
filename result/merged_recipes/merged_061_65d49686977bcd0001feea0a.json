@@ -1,0 +1,102 @@
+{
+  "post_id": "65d49686977bcd0001feea0a",
+  "title": "Kimchi Bone Marrow Ramen",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Kimchi Bone Marrow Ramen",
+    "recipeYield": "6",
+    "recipeIngredient": [
+      "0.50 fluid ounce, Gochujang",
+      "0.50 lb(s), Bellpepper",
+      "1 cup (89 grams), Green Cabbage",
+      "1 medium, Red onion",
+      "1 tbsp, Ginger, raw",
+      "1 tsp, Ground Black Pepper",
+      "12 clove , Garlic",
+      "120 g, Kimchi",
+      "250.00 grams, Sukiyaki beef",
+      "3 oz, Noodles",
+      "4 tbsp, Bone Marrow"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "182",
+      "carbohydrateContent": "9",
+      "fiberContent": "2",
+      "sugarContent": "4",
+      "sodiumContent": "204",
+      "proteinContent": "11",
+      "fatContent": "11",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your ingredients: Thinly slice the Sukiyaki beef, chop the green cabbage, dice the bell pepper, mince the red onion and garlic, and grate the ginger."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the noodles according to package instructions until al dente, then drain and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, melt the bone marrow over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the minced garlic, ginger, and diced red onion to the pan and sauté for about 5 minutes until fragrant."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the chopped cabbage and diced bell pepper, cooking for an additional 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the thinly sliced Sukiyaki beef to the pan and cook for about 3-4 minutes until browned."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix in the kimchi, gochujang, and ground black pepper, and continue to cook for 5 minutes, allowing the flavours to meld together."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cooked noodles to the pan, stirring well to ensure they are fully integrated and heated through, about 2 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the ramen hot, garnished with additional kimchi if desired."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Kimchi Bone Marrow Ramen recipe perfectly blends the richness of bone marrow with the zest of kimchi in a low-carb and low-sugar delight. Ideal for those looking to enjoy a healthier version of this beloved dish, this recipe promises to be a satisfying addition to your healthy recipes collection.",
+    "prepTime": "PT20M",
+    "cookTime": "PT20M",
+    "totalTime": "PT40M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_061_65d49686977bcd0001feea0a.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/061_65d49686977bcd0001feea0a.json",
+  "original_files": [
+    "061_65d49686977bcd0001feea0a.json",
+    "058_65d49686977bcd0001feea0a.json"
+  ]
+}

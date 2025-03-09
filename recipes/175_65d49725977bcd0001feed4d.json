@@ -1,0 +1,90 @@
+{
+  "post_id": "65d49725977bcd0001feed4d",
+  "title": "Honey Mustard Chicken Pomelo Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Honey Mustard Chicken Pomelo Salad",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.50 tsp(s), Salt, table",
+      "1 cup  (72gm), Ice Berg Lettuce",
+      "2 wedge, Cream Cheese Wedge",
+      "23.25 g, All Bran - Regular",
+      "1.50 oz, Chicken Breast (Grilled)",
+      "1 tbsp, Mayonnaise Lite",
+      "100 grammes, Pomelo (1 Fruit = 200 g Environ)",
+      "0.50 tsp, ground, Spices, pepper, white"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "328",
+      "carbohydrateContent": "30",
+      "fiberContent": "10",
+      "sugarContent": "16",
+      "sodiumContent": "1660",
+      "proteinContent": "22",
+      "fatContent": "16",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 5,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Season the chicken breast with salt and white pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grill the chicken breast until fully cooked and juicy, about 10-12 minutes on medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the chicken is grilling, wash and chop the Ice Berg Lettuce and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and segment the pomelo, ensuring to remove as much of the white pith as possible."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix the Mayonnaise Lite, Cream Cheese Wedge, and a dash of salt and pepper to create the honey mustard dressing."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the grilled chicken breast into thin strips."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large salad bowl, combine the Ice Berg Lettuce, pomelo segments, All Bran, and sliced grilled chicken."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle the honey mustard dressing over the salad and toss gently to combine."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Honey Mustard Chicken Pomelo Salad is a perfect blend of flavors and textures for those following a high-protein, high-sodium, and high-fiber diet. Ideal for anyone looking to enjoy healthy yet delicious meals, this salad combines the succulence of grilled chicken breast with the refreshing tartness of pomelo, all brought together with a creamy honey mustard dressing. It's a great addition to your healthy recipe collection!",
+    "prepTime": "PT15M",
+    "cookTime": "PT12M",
+    "totalTime": "PT27M",
+    "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

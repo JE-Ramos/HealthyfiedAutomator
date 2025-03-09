@@ -1,0 +1,90 @@
+{
+  "post_id": "65d497bc977bcd0001fef01f",
+  "title": "Condo Dinner",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Condo Dinner",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "2 egg (50g), Eggs",
+      "1 tbsp, Butter",
+      "1 tbsp, Cream cheese",
+      "2 piece, Sausage",
+      "1 Medium Kiwis, Kiwi",
+      "3 oz, Sausage",
+      "0.50 cup, Vegetable Chopseuy"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "861",
+      "carbohydrateContent": "15",
+      "fiberContent": "2",
+      "sugarContent": "9",
+      "sodiumContent": "1685",
+      "proteinContent": "34",
+      "fatContent": "64",
+      "saturatedFatContent": "27",
+      "monounsaturatedFatContent": "5",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 6,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Begin by dicing the sausage into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and slice the kiwi into thin rounds."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the Vegetable Chopseuy by washing and cutting the vegetables into small chunks."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet, melt the butter over medium heat. Once melted, add the diced sausage pieces and saut\u00e9 for about 5 minutes until they are nicely browned.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs into a bowl, add the cream cheese, and whisk together until the mixture is smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the egg mixture over the saut\u00e9ed sausage in the skillet. Cook for about 4 minutes, gently scrambling the eggs with a spatula until they are just set.",
+        "time": "PT4M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lastly, stir in the Vegetable Chopseuy into the skillet and cook for an additional 3 minutes, until the vegetables are heated through but still crisp.",
+        "time": "PT3M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the scramble on a plate and garnish with the fresh kiwi slices on the side."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [],
+    "description": "This Condo Dinner recipe is perfect for those seeking a healthy yet satisfying meal. Packed with high-protein, low-carb ingredients, it's designed to fit into a health-conscious diet without sacrificing flavor. Featuring eggs, butter, cream cheese, sausage, kiwi, and a delightful mix of vegetables, it's a delightful way to enjoy a nutritious dinner that\u2019s also high in sodium for those who need it.",
+    "prepTime": "PT10M",
+    "cookTime": "PT12M",
+    "totalTime": "PT22M",
+    "keywords": "high-protein,low-carb,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

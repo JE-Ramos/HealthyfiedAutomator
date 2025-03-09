@@ -1,0 +1,74 @@
+{
+  "post_id": "65d49739977bcd0001feedb8",
+  "title": "2018/11/08 Dinner Mackerel",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/11/08 Dinner Mackerel",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "595 g, Mackerel (Saba Fish)"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "342",
+      "carbohydrateContent": "0",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "150",
+      "proteinContent": "31",
+      "fatContent": "24",
+      "saturatedFatContent": "6",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375°F (190°C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Mackerel (Saba Fish) under cold water and pat dry with paper towels."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the Mackerel on a lightly greased baking tray."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 20 minutes, or until the fish flakes easily with a fork.",
+        "time": "PT20M"
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This '2018/11/08 Dinner Mackerel' recipe is perfect for those looking for a healthy meal option. It's high in protein and low in both carbs and sugar, making it an ideal choice for anyone wanting to maintain a balanced diet. Enjoy a delicious, healthified recipe that's sure to satisfy your taste buds without compromising on nutrition.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_164_65d49739977bcd0001feedb8.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/164_65d49739977bcd0001feedb8.json",
+  "original_files": [
+    "164_65d49739977bcd0001feedb8.json",
+    "161_65d49739977bcd0001feedb8.json"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "post_id": "65d497b4977bcd0001feeff8",
+  "title": "2018/10/05 Dinner",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/05 Dinner",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 tbsp, Coconut",
+      "150 g, Cucumber",
+      "2 cup, Kimchi",
+      "200 gram, chicken",
+      "250 grams, Belly",
+      "30.00 g, Red Onion",
+      "95 g, Adlai Rice (Job's Tears)"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "597",
+      "carbohydrateContent": "30",
+      "fiberContent": "2",
+      "sugarContent": "2",
+      "sodiumContent": "358",
+      "proteinContent": "27",
+      "fatContent": "36",
+      "saturatedFatContent": "10",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Adlai Rice (Job's Tears) under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Adlai Rice according to package instructions until tender, about 20 minutes. Then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the red onion, dice the cucumber, and chop the belly and chicken into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, heat the coconut oil over medium heat and sauté the chopped belly and chicken until they're browned and cooked through, about 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced red onion to the pan and cook until softened, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the kimchi and diced cucumber, and cook for another 5 minutes until everything is heated through."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cooked ingredients with the Adlai Rice in a large bowl. Mix well until everything is evenly distributed."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-sugar"
+    ],
+    "suitableForDiet": [],
+    "description": "This high-protein, low-sugar dinner is perfect for those looking to enjoy a healthified meal. Filled with nutritious ingredients like belly, chicken, red onion, coconut, kimchi, cucumber, and Adlai Rice (Job's Tears), this recipe is designed to delight the health-conscious eater seeking healthy recipes.",
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT60M",
+    "keywords": "high-protein,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_115_65d497b4977bcd0001feeff8.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/115_65d497b4977bcd0001feeff8.json",
+  "original_files": [
+    "115_65d497b4977bcd0001feeff8.json",
+    "112_65d497b4977bcd0001feeff8.json"
+  ]
+}

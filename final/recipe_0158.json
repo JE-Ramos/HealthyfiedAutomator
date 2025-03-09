@@ -1,0 +1,120 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/10/04 Lunch",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/10/04-lunch.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a healthy feast with our 2018/10/04 Lunch recipe! Packed with high-protein and low-carb ingredients, this dish is perfect for those following a health-conscious diet without compromising on flavor. Discover how belly, tilapia fillets, and eggplant can come together in a beautiful harmony, accentuated with a splash of lemon juice and hints of garlic and Parmesan. An excellent choice for anyone looking to enjoy healthy recipes without the guilt.",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "keywords": "high-protein,low-carb,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "358",
+    "carbohydrateContent": "12",
+    "fiberContent": "4",
+    "sugarContent": "7",
+    "sodiumContent": "490",
+    "proteinContent": "22",
+    "fatContent": "24",
+    "saturatedFatContent": "4",
+    "monounsaturatedFatContent": "3",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 4,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  tsp(s) Salt",
+    "0.50  tsp Black Pepper - Ground",
+    "1 l yields, Lemon juice, raw",
+    "1  tbsp(s) Coconut Amino",
+    "1  tbsp Extra Virgin Olive Oil",
+    "150 g Belly",
+    "180 g Tomatoes",
+    "2  tablespoon Parmesan",
+    "2  tbsp Coconut Vinegar",
+    "200 g Tilapia Fillets, Frozen",
+    "300 g Eggplant, raw",
+    "40 g Red Onion",
+    "5 g Garlic, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mince the Garlic and dice the Red Onion.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the Eggplant into rounds and chop the Tomatoes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the Tilapia Fillets with Salt, Black Pepper, and half of the Lemon juice.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 375°F (190°C).",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a baking dish, layer the Eggplant rounds at the bottom, then place the seasoned Tilapia Fillets on top. Sprinkle with Garlic, Red Onion, and Tomatoes.",
+      "time": "5 minutes",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drizzle the Coconut Amino, Coconut Vinegar, and the rest of the Lemon juice over the tilapia and vegetables.",
+      "time": "2 minutes",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the dish with aluminum foil and bake in the preheated oven for 25 minutes.",
+      "time": "25 minutes",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the foil, sprinkle the Parmesan over the top, and bake for an additional 5 minutes or until the cheese is slightly golden and bubbly.",
+      "time": "5 minutes",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the fish is cooking, heat Extra Virgin Olive Oil in a pan over medium heat and sauté the Belly until crispy, set aside.",
+      "time": "10 minutes",
+      "name": "Step 9"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the baked tilapia and eggplant hot, topped with crispy belly bits.",
+      "name": "Step 10"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

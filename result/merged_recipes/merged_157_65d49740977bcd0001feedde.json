@@ -1,0 +1,91 @@
+{
+  "post_id": "65d49740977bcd0001feedde",
+  "title": "Steak With Asparagus Carrot Enoki",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Steak with Asparagus Carrot Enoki",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.33 medium, Carrots, raw",
+      "1 Cup, Chopped, Red Onion",
+      "1 Tbsp, Cane Vinegar",
+      "1 cup, Parsley, fresh",
+      "120 gram, Beef Sukiyaki Meat",
+      "25 gram, Enoki Mushroom",
+      "50 gram, Yakiniku (Beef Tips)",
+      "7.00 spears, Steamable Asparagus Spears"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "357",
+      "carbohydrateContent": "22",
+      "fiberContent": "7",
+      "sugarContent": "8",
+      "sodiumContent": "142",
+      "proteinContent": "41",
+      "fatContent": "12",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your ingredients: slice the beef Sukiyaki meat into thin strips, chop the red onion and parsley, thinly slice the carrot, and trim the ends off the enoki mushroom and asparagus spears."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Marinate the beef strips in cane vinegar for at least 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, add the marinated beef strips and cook for 5 minutes until browned and almost cooked through. Set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same pan, sauté the onions and carrots for about 3 minutes until they start to soften."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the steamable asparagus spears and enoki mushrooms to the pan, and cook for another 3 minutes, until the vegetables are tender but still crisp."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return the cooked beef to the pan, add the chopped parsley, and toss everything together. Cook for an additional 2 minutes to reheat the beef and combine the flavors."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the steak with the asparagus, carrot and enoki mushroom while hot. Enjoy your nutrient-packed, healthified meal."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-protein"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Savor the goodness of a high-protein, high-fiber dish with this Steak with Asparagus Carrot Enoki recipe. Perfect for anyone looking for healthy yet hearty options, this meal combines succulent beef with the fresh, clean flavors of asparagus, carrot, and enoki mushroom. Ideal for those on a healthy eating journey!",
+    "prepTime": "PT20M",
+    "cookTime": "PT13M",
+    "totalTime": "PT33M",
+    "keywords": "high-protein,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_157_65d49740977bcd0001feedde.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/157_65d49740977bcd0001feedde.json",
+  "original_files": [
+    "157_65d49740977bcd0001feedde.json",
+    "160_65d49740977bcd0001feedde.json"
+  ]
+}

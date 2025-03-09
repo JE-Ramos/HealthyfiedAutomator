@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Fresh Rainbow Salsa with Yellow Bell Peppers and Thyme (Low-Calorie)",
+  "image": [
+    "https://healthyfied.me/images/recipes/rainbow-salsa.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Rainbow Salsa celebrates a vibrant medley of healthy ingredients, perfect for anyone keen on a low-carb, low-sodium, and low-sugar diet. Dive into this culinary masterpiece and embrace a healthy lifestyle with our collection of healthified recipes.",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "20",
+    "carbohydrateContent": "4",
+    "fiberContent": "1",
+    "sugarContent": "3",
+    "sodiumContent": "3",
+    "proteinContent": "1",
+    "fatContent": "0",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1 tsp fresh thyme",
+    "110 g tomatoes",
+    "150 g yellow bell pepper, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place the yellow bell peppers and tomatoes in a colander. Hold under cold running water for about 30 seconds, rubbing them gently with your fingers to remove any dirt. Shake off excess water and transfer to a clean cutting board.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the yellow bell peppers in half and remove the stems, seeds, and white membranes inside. Cut the peppers into small cubes of about 0.5 cm x 0.5 cm (¼ inch). Place the diced peppers in a medium-sized mixing bowl.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the tomatoes in half and remove the stem portion. Dice the tomatoes into similar sized pieces as the bell peppers (about 0.5 cm cubes). Add the diced tomatoes to the bowl with the bell peppers.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Hold the thyme stems with one hand and strip the leaves by pinching the stem with the thumb and forefinger of your other hand and pulling along the stem. The leaves should come off easily. Discard the woody stems. Finely chop the thyme leaves until they're in very small pieces. Add the chopped thyme to the bowl with the peppers and tomatoes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Using a spoon, gently mix all the ingredients together until they are evenly distributed. Be careful not to crush the vegetables while mixing.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the bowl with plastic wrap or a lid and let it sit at room temperature for 10 minutes. This resting time allows the flavors to blend together.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Give the salsa one final gentle stir before transferring to a serving bowl. Serve immediately, or refrigerate for up to 24 hours for a more developed flavor.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet",
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/DiabeticDiet"
+  ]
+}

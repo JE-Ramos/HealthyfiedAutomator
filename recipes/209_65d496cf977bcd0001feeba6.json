@@ -1,0 +1,83 @@
+{
+  "post_id": "65d496cf977bcd0001feeba6",
+  "title": "2018/10/16 Adlai Carrot Rice",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/16 Adlai Carrot Rice",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "190 g, Adlai Rice (Job's Tears)",
+      "100 g, Carrots, raw",
+      "10.00 g, Garlic, raw",
+      "0.25 tsp(s), Salt"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "239",
+      "carbohydrateContent": "50",
+      "fiberContent": "1",
+      "sugarContent": "2",
+      "sodiumContent": "35",
+      "proteinContent": "9",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Adlai Rice under cold running water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Adlai Rice in a pot of boiling water with a pinch of salt. Follow the package instructions for the cooking time, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and dice the carrots into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, saut\u00e9 the minced garlic until fragrant, about 2 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced carrots to the pan and cook until they are tender, about 5-7 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cooked Adlai Rice with the saut\u00e9ed carrots and garlic. Stir well and season with salt to taste."
+      }
+    ],
+    "tags": [
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This wholesome Adlai Carrot Rice is perfect for health-conscious individuals looking for a low-sodium and low-sugar meal. A healthy twist on your regular rice dish that doesn't skimp on flavor. Ideal for those seeking delicious and nutritious diet-friendly recipes.",
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "keywords": "low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

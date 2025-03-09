@@ -1,0 +1,89 @@
+{
+  "post_id": "65d49675977bcd0001fee9ac",
+  "title": "Sky High Fibre Creamy Toast Plain",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Sky-High Fibre Creamy Toast - Plain",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "0.50 Cup ( 8 oz--250 ml ), Ice Cold Water",
+      "0.50 cup, Quick Cook Oats",
+      "1 large egg (50g), Egg",
+      "2 packet, Sugar Substitute",
+      "4 slices (70 g), Whole Wheat Bread",
+      "4 tbsp(s), Milk powder"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "164",
+      "carbohydrateContent": "26",
+      "fiberContent": "4",
+      "sugarContent": "4",
+      "sodiumContent": "158",
+      "proteinContent": "7",
+      "fatContent": "4",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Whisk the large egg in a bowl until smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add milk powder and ice cold water to the egg and continue to whisk until the mixture is well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the quick cook oats and sugar substitute into the mixture, ensuring everything is evenly distributed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a non-stick skillet or pan over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Soak each slice of whole wheat bread in the mixture, ensuring both sides are well coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the soaked bread slices on the preheated skillet for about 2 minutes on each side or until golden brown.",
+        "time": "PT4M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the creamy toast hot, ideally with a side of fresh fruits or a dollop of your favorite low-sugar jam for an extra burst of flavor."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Enjoy a healthier start to your day with our Sky-High Fibre Creamy Toast - Plain, a masterpiece crafted for those who appreciate low-sugar, healthified recipes. This dish combines the wholesome goodness of whole wheat bread, oats, and protein from egg, creating a balanced and nutritious breakfast that keeps you fueled.",
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "totalTime": "PT15M",
+    "keywords": "low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_062_65d49675977bcd0001fee9ac.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/062_65d49675977bcd0001fee9ac.json",
+  "original_files": [
+    "062_65d49675977bcd0001fee9ac.json",
+    "065_65d49675977bcd0001fee9ac.json"
+  ]
+}

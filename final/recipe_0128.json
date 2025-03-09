@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Ribeye Quinoa Bowl",
+  "image": [
+    "https://healthyfied.me/images/recipes/ribeye-quinoa-bowl.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This high-protein, low-sugar Ribeye Quinoa Bowl is a perfect example of a healthy yet indulgent meal. Combining succulent ribeye steak with a colorful mix of tomatoes, tricolor quinoa, and sliced black olives, finished with a touch of pesto and lemon juice for zest, it's a dish that turns everyday ingredients into a festival of flavors. Ideal for those looking to enjoy healthy recipes without sacrificing taste.",
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
+  "keywords": "high-protein,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "463",
+    "carbohydrateContent": "33",
+    "fiberContent": "3",
+    "sugarContent": "4",
+    "sodiumContent": "142",
+    "proteinContent": "26",
+    "fatContent": "25",
+    "saturatedFatContent": "8",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.04  cup Lemon juice, raw",
+    "0.25  cup Tricolor Quinoa",
+    "0.50  tbsp Pesto",
+    "100 g (4 oz ), Ribeye Steak",
+    "30 g Tomatoes",
+    "5 g Sliced Black Olives"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the tricolor quinoa under cold water until the water runs clear.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the tricolor quinoa according to package instructions until fluffy, about 15 minutes, then set aside.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the ribeye steak with salt and pepper to taste.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat a pan over medium-high heat and cook the ribeye steak to your desired level of doneness, about 4-6 minutes per side for medium-rare.",
+      "time": "PT10M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let the steak rest for a few minutes, then slice thinly.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the tomatoes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, mix the cooked quinoa, sliced ribeye steak, diced tomatoes, sliced black olives, pesto, and raw lemon juice until well combined.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

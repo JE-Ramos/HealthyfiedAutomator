@@ -1,0 +1,80 @@
+{
+  "post_id": "65d4976a977bcd0001feeebb",
+  "title": "2018/10/17 Lunch With Adobong Sitaw",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/17 Lunch with Adobong Sitaw",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "190 g, Adlai Rice (Job's Tears)",
+      "3 large, Egg",
+      "2 piece (112 g), Boneless Milkfish (Bangus)"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "418",
+      "carbohydrateContent": "49",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "371",
+      "proteinContent": "28",
+      "fatContent": "12",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Adlai Rice under cold running water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Adlai Rice according to package instructions until tender, then set aside. This should take about 20 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs into a bowl and lightly beat them."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the boneless milkfish (Bangus) fillets with a little salt and pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet, heat some oil over medium heat and cook the beaten eggs until fully set, then remove from the pan and set aside, approximately 8 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same skillet, add a little more oil if necessary and cook the seasoned milkfish until golden brown on both sides, approximately 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the cooked eggs into strips and serve them on a plate along with the cooked Adlai Rice and the golden brown milkfish. Enjoy your nutritious lunch!"
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This high-protein, low-sugar meal is a health-conscious option for those looking to enjoy a nutritious yet delicious lunch. Combining Adlai Rice, eggs, and boneless milkfish, this recipe caters to anyone aiming for a wholesome dietary choice without compromising on taste.",
+    "prepTime": "PT10M",
+    "cookTime": "PT38M",
+    "totalTime": "PT48M",
+    "keywords": "high-protein,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

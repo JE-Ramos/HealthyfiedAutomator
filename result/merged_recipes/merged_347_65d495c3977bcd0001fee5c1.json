@@ -1,0 +1,82 @@
+{
+  "post_id": "65d495c3977bcd0001fee5c1",
+  "title": "Orange Amino Sauce",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Orange Amino Sauce",
+    "recipeYield": "7",
+    "recipeIngredient": [
+      "3 tsp, Coconut Amino",
+      "300 g, Oranges, raw, navels"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "23",
+      "carbohydrateContent": "6",
+      "fiberContent": "1",
+      "sugarContent": "4",
+      "sodiumContent": "39",
+      "proteinContent": "0",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel the oranges and remove all the white pith and seeds."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a blender, blend the peeled oranges until smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Strain the orange juice through a fine mesh sieve to remove any remaining pulp."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the orange juice into a small saucepan and add the coconut amino. Stir to combine.",
+        "time": "5 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the sauce to a simmer over low heat, stirring occasionally, until it thickens to your desired consistency.",
+        "time": "15 minutes"
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in the tangy and sweet essence of our Orange Amino Sauce, perfectly crafted for those pursuing a healthy lifestyle. This low-carb, low-sodium, and low-sugar recipe aligns with your nutritional goals while tantalizing your taste buds. Ideal for adding a zestful twist to your meals, this sauce is a must-try for anyone looking to enhance their culinary creations without compromising on health.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_347_65d495c3977bcd0001fee5c1.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/347_65d495c3977bcd0001fee5c1.json",
+  "original_files": [
+    "347_65d495c3977bcd0001fee5c1.json",
+    "344_65d495c3977bcd0001fee5c1.json"
+  ]
+}

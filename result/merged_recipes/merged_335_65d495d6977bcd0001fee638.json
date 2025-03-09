@@ -1,0 +1,78 @@
+{
+  "post_id": "65d495d6977bcd0001fee638",
+  "title": "Zucchini Chips",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Zucchini Chips",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "2 tsp(s), Extra Virgin Coconut Oil",
+      "472 gram, Steamed"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "41",
+      "carbohydrateContent": "5",
+      "fiberContent": "2",
+      "sugarContent": "2",
+      "sodiumContent": "283",
+      "proteinContent": "1",
+      "fatContent": "2",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 220 degrees Celsius."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the steamed zucchini into thin, chip-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, toss the zucchini slices with the extra virgin coconut oil until evenly coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Arrange the zucchini slices in a single layer on a baking sheet lined with parchment paper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 15 minutes, then flip the chips and bake for another 10 minutes or until crisp and golden brown."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "Indulge in our Zucchini Chips for a low-carb, low-sugar snack option. Perfect for those on a health journey, these chips are not only delicious but are a part of our Healthy Recipes collection, ensuring you can enjoy a crisp, guilt-free treat anytime.",
+    "prepTime": "PT10M",
+    "cookTime": "PT25M",
+    "totalTime": "PT35M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_335_65d495d6977bcd0001fee638.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/335_65d495d6977bcd0001fee638.json",
+  "original_files": [
+    "335_65d495d6977bcd0001fee638.json",
+    "332_65d495d6977bcd0001fee638.json"
+  ]
+}

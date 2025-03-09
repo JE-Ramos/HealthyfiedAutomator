@@ -1,0 +1,73 @@
+{
+  "post_id": "65d495f2977bcd0001fee6d1",
+  "title": "Mango Ensalada",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Mango Ensalada",
+    "recipeYield": "10",
+    "recipeIngredient": [
+      "253.00 grams, Tomatoes",
+      "153.00 g, Yellow, Raw",
+      "57 gram, Red Onion",
+      "4 Tbsp; 15 mL, Cane Vinegar",
+      "111 g, Cucumber",
+      "138 g, Mango"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "63",
+      "carbohydrateContent": "16",
+      "fiberContent": "1",
+      "sugarContent": "13",
+      "sodiumContent": "101",
+      "proteinContent": "1",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop the tomatoes, dice the yellow pepper and red onion, and peel and cube the cucumber and mango."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the chopped tomatoes, diced yellow pepper, cubed cucumber, cubed mango, and sliced red onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle the salad with 4 tablespoons of cane vinegar and toss well to coat all the ingredients evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Allow the salad to marinate for at least 15 minutes before serving to enhance the flavors."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Mango Ensalada is a healthful delight, embodying all things fresh and nutritious. Tagged as low-carb and low-sodium, it's perfect for those seeking a healthier twist on classic recipes. Dive into the freshness of tomatoes, mango, cucumber, and more in this vibrant and healthy dish.",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "totalTime": "PT15M",
+    "keywords": "low-carb,low-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

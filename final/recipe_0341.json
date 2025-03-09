@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Zucchini Tomato Thyme Skillet",
+  "image": [
+    "https://healthyfied.me/images/recipes/zucchini-tomato-thyme-skillet.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "The Zucchini Tomato Thyme Skillet is a vibrant, low-carb and low-sugar dish perfect for those looking to enjoy healthy yet flavorful options. With the freshness of thyme and the tanginess of tomatoes, it's a healthified recipe that doesn't compromise on taste.",
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "31",
+    "carbohydrateContent": "7",
+    "fiberContent": "2",
+    "sugarContent": "3",
+    "sodiumContent": "284",
+    "proteinContent": "1",
+    "fatContent": "0",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp(s) Salt",
+    "1  tps Coconut Aminos",
+    "1  tsp Thyme, fresh",
+    "1  tsp ground (2.3 g), Black Pepper - Ground",
+    "160 g Tomatoes",
+    "300 g Steamed"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare your vegetables by slicing the zucchini into thin rounds and chopping the tomatoes.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the sliced zucchini with salt, ground black pepper, and fresh thyme.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a skillet over medium heat and add a dash of coconut aminos to prevent sticking.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange the seasoned zucchini slices in the skillet and let them cook for about 5 minutes until they are slightly tender.",
+      "time": "PT5M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chopped tomatoes to the skillet and cook for an additional 5 minutes until the tomatoes are just softened and the zucchini is fully cooked.",
+      "time": "PT5M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle the dish with additional thyme before serving warm.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

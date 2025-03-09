@@ -1,0 +1,80 @@
+{
+  "post_id": "65d496ba977bcd0001feeb2d",
+  "title": "Toasted Tinola Chicken",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Toasted Tinola Chicken",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 tsp, Black Pepper - Ground",
+      "26.00 g, Red Onion",
+      "565 gram, chicken",
+      "2.00 g, Ginger root - Raw",
+      "13.00 g, Garlic, raw",
+      "1.50 tsp(s), Salt"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "226",
+      "carbohydrateContent": "2",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "235",
+      "proteinContent": "37",
+      "fatContent": "8",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your ingredients: Peel and finely dice the red onion. Peel and minced the fresh ginger. Peel and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the chicken with 1 tsp ground black pepper and 1.5 tsp(s) of salt, ensuring it's evenly coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large skillet over medium heat, sear the seasoned chicken until it is golden brown on all sides, about 5-7 minutes per side."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the chicken and set aside. In the same skillet, add the diced red onion, minced garlic, and ginger. Saut\u00e9 until fragrant and translucent, about 3-5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the browned chicken back into the skillet. Lower the heat and cover, allowing it to cook through, about 30 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Uncover, increase the heat to medium and continue cooking until the exterior of the chicken is crispy, about 10 minutes."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Toasted Tinola Chicken recipe is packed with high-protein, and falls perfectly into the categories of low-carb and low-sugar meals. Designed for those seeking a healthier twist on traditional recipes, this dish is an ideal addition to your collection of Healthyfied, Healthy Recipes, and Healthified Recipes.",
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT60M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

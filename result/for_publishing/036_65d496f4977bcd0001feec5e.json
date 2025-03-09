@@ -1,0 +1,84 @@
+{
+  "post_id": "65d496f4977bcd0001feec5e",
+  "title": "Wagyu Cabbage Sopas",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Wagyu Cabbage Sopas",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "100 gram, Young Corn - Cut",
+      "40.00 g, Red Onion",
+      "0.25 teaspoon, Salt",
+      "45 gram, Cheese - Parmesan, shredded",
+      "150 g, Wagyu",
+      "220 ml, full cream milk",
+      "30.00 g, Garlic, raw",
+      "15.00 g, Cheese, mozzarella, whole milk",
+      "300 g, Cabbage, raw",
+      "70.00 g, Red"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "288",
+      "carbohydrateContent": "17",
+      "fiberContent": "4",
+      "sugarContent": "9",
+      "sodiumContent": "584",
+      "proteinContent": "30",
+      "fatContent": "12",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare all the ingredients: Cut the young corn, dice the red onion, shred the Parmesan cheese, slice the Wagyu beef into strips, mince the garlic, shred the mozzarella cheese, and chop the cabbage."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, saut\u00e9 the garlic and red onion over medium heat until they're softened and fragrant, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the Wagyu beef strips to the pot and cook until they're no longer pink, approximately 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in the full cream milk and bring the mixture to a simmer. Then, add the young corn and cabbage, cooking until the vegetables are tender, about 7 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the sopas with salt to taste, then stir in the shredded Parmesan and mozzarella cheeses until melted and well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the Healthyfied Wagyu Cabbage Sopas hot, garnished with additional cheese if desired."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a nutritious twist on the classic sopas with our Healthyfied Wagyu Cabbage Sopas. This savory delight is packed with high-quality Wagyu beef, fresh vegetables, and a creamy, rich broth, making it perfect for those seeking a high-protein, low-carb meal without compromising on taste. Ideal for health-conscious individuals looking for healthy recipes that are both comforting and satisfying.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "keywords": "high-protein,low-carb,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

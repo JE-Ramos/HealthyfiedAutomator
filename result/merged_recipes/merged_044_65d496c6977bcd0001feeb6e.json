@@ -1,0 +1,82 @@
+{
+  "post_id": "65d496c6977bcd0001feeb6e",
+  "title": "Binakol",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Binakol",
+    "recipeYield": "8",
+    "recipeIngredient": [
+      "1 cup, shredded, Coconut Meat",
+      "1 large, White onion",
+      "1 tsp, Salt",
+      "10 g, lemon grass",
+      "12 clove , Garlic",
+      "2 tsp, ground, Black pepper",
+      "3 cup, Coconut Water",
+      "3 small (3\" long), Green onions",
+      "50 gram(s), Raw Ginger",
+      "600 gram, Whole Chicken"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "233",
+      "carbohydrateContent": "10",
+      "fiberContent": "3",
+      "sugarContent": "4",
+      "sodiumContent": "443",
+      "proteinContent": "16",
+      "fatContent": "15",
+      "saturatedFatContent": "6",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your ingredients: finely chop the garlic, slice the green onions, dice the white onion, slice the ginger, and shred the coconut meat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, combine the whole chicken, sliced ginger, chopped garlic, diced white onion, and lemon grass. Pour in the coconut water, and season with salt and black pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the pot to a boil, then reduce the heat to low and simmer for about 45 minutes or until the chicken is fully cooked."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the shredded coconut meat and sliced green onions. Simmer for an additional 10 minutes."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-sodium",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Binakol recipe is your ticket to a delicious, low-carb, and low-sugar meal, featuring the savory combination of whole chicken with the tropical flavors of coconut. Ideal for those looking for healthy recipes without compromising taste.",
+    "prepTime": "PT20M",
+    "cookTime": "PT55M",
+    "totalTime": "PT75M",
+    "keywords": "low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_044_65d496c6977bcd0001feeb6e.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/044_65d496c6977bcd0001feeb6e.json",
+  "original_files": [
+    "044_65d496c6977bcd0001feeb6e.json",
+    "047_65d496c6977bcd0001feeb6e.json"
+  ]
+}

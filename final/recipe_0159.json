@@ -1,0 +1,116 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/10/04 Dinner Salmon and Chicken",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/10/04-dinner-salmon-and-chicken.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This delicious dinner recipe featuring honey-glazed salmon and chicken is perfect for those looking for a high-protein, low-carb meal. The combination of smoked salmon slices, tender chicken, and green beans provides a satisfying dish that is also high in fiber. With a touch of sharp cheddar cheese and a mix of onion and garlic, it's a nutritious meal that doesn't sacrifice flavor for health. Perfect for anyone on a health-conscious diet craving something savory and fulfilling.",
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M",
+  "keywords": "high-protein,low-carb,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "356",
+    "carbohydrateContent": "16",
+    "fiberContent": "5",
+    "sugarContent": "6",
+    "sodiumContent": "713",
+    "proteinContent": "37",
+    "fatContent": "16",
+    "saturatedFatContent": "5",
+    "monounsaturatedFatContent": "4",
+    "polyunsaturatedFatContent": "2",
+    "unsaturatedFatContent": 6,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  tbsp(s) Organic Soy Sauce",
+    "1  tsp(s) Honey",
+    "15 g Sharp Cheddar Cheese",
+    "15 g Garlic, raw",
+    "300 g chicken",
+    "40 g White Onion Raw",
+    "400 g Green String Beans",
+    "5 large Egg",
+    "50 g Smoked Salmon Slices"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 375°F (190°C).",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the ingredients: Grate the sharp cheddar cheese, finely chop the white onion and garlic, and trim the green string beans.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, mix 1 tsp of honey with 1 tbsp of organic soy sauce. This will be used to glaze the chicken and salmon.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the chicken breasts on one side of a baking dish, and the green string beans next to them.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Brush the honey and soy sauce mixture over the chicken.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In another baking dish, place the smoked salmon slices and sprinkle them with the grated sharp cheddar cheese.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake the chicken and green beans for 20 minutes.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the baking dish with the salmon to the oven and bake everything for an additional 10 minutes, or until the chicken is cooked through and the beans are tender.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the dishes are baking, sauté the chopped onion and garlic in a pan over medium heat until translucent.",
+      "name": "Step 9"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk the eggs in a bowl and then pour them into the pan with the onion and garlic. Cook the eggs, stirring frequently, until they are scrambled and fully cooked, about 8 minutes.",
+      "name": "Step 10"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the baked chicken and salmon alongside the scrambled eggs and sautéed green beans.",
+      "name": "Step 11"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

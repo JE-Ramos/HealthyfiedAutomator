@@ -1,0 +1,89 @@
+{
+  "post_id": "65d49764977bcd0001feee9e",
+  "title": "Kimchi Beef Rice",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Kimchi Beef Rice",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "285 g, Ground Beef",
+      "55.00 g, Red Onion",
+      "1 tsp(s), Seeds, sesame seeds, whole, dried",
+      "83.00 g, Capsicum Green",
+      "0.25 tsp(s), Salt",
+      "0.25 tsp., Ginger Powder",
+      "0.25 tsp, ground, Pepper",
+      "268 g, Steamed",
+      "15.00 g, Garlic, raw",
+      "3.50 g, Coco Sugar",
+      "190 g, Kimchi",
+      "142.50 g, Adlai Rice (Job's Tears)"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "410",
+      "carbohydrateContent": "49",
+      "fiberContent": "4",
+      "sugarContent": "7",
+      "sodiumContent": "713",
+      "proteinContent": "30",
+      "fatContent": "11",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Adlai Rice (Job's Tears) under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Adlai Rice according to package instructions until tender, approximately 20 minutes, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely dice the red onion and capsicum green. Mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a pan over medium heat, add the ground beef and cook until browned, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To the pan, add the diced onion, capsicum, minced garlic, sesame seeds, ginger powder, salt, pepper, and coco sugar. Cook for another 5 minutes until the vegetables are slightly softened."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the kimchi and cook for an additional 5 minutes, allowing the flavors to meld together."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cooked beef mixture with the steamed Adlai Rice. Adjust seasoning to taste."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-sodium",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Kimchi Beef Rice is the perfect combination of savory, spicy, and hearty\u2014a health-conscious take on traditional flavors. Packed with high-protein and reimagined with a high-sodium twist, this dish offers a delicious way to enjoy healthy recipes without sacrificing taste. Ideal for anyone looking to indulge in healthified recipes that are as nourishing as they are flavorful.",
+    "prepTime": "PT15M",
+    "cookTime": "PT40M",
+    "totalTime": "PT55M",
+    "keywords": "high-protein,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

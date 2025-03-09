@@ -1,0 +1,73 @@
+{
+  "post_id": "65d4960d977bcd0001fee773",
+  "title": "Camote Ham Eff",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Camote Ham Eff",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "90 gram, Sweet Potato",
+      "1 large, Egg",
+      "100 gram, Ham"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "89",
+      "carbohydrateContent": "8",
+      "fiberContent": "1",
+      "sugarContent": "3",
+      "sodiumContent": "338",
+      "proteinContent": "8",
+      "fatContent": "3",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel the sweet potato, then grate it into thin strips."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the ham into small, bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, cook the grated sweet potato for about 5 minutes, or until it starts to soften."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced ham to the pan with the sweet potato and cook for another 5 minutes, until the ham is lightly browned."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Create a well in the center of the sweet potato and ham mixture. Crack the egg into the well, cover the pan, and cook for about 3-5 minutes, or until the egg is cooked to your liking."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "A Healthyfied Camote Ham Eff recipe that's perfect for anyone looking to enjoy a delicious, low-carb and low-sugar meal. This dish combines the natural sweetness of sweet potatoes with savory ham and a perfectly cooked egg for a balanced and nutritious meal ideal for health-conscious individuals.",
+    "prepTime": "PT10M",
+    "cookTime": "PT13M",
+    "totalTime": "PT23M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

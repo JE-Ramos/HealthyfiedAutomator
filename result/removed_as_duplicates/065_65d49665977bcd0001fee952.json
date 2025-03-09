@@ -1,0 +1,81 @@
+{
+  "post_id": "65d49665977bcd0001fee952",
+  "title": "Sky High Fibre Toast Banana",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Sky-High Fibre Toast - Banana",
+    "recipeYield": "8",
+    "recipeIngredient": [
+      "1 packet, Sugar Substitute",
+      "1 Banana (101g), Medium 6\"",
+      "2 large, Egg, whole, cooked, fried",
+      "0.25 cup, Non-Fat",
+      "0.50 cup, Quick Cook Oats",
+      "0.25 Cup ( 8 oz--250 ml ), Ice Cold Water",
+      "8 slices (70 g), Whole Wheat Bread"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "155",
+      "carbohydrateContent": "25",
+      "fiberContent": "3",
+      "sugarContent": "5",
+      "sodiumContent": "163",
+      "proteinContent": "6",
+      "fatContent": "4",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix together the sugar substitute, Quick Cook Oats, and Non-Fat milk until well blended."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel the banana and cut it into slices."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry the eggs to your liking, preferably using a non-stick pan to minimize the need for added fats."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toast the whole wheat bread slices until they're golden and crispy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble the toast by spreading the oat mixture on the toasted bread, add a layer of fried egg and top with banana slices.",
+        "time": "5 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle ice cold water over the assembled toast for added freshness.",
+        "time": "1 minute"
+      }
+    ],
+    "tags": [
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a delicious breakfast option with our Sky-High Fibre Toast - Banana recipe. It's a health-conscious choice that's low in sugar and high in nutrients, perfect for those looking to maintain a healthy lifestyle without sacrificing taste. This recipe transforms simple ingredients into a wholesome meal that's both satisfying and nutritious.",
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "keywords": "low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

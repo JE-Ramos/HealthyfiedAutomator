@@ -1,0 +1,105 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Dory Blossom Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/dory-blossom-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Dory Blossom Salad is a perfect blend for those seeking a healthy yet flavorful meal. Packed with high-protein ingredients and carefully selected vegetables, it's a delicious way to enjoy a meal that's both nutritious and satisfying. Featuring cream dory, colorful peppers, and a unique dragonfruit dressing, this salad is ideal for those following a health-conscious lifestyle.",
+  "prepTime": "PT15M",
+  "cookTime": "PT8M",
+  "totalTime": "PT23M",
+  "keywords": "high-protein,high-sodium,high-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "296",
+    "carbohydrateContent": "44",
+    "fiberContent": "4",
+    "sugarContent": "26",
+    "sodiumContent": "553",
+    "proteinContent": "25",
+    "fatContent": "4",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 1,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  carrot Medium, Medium Carrot",
+    "1 medium Clove (8g), Fresh",
+    "1  tbsp Cane Vinegar",
+    "1  fillet Cream Dory",
+    "100 g Extra Firm",
+    "133 g Cucumber",
+    "18  fluid ounce, Yogurt",
+    "2  cup Chopped Romaine",
+    "25 g Green Bellpepper",
+    "25 g Yellow Bellpepper",
+    "50 g Tomatoes",
+    "500 g Dragonfruit"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Chop the romaine, medium carrot, tomatoes, and extra firm tofu into bite-sized pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the cucumber, yellow and green bell peppers.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel and dice the dragonfruit. Set aside to be used in the salad dressing.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the cream dory fillet with a pinch of salt and pepper.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet over medium heat, cook the cream dory fillet for 4 minutes on each side or until golden brown and cooked through. Allow it to cool, then flake into pieces.",
+      "time": "PT8M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, mix the yogurt, cane vinegar, and minced fresh garlic to prepare the dressing. Mash half of the diced dragonfruit and blend it into the dressing for a sweet and tangy flavor.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, combine the chopped and diced vegetables, flaked dory, and the remaining diced dragonfruit. Toss gently.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drizzle the dragonfruit yogurt dressing over the salad and toss well to coat all the ingredients.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

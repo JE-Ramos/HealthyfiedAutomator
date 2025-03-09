@@ -1,0 +1,83 @@
+{
+  "post_id": "65d49695977bcd0001feea53",
+  "title": "Avocomangoban Smoothie",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "AvoCoMangoBan Smoothie",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.50 fruit, Avocado",
+      "0.50 mango, Mango",
+      "1 cup (8 fl oz), Water",
+      "1 cup, shredded, Coconut Meat",
+      "1 medium, Banana",
+      "1 packet, Stevia In the Raw",
+      "2 tbsp, Whipped Cream"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "196",
+      "carbohydrateContent": "21",
+      "fiberContent": "6",
+      "sugarContent": "12",
+      "sodiumContent": "11",
+      "proteinContent": "2",
+      "fatContent": "13",
+      "saturatedFatContent": "9",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel and slice the banana."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Scoop out the avocado flesh and chop the mango into chunks."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add banana slices, avocado flesh, mango chunks, shredded coconut meat, water, whipped cream, and Stevia to a blender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend on high speed until smooth, about 2 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour into glasses and serve immediately."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "low-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a refreshing and nutritious AvoCoMangoBan Smoothie, perfectly blending the creamy textures of avocado and banana with the tropical sweetness of mango and coconut. Ideal for those following a low-sodium, high-fiber diet, this healthified recipe promises not only a burst of flavors but also a boost of wellness. Satisfy your cravings while keeping it healthy!",
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "PT10M",
+    "keywords": "low-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_056_65d49695977bcd0001feea53.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/056_65d49695977bcd0001feea53.json",
+  "original_files": [
+    "056_65d49695977bcd0001feea53.json",
+    "053_65d49695977bcd0001feea53.json"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Coconut Banana Pancake",
+  "image": [
+    "https://healthyfied.me/images/recipes/coconut-banana-pancake.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in the goodness of Coconut Banana Pancakes, a healthified delight that's perfect for those seeking high-fiber, nutritious meal options. Crafted with the wholesomeness of Saba bananas, coconut flour, and extra virgin coconut oil, these pancakes promise a heart-healthy start to your day",
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "keywords": "high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "12",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "198",
+    "carbohydrateContent": "37",
+    "fiberContent": "7",
+    "sugarContent": "9",
+    "sodiumContent": "177",
+    "proteinContent": "6",
+    "fatContent": "5",
+    "saturatedFatContent": "3",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  cup(s) Coconut Flour",
+    "1 l Extra Virgin Coconut Oil",
+    "1  tsp(s) Salt",
+    "12  banana Saba Banana",
+    "3  tsp Baking Powder",
+    "5 g Eggs"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mash the Saba Banana until smooth.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, mix together the mashed banana, coconut flour, eggs, baking powder, and salt until well combined.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a non-stick skillet over medium heat and add a tablespoon of extra virgin coconut oil.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour a scoop of the pancake batter into the skillet, cook for about 3 minutes on each side or until golden brown.",
+      "time": "PT3M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Repeat the process with the remaining batter, adding more coconut oil to the skillet as needed.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

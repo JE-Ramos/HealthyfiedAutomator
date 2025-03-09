@@ -1,0 +1,114 @@
+{
+  "post_id": "65d49743977bcd0001feedee",
+  "title": "2018/10/04 Lunch",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/04 Lunch",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.50 tsp(s), Salt",
+      "0.50 tsp, Black Pepper - Ground",
+      "1 lemon yields, Lemon juice, raw",
+      "1 tbsp(s), Coconut Amino",
+      "1 tbsp, Extra Virgin Olive Oil",
+      "150 grams, Belly",
+      "180 grams, Tomatoes",
+      "2 tablespoon, Parmesan",
+      "2 tbsp, Coconut Vinegar",
+      "200 gram, Tilapia Fillets, Frozen",
+      "300 g, Eggplant, raw",
+      "40.00 g, Red Onion",
+      "5.00 g, Garlic, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "358",
+      "carbohydrateContent": "12",
+      "fiberContent": "4",
+      "sugarContent": "7",
+      "sodiumContent": "490",
+      "proteinContent": "22",
+      "fatContent": "24",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mince the Garlic and dice the Red Onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the Eggplant into rounds and chop the Tomatoes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the Tilapia Fillets with Salt, Black Pepper, and half of the Lemon juice."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 375°F (190°C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a baking dish, layer the Eggplant rounds at the bottom, then place the seasoned Tilapia Fillets on top. Sprinkle with Garlic, Red Onion, and Tomatoes.",
+        "time": "5 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle the Coconut Amino, Coconut Vinegar, and the rest of the Lemon juice over the tilapia and vegetables.",
+        "time": "2 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover the dish with aluminum foil and bake in the preheated oven for 25 minutes.",
+        "time": "25 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the foil, sprinkle the Parmesan over the top, and bake for an additional 5 minutes or until the cheese is slightly golden and bubbly.",
+        "time": "5 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the fish is cooking, heat Extra Virgin Olive Oil in a pan over medium heat and sauté the Belly until crispy, set aside.",
+        "time": "10 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the baked tilapia and eggplant hot, topped with crispy belly bits."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "high-sodium",
+      "low-carb"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a healthy feast with our 2018/10/04 Lunch recipe! Packed with high-protein and low-carb ingredients, this dish is perfect for those following a health-conscious diet without compromising on flavor. Discover how belly, tilapia fillets, and eggplant can come together in a beautiful harmony, accentuated with a splash of lemon juice and hints of garlic and Parmesan. An excellent choice for anyone looking to enjoy healthy recipes without the guilt.",
+    "prepTime": "PT20M",
+    "cookTime": "PT30M",
+    "totalTime": "PT50M",
+    "keywords": "high-protein,low-carb,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_159_65d49743977bcd0001feedee.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/159_65d49743977bcd0001feedee.json",
+  "original_files": [
+    "159_65d49743977bcd0001feedee.json",
+    "156_65d49743977bcd0001feedee.json"
+  ]
+}

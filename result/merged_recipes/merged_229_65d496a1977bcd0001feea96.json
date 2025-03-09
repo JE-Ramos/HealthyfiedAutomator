@@ -1,0 +1,83 @@
+{
+  "post_id": "65d496a1977bcd0001feea96",
+  "title": "Coconut Tapioca Tortilla",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Coconut Tapioca Tortilla",
+    "recipeYield": "7",
+    "recipeIngredient": [
+      "0.50 tsp(s), Salt",
+      "1 Tbsp, Organic Chia Seeds",
+      "2 cup (240ml), Almond Milk",
+      "240 gram, Finely Ground Tapioca Flour (Starch)",
+      "4 large, Egg",
+      "64 grams, Coconut Flour - 100% Natural Coconut Meat"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "207",
+      "carbohydrateContent": "37",
+      "fiberContent": "5",
+      "sugarContent": "1",
+      "sodiumContent": "112",
+      "proteinContent": "6",
+      "fatContent": "5",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl, whisk together almond milk, finely ground tapioca flour, organic chia seeds, coconut flour, and salt until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs into a separate bowl and beat them until fluffy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gradually mix the beaten eggs into the dry ingredients, stirring constantly to ensure a smooth mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the batter rest for 10 minutes to allow the chia seeds to gel, thickening the mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a non-stick skillet over medium heat and pour a portion of the batter, spreading it thinly to form a tortilla shape. Cook for about 2-3 minutes on each side until golden brown and fully cooked."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Coconut Tapioca Tortilla is a delightful blend of health and taste, perfect for those looking for low-sodium, low-sugar, and high-fiber options. Made with a unique combination of almond milk, tapioca flour, chia seeds, coconut flour, and eggs, this tortilla is a 'Healthyfied' twist on your typical recipes, aiming to enrich your diet without compromising on flavor.",
+    "prepTime": "PT15M",
+    "cookTime": "PT6M",
+    "totalTime": "PT21M",
+    "keywords": "low-sodium,low-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_229_65d496a1977bcd0001feea96.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/229_65d496a1977bcd0001feea96.json",
+  "original_files": [
+    "229_65d496a1977bcd0001feea96.json",
+    "232_65d496a1977bcd0001feea96.json"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "post_id": "65d495fd977bcd0001fee715",
+  "title": "2018/11/07 Lunch Garlic Sesame Asparagus",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/11/07 Lunch Garlic Sesame Asparagus",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "260.00 g, Asparagus - Raw",
+      "1 tbsp, Extra Virgin Olive Oil",
+      "1 tbsp(s), Seeds, sesame seeds, whole, dried",
+      "1 tsp (5g) (1/2 tsp= clove), Spice World"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "76",
+      "carbohydrateContent": "4",
+      "fiberContent": "2",
+      "sugarContent": "2",
+      "sodiumContent": "2",
+      "proteinContent": "2",
+      "fatContent": "6",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "4",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 5,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the asparagus by washing it thoroughly under cold water. Trim the ends of the asparagus spears."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, toss the asparagus with 1 tbsp of Extra Virgin Olive Oil, ensuring the spears are evenly coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a grill pan or skillet over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the asparagus in the pan and cook for 7 minutes, turning occasionally to ensure even cooking."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the asparagus is cooking, toast the sesame seeds in a dry pan over low heat until they're golden brown, which should take about 3 minutes. Remove from heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the asparagus is tender and charred to your liking, add the minced garlic and toasted sesame seeds, tossing everything together in the pan for another 2 minutes."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a delightful, healthy side dish with our Garlic Sesame Asparagus recipe. This low-carb, low-sodium, and low-sugar recipe is perfect for those looking to enjoy a nutritious meal without compromising on flavor. Perfect for a health-conscious lifestyle, this recipe brings a fresh twist to your table.",
+    "prepTime": "PT10M",
+    "cookTime": "PT12M",
+    "totalTime": "PT22M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

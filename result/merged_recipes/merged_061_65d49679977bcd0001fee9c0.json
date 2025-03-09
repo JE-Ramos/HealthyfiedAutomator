@@ -1,0 +1,89 @@
+{
+  "post_id": "65d49679977bcd0001fee9c0",
+  "title": "Taragon Buttered Tuna",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Taragon Buttered Tuna",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 tsp, ground, Pepper",
+      "1 tsp (0 g), Herb - Taragon (Dried)",
+      "1 tsp(s), Spices, garlic powder",
+      "20 gram(s), Butter - Unsalted",
+      "250 gram, Sashimi Tuna"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "169",
+      "carbohydrateContent": "1",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "31",
+      "proteinContent": "21",
+      "fatContent": "5",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your ingredients: Soften the butter to room temperature, grind the pepper, and measure the garlic powder and dried tarragon."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the sashimi tuna evenly with the ground pepper and garlic powder."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, melt the unsalted butter over medium heat, then add the seasoned tuna to the pan.",
+        "time": "PT3M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the tuna for about 2 minutes on each side for a medium-rare finish or adjust according to your preferred doneness.",
+        "time": "PT4M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the dried tarragon over the tuna in the last minute of cooking to infuse it with flavor."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve immediately and enjoy your Healthyfied Tarragon Buttered Tuna."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Dive into a heart-healthy culinary adventure with this Healthyfied Tarragon Buttered Tuna. Perfect for those following a high-protein, low-carb, low-sodium, and low-sugar diet. This recipe brings together the richness of butter, the spicy hint of black pepper and garlic, and the unique aroma of tarragon to give you a flavorsome meal that doesn't skimp on your health goals. Ideal for anyone looking to enjoy healthy recipes without compromising on taste.",
+    "prepTime": "PT10M",
+    "cookTime": "PT7M",
+    "totalTime": "PT17M",
+    "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_061_65d49679977bcd0001fee9c0.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/061_65d49679977bcd0001fee9c0.json",
+  "original_files": [
+    "061_65d49679977bcd0001fee9c0.json",
+    "064_65d49679977bcd0001fee9c0.json"
+  ]
+}

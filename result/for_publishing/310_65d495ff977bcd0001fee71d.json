@@ -1,0 +1,98 @@
+{
+  "post_id": "65d495ff977bcd0001fee71d",
+  "title": "2018/09/25 Dinner",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/09/25 Dinner",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "45.00 g, Eggplant, raw",
+      "15.00 g, Okra, raw",
+      "40 grams, Tomatoes",
+      "1 tablespoon, Coconut Amino",
+      "1 tbsp, Coconut Vinegar",
+      "80 gram, Shrimps"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "78",
+      "carbohydrateContent": "7",
+      "fiberContent": "2",
+      "sugarContent": "4",
+      "sodiumContent": "459",
+      "proteinContent": "21",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the eggplant, okra, and tomatoes under cold water. Chop the eggplant and okra, and dice the tomatoes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and devein the shrimps, if not already done so."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix together coconut amino and coconut vinegar to create the marinade."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Marinate the shrimps in the prepared sauce for 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet over medium heat, saut\u00e9 the marinated shrimps for 5 minutes or until they are fully cooked. Remove from the skillet and set aside.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same skillet, add the chopped eggplant and okra. Cook for about 5 minutes.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced tomatoes to the skillet and cook for an additional 3 minutes.",
+        "time": "PT3M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return the cooked shrimps to the skillet, stirring to combine all the ingredients. Heat through for 2 minutes.",
+        "time": "PT2M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve hot and enjoy your delicious, healthified dinner."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "This high-protein, low-carb meal is perfect for those who are looking for a healthy yet delicious dinner option. With a hint of high-sodium and low-sugar ingredients, this recipe brings out the best in healthy eating. Featuring nutritious vegetables such as eggplant, okra, and tomatoes, paired with succulent shrimps, all seasoned with coconut amino and vinegar for an extra flavor kick. Perfect for anyone who loves healthy recipes with a gourmet twist.",
+    "prepTime": "PT20M",
+    "cookTime": "PT15M",
+    "totalTime": "PT35M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

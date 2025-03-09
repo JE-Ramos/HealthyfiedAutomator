@@ -1,0 +1,86 @@
+{
+  "post_id": "65d49709977bcd0001feecc8",
+  "title": "Tofu Sisig",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Tofu Sisig",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "300 gram, Ground Beef",
+      "3 tbsp(s), Coconut Amino",
+      "40.00 g, Leeks",
+      "70.00 g, Red",
+      "50 gram, Red Onion",
+      "1 tbsp, Spices, ginger, ground",
+      "230 grams, Firm Tofu",
+      "35.00 g, Garlic, raw",
+      "27.00 g, Peppers, jalapeno, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "302",
+      "carbohydrateContent": "15",
+      "fiberContent": "3",
+      "sugarContent": "6",
+      "sodiumContent": "377",
+      "proteinContent": "28",
+      "fatContent": "14",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your ingredients: Dice the red onion and leeks, mince the garlic, and finely chop the jalape\u00f1o peppers. Set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain the firm tofu and wrap it in a clean kitchen towel. Place a weight on top (like a heavy pan) to press out excess water for about 20 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crumble the pressed tofu into small pieces, mimicking the texture of ground meat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, heat a little oil over medium heat and cook the ground beef until browned. This should take about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "To the same pan, add the diced red onions, leeks, minced garlic, and chopped jalape\u00f1o peppers. Saut\u00e9 until the vegetables are softened, approximately 8 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the crumbled tofu to the pan along with the coconut amino and ground ginger. Stir well to combine and cook for another 10 minutes, allowing the flavors to meld together."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve your Healthyfied Tofu Sisig hot, garnished with additional jalape\u00f1o slices or leeks if desired."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a guilt-free version of a classic Filipino dish with our Healthyfied Tofu Sisig. Packed with high-protein ingredients and keeping it low-carb, this recipe is perfect for those who love to enjoy traditional flavors in a healthier way. Explore the vibrant mix of ground beef, aromatic spices, and tofu that makes this dish a delightful addition to your healthy recipe collection.",
+    "prepTime": "PT30M",
+    "cookTime": "PT28M",
+    "totalTime": "PT58M",
+    "keywords": "high-protein,low-carb,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

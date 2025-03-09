@@ -1,0 +1,285 @@
+
+<style>
+    /* Tags */
+    .tags {
+        margin: 10px 0;
+        padding-bottom: 10px;
+    }
+
+    .tag {
+        display: inline-block;
+        padding: 5px 10px;
+        background-color: #1A4314; /* Luxury green color */
+        border-radius: 20px;
+        font-size: 0.8em;
+        margin-right: 5px;
+        color: #fff;
+    }
+
+    /* Nutrition Heading in Luxury Green */
+    .nutrition-heading {
+        color: #1A4314; /* Luxury green color */
+    }
+
+    /* Serving Count Caption */
+    .serving-caption {
+        font-size: 0.9em;
+        color: #777;
+        text-align: left;
+        margin-bottom: 10px;
+    }
+
+    /* Nutrition Section with Equal Columns */
+    .nutrition-section {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        align-items: start;
+        gap: 10px;
+        background-color: #FFFFFF;
+        border: 1px solid #E0E0E0;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    /* Circular Border for Calories */
+    .calories-circle {
+        width: 50px;
+        height: 50px;
+        border: 2px solid #1A4314;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #1A4314;
+        font-size: 0.9em;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .calories-circle .calories-text {
+        line-height: 1;
+    }
+
+    .calories-circle .calories-text .cal-number {
+        font-size: 1em;
+        display: block;
+    }
+
+    .calories-circle .calories-text .cal-unit {
+        font-size: 0.7em;
+        display: block;
+        text-transform: lowercase;
+    }
+
+    /* Nutrient Block Styling */
+    .nutrient {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: start;
+        height: 50px;
+    }
+
+    .nutrient .percentage {
+        font-size: 0.7em;
+        font-weight: bold;
+        color: inherit;
+        margin: 0;
+    }
+
+    .nutrient .gram-value {
+        font-size: 0.9em;
+        font-weight: bold;
+        color: #333;
+        margin: 0;
+        line-height: 1;
+    }
+
+    .nutrient .macro-name {
+        font-size: 0.7em;
+        color: #999;
+        margin: 0;
+    }
+
+    /* Pill Styling for Sodium and Sugar */
+    .pill-container {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .pill {
+        display: inline-flex;
+        align-items: center;
+        padding: 3px 10px;
+        background-color: #FFFFFF;
+        border: 1px solid #E0E0E0;
+        border-radius: 20px;
+        font-size: 0.8em;
+        color: #333;
+        font-weight: bold;
+    }
+
+    .pill .pill-label {
+        font-size: 0.7em;
+        color: #999;
+        font-weight: normal;
+        margin-left: 5px;
+    }
+
+    /* Specific Colors for Percentage */
+    .percentage-carbs {
+        color: #D4AF37;
+    }
+
+    .percentage-fat {
+        color: #800020;
+    }
+
+    .percentage-protein {
+        color: #0B3D91;
+    }
+
+    /* Ingredients and Steps Section */
+    .ingredients-section,
+    .steps-section {
+        padding-top: 10px;
+        background-color: #FFFFFF;
+    }
+
+    .ingredients-title,
+    .steps-title {
+        font-size: 1.2em;
+        font-weight: bold;
+        margin-bottom: 10px;
+        color: #1A4314; /* Luxury green color */
+    }
+
+    .ingredients-list,
+    .steps-list {
+        font-size: 0.9em;
+        color: #666;
+        margin-bottom: 10px;
+    }
+
+    .ingredients-list li,
+    .steps-list li {
+        margin-bottom: 5px;
+    }
+
+    /* Print styling */
+    @media print {
+        /* Hide everything but the print section */
+        body * {
+            visibility: hidden;
+        }
+
+        #print-section, #print-section * {
+            visibility: visible;
+        }
+
+        #print-section {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 20px;
+        }
+
+        /* Ensure one-page layout and prevent page breaks */
+        .ingredients-section, .steps-section {
+            page-break-inside: avoid;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Remove unnecessary padding and margins */
+        .ingredients-title, .steps-title, .ingredients-list, .steps-list {
+            margin: 0;
+            padding: 0;
+        }
+    }
+</style>
+
+<style>
+    :root {
+        --luxury-green: #135029; /* Luxury Green Hex Code */
+        --luxury-green-hover: #0f4021; /* Darker shade for hover effect */
+        --button-text-color: #ffffff; /* White text color */
+        --card-background: #ffffff; /* Default card background color */
+        --card-shadow-color: rgba(0, 0, 0, 0.12); /* Shadow color for elevation */
+    }
+
+    /* Style the .post-more link as a small primary button */
+    .post-more {
+        position: relative;
+        display: inline-block;
+        padding: 6px 16px; /* Reduced padding for a smaller button */
+        font-size: 13px; /* Smaller font size */
+        font-weight: 500;
+        background-color: var(--luxury-green);
+        border: none;
+        border-radius: 12px; /* Smaller radius for a compact look */
+        text-transform: uppercase;
+        text-decoration: none;
+        color: white; /* Make original "Read More" text invisible */
+        cursor: pointer;
+        transition: background-color 0.3s, box-shadow 0.3s;
+        box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1); /* Subtle shadow for elevation */
+        text-align: center;
+    }
+
+    /* Hover effect */
+    .post-more:hover {
+        background-color: var(--luxury-green-hover);
+    }
+
+    /* Focus effect */
+    .post-more:focus {
+        outline: none;
+        background-color: var(--luxury-green-hover);
+    }
+
+    /* Align the button to the right of its container */
+    .post-footer {
+        padding-top: 16px !important;
+        padding-bottom: 32px !important;
+        display: flex; /* Make the container a flex container */
+        justify-content: flex-end; /* Aligns items to the right */
+        border: none; /* Remove any borders */
+    }
+
+    /* Hide post-author */
+    .post-author {
+        display: none;
+    }
+
+    /* Style the .post as a Material Design 3 card only within .post-feed */
+    .post-feed .post {
+        background-color: var(--card-background);
+        border-radius: 12px; /* Standard M3 card corner radius */
+        box-shadow: 0 1px 3px var(--card-shadow-color), /* Subtle shadow for elevation */
+                    0 1px 2px var(--card-shadow-color);
+        transition: box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
+    }
+
+    /* Hover effect to simulate elevation change */
+    .post-feed .post:hover {
+        box-shadow: 0 4px 6px var(--card-shadow-color), /* Increased shadow on hover */
+                    0 2px 4px var(--card-shadow-color);
+        transform: translateY(-2px); /* Slight lift effect */
+    }
+
+    /* Focus effect for accessibility */
+    .post-feed .post:focus-within {
+        box-shadow: 0 4px 6px var(--card-shadow-color), /* Increased shadow on focus */
+                    0 2px 4px var(--card-shadow-color);
+        transform: translateY(-2px); /* Slight lift effect */
+        outline: none; /* Remove default outline */
+    }
+  input[placeholder="Search posts, tags and authors"]::placeholder {
+    content: "Search recipe, cuisine, diet";
+}
+</style>

@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Bolognese Sauce",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-bolognese-sauce.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Healthyfied Bolognese Sauce is a low-carb, low-sugar delight that does not compromise on flavor. Perfect for anyone following a healthy lifestyle, this recipe transforms the classic Bolognese into a nutritious meal without losing its hearty essence. A great addition to your collection of Healthy Recipes.",
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "182",
+    "carbohydrateContent": "5",
+    "fiberContent": "1",
+    "sugarContent": "3",
+    "sodiumContent": "247",
+    "proteinContent": "18",
+    "fatContent": "10",
+    "saturatedFatContent": "4",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "200 g Barilla alla bolognese",
+    "300 g Ground Beef",
+    "83 g Red capsicum (nutritional info from veggycation)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse and finely dice the red capsicum.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pan, cook the ground beef over medium heat until browned, about 10 minutes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the diced red capsicum to the pan with the beef and cook until softened, about 5 minutes.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the Barilla alla bolognese sauce and simmer the mixture on low heat, allowing the flavors to meld, about 15 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve your Healthyfied Bolognese Sauce hot over your choice of pasta or zucchini noodles for an even lighter option.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

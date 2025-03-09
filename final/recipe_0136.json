@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Angus Steak and Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/angus-steak-and-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in the perfect blend of succulence and freshness with our Angus Steak and Salad. Crafted for those following a high-protein, low-carb, and low-sugar diet, this recipe is a testament to healthy eating without compromising on taste. With tender Angus ribeye steak and a refreshing salad featuring cherry tomatoes, mozzarella cheese, croutons, and more, it's ideal for anyone looking to keep their meals nutritious and delicious.",
+  "prepTime": "PT15M",
+  "cookTime": "PT12M",
+  "totalTime": "PT27M",
+  "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Boiling",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "432",
+    "carbohydrateContent": "11",
+    "fiberContent": "2",
+    "sugarContent": "3",
+    "sodiumContent": "364",
+    "proteinContent": "35",
+    "fatContent": "29",
+    "saturatedFatContent": "12",
+    "monounsaturatedFatContent": "13",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 14,
+    "transFatContent": "2"
+  },
+  "recipeIngredient": [
+    "0.25  teaspoon Salt",
+    "0.25  tsp ground, Pepper",
+    "1.50  ear small (5-1/2\" to 6-1/2\" long), Corn, sweet, white, raw",
+    "10 g Crutons",
+    "100 g Soft Tofu",
+    "100 g خس",
+    "20 g Mozzarella Cheese",
+    "350 g Angus Ribeye Steak",
+    "5.80  tomatoes One Single Cherry Tomato"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the lettuce, cherry tomatoes, and sweet corn under cold water.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the sweet corn in boiling water for about 7 minutes, then set aside to cool.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the Angus ribeye steak with salt and pepper on both sides.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet over medium-high heat, cook the steak for about 4 to 5 minutes on each side for medium-rare, or until desired doneness. Allow it to rest for a few minutes after cooking, then slice thinly.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the tomatoes into halves, slice the mozzarella cheese, and crumble the soft tofu.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the cooled corn off the cob.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, combine the lettuce, cherry tomatoes, sliced mozzarella, corn kernels, and tofu. Toss lightly to mix.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top the salad with croutons and the sliced steak.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately, accompanied by your dressing of choice.",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

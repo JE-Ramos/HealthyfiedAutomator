@@ -1,0 +1,102 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Adlai Goto",
+  "image": [
+    "https://healthyfied.me/images/recipes/adlai-goto.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Adlai Goto is a healthified twist on the traditional Filipino congee, tailored for those seeking low-sugar, nutritious meals. This heartwarming recipe combines the wholesomeness of Adlai rice with the richness of beef sirloin and tripe, infused with the exotic flavors of saffron and ginger. Perfect for health-conscious individuals looking for a comforting yet healthy meal.",
+  "prepTime": "PT20M",
+  "cookTime": "PT85M",
+  "totalTime": "PT105M",
+  "keywords": "low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "14",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "226",
+    "carbohydrateContent": "31",
+    "fiberContent": "3",
+    "sugarContent": "3",
+    "sodiumContent": "156",
+    "proteinContent": "10",
+    "fatContent": "3",
+    "saturatedFatContent": "214",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  tbsp(s) Tapioca Flour",
+    "1  tbsp Sauce, fish, ready-to-serve",
+    "1  tsp ground, Pepper",
+    "13 g Ginger root - Raw",
+    "135 g Diced White Onion",
+    "16  cup (8 fl oz), Water - Municipal",
+    "190 g Adlai Rice (Job's Tears)",
+    "276 g Beef Sirloin",
+    "290 g Beef Tripe",
+    "317 g Carrots, raw",
+    "5 g Spices, saffron",
+    "67 g Garlic, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Adlai Rice under cold water until the water runs clear.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the carrots, white onion, and ginger. Mince the garlic.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Thinly slice the beef sirloin and beef tripe into bite-sized pieces.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot, bring the water to a boil. Add the saffron, ground pepper, diced onion, ginger, minced garlic, sliced beef sirloin, and beef tripe. Lower the heat and simmer for 30 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the rinsed Adlai Rice to the pot and continue to simmer for 45 minutes, or until the rice is fully cooked and has absorbed the flavors.",
+      "time": "PT45M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the fish sauce. In a small bowl, mix the tapioca flour with a bit of water to create a slurry, then stir it into the pot to thicken the goto.",
+      "time": "PT10M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve hot and enjoy your healthy, comforting Adlai Goto.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

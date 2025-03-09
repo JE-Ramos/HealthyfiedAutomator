@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Sweet and Sour Escabeche",
+  "image": [
+    "https://healthyfied.me/images/recipes/sweet-and-sour-escabeche.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a high-protein, low-carb treat with our Sweet and Sour Escabeche recipe. Tailored for health-conscious individuals, this dish blends the delightful flavors of spiced natural coconut vinegar and coconut sugar with fresh raw ingredients. It's a perfect example of a healthyfied dish that doesn't compromise on taste while adhering to dietary choices that favor low sugar and controlled sodium intake.",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "335",
+    "carbohydrateContent": "10",
+    "fiberContent": "1",
+    "sugarContent": "5",
+    "sodiumContent": "427",
+    "proteinContent": "55",
+    "fatContent": "6",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "3",
+    "unsaturatedFatContent": 5,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  tsp(s) Salt",
+    "1  tsp ground, Spices, pepper, black",
+    "1000 g Raw",
+    "11 g Garlic, raw",
+    "2  tbsp Spiced Natural Coconut Vinegar",
+    "3  tsp Coconut Sugar",
+    "40 g Red Onion",
+    "5 g Ginger root - Raw",
+    "86 g Red"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the raw fish under cold water and pat dry with paper towels.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the red onion, mince the garlic, and grate the ginger root.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the fish with salt and ground black pepper on both sides.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a pan over medium heat and cook the fish until golden brown on each side, about 5-6 minutes per side.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the fish from the pan and set aside. In the same pan, sauté the sliced onion, minced garlic, and grated ginger until softened.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the spiced natural coconut vinegar and coconut sugar to the pan, stirring well to combine with the sautéed vegetables.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return the fish to the pan, spooning the sauce over it to coat evenly. Let simmer for an additional 5 minutes, allowing the fish to absorb the flavors of the sauce.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

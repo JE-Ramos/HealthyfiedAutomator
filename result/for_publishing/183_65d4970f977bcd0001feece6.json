@@ -1,0 +1,76 @@
+{
+  "post_id": "65d4970f977bcd0001feece6",
+  "title": "Globe Lunch 2",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Globe Lunch 2",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "100 g, Beef",
+      "2 large, Egg",
+      "150 g, Watermelon, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "304",
+      "carbohydrateContent": "12",
+      "fiberContent": "1",
+      "sugarContent": "10",
+      "sodiumContent": "197",
+      "proteinContent": "37",
+      "fatContent": "12",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "4",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 6,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut the beef into small, bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat the eggs lightly in a bowl and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the watermelon into small cubes, removing any seeds."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the beef pieces in a pan over medium heat until browned and cooked through, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate pan, scramble the eggs until fully cooked, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the cooked beef and scrambled eggs together with the fresh watermelon cubes on the side."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Globe Lunch 2 recipe is a perfect match for those seeking a high-protein, low-carb, and healthy meal. Combining tender beef, hearty eggs, and refreshing watermelon, it's not just a treat to your taste buds but also a step towards a healthier lifestyle. Ideal for anyone looking to keep their meal times both nutritious and delicious!",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "high-protein,low-carb,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "post_id": "65d496e9977bcd0001feec28",
+  "title": "Chicken Corn Citrus Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Chicken Corn Citrus Salad",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.40 cup, Whole Kernel Corn",
+      "0.50 small, 5 oz, Small Orange 5 oz",
+      "0.67 large egg (50 g), Egg, Large, Boiled",
+      "0.67 medium breast, Boiled Chicken Breast",
+      "16.56 g, Young Baby Corn",
+      "47.50 grams, Fresh, Raw, Baby",
+      "7.50 g, All-Bran Regular",
+      "97.50 g, Ice Berg Lettuce"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "278",
+      "carbohydrateContent": "38",
+      "fiberContent": "5",
+      "sugarContent": "13",
+      "sodiumContent": "406",
+      "proteinContent": "23",
+      "fatContent": "7",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash the Ice Berg Lettuce and Fresh, Raw, Baby leaves thoroughly under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil the egg until hard-boiled, approximately 9 minutes, then set aside to cool."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil the chicken breast until fully cooked, about 20 minutes, then allow it to cool before shredding."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain the Whole Kernel Corn and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the Baby Corn into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and segment the small orange."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the boiled egg."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the Ice Berg Lettuce, Fresh, Raw, Baby leaves, Young Baby Corn, sliced egg, shredded chicken breast, orange segments, Whole Kernel Corn, and All-Bran Regular. Toss gently to combine."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-protein",
+      "high-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into a blend of nutrition and taste with our Chicken Corn Citrus Salad. This dish is a vibrant mix of fresh ingredients and bold flavors, specially curated for those seeking a high-protein, high-sodium, and high-fiber meal. Perfect for anyone looking to enjoy healthy recipes without compromising on taste, this salad is sure to enhance your dining experience with its delightful combination of textures and ingredients.",
+    "prepTime": "PT15M",
+    "cookTime": "PT29M",
+    "totalTime": "PT44M",
+    "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_193_65d496e9977bcd0001feec28.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/193_65d496e9977bcd0001feec28.json",
+  "original_files": [
+    "193_65d496e9977bcd0001feec28.json",
+    "196_65d496e9977bcd0001feec28.json"
+  ]
+}

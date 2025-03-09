@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Hawaiian  Seafood Red Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/hawaiian--seafood-red-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a vibrant blend of flavors with our Hawaiian Seafood Red Salad. This healthified recipe brings together the crunch of red cabbage, the sweetness of pineapple and apples, the unique taste of Alaskan crab flavored sticks, along with the nutritious punch of steamed broccoli, carrots, and protein-rich tuna. It's a perfect harmony of taste and health, tailored for those looking for a high-protein, high-fiber meal that doesn't shy away from being deliciously indulgent. Whether you're on a journey to eat healthier or simply love experimenting with flavors, this salad is a delightful choice.",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "keywords": "high-protein,high-sodium,high-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "315",
+    "carbohydrateContent": "46",
+    "fiberContent": "7",
+    "sugarContent": "30",
+    "sodiumContent": "486",
+    "proteinContent": "50",
+    "fatContent": "1",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup Steamed Broccoli",
+    "0.50  cup chopped, Cabbage, red, raw",
+    "0.50 medium carrot (61g), Medium",
+    "0.75 medium apple, Apples",
+    "115 g Pineapple Tidbits (115g)",
+    "184 g Tuna Chunks In Water",
+    "3  sticks (86 g), Ichiban Alaskan Crab Flavored"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Chop the red cabbage, apple, and carrot into bite-sized pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the pineapple tidbits and tuna chunks from their water.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Shred the Ichiban Alaskan crab flavored sticks into small, thin pieces.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Steam the broccoli until it is tender and chop it into small pieces.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large mixing bowl, combine the chopped cabbage, pineapple tidbits, shredded crab sticks, diced apple, steamed broccoli, tuna chunks, and diced carrot.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the ingredients thoroughly to ensure they are well combined.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

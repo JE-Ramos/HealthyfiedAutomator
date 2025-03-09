@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/11/20 Lunch",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/11/20-lunch.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This lunch menu, tagged as high-protein, high-sugar, high-fiber, Healthyfied, and Healthified Recipes, promises a nourishing and revitalizing meal. It's perfectly balanced with a garden salad topped with turkey for your protein needs, a sweet tangerine for a dose of healthy sugars, a banana packed with fiber, and a juicy quarter of rotisserie chicken to keep you satisfied and energized throughout the day.",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "keywords": "high-protein,high-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "548",
+    "carbohydrateContent": "40",
+    "fiberContent": "5",
+    "sugarContent": "24",
+    "sodiumContent": "332",
+    "proteinContent": "28",
+    "fatContent": "32",
+    "saturatedFatContent": "7",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "7",
+    "unsaturatedFatContent": 7,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1 -1/3 oz portion, Garden Salad with Turkey",
+    "1  quarter Rotisserie Chicken quarter",
+    "1 g Bananas, raw",
+    "1 small (2-1/4\" dia), Tangerines, (mandarin oranges), raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the garden salad as per your preference or follow a basic salad recipe. Add the turkey portion on top.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel the tangerine and segment it. Set aside for serving.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel the banana and place it on your serving dish.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Warm the rotisserie chicken quarter in the oven at 350°F for 10-15 minutes, until heated through.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange the salad, tangerine segments, banana, and warm chicken quarter on a plate and serve.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": []
+}

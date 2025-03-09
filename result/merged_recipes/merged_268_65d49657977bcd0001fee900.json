@@ -1,0 +1,90 @@
+{
+  "post_id": "65d49657977bcd0001fee900",
+  "title": "Creamy Honey Mustard Tuna Apple Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Creamy Honey Mustard Tuna Apple Salad",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.50 cup  (72gm), Ice Berg Lettuce",
+      "0.50 wedge, Cream Cheese Wedge",
+      "1 packet, Sugar Substitute",
+      "10 g, mustard",
+      "40.25 g, Raw, Peeled",
+      "7.50 g, All-Bran Regular",
+      "90 g, Tuna Fillet In Water"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "145",
+      "carbohydrateContent": "12",
+      "fiberContent": "2",
+      "sugarContent": "7",
+      "sodiumContent": "310",
+      "proteinContent": "18",
+      "fatContent": "2",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Ice Berg Lettuce under cold water and chop it into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the Raw, Peeled Apple into small chunks."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain the Tuna Fillet In Water and flake it with a fork."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix the Cream Cheese Wedge, Sugar Substitute, and mustard until smooth and creamy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl, combine the iceberg lettuce, apple, tuna, and All-Bran Regular."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the creamy honey mustard dressing over the salad and gently toss to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve immediately for the freshest taste."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "Indulge in a delightful and refreshing salad that aligns perfectly with your health goals. Our Creamy Honey Mustard Tuna Apple Salad combines the crisp freshness of Ice Berg Lettuce, tender tuna fillet, and the crunch of All-Bran for a low-carb meal that doesn't skimp on flavor. Perfect for those who enjoy healthy and delicious recipes, this salad is a testament to healthified eating without compromise.",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "totalTime": "PT15M",
+    "keywords": "low-carb,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_268_65d49657977bcd0001fee900.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/268_65d49657977bcd0001fee900.json",
+  "original_files": [
+    "268_65d49657977bcd0001fee900.json",
+    "271_65d49657977bcd0001fee900.json"
+  ]
+}

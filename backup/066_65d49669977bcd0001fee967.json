@@ -1,0 +1,96 @@
+{
+  "post_id": "65d49669977bcd0001fee967",
+  "title": "Seafood City Sauteed Scallops With Veggies",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Seafood City - Sauteed Scallops with Veggies",
+    "recipeYield": "10",
+    "recipeIngredient": [
+      "1 kg(s), Scallop",
+      "500 g, Cauliflower - Raw",
+      "500 g, Carrots, raw",
+      "500 grams, taiwan pechay",
+      "1 tsp, ground, Pepper",
+      "0.50 tsp(s), Salt",
+      "2 tbs, Oyster",
+      "50 grams, Fresh Garlic"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "160",
+      "carbohydrateContent": "10",
+      "fiberContent": "3",
+      "sugarContent": "4",
+      "sodiumContent": "433",
+      "proteinContent": "25",
+      "fatContent": "1",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the scallops under cold water and pat dry with paper towels."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the cauliflower into florets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and slice the carrots."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the taiwan pechay into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the fresh garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a large pan over medium heat and saut\u00e9 the garlic until fragrant, about 1 minute."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cauliflower and carrots to the pan, season with salt and pepper, and cook for 5-7 minutes until slightly tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Increase the heat to medium-high and add the scallops to the pan, cooking for 2-3 minutes on each side until golden brown and cooked through."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the oyster sauce and add the taiwan pechay, cook for an additional 2 minutes until the greens wilt."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "Indulge in the taste of the ocean with 'Seafood City - Sauteed Scallops with Veggies', a dish perfect for those who love a high-protein, low-carb meal with the benefits of a healthy recipe. This dish balances the succulence of scallops with the crunch of fresh vegetables, all while keeping an eye on your health needs. It's a delectable way to keep your meals interesting and nutritious.",
+    "prepTime": "PT15M",
+    "cookTime": "PT12M",
+    "totalTime": "PT27M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

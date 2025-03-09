@@ -1,0 +1,100 @@
+{
+  "post_id": "65d49715977bcd0001feed04",
+  "title": "Wagyupsal",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Wagyupsal",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "180 g, Sweet, Capsicum, Orange, Raw 100g",
+      "70.00 g, Red",
+      "56.00 g, Mushrooms, oyster, raw",
+      "236 grams, Tomatoes",
+      "1 tbsp(s), Thyme, fresh",
+      "1 tbsp, Rosemary, fresh",
+      "0.25 teaspoon, Salt",
+      "100 g, \u062e\u0633",
+      "100 gram, Kimchi",
+      "1 teaspoon, Garlic - Minced",
+      "10.58 oz, Japanese Wagyu Kobe Beef"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "312",
+      "carbohydrateContent": "13",
+      "fiberContent": "5",
+      "sugarContent": "7",
+      "sodiumContent": "415",
+      "proteinContent": "23",
+      "fatContent": "18",
+      "saturatedFatContent": "7",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash the sweet capsicum, orange capsicum, red mushrooms, tomatoes, and lettuce under cold water. Pat them dry."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the sweet capsicum, orange capsicum, red mushrooms, and tomatoes into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic finely."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the fresh thyme and rosemary."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, mix the sliced vegetables, minced garlic, chopped thyme, chopped rosemary, and salt. Let it marinate for about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the Japanese Wagyu Kobe Beef into thin slices."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a grill pan over medium-high heat. Grill the marinated vegetables for about 5 minutes until they're slightly charred and tender, then remove and set aside.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same pan, grill the Wagyu beef slices for about 2-3 minutes on each side, or until they reach your desired doneness.",
+        "time": "PT6M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the grilled Wagyu beef alongside the grilled vegetables, fresh lettuce, and kimchi. Enjoy your Healthyfied Wagyupsal."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a high-protein, low-carb, high-fiber, and high-sodium culinary masterpiece with our Healthyfied Wagyupsal recipe. Perfect for health-conscious individuals looking to enjoy luxurious flavors without guilt, this dish combines Japanese Wagyu Kobe Beef with a vibrant mix of fresh vegetables and kimchi. Each bite promises a burst of rich flavor and a multitude of health benefits, making it a standout addition to any healthy recipe collection.",
+    "prepTime": "PT15M",
+    "cookTime": "PT11M",
+    "totalTime": "PT26M",
+    "keywords": "high-protein,low-carb,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

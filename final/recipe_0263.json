@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2019/10/01 Dinner",
+  "image": [
+    "https://healthyfied.me/images/recipes/2019/10/01-dinner.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This dinner recipe from October 1, 2019, is perfect for those looking for a healthy and delicious meal. It is low-carb, low-sodium, and low-sugar, making it an ideal choice for anyone looking to maintain a healthy lifestyle. Featuring fresh lettuce, homemade Ginisang monggo, a nutritious salad topper, and fresh orange wedges, this dish is not only nourishing but also incredibly flavorful.",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "154",
+    "carbohydrateContent": "16",
+    "fiberContent": "4",
+    "sugarContent": "2",
+    "sodiumContent": "93",
+    "proteinContent": "5",
+    "fatContent": "9",
+    "saturatedFatContent": "5",
+    "monounsaturatedFatContent": "1",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 1,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup Homemade Ginisang monggo",
+    "5  wedges Fresh Orange Wedges",
+    "5 g Lettuce",
+    "5 g Salad Topper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash the lettuce under cold water, then pat dry and set aside.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the homemade Ginisang monggo according to your favorite recipe, ensuring it's kept low-sodium and healthy.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Measure out 5 grams of your preferred salad topper.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut fresh oranges into 5 wedges.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Assemble the salad by laying down the lettuce first, then adding a quarter cup of Ginisang monggo on top.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle the salad topper over the Ginisang monggo.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Garnish with fresh orange wedges and serve immediately.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

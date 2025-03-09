@@ -1,0 +1,72 @@
+{
+  "post_id": "65d496b1977bcd0001feeaf4",
+  "title": "Almond Vanilla Protein Shake",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Almond Vanilla Protein Shake",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "140 gram, Almond milk, Unsweetened",
+      "10 ounce, Water",
+      "1 tsp, monk fruit",
+      "2 scoop (25g), Classic Plus Vanilla Protein"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "221",
+      "carbohydrateContent": "8",
+      "fiberContent": "2",
+      "sugarContent": "2",
+      "sodiumContent": "392",
+      "proteinContent": "37",
+      "fatContent": "3",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure and prepare all ingredients: 140 grams of unsweetened almond milk, 10 ounces of water, 1 teaspoon of monk fruit, and 2 scoops (approximately 50g) of Classic Plus Vanilla Protein."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add almond milk, water, monk fruit, and vanilla protein into a blender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend on high for about 1 minute or until the mixture is smooth.",
+        "time": "1 minute"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the protein shake into a glass and enjoy immediately for the best taste and consistency."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "Indulge in a refreshing and nutritious Healthyfied Almond Vanilla Protein Shake, perfectly catering to your high-protein, low-carb, and low-sugar dietary preferences. This delectable blend, featured among our Healthy Recipes, is the ultimate choice for those seeking a healthful twist without compromising on taste.",
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

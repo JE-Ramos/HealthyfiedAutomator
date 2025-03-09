@@ -1,0 +1,84 @@
+{
+  "post_id": "65d49766977bcd0001feeea5",
+  "title": "Aug 31, 2019 Dinner",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Aug 31, 2019 Dinner",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "110 grams, Tomatoes",
+      "1 tablespoon, Virgin Coconut Oil",
+      "15.00 g, Garlic, raw",
+      "61.00 gram, Onion",
+      "1 tsp(s), Salt",
+      "1 tsp, ground, Pepper",
+      "100.00 g, Huhn Tepanyaki",
+      "100 g, tapas",
+      "671 gram, Pumpkin",
+      "700 g, Uncooked"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "410",
+      "carbohydrateContent": "47",
+      "fiberContent": "6",
+      "sugarContent": "8",
+      "sodiumContent": "51",
+      "proteinContent": "15",
+      "fatContent": "20",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your ingredients: Dice the tomatoes and onion, mince the garlic, and cut the pumpkin into small, even pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, heat the virgin coconut oil over medium heat. Add the minced garlic and chopped onion, saut\u00e9ing until they become translucent and fragrant."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced tomatoes to the pot and cook until they start to soften, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Introduce the pumpkin pieces to the pot, stirring to combine with the other ingredients. If necessary, add a little water to prevent sticking."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the mixture with salt and pepper according to your taste. Allow it to simmer until the pumpkin is tender, approximately 20 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finally, stir in the Huhn Tepanyaki and tapas, cooking for an additional 10 minutes to ensure they're heated through and flavors have melded."
+      }
+    ],
+    "tags": [
+      "low-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "A wholesome, heart-healthy meal perfect for a nourishing dinner, this recipe brings together the natural flavors of pumpkin, tomatoes, onions, and garlic, with the added depth of virgin coconut oil. Designed for those following a low-sodium, high-fiber diet, it's not only a feast for your tastebuds but a power-packed nutritious meal to keep you feeling great. Whether you're looking to maintain a healthy lifestyle or simply enjoy delicious, healthified recipes, this dinner option is bound to impress.",
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "keywords": "low-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

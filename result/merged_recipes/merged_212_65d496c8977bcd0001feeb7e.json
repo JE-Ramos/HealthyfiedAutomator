@@ -1,0 +1,75 @@
+{
+  "post_id": "65d496c8977bcd0001feeb7e",
+  "title": "2018/11/11 Lunch",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/11/11 Lunch",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 cup, diced, Melons, cantaloupe, raw",
+      "30 gram, Chicken Livers",
+      "50 g, Mangos, raw",
+      "50 g, Pork nilaga"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "235",
+      "carbohydrateContent": "26",
+      "fiberContent": "2",
+      "sugarContent": "19",
+      "sodiumContent": "25",
+      "proteinContent": "15",
+      "fatContent": "9",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the ingredients: dice the melon, cut the mango into chunks, and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the pork nilaga according to your favorite recipe or simply boil until tender, about 45 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Simultaneously, boil the chicken livers for about 10 minutes until fully cooked, then set aside to cool before cutting into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cooked pork nilaga, diced melons, mango chunks, and chicken livers in a bowl. Toss gently to mix."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This low-sodium and healthy recipe makes a perfect lunch for those looking to enjoy a nutritious meal. Comprising pork nilaga, fresh diced cantaloupe, juicy mango chunks, and nutrient-rich chicken livers, it's a delightful mix of flavors and textures that embodies a healthified approach to eating.",
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT60M",
+    "keywords": "low-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_212_65d496c8977bcd0001feeb7e.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/212_65d496c8977bcd0001feeb7e.json",
+  "original_files": [
+    "212_65d496c8977bcd0001feeb7e.json",
+    "209_65d496c8977bcd0001feeb7e.json"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "post_id": "65d49734977bcd0001feeda3",
+  "title": "Vegetable Platter",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Vegetable Platter",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.75 kg(s), Eggplant, raw",
+      "1 tsp, Garlic powder",
+      "10 gram(s), Butter - Unsalted",
+      "2 tsp(s), Salt",
+      "2 tsp, ground, Black pepper",
+      "3 tbsp, Olive Oil",
+      "450 g, Broccoli",
+      "500 g, Cauliflower",
+      "500 gram, Yellow Zucchini"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "340",
+      "carbohydrateContent": "41",
+      "fiberContent": "19",
+      "sugarContent": "18",
+      "sodiumContent": "197",
+      "proteinContent": "12",
+      "fatContent": "18",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "11",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 13,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 200°C (392°F)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash all the vegetables (eggplant, yellow zucchini, cauliflower, and broccoli) under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the eggplant and yellow zucchini into 1/2 inch thick slices. Break the cauliflower and broccoli into medium-sized florets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl, combine olive oil, garlic powder, salt, and black pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced eggplant, zucchini, and florets of cauliflower and broccoli into the bowl with the seasoning. Toss well to ensure all the vegetables are evenly coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the seasoned vegetables on a baking tray in a single layer. Dot with butter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 25 minutes or until the vegetables are tender and slightly golden, turning halfway through the cooking time."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into a world of health with our Healthyfied Vegetable Platter, a recipe that is not just high in fiber but also delicately designed for those who cherish healthy eating. This platter combines the best of fresh vegetables including eggplant, yellow zucchini, cauliflower, and broccoli, all seasoned to perfection. Ideal for anyone looking for healthy and healthified recipes to add to their diet.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "keywords": "high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_020_65d49734977bcd0001feeda3.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/020_65d49734977bcd0001feeda3.json",
+  "original_files": [
+    "020_65d49734977bcd0001feeda3.json",
+    "017_65d49734977bcd0001feeda3.json"
+  ]
+}

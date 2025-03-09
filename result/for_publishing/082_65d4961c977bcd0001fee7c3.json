@@ -1,0 +1,71 @@
+{
+  "post_id": "65d4961c977bcd0001fee7c3",
+  "title": "Vegetable Pancake",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Vegetable Pancake",
+    "recipeYield": "5",
+    "recipeIngredient": [
+      "2 cup, chopped, Cabbage, raw",
+      "2 cup chopped, Carrots, raw",
+      "5 large, Egg",
+      "1 tsp(s), Tapioca Flour"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "103",
+      "carbohydrateContent": "8",
+      "fiberContent": "2",
+      "sugarContent": "4",
+      "sodiumContent": "113",
+      "proteinContent": "7",
+      "fatContent": "5",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Finely chop the raw cabbage and carrots."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, beat the eggs until fluffy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped cabbage, carrots, and tapioca flour to the beaten eggs. Stir until the ingredients are well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a non-stick pan over medium heat. Pour a portion of the mixture into the pan, spreading it to form a pancake shape. Cook for about 4 minutes on each side or until golden brown and cooked through."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a low-carb, low-sodium, and low-sugar delight with our Healthyfied Vegetable Pancake. Perfect for anyone looking to enjoy healthy recipes without sacrificing flavor. This pancake packs a nutritious punch with fresh cabbage and carrots, all while keeping it exciting and delicious.",
+    "prepTime": "PT15M",
+    "cookTime": "PT8M",
+    "totalTime": "PT23M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

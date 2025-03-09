@@ -1,0 +1,98 @@
+{
+  "post_id": "65d497bb977bcd0001fef017",
+  "title": "Refreshing Chicken Tomato Pasta",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Refreshing Chicken Tomato Pasta",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "1 cup, Parsley, fresh",
+      "15 Tbl. chopped, Fresh Basil Leaves",
+      "200 g, Calendula Noodles",
+      "70.00 g, Red Onion",
+      "758 gram, Chicken Leg Quarter",
+      "8 clove, Garlic, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "834",
+      "carbohydrateContent": "57",
+      "fiberContent": "1",
+      "sugarContent": "2",
+      "sodiumContent": "756",
+      "proteinContent": "49",
+      "fatContent": "44",
+      "saturatedFatContent": "11",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep your ingredients: Finely chop the parsley, slice the garlic cloves, dice the red onion, and chop the fresh basil leaves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the chicken leg quarters with salt and pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet, cook the seasoned chicken leg quarters over medium heat until they are golden brown and cooked through, about 25 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil water in a pot and cook the calendula noodles according to the package instructions, then drain."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In another pan, sauté the garlic and red onion until soft and fragrant, about 8 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the cooked chicken into bite-sized pieces and add them to the pan with garlic and onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss in the cooked calendula noodles with the chicken, garlic, and onions mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the chopped fresh basil and parsley, and cook for an additional 5 minutes to let the flavors meld."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the pasta warm, garnished with extra basil or parsley if desired."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "high-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [],
+    "description": "This Refreshing Chicken Tomato Pasta is perfect for those who love a high-protein, low-sugar meal with the added benefits of healthified ingredients. Bursting with fresh basil, parsley, and the savory goodness of chicken leg quarters, served atop calendula noodles, it's not just a feast for the palate but a colorful spectacle on the plate. Ideal for anyone following a healthy lifestyle without compromising on taste.",
+    "prepTime": "PT20M",
+    "cookTime": "PT30M",
+    "totalTime": "PT50M",
+    "keywords": "high-protein,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_108_65d497bb977bcd0001fef017.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/108_65d497bb977bcd0001fef017.json",
+  "original_files": [
+    "108_65d497bb977bcd0001fef017.json",
+    "111_65d497bb977bcd0001fef017.json"
+  ]
+}

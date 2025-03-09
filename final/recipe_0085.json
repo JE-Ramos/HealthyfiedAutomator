@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Flourless Takoyaki",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-flourless-takoyaki.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into the heart of Japanese street food with a healthy twist using this Healthyfied Flourless Takoyaki recipe. Perfect for those following a low-carb and low-sugar diet, these bites are not only tantalizingly delicious but also cater to your health goals. Enjoy the flavors of traditional takoyaki guilt-free!",
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "101",
+    "carbohydrateContent": "7",
+    "fiberContent": "2",
+    "sugarContent": "5",
+    "sodiumContent": "375",
+    "proteinContent": "8",
+    "fatContent": "5",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.12  teaspoon Salt",
+    "0.12  tsp ground, Pepper",
+    "0.50  cup chopped, Cabbage, raw",
+    "1 large Egg",
+    "100 g Tomatoes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Chop the cabbage into fine pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the tomatoes into small cubes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a mixing bowl, beat the egg and then season with salt and ground pepper.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chopped cabbage and diced tomatoes to the egg mixture and stir until well combined.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the takoyaki pan over medium heat and lightly grease with oil.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the batter into the takoyaki pan holes, filling them three-quarters full. Cook for about 5 minutes.",
+      "time": "PT5M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Use a skewer to turn each ball. Continue cooking until the exterior is golden brown and crispy, about 5 more minutes.",
+      "time": "PT5M",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the flourless takoyaki hot, garnished with your favorite healthy toppings.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

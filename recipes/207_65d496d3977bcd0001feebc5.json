@@ -1,0 +1,96 @@
+{
+  "post_id": "65d496d3977bcd0001feebc5",
+  "title": "Beef Carrot Sweet Ginger",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Beef Carrot Sweet Ginger",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "257 gram, Ground Beef",
+      "83 g, Capsicum - Green",
+      "100 g, Red",
+      "56.00 g, Red Onion",
+      "171.00 g, Carrots, raw",
+      "0.50 teaspoon, Salt",
+      "0.50 tablespoon, Sugar",
+      "1 tsp, ground, Pepper",
+      "31.00 g, Ginger root - Raw",
+      "2 tsp(s), Extra Virgin Olive Oil"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "244",
+      "carbohydrateContent": "16",
+      "fiberContent": "3",
+      "sugarContent": "9",
+      "sodiumContent": "489",
+      "proteinContent": "19",
+      "fatContent": "12",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep your vegetables: dice the red onion, capsicum, and carrots, and mince the ginger root."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a skillet over medium heat and add the extra virgin olive oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced red onion and minced ginger to the skillet and saut\u00e9 for about 3 minutes, until the onion is translucent.",
+        "time": "PT3M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Increase the heat to medium-high, add the ground beef to the skillet, and cook for about 5 minutes, breaking it apart with a spoon until it's browned.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced carrots and capsicum to the skillet, stirring to integrate. Let the mixture cook for another 5 minutes, or until the vegetables are tender.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the mixture with salt, sugar, and ground pepper. Mix well to ensure the seasonings are evenly distributed.",
+        "time": "PT2M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Reduce the heat to low, cover the skillet, and let the mixture simmer for 5 minutes, allowing the flavors to meld together.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the skillet from heat and let the Beef Carrot Sweet Ginger mixture cool slightly before serving. Enjoy your healthy and flavorful dish!"
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "high-sodium",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into the world of healthy eating with this Beef Carrot Sweet Ginger recipe. Perfect for those following a low-carb diet but not missing out on flavor, this dish is a testament to healthy yet delicious meals. With tender ground beef, sweet carrots, and a zing of ginger, each bite is a mix of satisfying textures and flavors, making it a great addition to your collection of healthified recipes.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "low-carb,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "High Protein Seafood Salad without Sauce ",
+  "image": [
+    "https://healthyfied.me/images/recipes/high-protein-seafood-salad-without-sauce-.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a refreshing and nutritious meal with our High Protein Seafood Salad. Perfect for those seeking a high-protein, low-carb, and low-sugar option, this salad combines flavorful seafood with crisp Ice Berg Lettuce and fiber-rich All-Bran for a deliciously healthified meal.",
+  "prepTime": "PT15M",
+  "cookTime": "PT9M",
+  "totalTime": "PT24M",
+  "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Boiling",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "267",
+    "carbohydrateContent": "12",
+    "fiberContent": "3",
+    "sugarContent": "4",
+    "sodiumContent": "221",
+    "proteinContent": "24",
+    "fatContent": "5",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  cup (72gm), Ice Berg Lettuce",
+    "1 large egg (50 g), Egg, Boiled",
+    "15 g All-Bran Regular",
+    "3 piece Crab Stick",
+    "90 g Tuna Fillet In Water"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Begin by boiling the egg. Place the egg in a saucepan, cover with water, and bring to a boil. Once boiling, lower the heat to a simmer and cook for 9 minutes for a hard-boiled egg. Remove from heat, cool in cold water, and then peel.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the tuna fillet from the can, ensuring to remove as much water as possible.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the crab sticks by slicing them into bite-sized pieces.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wash the Ice Berg Lettuce thoroughly, then chop it into bite-sized pieces to form the salad base.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large salad bowl, combine the boiled egg (sliced or chopped), crab stick pieces, drained tuna fillet, and Ice Berg Lettuce.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle the All-Bran Regular over the salad for an added crunchy texture.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

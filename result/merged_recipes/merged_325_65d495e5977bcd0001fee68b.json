@@ -1,0 +1,70 @@
+{
+  "post_id": "65d495e5977bcd0001fee68b",
+  "title": "Teryaki Onion",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Teryaki Onion",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "1 Tablespoon, White Onion - Diced",
+      "1 tbsp, Teryaki Sauce"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "54",
+      "carbohydrateContent": "14",
+      "fiberContent": "2",
+      "sugarContent": "3",
+      "sodiumContent": "228",
+      "proteinContent": "2",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Dice the white onion into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, sauté the diced onion until they become translucent, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add 1 tbsp of Teryaki Sauce to the pan and stir well, ensuring the onions are evenly coated. Cook for another 2 minutes until the sauce thickens slightly and the onions absorb the flavor."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "Indulge in a deliciously Healthyfied Teryaki Onion recipe that aligns perfectly with a low-carb and low-sugar diet. This dish captures the essence of health-conscious cooking without compromising on taste, making it a staple for anyone looking to enjoy healthy recipes.",
+    "prepTime": "PT5M",
+    "cookTime": "PT7M",
+    "totalTime": "PT12M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_325_65d495e5977bcd0001fee68b.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/325_65d495e5977bcd0001fee68b.json",
+  "original_files": [
+    "325_65d495e5977bcd0001fee68b.json",
+    "328_65d495e5977bcd0001fee68b.json"
+  ]
+}

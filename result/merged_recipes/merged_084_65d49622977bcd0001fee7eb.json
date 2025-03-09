@@ -1,0 +1,103 @@
+{
+  "post_id": "65d49622977bcd0001fee7eb",
+  "title": "Soy Veggies",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Soy Veggies",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "0.50 medium, Red onion",
+      "1 packet, Stevia In the Raw",
+      "1 pat (1 inch sq, 1/2 inch high), Butter, unsalted",
+      "1 tablespoon, less sodium soy sauce",
+      "1 tsp, ground, Black pepper",
+      "100 g, Broccoli",
+      "100 g, Cauliflower",
+      "100 g, Green cabbage",
+      "15 g, Red bell pepper",
+      "30 g, Carrots",
+      "30 gram(s), Baby Corn",
+      "5 clove , Garlic",
+      "50 grams, French Beans Cooked"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "109",
+      "carbohydrateContent": "20",
+      "fiberContent": "5",
+      "sugarContent": "6",
+      "sodiumContent": "349",
+      "proteinContent": "5",
+      "fatContent": "3",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Slice the red bell pepper, chop the garlic and red onion, and cut the green cabbage, carrots, and baby corn into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Trim the broccoli and cauliflower into small florets and slice the French beans."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pan, melt the butter over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped garlic and onion to the pan, and sauté for about 3 minutes, or until they start to soften.",
+        "time": "3M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the broccoli, cauliflower, French beans, red bell pepper, green cabbage, carrots, and baby corn to the pan. Stir well to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the vegetables for about 10 minutes, stirring occasionally, until they are tender but still crisp.",
+        "time": "10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the stevia, ground black pepper, and soy sauce over the vegetables. Stir well to ensure the vegetables are evenly coated.",
+        "time": "2M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from heat and serve your Healthyfied Soy Veggies hot. Enjoy your high-fiber, healthified dish!"
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "Indulge in a high-fiber, healthified feast with our Healthyfied Soy Veggies. Packed with the fresh and vibrant flavors of broccoli, cauliflower, French beans, and more, this recipe is a testament to healthy eating without compromising on taste. Perfect for anyone looking to enjoy healthy recipes that are as nourishing as they are delicious.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_084_65d49622977bcd0001fee7eb.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/084_65d49622977bcd0001fee7eb.json",
+  "original_files": [
+    "084_65d49622977bcd0001fee7eb.json",
+    "081_65d49622977bcd0001fee7eb.json"
+  ]
+}

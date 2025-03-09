@@ -1,0 +1,86 @@
+{
+  "post_id": "65d496aa977bcd0001feeacd",
+  "title": "Chicken Curry",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Chicken Curry",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "500 gram, chicken",
+      "20 g, Curry Leaves Green",
+      "1 tbsp, Spices, paprika",
+      "1 tbsp, Spices, turmeric, ground",
+      "0.50 teaspoon, Salt",
+      "0.50 tsp, ground, Pepper",
+      "26.00 g, Garlic, raw",
+      "59.00 g, Red Onion",
+      "164.00 g, Carrots, raw",
+      "128.00 g, Red",
+      "30 ml, Coconut Cream (Uht)"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "214",
+      "carbohydrateContent": "13",
+      "fiberContent": "4",
+      "sugarContent": "5",
+      "sodiumContent": "437",
+      "proteinContent": "26",
+      "fatContent": "7",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your ingredients: Cut the chicken into bite-sized pieces. Finely chop the Curry Leaves Green, garlic, and red onion. Peel and dice the carrots. Cut the bell pepper into thin slices."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the chicken with paprika, turmeric, salt, and pepper, ensuring each piece is well coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a large skillet over medium heat and saut\u00e9 the garlic, red onion, carrots, and red bell pepper until they start to soften, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the seasoned chicken to the skillet and cook until all sides are golden brown, approximately 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in the coconut cream and add the curry leaves. Stir well and cover the skillet. Simmer on low heat until the chicken is cooked through and the sauce has thickened, about 20 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve your Healthyfied Chicken Curry hot, accompanied by a side of your choice. Enjoy the nourishing flavors!"
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into the world of healthy eating with our Healthyfied Chicken Curry. Tailored for fitness enthusiasts, this high-protein, low-carb dish is perfect for those looking to maintain a balanced diet without compromising on taste. With a mix of aromatic spices and fresh ingredients, it's a wonderful addition to your collection of healthy recipes.",
+    "prepTime": "PT20M",
+    "cookTime": "PT35M",
+    "totalTime": "PT55M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

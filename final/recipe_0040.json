@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Tuna In Citrus Soy Sauce",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-tuna-in-citrus-soy-sauce.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a high-protein, low-carb meal with our Healthyfied Tuna in Citrus Soy Sauce. This recipe cleverly combines the flavorful essence of low sodium soy sauce and the zest of calamansi, providing a heart-healthy option without sacrificing taste. Perfect for those watching their sugar intake but craving the satisfaction of a fulfilling indulgence.",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "241",
+    "carbohydrateContent": "12",
+    "fiberContent": "1",
+    "sugarContent": "4",
+    "sodiumContent": "534",
+    "proteinContent": "32",
+    "fatContent": "7",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "5",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 6,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.12  teaspoon Salt",
+    "0.25  cup (8 fl oz), Water",
+    "1 large White onion",
+    "1  tsp(s) Ground Black Pepper",
+    "2  tablespoon Olive oil",
+    "3  tbsp low sodium soy sauce",
+    "3  tablespoon Cornstarch",
+    "40 g Calamansi",
+    "500 g Frozen Tuna Cubes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Slice the white onion and set aside.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Thoroughly rinse the frozen tuna cubes under cold water.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a mixing bowl, coat the thawed tuna cubes evenly with cornstarch.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the olive oil in a skillet over medium-high heat. Add tuna cubes and sear until golden brown on all sides, approximately 3-4 minutes. Remove from the skillet and set aside.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the same skillet, add the sliced onion and sauté until transparent and soft, about 2 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix water, low sodium soy sauce, ground black pepper, and salt in a bowl.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the soy sauce mixture into the skillet with onions and bring to a simmer.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return the seared tuna cubes to the skillet and cook in the citrus soy sauce until well-coated and heated through, about 3 minutes.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Squeeze calamansi juice over the tuna and stir to combine.",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

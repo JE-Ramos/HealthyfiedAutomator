@@ -1,0 +1,90 @@
+{
+  "post_id": "65d49642977bcd0001fee888",
+  "title": "Herbed Beef Sukiyaki",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Herbed Beef Sukiyaki",
+    "recipeYield": "8",
+    "recipeIngredient": [
+      "400 gram, Lean Sirloin",
+      "20.00 g, Garlic, raw",
+      "1 cup chopped, White Onion",
+      "1 tsp(s), Seeds, sesame seeds, whole, dried",
+      "1 tsp, Oil - Sesame",
+      "1 tsp, Oil - Olive",
+      "0.50 tsp(s), Salt",
+      "1 tsp, Spices, marjoram, dried",
+      "1 tsp, leaves, Spices, oregano, dried",
+      "1 tsp, ground, Spices, pepper, black"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "131",
+      "carbohydrateContent": "3",
+      "fiberContent": "1",
+      "sugarContent": "1",
+      "sodiumContent": "40",
+      "proteinContent": "15",
+      "fatContent": "6",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Begin by thinly slicing the 400 grams of lean sirloin."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince 20 grams of garlic and chop 1 cup of white onions."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, combine the sliced sirloin with minced garlic, chopped onions, 1 tsp of sesame seeds, 1 tsp of marjoram, 1 tsp of oregano, and 1 tsp of ground black pepper. Mix well to ensure the beef is evenly coated with the seasonings."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat 1 tsp of sesame oil and 1 tsp of olive oil in a large skillet or wok over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the oils are hot, add the beef mixture to the skillet. Stir-fry for about 5-7 minutes or until the beef is browned and cooked to your desired doneness.",
+        "time": "PT7M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the sukiyaki with 0.5 tsp of salt during the last couple of minutes of cooking."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the Herbed Beef Sukiyaki hot, garnished with additional sesame seeds if desired."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a Healthyfied version of Herbed Beef Sukiyaki, embracing the essence of low-carb, low-sodium, and low-sugar eating. This recipe brings out the robust flavors of lean sirloin, infused with a symphony of herbs and spices, making it a must-try dish for those who cherish Healthy Recipes.",
+    "prepTime": "PT15M",
+    "cookTime": "PT7M",
+    "totalTime": "PT22M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

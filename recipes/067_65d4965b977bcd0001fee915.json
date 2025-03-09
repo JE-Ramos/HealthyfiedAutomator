@@ -1,0 +1,79 @@
+{
+  "post_id": "65d4965b977bcd0001fee915",
+  "title": "Mashed Unripe Plantain",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Mashed Unripe Plantain",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "2 tablespoon, Evaporated Milk",
+      "1 teaspoon, Butter, salted",
+      "0.06 teaspoon, Salt",
+      "0.06 teaspoon, Red bell pepper",
+      "200 g, Boiled Unripe Plantain"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "148",
+      "carbohydrateContent": "33",
+      "fiberContent": "2",
+      "sugarContent": "16",
+      "sodiumContent": "100",
+      "proteinContent": "2",
+      "fatContent": "2",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel the unripe plantains and cut them into chunks."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pot, boil the plantain chunks until they become tender, about 20 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the plantains are boiling, finely dice the red bell pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the plantains are tender, drain the water and transfer the plantains to a large bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the evaporated milk, salted butter, salt, and diced red bell pepper to the warm plantains."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mash the mixture until smooth and well combined."
+      }
+    ],
+    "tags": [
+      "low-sodium",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Healthyfied Mashed Unripe Plantain recipe is a delightful twist on traditional mashed recipes, tailor-made for those seeking low-sodium, healthy options. Perfect for anyone looking to enjoy healthier versions of their favorite dishes.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "keywords": "low-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "No Bake Eggplant Lasagna",
+  "image": [
+    "https://healthyfied.me/images/recipes/no-bake-eggplant-lasagna.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a healthy culinary experience with our No Bake Eggplant Lasagna! This dish is perfect for those seeking a low-carb and low-sugar option without sacrificing flavor. Packed with fresh vegetables, aromatic herbs, and a mix of sharp cheddar and Parmesan cheese, it's a delicious way to indulge in healthy eating. Whether you're following a health-conscious diet or simply looking for a flavorful meal, this eggplant lasagna is a must-try.",
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT20M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "107",
+    "carbohydrateContent": "7",
+    "fiberContent": "2",
+    "sugarContent": "3",
+    "sodiumContent": "153",
+    "proteinContent": "5",
+    "fatContent": "7",
+    "saturatedFatContent": "4",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 2,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp(s) Salt",
+    "0.25  tsp ground, Pepper",
+    "1  cup (8 fl oz), Water - Municipal",
+    "1  tbsp(s) Butter - Unsalted",
+    "1  tsp(s) Spices, rosemary, dried",
+    "1  tsp Oregano",
+    "1  tsp Smoked Paprika",
+    "1  tsp Spices, marjoram, dried",
+    "1  tsp ground, Spices, thyme, dried",
+    "10 g Cheese, cheddar, sharp, sliced",
+    "10 g Garlic, raw",
+    "100 g Eggplant, raw",
+    "180 g Tomatoes",
+    "20 g Cheese - Parmesan, shredded",
+    "30 g Red Onion"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash the eggplant and tomatoes, then slice the eggplant into thin rounds.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Thinly slice the tomatoes and set aside.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finely chop the red onion and garlic.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, mix together marjoram, oregano, smoked paprika, thyme, and rosemary.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Layer a slice of eggplant on a plate, followed by a slice of tomato. Sprinkle some of the herb mixture over the tomato.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add a small amount of chopped onion and garlic on top, then a couple of slices of cheddar cheese.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Repeat the layers until all ingredients are used, finishing with a sprinkle of Parmesan cheese on top.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small saucepan, melt butter over low heat and add the remaining herb mixture. Stir in water, salt, and pepper, and simmer for 5 minutes to create a herb-infused sauce.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the herb sauce gently over the assembled lasagna. Allow it to sit for a few minutes so the flavors meld together.",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "post_id": "65d495e7977bcd0001fee692",
+  "title": "Salad Stop Create Your Own",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Salad Stop Create Your Own",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "5 g, Beans",
+      "10 g, Mushrooms, white, raw",
+      "30.00 g, \u062e\u0633",
+      "10.00 gram, Olives",
+      "20 g, Turnip",
+      "15.00 g, Cabbage, red, raw",
+      "10 gram, Bellpepper",
+      "10 gram, Red Bellpepper (Ounces)",
+      "1 sticks, Bread Sticks",
+      "10.00 g, Lentils - Cooked, boiled, with salt",
+      "30 g (1 mediano), Pomelo",
+      "15.00 g, Broccoli, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "54",
+      "carbohydrateContent": "10",
+      "fiberContent": "1",
+      "sugarContent": "1",
+      "sodiumContent": "91",
+      "proteinContent": "2",
+      "fatContent": "1",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the beans, and mushrooms under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the lettuce, turnip, raw red cabbage, bell peppers, and broccoli into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Halve the olives and peel and segment the pomelo."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the prepared vegetables, beans, mushrooms, olives, lentils, and pomelo in a large salad bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss the salad to ensure an even mix of all ingredients. Serve with breadsticks on the side. Enjoy your custom, nutritious salad!"
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This 'Salad Stop Create Your Own' recipe is perfect for those who seek a health-conscious meal without compromising on taste. With a focus on low-carb, low-sodium, and low-sugar ingredients, this salad is a delightful combination of freshness and nutrition, making it ideal for anyone looking to enjoy healthy recipes with a delicious twist.",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "totalTime": "PT15M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

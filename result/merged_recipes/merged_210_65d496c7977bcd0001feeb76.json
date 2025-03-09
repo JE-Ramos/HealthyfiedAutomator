@@ -1,0 +1,119 @@
+{
+  "post_id": "65d496c7977bcd0001feeb76",
+  "title": "2018/10/18 Dinner",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/18 Dinner",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.50 Tbsp, Pesto",
+      "10.00 g, Garlic, raw",
+      "100 g, Carrots, raw",
+      "15 g, Butter Salted",
+      "2 Ear, Corn on the Cob",
+      "200 g, Eggplant, raw",
+      "250 gram, chicken",
+      "30.00 g, Red Onion"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "235",
+      "carbohydrateContent": "22",
+      "fiberContent": "5",
+      "sugarContent": "6",
+      "sodiumContent": "129",
+      "proteinContent": "20",
+      "fatContent": "9",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "3",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your grill to medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shuck the corn and remove all silk. Rinse the corn under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the chicken into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the eggplant and carrots into thin rounds."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely chop the red onion and garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the chicken pieces with half of the chopped garlic and season with salt and pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grill the corn for about 10 minutes, turning occasionally until cooked through and slightly charred. Remove and set aside to cool.",
+        "time": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet over medium heat, melt the butter and sauté the remaining garlic and chopped onion until translucent.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken to the skillet and grill until thoroughly cooked, about 10 minutes.",
+        "time": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced eggplant and carrot to the grill, cooking until tender, about 5 minutes.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the grilled corn off the cob and add to the skillet with the chicken and vegetables.",
+        "time": "PT2M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the pesto to the skillet, mixing well to combine all the ingredients.",
+        "time": "PT3M"
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-protein",
+      "low-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a wholesome and nutritious dinner with this high-protein, low-sodium, and high-fiber meal. Crafted for those pursuing a healthified lifestyle, this recipe combines the savory flavors of chicken and vegetables with a hint of garlic and pesto for a hearty and balanced dish.",
+    "prepTime": "PT20M",
+    "cookTime": "PT35M",
+    "totalTime": "PT55M",
+    "keywords": "high-protein,low-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_210_65d496c7977bcd0001feeb76.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/210_65d496c7977bcd0001feeb76.json",
+  "original_files": [
+    "210_65d496c7977bcd0001feeb76.json",
+    "213_65d496c7977bcd0001feeb76.json"
+  ]
+}

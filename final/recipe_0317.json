@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "pesto potato",
+  "image": [
+    "https://healthyfied.me/images/recipes/pesto-potato.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This pesto potato recipe is a low-carb, low-sodium, and low-sugar marvel, perfect for those following a health-conscious diet. It turns humble ingredients into a delicious side dish that pairs well with a variety of mains. Ideal for those seeking healthy recipes to enrich their culinary repertoire.",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "5",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "63",
+    "carbohydrateContent": "0",
+    "fiberContent": "0",
+    "sugarContent": "0",
+    "sodiumContent": "80",
+    "proteinContent": "1",
+    "fatContent": "3",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "200 g Garlic Marble Potatoes",
+    "30 ml All Purpose Pesto"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Garlic Marble Potatoes under cold water until clean.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Boil the potatoes in a pot of salted water until they are fork-tender, about 15 minutes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the potatoes and let them cool slightly. Once cool enough to handle, cut them in half.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a mixing bowl, gently toss the halved potatoes with the All Purpose Pesto until evenly coated.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the potatoes warm as a delightful side dish.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

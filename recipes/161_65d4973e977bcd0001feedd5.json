@@ -1,0 +1,104 @@
+{
+  "post_id": "65d4973e977bcd0001feedd5",
+  "title": "2018/10/04 Dinner Salmon And Chicken",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/04 Dinner Salmon and Chicken",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 tsp(s), Honey",
+      "5 large, Egg",
+      "15 g(s), Sharp Cheddar Cheese",
+      "300 gram, chicken",
+      "40.00 g, White Onion Raw",
+      "15.00 g, Garlic, raw",
+      "400 gram, Green String Beans",
+      "50 g, Smoked Salmon Slices",
+      "1 tbsp(s), Organic Soy Sauce"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "356",
+      "carbohydrateContent": "16",
+      "fiberContent": "5",
+      "sugarContent": "6",
+      "sodiumContent": "713",
+      "proteinContent": "37",
+      "fatContent": "16",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "4",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 6,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375\u00b0F (190\u00b0C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the ingredients: Grate the sharp cheddar cheese, finely chop the white onion and garlic, and trim the green string beans."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix 1 tsp of honey with 1 tbsp of organic soy sauce. This will be used to glaze the chicken and salmon."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chicken breasts on one side of a baking dish, and the green string beans next to them."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Brush the honey and soy sauce mixture over the chicken."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In another baking dish, place the smoked salmon slices and sprinkle them with the grated sharp cheddar cheese."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake the chicken and green beans for 20 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the baking dish with the salmon to the oven and bake everything for an additional 10 minutes, or until the chicken is cooked through and the beans are tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the dishes are baking, saut\u00e9 the chopped onion and garlic in a pan over medium heat until translucent."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk the eggs in a bowl and then pour them into the pan with the onion and garlic. Cook the eggs, stirring frequently, until they are scrambled and fully cooked, about 8 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the baked chicken and salmon alongside the scrambled eggs and saut\u00e9ed green beans."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This delicious dinner recipe featuring honey-glazed salmon and chicken is perfect for those looking for a high-protein, low-carb meal. The combination of smoked salmon slices, tender chicken, and green beans provides a satisfying dish that is also high in fiber. With a touch of sharp cheddar cheese and a mix of onion and garlic, it's a nutritious meal that doesn't sacrifice flavor for health. Perfect for anyone on a health-conscious diet craving something savory and fulfilling.",
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "keywords": "high-protein,low-carb,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "post_id": "65d4973d977bcd0001feedce",
+  "title": "Wagyu Cabbage Bowl",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Wagyu Cabbage Bowl",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "3 medium, Egg",
+      "150 gram, Burger",
+      "60 gram, Beef Sukiyaki Meat",
+      "1 tbsp, Extra Virgin Olive Oil",
+      "0.50 tsp(s), Salt",
+      "0.50 tsp, ground, Pepper",
+      "98.00 g, Red Onion",
+      "56 g, Red",
+      "132.00 g, Carrots, raw",
+      "500 g, Cabbage, raw",
+      "240.00 g, Eggplant, raw",
+      "1 tsp, Spices, marjoram, dried",
+      "0.25 tsp, Spices, paprika",
+      "0.25 tsp, ground, Basil, fresh",
+      "1.50 tbsp(s), Butter - Unsalted",
+      "15.00 g, Garlic, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "351",
+      "carbohydrateContent": "25",
+      "fiberContent": "9",
+      "sugarContent": "12",
+      "sodiumContent": "162",
+      "proteinContent": "20",
+      "fatContent": "21",
+      "saturatedFatContent": "8",
+      "monounsaturatedFatContent": "9",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 11,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs into a bowl and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the beef sukiyaki meat and burger meat into thin strips."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the red onion, red pepper, and carrots. Shred the cabbage and slice the eggplant into thin rounds."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large skillet, heat the extra virgin olive oil over medium heat. Add the minced garlic, diced onion, red pepper, and saut\u00e9 until they begin to soften, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the carrot, cabbage, and eggplant to the skillet. Season with salt, pepper, marjoram, paprika, and basil. Cook, stirring occasionally, until the vegetables are tender, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Push the vegetables to the side of the skillet. Add the butter and allow it to melt. Add the beef strips and cook until they're browned and cooked through, about 8 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the beaten eggs over the cooked vegetables and meat. Allow the eggs to cook without stirring, until they are set, about 2-3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently stir to combine all the ingredients in the skillet. Serve the Wagyu Cabbage Bowl hot."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Wagyu Cabbage Bowl is a high-protein and high-fiber meal, perfect for anyone looking to enjoy healthy and delicious flavors. Made with tender Wagyu beef, fresh vegetables, and a blend of spices, it's a healthified recipe that doesn't skimp on taste. Ideal for health-conscious individuals seeking nourishing and satisfying dishes.",
+    "prepTime": "PT20M",
+    "cookTime": "PT25M",
+    "totalTime": "PT45M",
+    "keywords": "high-protein,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

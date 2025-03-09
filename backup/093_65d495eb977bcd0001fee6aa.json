@@ -1,0 +1,70 @@
+{
+  "post_id": "65d495eb977bcd0001fee6aa",
+  "title": "Garlic Broccoli",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Garlic Broccoli",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "100 g, Broccoli Head",
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "1 tbsp, Extra Virgin Olive Oil",
+      "0.25 tsp(s), Spices, garlic powder"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "55",
+      "carbohydrateContent": "1",
+      "fiberContent": "1",
+      "sugarContent": "1",
+      "sodiumContent": "201",
+      "proteinContent": "1",
+      "fatContent": "5",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the broccoli by rinsing it under cold water, then cut it into florets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring a pot of water to a boil and briefly blanch the broccoli florets for about 2 minutes. Drain and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pan, heat the extra virgin olive oil over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the blanched broccoli florets to the pan, season with salt, pepper, and garlic powder. Cook for 5 minutes, stirring occasionally until the broccoli is tender and flavorful."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Garlic Broccoli recipe is a nutrient-rich side dish that aligns perfectly with a low-carb and low-sugar diet. Embrace a healthier lifestyle with this simple yet delicious recipe, ideal for anyone seeking wholesome, healthy recipes.",
+    "prepTime": "PT5M",
+    "cookTime": "PT7M",
+    "totalTime": "PT12M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

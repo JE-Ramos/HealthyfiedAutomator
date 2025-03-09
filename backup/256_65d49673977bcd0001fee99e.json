@@ -1,0 +1,77 @@
+{
+  "post_id": "65d49673977bcd0001fee99e",
+  "title": "Teryaki Sukiyaki",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Teryaki Sukiyaki",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "400 g, Sukiyaki Beef",
+      "1 tsp, Salt",
+      "1 teaspoon, Pepper",
+      "1 tsp, Oil - Sesame",
+      "1 lemon yields (47g), Lemon Juice, Raw",
+      "2 tbsp, Teryaki Sauce"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "163",
+      "carbohydrateContent": "24",
+      "fiberContent": "1",
+      "sugarContent": "4",
+      "sodiumContent": "988",
+      "proteinContent": "8",
+      "fatContent": "5",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Season the Sukiyaki beef with salt and pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pan, heat the sesame oil over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the seasoned beef to the pan and cook until browned, about 3-4 minutes per side.",
+        "time": "PT8M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Squeeze the lemon juice evenly over the cooked beef."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle the teryaki sauce over the beef and cook for an additional 2 minutes to combine the flavors.",
+        "time": "PT2M"
+      }
+    ],
+    "tags": [
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Teryaki Sukiyaki recipe is a healthified version of the classic, offering a delectable blend of savory flavors with a note of citrus from the lemon juice. Perfect for those looking for healthy recipes without sacrificing taste. Its high sodium and low sugar profile fits well into a balanced diet.",
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "keywords": "high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

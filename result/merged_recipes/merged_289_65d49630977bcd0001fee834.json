@@ -1,0 +1,88 @@
+{
+  "post_id": "65d49630977bcd0001fee834",
+  "title": "Kangkong In Coconut Cream",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Kangkong In Coconut Cream",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 tsp(s), Salt",
+      "1 tsp, ground (2.3 g), Black Pepper - Ground",
+      "100 g, Water Spinach",
+      "20.00 g, Garlic, raw",
+      "25 ml, Coconut Cream (Uht)",
+      "3 plate (6 oysters), Oyster on Half-Shell",
+      "71 gram, Red Onion",
+      "95.00 g, Red"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "115",
+      "carbohydrateContent": "13",
+      "fiberContent": "2",
+      "sugarContent": "3",
+      "sodiumContent": "181",
+      "proteinContent": "8",
+      "fatContent": "4",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash the water spinach thoroughly under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and mince the garlic, then peel and finely chop the red onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, heat a small amount of oil over medium heat and sauté the garlic and onion until they're softened and fragrant, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the water spinach to the pan, cook for 5 minutes until it begins to wilt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in the coconut cream, add salt and black pepper. Stir well to combine and cook for an additional 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the kangkong hot, optionally garnished with some finely chopped red pepper for color and a slight spicy kick.",
+        "cookTime": "PT10M"
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in the essence of health and flavor with our Kangkong In Coconut Cream recipe. Perfect for those following a low-carb and low-sugar lifestyle, this dish combines the nutritional goodness of water spinach with the rich, creamy texture of coconut cream. Tailored for the health-conscious, this recipe promises to be a delightful addition to your healthy eating habits.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_289_65d49630977bcd0001fee834.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/289_65d49630977bcd0001fee834.json",
+  "original_files": [
+    "289_65d49630977bcd0001fee834.json",
+    "286_65d49630977bcd0001fee834.json"
+  ]
+}

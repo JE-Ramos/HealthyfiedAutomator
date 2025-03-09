@@ -1,0 +1,101 @@
+{
+  "post_id": "65d497b7977bcd0001fef007",
+  "title": "2018/10/26 Dinner",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/26 Dinner",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "300 gram, chicken",
+      "0.25 tsp(s), Salt",
+      "0.25 tsp, ground, Pepper",
+      "5.00 g, Ginger root - Raw",
+      "300 g, Ground Beef",
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "30.00 g, Red Onion",
+      "60.00 g, Capsicum Green",
+      "60.00 g, Red",
+      "0.25 tsp, whole, Spices, cumin seed",
+      "0.25 tsp(s), Salt",
+      "0.25 tsp, ground, Pepper",
+      "120 grams, Belly",
+      "190 g, Adlai Rice (Job's Tears)",
+      "120.00 g, Carrots, raw",
+      "15.00 g, Garlic, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "705",
+      "carbohydrateContent": "55",
+      "fiberContent": "2",
+      "sugarContent": "4",
+      "sodiumContent": "525",
+      "proteinContent": "53",
+      "fatContent": "29",
+      "saturatedFatContent": "8",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Adlai Rice under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Adlai Rice according to package instructions until tender, about 20 minutes, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely chop the Ginger root, Red Onion, Capsicum Green, Red Capsicum, and Carrots. Mince the Garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the chicken and ground beef separately with salt and pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, cook the chicken until fully cooked, about 15 minutes, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same pan, cook the ground beef until browned, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the finely chopped vegetables and minced garlic to the ground beef in the pan. Season with salt, pepper, and cumin seeds. Cook until the vegetables are softened, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cooked Adlai Rice, chicken, and beef-vegetable mixture. Stir thoroughly to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve hot and enjoy your nutritious dinner."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [],
+    "description": "Dive into a healthy dinner with this high-protein, high-sodium, low-sugar recipe. Tailored for those seeking nutritious, Healthified Recipes, this meal is a perfect blend of mouth-watering ingredients designed to fuel your body while pleasing your palate.",
+    "prepTime": "PT20M",
+    "cookTime": "PT50M",
+    "totalTime": "PT70M",
+    "keywords": "high-protein,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

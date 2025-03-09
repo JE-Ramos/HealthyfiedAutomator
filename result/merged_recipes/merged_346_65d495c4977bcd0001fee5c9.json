@@ -1,0 +1,84 @@
+{
+  "post_id": "65d495c4977bcd0001fee5c9",
+  "title": "Ginisang Upo",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Ginisang Upo",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 tsp(s), Salt",
+      "10.00 grams, Onion",
+      "3.00 g, Garlic, raw",
+      "300 g, Uncooked",
+      "50 grams, Tomatoes"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "24",
+      "carbohydrateContent": "5",
+      "fiberContent": "2",
+      "sugarContent": "1",
+      "sodiumContent": "47",
+      "proteinContent": "1",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "First, prepare the ingredients: Finely chop the tomatoes, onion, and garlic. Set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, heat a bit of oil over medium heat. Add the chopped garlic and onion, cooking until they become fragrant and slightly translucent, about 3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped tomatoes to the pan and cook until they are soft, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the uncooked upo (bottle gourd) into bite-sized pieces and add them to the pan. Stir well to combine with the tomato mixture.",
+        "time": "10 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with salt. Cover the pan and let it simmer until the upo is tender, approximately 10 minutes."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Ginisang Upo is a delightfully healthy and low-carb dish that fits perfectly into any health-conscious diet. Its low sodium and sugar content make it an excellent choice for anyone looking to maintain a balanced lifestyle. This dish is part of our Healthy Recipes collection, designed to offer nutritious yet delicious options to your meals.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_346_65d495c4977bcd0001fee5c9.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/346_65d495c4977bcd0001fee5c9.json",
+  "original_files": [
+    "346_65d495c4977bcd0001fee5c9.json",
+    "343_65d495c4977bcd0001fee5c9.json"
+  ]
+}

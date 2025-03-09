@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Ground Beef with Cheese",
+  "image": [
+    "https://healthyfied.me/images/recipes/ground-beef-with-cheese.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a high-protein, low-carb delight with our Ground Beef with Cheese recipe. This healthy reinterpretation of classic comfort food is perfect for those pursuing a nutritious lifestyle without sacrificing flavor. Dive into the richness of ground beef, complemented by the creamy texture of cheese and the freshness of cherry tomatoes and lemon juice. A delight for anyone looking to enjoy Healthy Recipes while keeping their meals delicious and satisfying.",
+  "prepTime": "PT20M",
+  "cookTime": "PT45M",
+  "totalTime": "PT65M",
+  "keywords": "high-protein,low-carb,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "408",
+    "carbohydrateContent": "13",
+    "fiberContent": "4",
+    "sugarContent": "6",
+    "sodiumContent": "335",
+    "proteinContent": "36",
+    "fatContent": "25",
+    "saturatedFatContent": "11",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 2,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup Milk - Whole, 3.25% milkfat",
+    "0.25  tsp Salt",
+    "0.25  tsp ground, Black pepper",
+    "1 l yields, Lemon juice, raw",
+    "160 g Cherry Tomato - Garden",
+    "30 g Butter",
+    "30 g Creme Cheese Spread",
+    "600 g Ground Beef",
+    "800 g Cauliflower"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 350°F (175°C).",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Cherry Tomatoes under cold water and cut them in halves.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the Cauliflower into small florets.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet, melt the Butter over medium heat.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the Ground Beef to the skillet and cook until browned, about 10 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cut Cauliflower to the skillet, cover, and cook until tender, about 10 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the Cherry Tomatoes, Creme Cheese Spread, Salt, Black Pepper, and Lemon Juice. Cook for an additional 5 minutes.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Gradually mix in the Milk to achieve a creamy texture.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the mixture into a baking dish and bake in the preheated oven for 20 minutes or until the top is golden brown.",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

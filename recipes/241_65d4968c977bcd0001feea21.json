@@ -1,0 +1,95 @@
+{
+  "post_id": "65d4968c977bcd0001feea21",
+  "title": "Edamame Sesame Pancit",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Edamame Sesame Pancit",
+    "recipeYield": "8",
+    "recipeIngredient": [
+      "65.00 g, Red",
+      "134.00 g, Carrots, raw",
+      "119 grams, Chicharos",
+      "38.00 g, Garlic, raw",
+      "42.00 g, Red Onion",
+      "4 cup (8 fl oz), Water - Municipal",
+      "200 gram, Pasta",
+      "334 gram, sirloin strips",
+      "30 ml, Coconut Amino",
+      "6 dash, Salt",
+      "3 tsp, Raw Organic Coconut Aminos",
+      "3 tsp, ground (2.3 g), Black Pepper - Ground",
+      "2 tsp (5ml), Sesame Oil - Pure"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "185",
+      "carbohydrateContent": "17",
+      "fiberContent": "6",
+      "sugarContent": "6",
+      "sodiumContent": "318",
+      "proteinContent": "20",
+      "fatContent": "9",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep your vegetables by thinly slicing the red pepper and carrots, mincing the garlic, and finely chopping the red onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the sirloin strips into thin slices, suitable for quick stir-frying."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring 4 cups of water to a boil in a pot, add a dash of salt, then cook the pasta according to the package instructions. Once cooked, drain and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pan or wok, heat the sesame oil over medium heat. Add the garlic and red onion, saut\u00e9ing until they become aromatic and slightly golden, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Increase the heat to high, add the sliced sirloin strips to the pan, and season with salt and black pepper. Cook until the meat is browned, about 5-7 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the red pepper, carrots, and chicharos (edamame) to the pan with the meat. Stir well and cook for another 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lower the heat to medium and add the cooked pasta to the pan along with the coconut aminos. Toss everything together until the pasta is well coated with the sauce and the vegetables are distributed throughout."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Taste and adjust seasoning as necessary. Optionally, top with a sprinkle of sesame seeds before serving warm."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Edamame Sesame Pancit recipe is a healthified delight, perfect for those seeking a high-protein, low-carb, and high-fiber meal. An innovative take on the classic Filipino noodle dish, this version is packed with nutritious ingredients like edamame, carrots, and sirloin strips, all seasoned with coconut aminos and sesame oil for a burst of flavor. It's ideal for anyone looking for healthy recipes that do not compromise on taste.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "high-protein,low-carb,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "post_id": "65d4962c977bcd0001fee81f",
+  "title": "Buttered Potato And Carrot",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Buttered Potato And Carrot",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.50 tbsp, Butter - Salted",
+      "1 tsp, leaves, Spices, thyme, dried",
+      "205.00 g, Carrots, raw",
+      "260 gram, Baby Potatoes"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "113",
+      "carbohydrateContent": "23",
+      "fiberContent": "4",
+      "sugarContent": "4",
+      "sodiumContent": "66",
+      "proteinContent": "2",
+      "fatContent": "2",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Baby Potatoes under cold water and scrub any dirt off their skins."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel the Carrots and then slice them into rounds about 1/4 inch thick."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a medium pot, bring salted water to a boil and add the Baby Potatoes. Cook them for about 15 minutes until tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced Carrots to the pot with the Baby Potatoes and cook for an additional 10 minutes until the carrots are tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain the water from the pot and return the cooked Potatoes and Carrots to the pot.",
+        "image": ""
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the Butter and dried Thyme leaves to the Potatoes and Carrots. Stir over low heat until the vegetables are evenly coated with the butter and herbs."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve warm as a side dish to your favorite main course."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Buttered Potato and Carrot recipe is a perfect addition to your healthy meal plan. It's low in sodium and sugar, making it an excellent choice for those who are mindful about their health. Enjoy a delicious, healthified dish that doesn't compromise on flavor.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "keywords": "low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_287_65d4962c977bcd0001fee81f.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/287_65d4962c977bcd0001fee81f.json",
+  "original_files": [
+    "287_65d4962c977bcd0001fee81f.json",
+    "290_65d4962c977bcd0001fee81f.json"
+  ]
+}

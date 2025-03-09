@@ -1,0 +1,70 @@
+{
+  "post_id": "65d495b2977bcd0001fee565",
+  "title": "Salad Dressing Honey Mustard",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Salad Dressing - Honey Mustard ",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 packet, Sugar Substitute",
+      "12.50 g, mustard"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "0",
+      "carbohydrateContent": "1",
+      "fiberContent": "0",
+      "sugarContent": "1",
+      "sodiumContent": "150",
+      "proteinContent": "0",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place the mustard and sugar substitute in a small mixing bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk until the sugar substitute is completely dissolved and the mixture is smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Taste and adjust the sweeteness by adding more sugar substitute if necessary. Your Honey Mustard Salad Dressing is ready to dress your favorite salads."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "This low-carb, low-sugar Honey Mustard Salad Dressing is a healthier twist on a classic, making it perfect for those following a health-conscious diet without sacrificing flavor. Dive into a blend of tangy mustard and sweet undertones, guaranteed to elevate your salads!",
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_109_65d495b2977bcd0001fee565.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/109_65d495b2977bcd0001fee565.json",
+  "original_files": [
+    "109_65d495b2977bcd0001fee565.json",
+    "106_65d495b2977bcd0001fee565.json"
+  ]
+}

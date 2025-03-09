@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Sunday camachile",
+  "image": [
+    "https://healthyfied.me/images/recipes/sunday-camachile.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Delve into the heart of healthy Filipino cuisine with our Sunday camachile recipe. This dish is marvelously low-sodium and low-sugar, combining the unique flavors of Manila Tamarind with a medley of fresh vegetables and fish. Perfect for those looking to enjoy traditional flavors while keeping their meals nutritious and health-friendly. This recipe is a tribute to healthy eating without compromising on taste, making it a perfect addition to your collection of healthy recipes.",
+  "prepTime": "PT20M",
+  "cookTime": "PT24M",
+  "totalTime": "PT44M",
+  "keywords": "low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "244",
+    "carbohydrateContent": "35",
+    "fiberContent": "3",
+    "sugarContent": "2",
+    "sodiumContent": "124",
+    "proteinContent": "13",
+    "fatContent": "7",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  cup chopped, Sweet potato leaves, raw",
+    "10 g Carrots, raw",
+    "100 g Vegetable Kare-kare",
+    "15 g Rib Roast",
+    "15 g Tomatoes",
+    "15 g Potato",
+    "30 g Asparagus - Raw",
+    "5 g Filipino-Dried Mackerel",
+    "50 g Manila Tamarind, Guamuchil, Camachile",
+    "75 g Fresh Lumpia"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Manila Tamarind, tomatoes, carrots, asparagus, and potato under cold water.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Soak the Filipino-Dried Mackerel in water for 10 minutes to rehydrate.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the tomatoes, carrots and potato. Cut the asparagus into 1-inch pieces.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the Rib Roast in a pan over medium heat for about 10 minutes until browned and tender. Remove and set aside.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the same pan, add the rehydrated Mackerel, diced vegetables, and Manila Tamarind. Cook for 7 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the fresh Lumpia and Vegetable Kare-kare mix to the pan. Combine thoroughly and cook for another 5 minutes.",
+      "time": "PT5M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lastly, stir in the sweet potato leaves and cook until just wilted, about 2 minutes.",
+      "time": "PT2M",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

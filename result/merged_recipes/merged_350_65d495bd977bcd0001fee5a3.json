@@ -1,0 +1,71 @@
+{
+  "post_id": "65d495bd977bcd0001fee5a3",
+  "title": "Young Corn In Coconut Aminos And Orange Juice",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Young Corn in Coconut Aminos and Orange Juice",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 tbsp(s), Orange juice - Raw",
+      "1 tsp, Coconut Amino",
+      "200 gram, Young Corn - Cut"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "21",
+      "carbohydrateContent": "4",
+      "fiberContent": "2",
+      "sugarContent": "2",
+      "sodiumContent": "141",
+      "proteinContent": "1",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the young corn under cold water and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the coconut amino and orange juice together until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, add the young corn and pour the coconut amino and orange juice mixture over it. Cook for 10 minutes, occasionally stirring until the corn is tender and glazed."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "This Young Corn in Coconut Aminos and Orange Juice recipe is a delightful twist on a healthy, low-carb, and low-sugar meal. Its unique blend of flavors satisfies the taste buds while adhering to health-conscious dietary choices. Perfect for those seeking healthy recipes without sacrificing taste.",
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_350_65d495bd977bcd0001fee5a3.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/350_65d495bd977bcd0001fee5a3.json",
+  "original_files": [
+    "350_65d495bd977bcd0001fee5a3.json",
+    "347_65d495bd977bcd0001fee5a3.json"
+  ]
+}

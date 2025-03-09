@@ -1,0 +1,85 @@
+{
+  "post_id": "65d4967d977bcd0001fee9d5",
+  "title": "Creamy Pesto Potato Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Creamy Pesto Potato Salad",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "101 grams, Tomatoes",
+      "20 g, Classic Pesto",
+      "215 grams, Baby Potatoes - Raw",
+      "3 medium, Egg",
+      "30 grams, Greek Yogurt Plain",
+      "60 g, Capsicum, Red"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "175",
+      "carbohydrateContent": "17",
+      "fiberContent": "1",
+      "sugarContent": "2",
+      "sodiumContent": "147",
+      "proteinContent": "9",
+      "fatContent": "8",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Boil the baby potatoes until they are fork-tender, about 15 minutes, then let them cool and cut into halves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Hard-boil the eggs for 9 minutes, then cool, peel, and slice them."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the tomatoes and red capsicum into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine Greek yogurt and classic pesto to create the creamy pesto dressing."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the halved baby potatoes, sliced eggs, diced tomatoes, and red capsicum to the bowl with the creamy pesto dressing. Mix well to ensure all ingredients are evenly coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chill in the refrigerator for at least 1 hour before serving to allow flavors to meld."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Creamy Pesto Potato Salad is a perfect fit for anyone looking for a low-carb, low-sugar, yet deliciously healthy option. Made with Greek yogurt, baby potatoes, fresh tomatoes, capsicum, classic pesto, and eggs, it's an ideal choice for those who enjoy healthy yet flavorful recipes.",
+    "prepTime": "PT20M",
+    "cookTime": "PT15M",
+    "totalTime": "PT35M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_247_65d4967d977bcd0001fee9d5.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/247_65d4967d977bcd0001fee9d5.json",
+  "original_files": [
+    "247_65d4967d977bcd0001fee9d5.json",
+    "250_65d4967d977bcd0001fee9d5.json"
+  ]
+}

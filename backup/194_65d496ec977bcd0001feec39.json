@@ -1,0 +1,83 @@
+{
+  "post_id": "65d496ec977bcd0001feec39",
+  "title": "Honey Garlic Beef Yakiniku With Carrot Pasta",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Honey Garlic Beef Yakiniku with Carrot Pasta",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "42.00 g, Garlic, raw",
+      "227.00 g, Carrots, raw",
+      "2 tsp, Black Pepper - Ground",
+      "416 g, Beef Brisket Yakiniku",
+      "5 g, Coco Sugar"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "278",
+      "carbohydrateContent": "14",
+      "fiberContent": "3",
+      "sugarContent": "5",
+      "sodiumContent": "164",
+      "proteinContent": "31",
+      "fatContent": "10",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "5",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 5,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and spiralize the carrots into noodle shapes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the beef brisket yakiniku with the minced garlic and black pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet over medium heat, cook the seasoned beef for about 10 minutes until browned and cooked through."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the beef from the skillet and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same skillet, add the spiralized carrot pasta and cook for about 5-7 minutes until tender but still firm to the bite."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return the beef to the skillet with the carrot pasta. Sprinkle with coco sugar and drizzle with honey. Cook for an additional 2-3 minutes, stirring to combine all the flavors."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Honey Garlic Beef Yakiniku with Carrot Pasta recipe is a health-conscious delight, tailored for those seeking high-protein, low-carb, and low-sugar options. It's part of our Healthy Recipes collection, designed to provide nutritious yet delicious meals. Ideal for anyone looking to enjoy a savory and healthful dish.",
+    "prepTime": "PT20M",
+    "cookTime": "PT20M",
+    "totalTime": "PT40M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

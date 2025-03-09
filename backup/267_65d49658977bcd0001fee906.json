@@ -1,0 +1,94 @@
+{
+  "post_id": "65d49658977bcd0001fee906",
+  "title": "Taco Omellete In Bellpepper",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Taco Omellete in Bellpepper",
+    "recipeYield": "5",
+    "recipeIngredient": [
+      "107 gram, Pork",
+      "5 large, Egg",
+      "90 g, Yellow, Raw",
+      "204 g, Red",
+      "86.00 g, Red Onion",
+      "0.50 tsp, Spices, marjoram, dried",
+      "0.50 tsp(s), Spices, sage, ground",
+      "0.50 teaspoon, Salt",
+      "0.50 tsp, ground, Pepper"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "145",
+      "carbohydrateContent": "6",
+      "fiberContent": "1",
+      "sugarContent": "4",
+      "sodiumContent": "320",
+      "proteinContent": "11",
+      "fatContent": "9",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 350\u00b0F (175\u00b0C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely chop the red onion and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the tops off the yellow and red bell peppers, remove the seeds, and set the peppers aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a medium bowl, beat the eggs together and add the marjoram, sage, salt, and ground pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet over medium heat, cook the pork until no longer pink, about 7 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped red onion to the skillet and cook until softened, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the egg mixture into the skillet with the pork and onions, stirring gently to combine. Cook until the eggs are set, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stuff the bell peppers with the egg and pork mixture, then place the peppers upright in a baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven until the peppers are tender, about 25 minutes."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a healthy, low-carb, and low-sugar breakfast delight with our Taco Omelette in Bell Pepper recipe. Perfect for those who enjoy Healthyfied versions of their favorite dishes, this recipe combines fresh vegetables, protein-packed eggs, and savory pork for a meal that doesn't skimp on flavor.",
+    "prepTime": "PT20M",
+    "cookTime": "PT25M",
+    "totalTime": "PT45M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

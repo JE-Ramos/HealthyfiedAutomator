@@ -1,0 +1,93 @@
+{
+  "post_id": "65d49664977bcd0001fee949",
+  "title": "Beef Mushroom With Broccoli",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Beef Mushroom with Broccoli",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 tsp(s), Salt",
+      "0.50 tbsp(s), Lemon juice, raw",
+      "0.50 tsp, ground, Pepper",
+      "1 grams, Stevia",
+      "1.50 tablespoon, Coconut Amino",
+      "200 g (3.5 oz.), White Beech Mushrooms",
+      "300 gram, Beef Sukiyaki Meat"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "154",
+      "carbohydrateContent": "3",
+      "fiberContent": "2",
+      "sugarContent": "1",
+      "sodiumContent": "133",
+      "proteinContent": "23",
+      "fatContent": "5",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the Beef Sukiyaki Meat and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Trim the White Beech Mushrooms and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix together Coconut Amino, Salt, ground Pepper, Lemon juice, and Stevia to create a marinade."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced Beef Sukiyaki Meat to the marinade and let it marinate for at least 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a pan over medium heat and sauté the marinated beef for 5 minutes or until browned."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the White Beech Mushrooms to the pan and cook for an additional 5 minutes or until the mushrooms are tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the Beef Mushroom hot, garnishing with fresh herbs if desired."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Beef Mushroom with Broccoli dish is a healthful delight, perfect for those following a high-protein, low-carb, low-sodium, and low-sugar diet. It's a wonderful addition to your collection of healthy recipes, ensuring a guilt-free indulgence.",
+    "prepTime": "PT20M",
+    "cookTime": "PT10M",
+    "totalTime": "PT30M",
+    "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_264_65d49664977bcd0001fee949.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/264_65d49664977bcd0001fee949.json",
+  "original_files": [
+    "264_65d49664977bcd0001fee949.json",
+    "261_65d49664977bcd0001fee949.json"
+  ]
+}

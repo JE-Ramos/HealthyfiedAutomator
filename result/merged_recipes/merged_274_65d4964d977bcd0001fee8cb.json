@@ -1,0 +1,81 @@
+{
+  "post_id": "65d4964d977bcd0001fee8cb",
+  "title": "Sayote Tops Bellpepper Steamed Scrambled Egg",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Sayote Tops Bellpepper Steamed Scrambled Egg",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.19 tsp(s), Salt",
+      "2 tsp, ground, Pepper",
+      "41 g, Leaves - Steamed",
+      "5 g, Parsley, fresh",
+      "6 egg, Eggs",
+      "80.00 g, Red"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "139",
+      "carbohydrateContent": "4",
+      "fiberContent": "1",
+      "sugarContent": "1",
+      "sodiumContent": "144",
+      "proteinContent": "13",
+      "fatContent": "8",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop the steamed sayote tops and red bell pepper into small pieces. Mince the parsley finely."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs into a bowl, season with salt and ground pepper, and beat them until well mixed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped sayote tops, bell pepper, and minced parsley to the egg mixture and stir to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a non-stick pan over medium heat and pour the egg mixture into the pan."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook for about 5-7 minutes, gently stirring occasionally, until the eggs are fully cooked but still soft and creamy."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This delightful Sayote Tops Bellpepper Steamed Scrambled Egg recipe is perfect for those following a low-carb and low-sugar diet. Full of fresh flavors and healthy ingredients, it's an ideal addition to your collection of healthy recipes.",
+    "prepTime": "PT10M",
+    "cookTime": "PT7M",
+    "totalTime": "PT17M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_274_65d4964d977bcd0001fee8cb.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/274_65d4964d977bcd0001fee8cb.json",
+  "original_files": [
+    "274_65d4964d977bcd0001fee8cb.json",
+    "271_65d4964d977bcd0001fee8cb.json"
+  ]
+}

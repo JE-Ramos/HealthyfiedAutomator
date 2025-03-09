@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Bokchoy Shitake Veggies",
+  "image": [
+    "https://healthyfied.me/images/recipes/bokchoy-shitake-veggies.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Delight in the healthy and flavorful Bokchoy Shitake Veggies recipe, perfect for those seeking a nutritious yet delicious meal. With low-carb and low-sugar ingredients, this dish fits splendidly into health-conscious diets.",
+  "prepTime": "PT15M",
+  "cookTime": "PT13M",
+  "totalTime": "PT28M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "2",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "64",
+    "carbohydrateContent": "11",
+    "fiberContent": "2",
+    "sugarContent": "3",
+    "sodiumContent": "232",
+    "proteinContent": "7",
+    "fatContent": "1",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  carrot Medium, Medium Carrot",
+    "1  cup Chinese Bokchoy",
+    "1  tsp(s) Salt",
+    "1  tsp ground, Spices, pepper, black",
+    "2  oz Onion Red Whole",
+    "20 g Shitake Mushrooms",
+    "6 clove clove",
+    "85 g Young Baby Corn"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Chinese Bokchoy under cold water and chop into bite-sized pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel the carrot and slice it into thin circles.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the young baby corn into small rounds.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the Shitake mushrooms into thin pieces.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finely chop the red onion and mince the garlic cloves.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pan over medium heat, add the mushrooms, onions, and garlic. Sauté for 5 minutes until softened.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the bokchoy, carrot, and baby corn to the pan. Stir in the salt and black pepper. Cook for an additional 8 minutes, until the vegetables are tender but still crisp.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

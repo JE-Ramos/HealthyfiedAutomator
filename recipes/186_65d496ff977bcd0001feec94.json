@@ -1,0 +1,95 @@
+{
+  "post_id": "65d496ff977bcd0001feec94",
+  "title": "Dory Blossom Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Dory Blossom Salad",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "2 cup, Chopped Romaine",
+      "1 Carrot Medium, Medium Carrot",
+      "133 g, Cucumber",
+      "25 g, Yellow Bellpepper",
+      "25 g, Green Bellpepper",
+      "1 fillet, Cream Dory",
+      "50 grams, Tomatoes",
+      "500 g, Dragonfruit",
+      "18 fluid ounce, Yogurt",
+      "1 Tbsp, Cane Vinegar",
+      "1 Medium Clove (8g), Fresh",
+      "100 gram, Extra Firm"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "296",
+      "carbohydrateContent": "44",
+      "fiberContent": "4",
+      "sugarContent": "26",
+      "sodiumContent": "553",
+      "proteinContent": "25",
+      "fatContent": "4",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop the romaine, medium carrot, tomatoes, and extra firm tofu into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the cucumber, yellow and green bell peppers."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and dice the dragonfruit. Set aside to be used in the salad dressing."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the cream dory fillet with a pinch of salt and pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet over medium heat, cook the cream dory fillet for 4 minutes on each side or until golden brown and cooked through. Allow it to cool, then flake into pieces.",
+        "time": "PT8M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix the yogurt, cane vinegar, and minced fresh garlic to prepare the dressing. Mash half of the diced dragonfruit and blend it into the dressing for a sweet and tangy flavor."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the chopped and diced vegetables, flaked dory, and the remaining diced dragonfruit. Toss gently."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle the dragonfruit yogurt dressing over the salad and toss well to coat all the ingredients."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-sodium",
+      "high-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Dory Blossom Salad is a perfect blend for those seeking a healthy yet flavorful meal. Packed with high-protein ingredients and carefully selected vegetables, it's a delicious way to enjoy a meal that's both nutritious and satisfying. Featuring cream dory, colorful peppers, and a unique dragonfruit dressing, this salad is ideal for those following a health-conscious lifestyle.",
+    "prepTime": "PT15M",
+    "cookTime": "PT8M",
+    "totalTime": "PT23M",
+    "keywords": "high-protein,high-sodium,high-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

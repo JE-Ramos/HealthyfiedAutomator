@@ -1,0 +1,83 @@
+{
+  "post_id": "65d49704977bcd0001feecad",
+  "title": "2018/10/26 Lunch Eggplant Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/26 Lunch Eggplant Salad",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 ear, Ear of Corn",
+      "100 g, Carrots, raw",
+      "110.00 g, Eggplant, raw",
+      "15.00 g, Garlic, raw",
+      "150 grams, Belly",
+      "160 grams, Tomatoes",
+      "60 g, Capsicum Green",
+      "60.00 g, Red",
+      "70.00 g, Red Onion"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "297",
+      "carbohydrateContent": "23",
+      "fiberContent": "5",
+      "sugarContent": "9",
+      "sodiumContent": "198",
+      "proteinContent": "9",
+      "fatContent": "18",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Begin by washing and preparing your vegetables: slice the eggplant, red capsicum, green capsicum, tomatoes, red onion, and carrots. Shuck the ear of corn and remove the kernels. Mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grill the eggplant, red and green capsicum, and corn kernels on a preheated grill until they are slightly charred, about 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, lightly sauté the minced garlic and sliced belly until the belly is crispy, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine all the grilled vegetables, crispy belly, and raw vegetables (carrots, red onion, tomatoes) in a large mixing bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss the salad ingredients together until well combined. Season with your preferred dressing or spices according to taste."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This high-fiber, healthified version of an Eggplant Salad is perfect for those looking for healthy recipes to add to their diet. Packed with nutritious vegetables like eggplant, capsicum, tomatoes, red onion, corn, garlic, and carrots, and enriched with belly for added flavor, it's a salad that doesn't skimp on taste while being wonderfully beneficial for your health.",
+    "prepTime": "PT20M",
+    "cookTime": "PT20M",
+    "totalTime": "PT40M",
+    "keywords": "high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_185_65d49704977bcd0001feecad.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/185_65d49704977bcd0001feecad.json",
+  "original_files": [
+    "185_65d49704977bcd0001feecad.json",
+    "188_65d49704977bcd0001feecad.json"
+  ]
+}

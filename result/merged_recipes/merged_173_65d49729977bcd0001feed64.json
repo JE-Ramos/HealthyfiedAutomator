@@ -1,0 +1,94 @@
+{
+  "post_id": "65d49729977bcd0001feed64",
+  "title": "Garlic Soy Chicken Breast",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Garlic Soy Chicken Breast",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "0.12 teaspoon, Salt",
+      "1 Tbsp, low sodium soy sauce",
+      "1 tbsp(s), garlic granules",
+      "1 teaspoon, Black pepper",
+      "2 leaf, Bay Leaf",
+      "2 tbps, coconut aminos",
+      "25 gram, Ginger, raw",
+      "30 gram, Butter, unsalted",
+      "4 clove , Garlic",
+      "600 gram, Chicken breast, raw, with skin"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "331",
+      "carbohydrateContent": "5",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "312",
+      "proteinContent": "32",
+      "fatContent": "20",
+      "saturatedFatContent": "8",
+      "monounsaturatedFatContent": "6",
+      "polyunsaturatedFatContent": "3",
+      "unsaturatedFatContent": 9,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the ingredients: Finely chop the ginger and garlic cloves. Measure out all other ingredients as per the list."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix the low sodium soy sauce, coconut aminos, garlic granules, chopped ginger, and chopped garlic. Season with black pepper and salt to create the marinade."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chicken breasts in a suitable marinating dish and pour the marinade over the chicken. Ensure each piece is well-coated. Add the bay leaves to the dish. Cover and refrigerate for at least 2 hours, preferably overnight, to marinate."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375°F (190°C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer the marinated chicken breasts to a baking tray. Evenly distribute pieces of butter on top of each chicken breast."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 25 minutes or until the chicken is thoroughly cooked and juices run clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the chicken rest for a few minutes before serving. Enjoy your delicious and healthy Garlic Soy Chicken Breast."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in the savory and aromatic Garlic Soy Chicken Breast, a perfect dish for those who love high-protein and low-carb meals. Made with a delectable blend of spices, low sodium soy sauce, and coconut aminos, this recipe promises a tender and flavorful chicken breast that aligns with a healthy lifestyle. Perfect for anyone following a diet that appreciates the essence of quality ingredients without compromising on taste.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_173_65d49729977bcd0001feed64.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/173_65d49729977bcd0001feed64.json",
+  "original_files": [
+    "173_65d49729977bcd0001feed64.json",
+    "170_65d49729977bcd0001feed64.json"
+  ]
+}

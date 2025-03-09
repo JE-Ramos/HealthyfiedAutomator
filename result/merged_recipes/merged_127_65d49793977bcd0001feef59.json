@@ -1,0 +1,97 @@
+{
+  "post_id": "65d49793977bcd0001feef59",
+  "title": "Porkchop Adlai Fried Rice",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Porkchop Adlai Fried Rice",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "100 g, Red Onion",
+      "145.00 g, Eggplant, raw",
+      "150 g, Adlai Rice (Job's Tears)",
+      "250 g, Carrots, raw",
+      "30 g, Tinapang bangus",
+      "300 gram, Cherry",
+      "50 g, Red",
+      "50.00 g, Capsicum Green",
+      "560 gram, Porkchop"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "480",
+      "carbohydrateContent": "55",
+      "fiberContent": "6",
+      "sugarContent": "10",
+      "sodiumContent": "415",
+      "proteinContent": "49",
+      "fatContent": "8",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Adlai Rice under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Adlai Rice according to package instructions until tender, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the porkchop, eggplant, cherry tomatoes, red onion, red pepper, green capsicum, and carrots into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shred the tinapang bangus (smoked milkfish) into small flakes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pan, heat some oil over medium heat and sauté the red onion until translucent, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the porkchop pieces to the pan and cook until browned on all sides, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix in the eggplant, cherry tomatoes, red and green peppers, and carrots, and cook until they start to soften, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the cooked Adlai Rice, shredded tinapang bangus, and season according to taste. Cook together for another 5 minutes to let the flavors meld."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-protein",
+      "high-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Delight your taste buds with this Porkchop Adlai Fried Rice recipe, a perfect blend of high-protein, high-fiber, and incredibly flavorful ingredients for a healthier twist on the classic. Ideal for those seeking healthy yet hearty dishes.",
+    "prepTime": "PT20M",
+    "cookTime": "PT30M",
+    "totalTime": "PT50M",
+    "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_127_65d49793977bcd0001feef59.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/127_65d49793977bcd0001feef59.json",
+  "original_files": [
+    "127_65d49793977bcd0001feef59.json",
+    "130_65d49793977bcd0001feef59.json"
+  ]
+}

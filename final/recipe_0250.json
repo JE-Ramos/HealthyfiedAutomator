@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Tomato Basil Penne Pasta",
+  "image": [
+    "https://healthyfied.me/images/recipes/tomato-basil-penne-pasta.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Tomato Basil Penne Pasta is perfect for anyone looking for healthy, flavorful meal options. Tagged as 'Healthyfied', 'Healthy Recipes', and 'Healthified Recipes', it's crafted to support a nutritious diet without sacrificing taste.",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "keywords": "Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "5",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "173",
+    "carbohydrateContent": "23",
+    "fiberContent": "4",
+    "sugarContent": "6",
+    "sodiumContent": "387",
+    "proteinContent": "13",
+    "fatContent": "6",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.12  cup(s) Basil Leaves",
+    "1  cup Chopped, Red Onion",
+    "10 small whole, Small",
+    "125 g Pork, fresh, ground, cooked",
+    "2  cup (4.7 oz) cooked, Cooked Penne Rigate",
+    "2  tbsp(s) Garlic Pepper Grinder"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Start by chopping 1 cup of red onion and setting aside.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare 0.12 cup(s) of basil leaves by washing and roughly chopping them.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Next, measure out 2 tablespoons of garlic pepper grinder.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook 125 grams of fresh ground pork in a pan over medium heat until fully cooked, breaking it apart with a spatula, about 10 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Meanwhile, boil water in a large pot and cook 2 cups (4.7 oz) of Penne Rigate according to the package instructions until al dente, then drain.",
+      "time": "PT10M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice 10 small tomatoes into halves.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet, sauté the chopped red onion with the prepared garlic pepper grinder over medium heat until the onion is translucent, about 5 minutes.",
+      "time": "PT5M",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cooked pork, halved tomatoes, and cooked Penne Rigate to the skillet. Stir well to combine. Let it cook for another 5 minutes to let the flavors meld.",
+      "time": "PT5M",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from heat and stir in the chopped basil leaves. Serve warm.",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

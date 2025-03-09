@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/12/09 Dinner",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/12/09-dinner.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This high-protein, low-carb dinner is perfect for those who are looking for a healthful meal option. Featuring a variety of nutritious ingredients such as abalone, carrots, pork roast, baked salmon steak, broccoli, cabbage, capsicum green, and flavored with roasted sesame dressing, thyme, and rosemary, it's a healthy recipe that doesn't skimp on taste or satisfaction.",
+  "prepTime": "PT20M",
+  "cookTime": "PT70M",
+  "totalTime": "PT90M",
+  "keywords": "high-protein,low-carb,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Roasting",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "309",
+    "carbohydrateContent": "12",
+    "fiberContent": "3",
+    "sugarContent": "6",
+    "sodiumContent": "238",
+    "proteinContent": "34",
+    "fatContent": "14",
+    "saturatedFatContent": "4",
+    "monounsaturatedFatContent": "3",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup chopped, Cabbage, raw",
+    "0.25  tsp(s) Rosemary, fresh",
+    "0.25  tsp Thyme, fresh",
+    "1  tsp(s) Roasted Sesame Dressing",
+    "100 g Pork Roast",
+    "15 g Abalone - Raw",
+    "15 g Capsicum Green",
+    "5 g Broccoli, raw",
+    "5 g Cabbage, red, raw",
+    "50 g Baked Salmon Steak",
+    "80 g Carrots, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare your ingredients: slice the carrots, cut the abalone, broccoli, red cabbage, raw cabbage, and capsicum green into bite-sized pieces. ",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roast the pork roast in a preheated oven at 350°F (175°C) for about 60 minutes or until fully cooked.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the pork is roasting, bake the salmon steak in the oven at 350°F (175°C) for 20 to 25 minutes.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Steam the sliced carrots, broccoli, red and raw cabbage, and capsicum green until tender, approximately 10 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl, mix the roasted sesame dressing with thyme and rosemary.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once everything is cooked, arrange the pork roast, baked salmon, steamed vegetables, and abalone on a plate.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drizzle the mixed roasted sesame dressing over the dish before serving.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

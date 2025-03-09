@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Balsamic Chicken Tomato Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/balsamic-chicken-tomato-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Balsamic Chicken Tomato Salad is a perfect choice for anyone looking for a healthy, low-carb, and low-sugar meal option. Its fresh ingredients and light dressing make it an ideal recipe for those who are health-conscious but still crave delicious flavors.",
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "123",
+    "carbohydrateContent": "13",
+    "fiberContent": "4",
+    "sugarContent": "2",
+    "sodiumContent": "185",
+    "proteinContent": "11",
+    "fatContent": "2",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.12  cup Tomato Boiled",
+    "0.50  cup (72gm), Ice Berg Lettuce",
+    "0.67 dash Salt, table",
+    "1  tbsp Spices, pepper, white",
+    "1  tsp(s) Balsamic Vinegarette",
+    "1  oz Chicken Breast (Grilled)",
+    "7.50 g All-Bran Regular"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Season the chicken breast with salt and white pepper.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Grill the chicken breast over medium heat until fully cooked, approximately 10 minutes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Ice Berg Lettuce under cold water and chop it.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Boil the tomato for about 5 minutes, then allow to cool before chopping.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, combine the grilled chicken, chopped lettuce, and tomato.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drizzle with balsamic vinaigrette and toss to combine.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle the All-Bran Regular on top of the salad for an added crunch.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

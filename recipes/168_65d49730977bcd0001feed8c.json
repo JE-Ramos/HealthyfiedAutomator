@@ -1,0 +1,84 @@
+{
+  "post_id": "65d49730977bcd0001feed8c",
+  "title": "2018/10/16 Lunch",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/16 Lunch",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "200.00 g, Marinated  Baby Bangus",
+      "100.00 g, Tortang Talong",
+      "100 grams, Tomatoes",
+      "300 g, Okra, raw",
+      "1 large, Egg",
+      "1 tablespoon, Coconut Amino",
+      "1 tbsp, Coconut Vinegar"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "335",
+      "carbohydrateContent": "28",
+      "fiberContent": "4",
+      "sugarContent": "5",
+      "sodiumContent": "244",
+      "proteinContent": "20",
+      "fatContent": "16",
+      "saturatedFatContent": "8",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your grill or pan over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash the tomatoes and okra under cold water, then slice the tomatoes and cut the okra into half-inch pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat the egg in a small bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the tortang talong by dipping the sliced eggplant in the beaten egg, then frying it until golden brown on both sides."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grill the marinated baby bangus until it is fully cooked, approximately 10 minutes each side."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix the coconut amino and coconut vinegar to make a simple dressing."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the grilled bangus and tortang talong with fresh slices of tomato, okra, and a drizzle of the coconut dressing."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This high-protein, low-sugar meal is perfect for those who want to enjoy a healthy and delicious lunch. Featuring marinated baby bangus, tortang talong, fresh tomatoes, okra, and a hint of coconut with the dressing, it's a meal that's both nourishing and full of flavor.",
+    "prepTime": "PT20M",
+    "cookTime": "PT20M",
+    "totalTime": "PT40M",
+    "keywords": "high-protein,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

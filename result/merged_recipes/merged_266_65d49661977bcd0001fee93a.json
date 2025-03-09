@@ -1,0 +1,88 @@
+{
+  "post_id": "65d49661977bcd0001fee93a",
+  "title": "2018/11/02 Dinner Vegetables",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/11/02 Dinner Vegetables",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "0.31 cup, Blanched Green Beans",
+      "1 tsp, ground, Spices, thyme, dried",
+      "2 tbsp, Butter - Salted",
+      "200 g, Mushrooms, enoki, raw",
+      "220.00 g, Carrots, raw",
+      "324 grams, Tomatoes",
+      "67 gram, Bellpepper"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "153",
+      "carbohydrateContent": "19",
+      "fiberContent": "6",
+      "sugarContent": "8",
+      "sodiumContent": "311",
+      "proteinContent": "4",
+      "fatContent": "8",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash the Tomatoes, Green Beans, Enoki Mushrooms, Bell Pepper, and Carrots under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the Tomatoes into wedges, trim the Green Beans, slice the Mushrooms and Bell Pepper, and chop the Carrots into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large skillet, melt the Butter over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped Carrots and Bell Pepper to the skillet. Cook for 5 minutes, stirring occasionally."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the Green Beans, Mushrooms, and Tomatoes. Cook for another 10 minutes or until the vegetables are tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with Thyme, Salt, and Pepper. Stir well to combine and ensure the vegetables are evenly coated with the seasonings."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "low-carb"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This wholesome '2018/11/02 Dinner Vegetables' dish combines the freshness and nutrients of a variety of vegetables enhanced with thyme, resulting in a low-carb, high-fiber meal that fits perfectly into healthy eating plans. Ideal for those looking to enjoy healthy recipes without sacrificing flavor.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "low-carb,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_266_65d49661977bcd0001fee93a.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/266_65d49661977bcd0001fee93a.json",
+  "original_files": [
+    "266_65d49661977bcd0001fee93a.json",
+    "263_65d49661977bcd0001fee93a.json"
+  ]
+}

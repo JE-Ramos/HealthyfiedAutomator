@@ -1,0 +1,79 @@
+{
+  "post_id": "65d496c1977bcd0001feeb55",
+  "title": "Pepper Chicken With Vegetables",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Pepper Chicken With Vegetables ",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.25 cup, Mixed Vegetables",
+      "1 tsp, ground, Black pepper",
+      "10 gram, Butter, unsalted",
+      "75 gram, Chicken breast, cooked, skinless"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "232",
+      "carbohydrateContent": "6",
+      "fiberContent": "1",
+      "sugarContent": "2",
+      "sodiumContent": "273",
+      "proteinContent": "23",
+      "fatContent": "12",
+      "saturatedFatContent": "6",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the mixed vegetables according to the package instructions (if frozen) or wash and chop fresh vegetables into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the cooked chicken breast into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, melt the unsalted butter over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the prepared vegetables to the pan and saut\u00e9 for about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Introduce the chicken pieces to the pan and sprinkle the ground black pepper over the chicken and vegetables. Stir well to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the mixture for an additional 10 minutes, until the vegetables are soft and the chicken is heated through.",
+        "cookTime": "PT10M"
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Pepper Chicken With Vegetables recipe embodies a delectable blend of high-protein and low-carb ingredients, making it perfect for a nutritious meal. Enjoy the savory taste of tender chicken breast paired with an array of vegetables, all seasoned with a hint of black pepper for that extra kick. A low-sugar delight that stays true to healthy eating.",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

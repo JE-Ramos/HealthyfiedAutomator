@@ -1,0 +1,78 @@
+{
+  "post_id": "65d49656977bcd0001fee8fa",
+  "title": "4 Ingredient Pancake",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "4 Ingredient Pancake",
+    "recipeYield": "5",
+    "recipeIngredient": [
+      "2 Egg, Egg, Large Whole",
+      "2 tsp(s), Virgin Coconut Oil",
+      "2 tsp, Clabber Girl",
+      "5 pieces, Saba"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "144",
+      "carbohydrateContent": "25",
+      "fiberContent": "0",
+      "sugarContent": "9",
+      "sodiumContent": "54",
+      "proteinContent": "3",
+      "fatContent": "4",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel the saba bananas and mash them thoroughly in a bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate bowl, beat the eggs until they are well mixed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the mashed saba bananas with the beaten eggs. Stir in the clabber girl (baking powder) until the mixture is well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the virgin coconut oil in a non-stick pan over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour 1/4 cup of the pancake mixture into the pan. Cook for about 2-3 minutes on each side or until golden brown.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Repeat with the remaining batter. Serve the pancakes hot."
+      }
+    ],
+    "tags": [
+      "low-sodium",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Dive into a healthier lifestyle with these easy-to-make 4 Ingredient Pancakes. Perfect for those following a low-sodium diet, these pancakes are not just nutritious but also cater to your health goals. Enjoy the unique blend of flavors and start your day with a healthified twist!",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "keywords": "low-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

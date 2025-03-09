@@ -1,0 +1,119 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Easy Korean-Inspired Japchae with Shirataki Noodles and Beef",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-japchae.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a healthy twist on the traditional Korean favorite with this Healthyfied Japchae recipe. Packed with high-protein beef strips, high-fiber shirataki tofu spaghetti, and a variety of flavorful ingredients, this dish is perfect for those seeking healthy recipes without sacrificing taste. The use of coconut aminos and organic green peas adds a unique touch to this nutritious meal, making it suitable for health-conscious individuals looking for high-sodium options.",
+  "prepTime": "PT15M",
+  "cookTime": "PT28M",
+  "totalTime": "PT43M",
+  "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "432",
+    "carbohydrateContent": "27",
+    "fiberContent": "6",
+    "sugarContent": "13",
+    "sodiumContent": "1270",
+    "proteinContent": "21",
+    "fatContent": "26",
+    "saturatedFatContent": "11",
+    "monounsaturatedFatContent": "7",
+    "polyunsaturatedFatContent": "3",
+    "unsaturatedFatContent": 10,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1 cup red onion, chopped",
+    "1 large egg",
+    "1 tbsp butter",
+    "1 tbsp garlic",
+    "1 tsp sesame oil",
+    "1 tsp black pepper, ground",
+    "15 g organic green peas",
+    "2 pinch salt",
+    "226 g shirataki tofu spaghetti (1/2 pkg=113g)",
+    "3 tbsp coconut aminos",
+    "50 g beef strips"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place the organic green peas in a small bowl and cover them with cold water. Let them sit for 1-2 minutes, then drain using a strainer.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Crack the egg into a small bowl. Add 1 pinch of salt and 1/2 teaspoon of ground black pepper. Beat the mixture with a fork until completely combined and slightly frothy.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel the garlic cloves and chop them into very small pieces (mince). The pieces should be about the size of a grain of rice.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Open the package of shirataki tofu spaghetti. Place the noodles in a colander and rinse them under cold running water for about 30 seconds. Shake the colander several times to remove excess water.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the red onion into small, evenly-sized pieces (about 0.5 cm cubes).",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place a medium-sized frying pan over medium heat. Add the butter and let it melt completely. Pour the beaten egg mixture into the pan, tilting the pan to spread the egg evenly. Cook for about 2-3 minutes until the egg is fully set (not runny). Use a spatula to remove the egg from the pan and cut it into thin strips about 0.5 cm wide. Set aside on a plate.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Using the same pan, add the sesame oil. When the oil is hot (it will appear thinner and more fluid), add the minced garlic and chopped red onion. Cook for about 5-8 minutes, stirring frequently with a wooden spoon, until the onion becomes soft and slightly translucent.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the beef strips to the pan with the onions and garlic. Sprinkle with the remaining pinch of salt and black pepper. Cook for about 8-10 minutes, stirring occasionally, until the beef is no longer pink and has browned on all sides.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the drained shirataki noodles, cooked egg strips, and green peas to the pan with the beef. Stir gently to combine all ingredients.",
+      "name": "Step 9"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the coconut aminos over the mixture in the pan. Stir continuously for about 5 minutes to ensure the sauce coats all ingredients evenly and the flavors blend together. The dish is ready when everything is hot and well combined.",
+      "name": "Step 10"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the finished japchae to a serving plate or bowl. Serve hot.",
+      "name": "Step 11"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/GlutenFreeDiet"
+  ]
+}

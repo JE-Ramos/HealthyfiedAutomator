@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Bolzico Lettuce Wrap",
+  "image": [
+    "https://healthyfied.me/images/recipes/bolzico-lettuce-wrap.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a guilt-free, mouthwatering experience with our Bolzico Lettuce Wrap! Perfect for those on a journey to maintaining their health without sacrificing flavor. This high-protein, low-carb, low-sodium, and low-sugar recipe is designed to align with your dietary goals while delivering a burst of deliciousness with every bite. Satisfy your cravings healthily with this tantalizing Healthyfied recipe.",
+  "prepTime": "PT20M",
+  "cookTime": "PT10M",
+  "totalTime": "PT30M",
+  "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "2",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Grilling",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "467",
+    "carbohydrateContent": "1",
+    "fiberContent": "0",
+    "sugarContent": "0",
+    "sodiumContent": "81",
+    "proteinContent": "36",
+    "fatContent": "32",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 2,
+    "transFatContent": "1"
+  },
+  "recipeIngredient": [
+    "10 leaf inner, Lettuce, green leaf, raw",
+    "300 g Rib Eye Streak"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Thinly slice the Rib Eye Steak across the grain.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the sliced Rib Eye Steak with salt and pepper to taste.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat a skillet or grilling pan over medium-high heat.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the Rib Eye Steak slices in the skillet for 2-3 minutes on each side, or until they reach the desired level of doneness. Cooking time: 6 minutes",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the lettuce leaves and pat dry.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place a portion of the cooked Rib Eye Steak on each lettuce leaf.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Optionally, add your favorite low-carb toppings like sliced avocado or a sprinkle of cheese.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wrap the lettuce around the filling and enjoy your delicious and healthy Bolzico Lettuce Wrap.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

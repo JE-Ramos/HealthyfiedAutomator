@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "healthyfied chorizo sandwich",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-chorizo-sandwich.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This healthyfied chorizo sandwich is perfect for anyone following a high-protein, low-carb, low-sodium, and low-sugar diet. Featuring keto-friendly bread, exquisite Iberico chorizo, and creamy Kewpie mayo, it's an indulgent yet guilt-free option for health-conscious gourmets.",
+  "prepTime": "PT10M",
+  "cookTime": "PT7M",
+  "totalTime": "PT17M",
+  "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "374",
+    "carbohydrateContent": "4",
+    "fiberContent": "0",
+    "sugarContent": "0",
+    "sodiumContent": "118",
+    "proteinContent": "23",
+    "fatContent": "27",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  tablespoon Kewpie Mayo (Tbs)",
+    "25 g Iberico",
+    "72 g keto friendly bread"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Slice the Iberico chorizo into thin slices.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toast the keto friendly bread until crispy and golden brown.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread the Kewpie mayo evenly over one side of each slice of toasted bread.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Layer the sliced Iberico chorizo on one of the slices of bread, mayo side up.",
+      "time": "PT5M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top the chorizo with the second slice of bread, mayo side down, to form a sandwich.",
+      "time": "PT2M",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "post_id": "65d49667977bcd0001fee958",
+  "title": "Pork Nilaga",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Pork Nilaga",
+    "recipeYield": "6",
+    "recipeIngredient": [
+      "300 g, Pork / Boston Butt, Raw (\u593e\u5fc3\u8089, \u751f)",
+      "300 g, Green cabbage",
+      "150 g, Pumpkin, raw",
+      "1 cup , Garlic",
+      "1 large, Onion",
+      "0.50 tsp(s), Fish Sauce",
+      "1 tsp, Plain Salt",
+      "1 tsp, Ground Black Pepper",
+      "2 ltr(s), water"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "157",
+      "carbohydrateContent": "15",
+      "fiberContent": "2",
+      "sugarContent": "4",
+      "sodiumContent": "454",
+      "proteinContent": "11",
+      "fatContent": "6",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Pork / Boston Butt under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the green cabbage and dice the pumpkin into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic and slice the onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, bring the 2 liters of water to a boil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the pork to the boiling water, reduce heat to medium, and simmer for 45 minutes or until the pork is tender.",
+        "time": "PT45M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Incorporate the garlic, onion, green cabbage, and pumpkin into the pot. Season with fish sauce, salt, and black pepper.",
+        "time": "PT0M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue to simmer for an additional 20 minutes, or until the vegetables are tender.",
+        "time": "PT20M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Adjust the seasoning as needed, and serve hot."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in the comforting flavors of our Healthyfied Pork Nilaga, a classic Filipino stew reimagined to fit a low-carb, low-sugar lifestyle without compromising on taste. This heartwarming dish, enriched with tender pork, vibrant green cabbage, and sweet pumpkin, offers a perfect balance of nutrition and flavor. Ideal for health-conscious individuals looking for high-sodium yet healthy recipes.",
+    "prepTime": "PT15M",
+    "cookTime": "PT65M",
+    "totalTime": "PT80M",
+    "keywords": "low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

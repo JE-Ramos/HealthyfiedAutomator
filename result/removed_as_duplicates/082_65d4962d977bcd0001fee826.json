@@ -1,0 +1,75 @@
+{
+  "post_id": "65d4962d977bcd0001fee826",
+  "title": "Bellpepper Quinoa",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Bellpepper Quinoa",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.50 cup, Quinoa",
+      "49.00 g, Red"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "113",
+      "carbohydrateContent": "24",
+      "fiberContent": "4",
+      "sugarContent": "1",
+      "sodiumContent": "1",
+      "proteinContent": "4",
+      "fatContent": "2",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Quinoa under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Quinoa according to package instructions until fluffy and fully cooked, about 15 minutes.",
+        "time": "PT15M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the Quinoa is cooking, finely dice the Red Bell Pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate pan, lightly saut\u00e9 the diced Red Bell Pepper for about 5 minutes until slightly soft.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cooked Quinoa and saut\u00e9ed Red Bell Pepper in a bowl. Mix well."
+      }
+    ],
+    "tags": [
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Dive into a nutritious journey with our Healthyfied Bellpepper Quinoa recipe! Tagged with low-sodium and low-sugar, this meal is perfect for those looking to enjoy healthy recipes without compromising on taste. Savor the simplicity and health benefits in every bite.",
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "keywords": "low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

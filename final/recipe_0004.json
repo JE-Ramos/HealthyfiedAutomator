@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Best Filipino Style Ribeye Steak with Sautéed Vegetables",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-filipino-style-steak.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a guilt-free culinary adventure with our Healthyfied Filipino Style Steak! Tailored for health enthusiasts, this high-protein, low-carb, yet slightly high-sodium recipe brings a healthy twist to your meals without compromising flavor. Perfect for those on a journey for healthier alternatives.",
+  "prepTime": "PT15M",
+  "cookTime": "PT12M",
+  "totalTime": "PT27M",
+  "keywords": "high-protein,low-carb,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "497",
+    "carbohydrateContent": "11",
+    "fiberContent": "4",
+    "sugarContent": "9",
+    "sodiumContent": "675",
+    "proteinContent": "34",
+    "fatContent": "36",
+    "saturatedFatContent": "14",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.2 cup cabbage, raw, chopped",
+    "0.25 tsp salt",
+    "0.25 tsp ground pepper",
+    "15 g red bell pepper",
+    "175 g ribeye steak",
+    "30 g onion",
+    "40 g tomatoes",
+    "80 g eggplant, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash all vegetables under cold running water. Cut the eggplant into thin rounds (about 0.5 cm thick). Slice the tomatoes into rounds of similar thickness. Cut the onion into thin half-moon slices. Shred the cabbage into thin strips. Cut the red bell pepper into thin strips.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Take the ribeye steak and pat it dry with paper towels. Sprinkle salt and ground pepper evenly on both sides of the steak, gently pressing the seasonings into the meat.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a large frying pan or grill pan over medium-high heat (without oil). When the pan is hot, place the steak in the pan. For medium-rare, cook for about 4 minutes on the first side without moving it.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Flip the steak using tongs or a spatula and cook for another 3-4 minutes on the second side. The steak is ready when it feels slightly firm to the touch or has an internal temperature of 63°C (145°F) for medium-rare. Remove the steak from the pan and let it rest on a plate for 3 minutes. This allows the juices to redistribute throughout the meat.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Using the same pan with the steak juices, reduce the heat to medium. Add all the sliced vegetables (eggplant, tomatoes, onion, cabbage, and bell pepper) to the pan. Cook for 5-7 minutes, stirring occasionally with a wooden spoon or spatula, until the vegetables are soft but not mushy.",
+      "time": "PT7M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "After the steak has rested, slice it thinly against the grain (perpendicular to the lines in the meat). This makes the steak more tender to eat.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the sliced steak on a serving plate and top with the sautéed vegetables. Serve hot.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/GlutenFreeDiet"
+  ]
+}

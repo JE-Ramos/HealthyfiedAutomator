@@ -1,0 +1,91 @@
+{
+  "post_id": "65d49685977bcd0001feea02",
+  "title": "Three Cheesetuna Steak",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Three CheeseTuna Steak",
+    "recipeYield": "5",
+    "recipeIngredient": [
+      "1 tsp(s), Virgin Coconut Oil",
+      "1 tsp, ground, Spices, pepper, black",
+      "3 tbsp, Fresh Squeezed Lemon Juice",
+      "25 gram, Mozzarella Cheese",
+      "25 gram, Tillamook",
+      "25 gram, Cheese - Parmesan, hard",
+      "400 gram, Sashimi Tuna"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "180",
+      "carbohydrateContent": "1",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "176",
+      "proteinContent": "24",
+      "fatContent": "5",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your grill or pan on medium-high heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grate the mozzarella, Tillamook, and parmesan cheese. Set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the sashimi tuna generously with ground black pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Coat both sides of the tuna steak with virgin coconut oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the tuna steak on the grill or pan. Cook for 3 minutes on each side for medium-rare, or adjust the time depending on your preferred level of doneness.",
+        "time": "PT6M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the last minute of cooking, evenly sprinkle the grated cheeses over the tuna steak, allowing them to melt.",
+        "time": "PT1M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the tuna steak from the heat and let it rest for a couple of minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle fresh squeezed lemon juice over the top before serving."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This delightful Three Cheese Tuna Steak recipe is a perfect blend of high-protein and low-carb ingredients, designed for those looking to enjoy a healthy yet flavorful meal. With a mix of mozzarella, Tillamook, and parmesan cheese, complemented by the rich taste of sashimi tuna and seasoned with fresh lemon juice and black pepper, this dish is a testament to healthy eating without compromising on taste.",
+    "prepTime": "PT10M",
+    "cookTime": "PT7M",
+    "totalTime": "PT17M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

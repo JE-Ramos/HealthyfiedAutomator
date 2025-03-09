@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Sweet Style Carrot Spaghetti",
+  "image": [
+    "https://healthyfied.me/images/recipes/sweet-style-carrot-spaghetti.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Sweet Style Carrot Spaghetti recipe is an excellent choice for those looking for a high-protein, high-fiber, and healthified meal option. It creatively incorporates spiralized carrot noodles, offering a fun twist on traditional pasta while also boosting your daily vegetable intake. Perfect for fitness enthusiasts or anyone seeking a healthier alternative to conventional spaghetti dishes.",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "358",
+    "carbohydrateContent": "29",
+    "fiberContent": "6",
+    "sugarContent": "18",
+    "sodiumContent": "427",
+    "proteinContent": "28",
+    "fatContent": "14",
+    "saturatedFatContent": "6",
+    "monounsaturatedFatContent": "1",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 1,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.75  cup Chopped Red Onion",
+    "1  cup Spiralized Carrot Noodles",
+    "100 g beef",
+    "2  tablespoon Cheese - Parmesan, grated",
+    "2  tbsp(s) Tomato & Basil Pasta Sauce"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Begin by spiralizing 1 cup of carrots into noodles. Set aside.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice 0.75 cup of red onion.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan over medium heat, cook 100 grams of beef until browned, approximately 10 minutes.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the diced red onion to the beef, and sauté until the onion is translucent, about 5 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix in 2 tablespoons of tomato & basil pasta sauce with the beef and onion, stir well, and let it simmer for 5 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the beef mixture with the spiralized carrot noodles. Toss everything together until the noodles are evenly coated.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the carrot spaghetti topped with 2 tablespoons of grated Parmesan cheese.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

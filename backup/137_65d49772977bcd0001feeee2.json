@@ -1,0 +1,75 @@
+{
+  "post_id": "65d49772977bcd0001feeee2",
+  "title": "Health102 Fruit Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Health102 Fruit Salad",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 medium apple, Apples",
+      "150 g, Water Melon (S)",
+      "1 serving, Bananas, raw",
+      "150 g, Melons, cantaloupe, raw",
+      "1 cup shredded, Lettuce, green leaf, raw",
+      "1 tsp, Cinnamon Powder",
+      "150 gr, ***honey Dew Melon***"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "423",
+      "carbohydrateContent": "113",
+      "fiberContent": "28",
+      "sugarContent": "65",
+      "sodiumContent": "69",
+      "proteinContent": "5",
+      "fatContent": "1",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your fruits: Core and dice the apple, cube the watermelon, slice the banana, cube the cantaloupe, and cube the honeydew melon."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the diced apple, cubed watermelon, sliced banana, cubed cantaloupe, and cubed honeydew melon."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash and shred the green leaf lettuce, then add it to the bowl with the fruits."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the cinnamon powder over the fruits and lettuce, and gently toss the salad to ensure an even coating of cinnamon."
+      }
+    ],
+    "tags": [
+      "low-sodium",
+      "high-sugar",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a refreshing and guilt-free Health102 Fruit Salad, perfect for those following a healthy lifestyle. Packed with high-fiber fruits like apple, watermelon, banana, cantaloupe, and honeydew melon, this salad is a delightful mix of sweet and crunchy textures. Sprinkled with cinnamon for an aromatic kick and nestled on a bed of green leaf lettuce, this low-sodium, healthified recipe is an excellent choice for anyone looking to enjoy a nutritious and delicious treat.",
+    "prepTime": "PT20M",
+    "cookTime": "PT0M",
+    "totalTime": "PT20M",
+    "keywords": "low-sodium,high-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

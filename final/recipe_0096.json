@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Rice Alt - Buttered Carrot and Beans",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-rice-alt---buttered-carrot-and-beans.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This 'Healthyfied Rice Alt - Buttered Carrot and Beans' recipe is a perfect example of a delicious low-carb, low-sodium, and low-sugar dish that does not compromise on taste. Designed for those seeking a healthy alternative without sacrificing flavor, it's a must-try for everyone looking to add more healthful recipes to their diet.",
+  "prepTime": "PT10M",
+  "cookTime": "PT17M",
+  "totalTime": "PT27M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "54",
+    "carbohydrateContent": "5",
+    "fiberContent": "1",
+    "sugarContent": "2",
+    "sodiumContent": "31",
+    "proteinContent": "1",
+    "fatContent": "4",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "1",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 1,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup Blanched Green Beans",
+    "1  tbsp(s) Butter - Unsalted",
+    "120 g Carrots, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the ingredients: Cut the carrots into small pieces and blanch the green beans.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan over medium heat, melt the butter.",
+      "time": "PT5M",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the carrots to the pan and cook until they start to soften.",
+      "time": "PT7M",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the blanched green beans to the pan with the carrots and cook for another 5 minutes until everything is heated through and slightly golden.",
+      "time": "PT5M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the buttered carrots and beans hot as a delightful side dish or a light main course.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

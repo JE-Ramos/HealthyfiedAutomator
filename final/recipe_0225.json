@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken Squash Spinach Tinola Soup",
+  "image": [
+    "https://healthyfied.me/images/recipes/chicken-squash-spinach-tinola-soup.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Chicken Squash Spinach Tinola Soup is a perfect blend of high-protein and low-carb ingredients, ideal for anyone looking to enjoy a healthy, delicious meal with minimal sugar. Whether you're seeking a nourishing soup to warm you up or a healthy recipe to add to your collection, this Tinola variation is sure to delight.",
+  "prepTime": "PT15M",
+  "cookTime": "PT45M",
+  "totalTime": "PT60M",
+  "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "2",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "212",
+    "carbohydrateContent": "9",
+    "fiberContent": "1",
+    "sugarContent": "2",
+    "sodiumContent": "176",
+    "proteinContent": "31",
+    "fatContent": "6",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp(s) Salt",
+    "0.25  tsp ground, Pepper",
+    "1  cup (1\" cubes), Pumpkin, raw",
+    "10 g Ginger (Raw)",
+    "15 g Garlic, raw",
+    "2  cup Spinach - Raw",
+    "30 g Red Onion",
+    "300 g chicken"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare ingredients: slice the chicken into bite-sized pieces, mince the garlic, chop the red onion, cut the pumpkin into 1\" cubes, and finely slice the ginger.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot over medium heat, sauté garlic, onion, and ginger until aromatic, about 3-5 minutes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chicken to the pot and cook until it turns white, approximately 5 minutes.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour in enough water to cover the chicken. Bring to a boil, then reduce heat and simmer for 20 minutes to create a flavorful broth.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the pumpkin cubes to the pot and simmer until tender, about 15 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the soup with salt and pepper to taste.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the spinach and simmer for an additional 2 minutes until the spinach is wilted.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve hot and enjoy your healthy and satisfying Chicken Squash Spinach Tinola Soup.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Roast Turkey Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/roast-turkey-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Roast Turkey Salad is the perfect combination for anyone looking for a healthy, low-carb, and low-sugar meal. Full of freshness and flavor, it brings together the best of healthified recipes to create a dish that's not only delicious but also good for you.",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "51",
+    "carbohydrateContent": "3",
+    "fiberContent": "1",
+    "sugarContent": "2",
+    "sodiumContent": "163",
+    "proteinContent": "7",
+    "fatContent": "1",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup chopped, Carrots, raw",
+    "1  cup chopped, Cabbage, raw",
+    "100 g Roasted Turkey Breast",
+    "5 g Cucumber",
+    "5 g Onion"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare your vegetables: chop the cabbage, dice the onion, slice the cucumber, and chop the carrots.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, combine the chopped cabbage, diced onion, sliced cucumber, and chopped carrots.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the roasted turkey breast into bite-sized pieces and add to the bowl with the vegetables.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss all the ingredients together until well mixed. If desired, add your favorite low-carb dressing to enhance the flavor.",
+      "name": "Step 4"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

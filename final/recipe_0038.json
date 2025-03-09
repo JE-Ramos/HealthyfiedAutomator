@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Garlic Egg Drop Bacon Soup",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-garlic-egg-drop-bacon-soup.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a delicious bowl of Healthyfied Garlic Egg Drop Bacon Soup, a perfect blend of health and flavor. Tailored for those following a low-carb diet, this recipe combines the richness of bacon with the wholesome goodness of vegetables and a garlicky broth. It's not just a soup; it's a hearty meal that celebrates healthy eating without compromising taste.",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "keywords": "low-carb,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Boiling",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256",
+    "carbohydrateContent": "15",
+    "fiberContent": "3",
+    "sugarContent": "6",
+    "sodiumContent": "265",
+    "proteinContent": "18",
+    "fatContent": "14",
+    "saturatedFatContent": "4",
+    "monounsaturatedFatContent": "6",
+    "polyunsaturatedFatContent": "3",
+    "unsaturatedFatContent": 9,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  cup chopped , Green cabbage",
+    "0.50 medium Red onion",
+    "1  cup strips or slices, Carrots",
+    "1 large Egg",
+    "1 large Red bell pepper",
+    "1  tsp Granulated Garlic",
+    "14 clove Garlic",
+    "250 g Bacon honey cured",
+    "6  cup (8 fl oz), Water"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare your vegetables: Slice the carrots, chop the red bell pepper and green cabbage, mince the garlic, and finely chop the red onion.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot, bring 6 cups of water to a boil.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sliced carrots, chopped red bell pepper, and chopped green cabbage to the boiling water. Cook for about 5 minutes or until the vegetables are tender.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the vegetables are cooking, cut the bacon into small pieces.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a separate pan, cook the bacon pieces over medium heat until crispy, about 5-7 minutes. Remove and set aside.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the same pan used for bacon, sauté the minced garlic and chopped red onion until fragrant, about 2 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sautéed garlic and onion along with the crispy bacon to the pot of boiling vegetables.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the granulated garlic, then crack the egg into the soup. Gently stir the soup to create egg ribbons. Cook for an additional 3 minutes.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the pot from heat. Allow the soup to sit for a couple of minutes before serving to enhance the flavors.",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

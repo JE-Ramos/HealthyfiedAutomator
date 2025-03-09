@@ -1,0 +1,115 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Pesto Pasta Oolong Tea with Meatballs",
+  "image": [
+    "https://healthyfied.me/images/recipes/pesto-pasta-oolong-tea-with-meatballs.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a savory fusion of flavors with our Pesto Pasta Oolong Tea with Meatballs recipe. Perfect for those who love to enjoy high-protein, high-sodium, and high-fiber dishes without compromising on taste. This healthified recipe brings together the richness of fresh herbs, lean meat, and vibrant vegetables in a dish that's both nourishing and indulgently satisfying.",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "557",
+    "carbohydrateContent": "38",
+    "fiberContent": "5",
+    "sugarContent": "6",
+    "sodiumContent": "692",
+    "proteinContent": "30",
+    "fatContent": "36",
+    "saturatedFatContent": "8",
+    "monounsaturatedFatContent": "18",
+    "polyunsaturatedFatContent": "3",
+    "unsaturatedFatContent": 21,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  teaspoon Salt",
+    "0.25  tsp ground, Pepper",
+    "0.33  cup(s) Extra Virgin Olive Oil",
+    "1  tsp(s) Rosemary, fresh",
+    "1  tsp Spices, marjoram, dried",
+    "1  tsp Thyme, fresh",
+    "100 g Soba (Buckwheat Noodles)",
+    "103 g Yellow, Raw",
+    "322 g Eggplant, raw",
+    "350 g Lean Beef Patty",
+    "48 g Capsicum Green",
+    "50 g Fresh Basil Leaves",
+    "6 g Garlic, raw",
+    "88 g Mushrooms, oyster, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 375°F (190°C).",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the yellow, raw and capsicum green; slice the mushrooms, oyster, raw; and cube the eggplant, raw.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a mixing bowl, combine the lean beef patty with salt, ground pepper, thyme, rosemary, and marjoram. Mix well.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Form small meatballs from the mixture and place them on a baking tray. Bake in the preheated oven for 15 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Boil water in a pot and cook the soba (buckwheat noodles) according to package instructions, then drain.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet, sauté the diced and sliced vegetables in extra virgin olive oil over medium heat for 10 minutes until they're soft and golden.",
+      "time": "PT10M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "For the pesto, blend fresh basil leaves and garlic in a food processor, gradually adding olive oil until the mixture is smooth.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the cooked soba noodles with the prepared pesto in a large bowl.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the roasted meatballs and sautéed vegetables to the bowl with the pesto noodles. Gently mix until well combined.",
+      "name": "Step 9"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve your Pesto Pasta Oolong Tea with Meatballs hot, garnished with a sprinkle of fresh herbs or parmesan if desired. Enjoy your healthified culinary creation!",
+      "name": "Step 10"
+    }
+  ],
+  "suitableForDiet": []
+}

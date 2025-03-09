@@ -1,0 +1,88 @@
+{
+  "post_id": "65d4963c977bcd0001fee86c",
+  "title": "Sarsiadong Kamatis",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Sarsiadong Kamatis",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 large, White onion",
+      "1 medium, Egg",
+      "1 medium, Red onion",
+      "1 pinch, Salt",
+      "1 tbsp, Organic Olive Oil",
+      "1 tsp, Ground Black Pepper",
+      "3 medium , Tomato",
+      "5 clove , Garlic"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "127",
+      "carbohydrateContent": "15",
+      "fiberContent": "3",
+      "sugarContent": "7",
+      "sodiumContent": "79",
+      "proteinContent": "4",
+      "fatContent": "7",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the 3 medium tomatoes, 1 medium red onion, 1 large white onion, and mince the 5 cloves of garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat 1 tbsp of organic olive oil in a frying pan over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sauté the minced garlic, sliced onions, and tomatoes in the pan until they start to soften, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the vegetable mixture with 1 tsp of ground black pepper and a pinch of salt. Stir well to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the medium egg into the pan and lightly scramble it with the vegetable mixture until the egg is fully cooked, about 3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the Sarsiadong Kamatis hot as a delightful and healthy side dish or main course."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Sarsiadong Kamatis is a delightful and healthy recipe perfect for anyone looking to enjoy a low-carb, low-sodium culinary experience. This dish brings together the freshness of tomatoes, onions, and garlic, all seasoned perfectly with salt and ground black pepper, and is then beautifully enriched with a whisked egg. It's an excellent choice for those seeking healthful recipes without sacrificing flavor.",
+    "prepTime": "PT10M",
+    "cookTime": "PT8M",
+    "totalTime": "PT18M",
+    "keywords": "low-carb,low-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_283_65d4963c977bcd0001fee86c.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/283_65d4963c977bcd0001fee86c.json",
+  "original_files": [
+    "283_65d4963c977bcd0001fee86c.json",
+    "280_65d4963c977bcd0001fee86c.json"
+  ]
+}

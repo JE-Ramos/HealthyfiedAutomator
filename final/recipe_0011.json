@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Cabbage Shanghai",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-cabbage-shanghai.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a wholesome and nutritious twist with our Healthyfied Cabbage Shanghai recipe. Perfect for those seeking high-protein and high-fiber meals, this dish is a savory delight that's both low in carbs and beautifully healthified. Whether you're on a quest for healthy recipes or looking to maintain a balanced diet without compromising taste, this creation promises to cater to your needs while satisfying your cravings.",
+  "prepTime": "PT20M",
+  "cookTime": "PT8M",
+  "totalTime": "PT28M",
+  "keywords": "high-protein,low-carb,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "406",
+    "carbohydrateContent": "19",
+    "fiberContent": "7",
+    "sugarContent": "9",
+    "sodiumContent": "905",
+    "proteinContent": "27",
+    "fatContent": "24",
+    "saturatedFatContent": "8",
+    "monounsaturatedFatContent": "10",
+    "polyunsaturatedFatContent": "4",
+    "unsaturatedFatContent": 14,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  teaspoon Salt",
+    "1  tsp ground (2.3 g), Black Pepper - Ground",
+    "130 g Red",
+    "2 large Egg",
+    "250 g Pork, fresh, ground, raw",
+    "296 g Eggplant, raw",
+    "30 g Carrots, raw",
+    "300 g Cabbage, raw",
+    "400 g Silken Tofu"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse and finely shred the cabbage. Cut the eggplant and carrots into thin strips. Crumble the silken tofu.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk the eggs in a large mixing bowl.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the shredded cabbage, eggplant strips, crumbled tofu, shredded carrot, ground pork, salt, and ground black pepper to the bowl with the whisked eggs. Mix well.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat a skillet over medium heat. Take spoonfuls of the mixture and form them into small rolls. Cook in batches, turning occasionally, until golden brown and the pork is fully cooked, about 8 minutes.",
+      "name": "Step 4"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "post_id": "65d495b8977bcd0001fee58a",
+  "title": "Adobong Sitaw",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Adobong Sitaw",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "150 g, Raw Sitaw",
+      "1 tablespoon, Coconut Amino",
+      "20.00 g, Red Onion"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "19",
+      "carbohydrateContent": "4",
+      "fiberContent": "2",
+      "sugarContent": "1",
+      "sodiumContent": "47",
+      "proteinContent": "1",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Raw Sitaw under cold water and trim the ends."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the Red Onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet over medium heat, saut\u00e9 the diced Red Onion until soft and translucent, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the Raw Sitaw to the skillet and cook, stirring occasionally, until it starts to soften, about 8 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in the Coconut Amino, stir well to combine, and continue to cook for another 7 minutes or until the Sitaw is fully cooked but still retains some crunch."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from heat and serve immediately. Enjoy your healthy and flavorful Adobong Sitaw!"
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Healthyfied Adobong Sitaw recipe is perfect for those following a low-carb, low-sodium, and low-sugar diet. Enjoy a healthier twist on the traditional Filipino dish, keeping the flavors you love with a nutritionally balanced approach. It is ideal for anyone looking to maintain a healthy lifestyle without compromising on taste.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

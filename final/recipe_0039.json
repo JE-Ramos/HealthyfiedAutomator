@@ -1,0 +1,112 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Carrot Spaghetti With Meatballs ",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-carrot-spaghetti-with-meatballs-.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in the perfect blend of health and taste with our Healthyfied Carrot Spaghetti with Meatballs recipe. This dish is a high-protein, low-carb, and low-sugar meal that doesn't compromise on flavor. Tailored to fit into Healthyfied and Healthy Recipes categories, it's ideal for anyone looking to enjoy classic comfort food in a nutritious way.",
+  "prepTime": "PT15M",
+  "cookTime": "PT23M",
+  "totalTime": "PT38M",
+  "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "280",
+    "carbohydrateContent": "9",
+    "fiberContent": "4",
+    "sugarContent": "4",
+    "sodiumContent": "175",
+    "proteinContent": "30",
+    "fatContent": "15",
+    "saturatedFatContent": "5",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  tsp(s) Salt",
+    "1  tsp ground, Spices, pepper, black",
+    "10 sprig Parsley, fresh",
+    "100 g Steamed Carrots",
+    "2 medium Clove (8g), Fresh",
+    "200 g Eggplant, raw",
+    "3  cup Spinach - Raw",
+    "400 g Ground Beef"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 400°F (200°C) for the meatballs.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the eggplant, mince the garlic, and finely chop the parsley.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large mixing bowl, combine ground beef, eggplant, half of the minced garlic, half of the chopped parsley, salt, and black pepper. Mix well.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Form the mixture into small meatballs and place them on a baking sheet lined with parchment paper.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake the meatballs for 20 minutes or until they're cooked through.",
+      "time": "PT20M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While meatballs are baking, use a spiralizer or vegetable peeler to create carrot spaghetti from the steamed carrots.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Steam the spinach until wilted, about 2-3 minutes. Set aside.",
+      "time": "PT3M",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan, sauté the remaining garlic in a little bit of oil over medium heat until fragrant, about 1 minute.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the carrot spaghetti to the pan, tossing it with the garlic for about 2-3 minutes just to warm through.",
+      "name": "Step 9"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the carrot spaghetti topped with meatballs, steamed spinach, and a sprinkle of the remaining parsley.",
+      "name": "Step 10"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

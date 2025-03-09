@@ -1,0 +1,96 @@
+{
+  "post_id": "65d497a4977bcd0001feefa9",
+  "title": "Healthyfied Pinoy Style Meal",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied  Pinoy Style Meal",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "2 tbsp(s), Coconut Amino",
+      "420 gram, Boneless Milkfish (Bangus)",
+      "300 g, Eggplant, raw",
+      "218 gram, Young Corn - Cut",
+      "150 grams, Tomatoes",
+      "40.00 g, Red Onion",
+      "15 gram(s), Butter - Unsalted",
+      "3 large, Egg",
+      "1 tsp, Thyme, fresh",
+      "0.25 tsp, ground, Pepper",
+      "2 tbsp., Extra Virgin Olive Oil",
+      "1 tsp(s), Spices, garlic powder",
+      "190.00 gram, Fresh String Beans"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "512",
+      "carbohydrateContent": "22",
+      "fiberContent": "8",
+      "sugarContent": "11",
+      "sodiumContent": "944",
+      "proteinContent": "37",
+      "fatContent": "31",
+      "saturatedFatContent": "12",
+      "monounsaturatedFatContent": "10",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 12,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 350\u00b0F (175\u00b0C) for baking the boneless milkfish (bangus)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the milkfish with coconut amino, garlic powder, thyme, and ground pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the eggplant, tomatoes, and red onion. Cut the young corn into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a baking dish, arrange the seasoned milkfish and surround it with the sliced eggplant, tomatoes, young corn, and red onion. Drizzle with extra virgin olive oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake the assembled dish in the preheated oven for 25 minutes, or until the milkfish is cooked through.",
+        "time": "PT25M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the fish is baking, trim and prepare the fresh string beans."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet, melt the butter over medium heat and saut\u00e9 the string beans until tender, about 8 minutes.",
+        "time": "PT8M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat the eggs and season with a pinch of salt and pepper. In the same skillet, cook the beaten eggs until fully set to make scrambled eggs.",
+        "time": "PT5M"
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [],
+    "description": "Dive into a Healthyfied Pinoy Style Meal, intricately prepared to cater to those focusing on a high-protein, high-sodium, and high-fiber diet. This dish, rooted in the rich culinary traditions of the Philippines, combines the unique flavors of coconut amino, boneless milkfish (bangus), eggplant, young corn, tomatoes, red onions, and a selection of spices, promising a delicious venture into healthy eating.",
+    "prepTime": "PT15M",
+    "cookTime": "PT38M",
+    "totalTime": "PT53M",
+    "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,1407 @@
+Recipe Publication Log - Started at 2025-03-09 19:25:33
+Publishing 351 recipes
+
+[1/351] Processing recipe_0001.json - Publication date: 2025-03-09
+  Success: Created post 'Easy Baked Filipino Milkfish with Fresh Vegetables' (ID: 67cd7aafedc03100015749be)
+  URL: https://healthyfied.me/easy-baked-filipino-milkfish-with-fresh-vegetables/
+
+[2/351] Processing recipe_0002.json - Publication date: 2025-03-10
+  Success: Created post 'Homemade Salmon Vegetable Pancake with Mozzarella' (ID: 67cd7ab2edc03100015749c6)
+  URL: https://healthyfied.me/homemade-salmon-vegetable-pancake-with-mozzarella/
+
+[3/351] Processing recipe_0003.json - Publication date: 2025-03-11
+  Success: Created post 'Quick Beef Patty and Tuna Wrap with Colorful Vegetables' (ID: 67cd7ab5edc03100015749d1)
+  URL: https://healthyfied.me/quick-beef-patty-and-tuna-wrap-with-colorful-vegetables/
+
+[4/351] Processing recipe_0004.json - Publication date: 2025-03-12
+  Success: Created post 'Best Filipino Style Ribeye Steak with Sautéed Vegetables' (ID: 67cd7ab8edc03100015749db)
+  URL: https://healthyfied.me/best-filipino-style-ribeye-steak-with-sauteed-vegetables/
+
+[5/351] Processing recipe_0005.json - Publication date: 2025-03-13
+  Success: Created post 'Easy Korean-Inspired Japchae with Shirataki Noodles and Beef' (ID: 67cd7abbedc03100015749e4)
+  URL: https://healthyfied.me/easy-korean-inspired-japchae-with-shirataki-noodles-and-beef/
+
+[6/351] Processing recipe_0006.json - Publication date: 2025-03-14
+  Success: Created post 'Spicy Kimchi Beef Rice with Adlai Grains and Vegetables' (ID: 67cd7abfedc03100015749ef)
+  URL: https://healthyfied.me/spicy-kimchi-beef-rice-with-adlai-grains-and-vegetables/
+
+[7/351] Processing recipe_0007.json - Publication date: 2025-03-15
+  Success: Created post 'Low-Carb Ice Cream Sandwich with Keto Bread (High Protein)' (ID: 67cd7ac2edc03100015749f9)
+  URL: https://healthyfied.me/low-carb-ice-cream-sandwich-with-keto-bread-high-protein/
+
+[8/351] Processing recipe_0008.json - Publication date: 2025-03-16
+  Success: Created post 'Dory-ALog' (ID: 67cd7ac4edc0310001574a03)
+  URL: https://healthyfied.me/dory-alog/
+
+[9/351] Processing recipe_0009.json - Publication date: 2025-03-17
+  Success: Created post 'Healthyfied Broccoli Mango Salad' (ID: 67cd7ac7edc0310001574a0b)
+  URL: https://healthyfied.me/healthyfied-broccoli-mango-salad/
+
+[10/351] Processing recipe_0010.json - Publication date: 2025-03-18
+  Success: Created post 'Healthyfied Steamed Boneless Bangus' (ID: 67cd7acaedc0310001574a13)
+  URL: https://healthyfied.me/healthyfied-steamed-boneless-bangus/
+
+[11/351] Processing recipe_0011.json - Publication date: 2025-03-19
+  Success: Created post 'Healthyfied Cabbage Shanghai' (ID: 67cd7accedc0310001574a1c)
+  URL: https://healthyfied.me/healthyfied-cabbage-shanghai/
+
+[12/351] Processing recipe_0012.json - Publication date: 2025-03-20
+  Success: Created post 'healthyfied chorizo sandwich' (ID: 67cd7acfedc0310001574a24)
+  URL: https://healthyfied.me/healthyfied-chorizo-sandwich/
+
+[13/351] Processing recipe_0013.json - Publication date: 2025-03-21
+  Success: Created post 'Healthyfied Naked Burrito' (ID: 67cd7ad1edc0310001574a2d)
+  URL: https://healthyfied.me/healthyfied-naked-burrito/
+
+[14/351] Processing recipe_0014.json - Publication date: 2025-03-22
+  Success: Created post 'Healthyfied Tinola Manok' (ID: 67cd7ad4edc0310001574a35)
+  URL: https://healthyfied.me/healthyfied-tinola-manok/
+
+[15/351] Processing recipe_0015.json - Publication date: 2025-03-23
+  Success: Created post 'Adlai Arrozcaldo' (ID: 67cd7ad8edc0310001574a3d)
+  URL: https://healthyfied.me/adlai-arrozcaldo/
+
+[16/351] Processing recipe_0016.json - Publication date: 2025-03-24
+  Success: Created post 'PrepMeal Ham Cabbage Bowl' (ID: 67cd7adaedc0310001574a46)
+  URL: https://healthyfied.me/prepmeal-ham-cabbage-bowl/
+
+[17/351] Processing recipe_0017.json - Publication date: 2025-03-25
+  Success: Created post 'Healthyfied Chicken Sandwich Filling' (ID: 67cd7adcedc0310001574a4e)
+  URL: https://healthyfied.me/healthyfied-chicken-sandwich-filling/
+
+[18/351] Processing recipe_0018.json - Publication date: 2025-03-26
+  Success: Created post 'Healthyfied Vegetable Platter' (ID: 67cd7adfedc0310001574a58)
+  URL: https://healthyfied.me/healthyfied-vegetable-platter/
+
+[19/351] Processing recipe_0019.json - Publication date: 2025-03-27
+  Success: Created post 'Hawaiian  Seafood Red Salad' (ID: 67cd7ae2edc0310001574a60)
+  URL: https://healthyfied.me/hawaiian-seafood-red-salad/
+
+[20/351] Processing recipe_0020.json - Publication date: 2025-03-28
+  Success: Created post 'Healthyfied Wagyupsal' (ID: 67cd7ae4edc0310001574a69)
+  URL: https://healthyfied.me/healthyfied-wagyupsal/
+
+[21/351] Processing recipe_0021.json - Publication date: 2025-03-29
+  Success: Created post 'Healthyfied Ginataang Kalabasa' (ID: 67cd7ae7edc0310001574a71)
+  URL: https://healthyfied.me/healthyfied-ginataang-kalabasa/
+
+[22/351] Processing recipe_0022.json - Publication date: 2025-03-30
+  Success: Created post 'Healthyfied Beef Bellpepper Bolognaise' (ID: 67cd7aeaedc0310001574a79)
+  URL: https://healthyfied.me/healthyfied-beef-bellpepper-bolognaise/
+
+[23/351] Processing recipe_0023.json - Publication date: 2025-03-31
+  Success: Created post 'Bacon ALog' (ID: 67cd7aecedc0310001574a81)
+  URL: https://healthyfied.me/bacon-alog/
+
+[24/351] Processing recipe_0024.json - Publication date: 2025-04-01
+  Success: Created post 'Healthyfied Mango Veggie wrap' (ID: 67cd7aefedc0310001574a89)
+  URL: https://healthyfied.me/healthyfied-mango-veggie-wrap/
+
+[25/351] Processing recipe_0025.json - Publication date: 2025-04-02
+  Success: Created post 'Healthyfied English Breakfast' (ID: 67cd7af1edc0310001574a91)
+  URL: https://healthyfied.me/healthyfied-english-breakfast/
+
+[26/351] Processing recipe_0026.json - Publication date: 2025-04-03
+  Success: Created post 'Healthyfied Tofu Sisig' (ID: 67cd7af4edc0310001574a99)
+  URL: https://healthyfied.me/healthyfied-tofu-sisig/
+
+[27/351] Processing recipe_0027.json - Publication date: 2025-04-04
+  Success: Created post 'Healthyfied Tuna Tomato Bowl' (ID: 67cd7af6edc0310001574aa1)
+  URL: https://healthyfied.me/healthyfied-tuna-tomato-bowl/
+
+[28/351] Processing recipe_0028.json - Publication date: 2025-04-05
+  Success: Created post 'Healthyfied Cajun Chicken' (ID: 67cd7af9edc0310001574aa9)
+  URL: https://healthyfied.me/healthyfied-cajun-chicken/
+
+[29/351] Processing recipe_0029.json - Publication date: 2025-04-06
+  Success: Created post 'Squid Ink ALog' (ID: 67cd7afcedc0310001574ab1)
+  URL: https://healthyfied.me/squid-ink-alog/
+
+[30/351] Processing recipe_0030.json - Publication date: 2025-04-07
+  Success: Created post 'Healthyfied Pork and Mushrooms' (ID: 67cd7afeedc0310001574aba)
+  URL: https://healthyfied.me/healthyfied-pork-and-mushrooms/
+
+[31/351] Processing recipe_0031.json - Publication date: 2025-04-08
+  Success: Created post 'Healthyfied Potato Vegetable Salad' (ID: 67cd7b01edc0310001574ac2)
+  URL: https://healthyfied.me/healthyfied-potato-vegetable-salad/
+
+[32/351] Processing recipe_0032.json - Publication date: 2025-04-09
+  Success: Created post 'Healthyfied omurice' (ID: 67cd7b03edc0310001574aca)
+  URL: https://healthyfied.me/healthyfied-omurice/
+
+[33/351] Processing recipe_0033.json - Publication date: 2025-04-10
+  Success: Created post 'Healthyfied Beef Tendon Kaldereta' (ID: 67cd7b06edc0310001574ad2)
+  URL: https://healthyfied.me/healthyfied-beef-tendon-kaldereta/
+
+[34/351] Processing recipe_0034.json - Publication date: 2025-04-11
+  Success: Created post 'Healthyfied Wagyu Cabbage Sopas' (ID: 67cd7b09edc0310001574adb)
+  URL: https://healthyfied.me/healthyfied-wagyu-cabbage-sopas/
+
+[35/351] Processing recipe_0035.json - Publication date: 2025-04-12
+  Success: Created post 'Healthyfied Chicken Chopseuy' (ID: 67cd7b0bedc0310001574ae3)
+  URL: https://healthyfied.me/healthyfied-chicken-chopseuy/
+
+[36/351] Processing recipe_0036.json - Publication date: 2025-04-13
+  Success: Created post 'Healthyfied Basmati Paella Negra' (ID: 67cd7b0eedc0310001574aeb)
+  URL: https://healthyfied.me/healthyfied-basmati-paella-negra/
+
+[37/351] Processing recipe_0037.json - Publication date: 2025-04-14
+  Success: Created post 'Healthyfied Ground Beef Caldereta' (ID: 67cd7b10edc0310001574af3)
+  URL: https://healthyfied.me/healthyfied-ground-beef-caldereta/
+
+[38/351] Processing recipe_0038.json - Publication date: 2025-04-15
+  Success: Created post 'Healthyfied Garlic Egg Drop Bacon Soup' (ID: 67cd7b13edc0310001574afb)
+  URL: https://healthyfied.me/healthyfied-garlic-egg-drop-bacon-soup/
+
+[39/351] Processing recipe_0039.json - Publication date: 2025-04-16
+  Success: Created post 'Healthyfied Carrot Spaghetti With Meatballs' (ID: 67cd7b16edc0310001574b03)
+  URL: https://healthyfied.me/healthyfied-carrot-spaghetti-with-meatballs/
+
+[40/351] Processing recipe_0040.json - Publication date: 2025-04-17
+  Success: Created post 'Healthyfied Tuna In Citrus Soy Sauce' (ID: 67cd7b18edc0310001574b0b)
+  URL: https://healthyfied.me/healthyfied-tuna-in-citrus-soy-sauce/
+
+[41/351] Processing recipe_0041.json - Publication date: 2025-04-18
+  Success: Created post 'Healthyfied Eggplant Lasagna' (ID: 67cd7b1bedc0310001574b13)
+  URL: https://healthyfied.me/healthyfied-eggplant-lasagna/
+
+[42/351] Processing recipe_0042.json - Publication date: 2025-04-19
+  Success: Created post 'Healthyfied Binakol' (ID: 67cd7b1eedc0310001574b1b)
+  URL: https://healthyfied.me/healthyfied-binakol/
+
+[43/351] Processing recipe_0043.json - Publication date: 2025-04-20
+  Success: Created post 'Healthyfied Instant Salad' (ID: 67cd7b20edc0310001574b23)
+  URL: https://healthyfied.me/healthyfied-instant-salad/
+
+[44/351] Processing recipe_0044.json - Publication date: 2025-04-21
+  Success: Created post 'Healthyfied Red Cabbage Tamarind Salad' (ID: 67cd7b24edc0310001574b2b)
+  URL: https://healthyfied.me/healthyfied-red-cabbage-tamarind-salad/
+
+[45/351] Processing recipe_0045.json - Publication date: 2025-04-22
+  Success: Created post 'Healthyfied Pepper Chicken With Vegetables' (ID: 67cd7b26edc0310001574b34)
+  URL: https://healthyfied.me/healthyfied-pepper-chicken-with-vegetables/
+
+[46/351] Processing recipe_0046.json - Publication date: 2025-04-23
+  Success: Created post 'Healthyfied Tuna In Citrus Soy Sauce' (ID: 67cd7b29edc0310001574b3c)
+  URL: https://healthyfied.me/healthyfied-tuna-in-citrus-soy-sauce-2/
+
+[47/351] Processing recipe_0047.json - Publication date: 2025-04-24
+  Success: Created post 'Healthyfied Steamed Egg In Pork' (ID: 67cd7b2bedc0310001574b44)
+  URL: https://healthyfied.me/healthyfied-steamed-egg-in-pork/
+
+[48/351] Processing recipe_0048.json - Publication date: 2025-04-25
+  Success: Created post 'Healthyfied Almond Vanilla Protein Shake' (ID: 67cd7b2eedc0310001574b4c)
+  URL: https://healthyfied.me/healthyfied-almond-vanilla-protein-shake/
+
+[49/351] Processing recipe_0049.json - Publication date: 2025-04-26
+  Success: Created post 'Healthyfied Fresh Mushroomsoup' (ID: 67cd7b31edc0310001574b55)
+  URL: https://healthyfied.me/healthyfied-fresh-mushroomsoup/
+
+[50/351] Processing recipe_0050.json - Publication date: 2025-04-27
+  Success: Created post 'Healthyfied Chicken Curry' (ID: 67cd7b34edc0310001574b5e)
+  URL: https://healthyfied.me/healthyfied-chicken-curry/
+
+[51/351] Processing recipe_0051.json - Publication date: 2025-04-28
+  Success: Created post 'Healthyfied Mexican Ground Beef' (ID: 67cd7b37edc0310001574b66)
+  URL: https://healthyfied.me/healthyfied-mexican-ground-beef/
+
+[52/351] Processing recipe_0052.json - Publication date: 2025-04-29
+  Success: Created post 'Healthyfied Cajun Shrimp' (ID: 67cd7b39edc0310001574b6e)
+  URL: https://healthyfied.me/healthyfied-cajun-shrimp/
+
+[53/351] Processing recipe_0053.json - Publication date: 2025-04-30
+  Success: Created post 'Sky-High Fiber Honey Toast' (ID: 67cd7b3cedc0310001574b76)
+  URL: https://healthyfied.me/sky-high-fiber-honey-toast/
+
+[54/351] Processing recipe_0054.json - Publication date: 2025-05-01
+  Success: Created post 'AvoCoMangoBan Smoothie' (ID: 67cd7b3fedc0310001574b7e)
+  URL: https://healthyfied.me/avocomangoban-smoothie/
+
+[55/351] Processing recipe_0055.json - Publication date: 2025-05-02
+  Success: Created post 'Salad Dressing - Garlic Mayo (500 ML)' (ID: 67cd7b41edc0310001574b87)
+  URL: https://healthyfied.me/salad-dressing-garlic-mayo-500-ml/
+
+[56/351] Processing recipe_0056.json - Publication date: 2025-05-03
+  Success: Created post 'Meal 2020-11-15' (ID: 67cd7b44edc0310001574b8e)
+  URL: https://healthyfied.me/meal-2020-11-15/
+
+[57/351] Processing recipe_0057.json - Publication date: 2025-05-04
+  Success: Created post 'Healthyfied Bolognese Sauce' (ID: 67cd7b47edc0310001574b96)
+  URL: https://healthyfied.me/healthyfied-bolognese-sauce/
+
+[58/351] Processing recipe_0058.json - Publication date: 2025-05-05
+  Success: Created post 'Healthyfied Taragon Buttered Tuna' (ID: 67cd7b4aedc0310001574b9e)
+  URL: https://healthyfied.me/healthyfied-taragon-buttered-tuna/
+
+[59/351] Processing recipe_0059.json - Publication date: 2025-05-06
+  Success: Created post 'Healthyfied Kimchi Bone Marrow Ramen' (ID: 67cd7b4dedc0310001574ba7)
+  URL: https://healthyfied.me/healthyfied-kimchi-bone-marrow-ramen/
+
+[60/351] Processing recipe_0060.json - Publication date: 2025-05-07
+  Success: Created post 'Sky-High Fibre Creamy Toast - Plain' (ID: 67cd7b4fedc0310001574baf)
+  URL: https://healthyfied.me/sky-high-fibre-creamy-toast-plain/
+
+[61/351] Processing recipe_0061.json - Publication date: 2025-05-08
+  Success: Created post 'Three CheeseTuna Steak' (ID: 67cd7b52edc0310001574bb7)
+  URL: https://healthyfied.me/three-cheesetuna-steak/
+
+[62/351] Processing recipe_0062.json - Publication date: 2025-05-09
+  Success: Created post 'Healthyfied Beef Yakiniku' (ID: 67cd7b55edc0310001574bbf)
+  URL: https://healthyfied.me/healthyfied-beef-yakiniku/
+
+[63/351] Processing recipe_0063.json - Publication date: 2025-05-10
+  Success: Created post 'Healthyfied Pork Nilaga' (ID: 67cd7b57edc0310001574bc8)
+  URL: https://healthyfied.me/healthyfied-pork-nilaga/
+
+[64/351] Processing recipe_0064.json - Publication date: 2025-05-11
+  Success: Created post '2018/11/06 Healthyfied Caulirice' (ID: 67cd7b5aedc0310001574bd0)
+  URL: https://healthyfied.me/2018-11-06-healthyfied-caulirice/
+
+[65/351] Processing recipe_0065.json - Publication date: 2025-05-12
+  Success: Created post 'Seafood City - Sauteed Scallops with Veggies' (ID: 67cd7b5dedc0310001574bd8)
+  URL: https://healthyfied.me/seafood-city-sauteed-scallops-with-veggies/
+
+[66/351] Processing recipe_0066.json - Publication date: 2025-05-13
+  Success: Created post 'Healthyfied Mashed Unripe Plantain' (ID: 67cd7b60edc0310001574be1)
+  URL: https://healthyfied.me/healthyfied-mashed-unripe-plantain/
+
+[67/351] Processing recipe_0067.json - Publication date: 2025-05-14
+  Success: Created post 'Healthyfied Buttered Garlic Clam' (ID: 67cd7b63edc0310001574beb)
+  URL: https://healthyfied.me/healthyfied-buttered-garlic-clam/
+
+[68/351] Processing recipe_0068.json - Publication date: 2025-05-15
+  Success: Created post 'Sky-High Fibre Toast - Banana' (ID: 67cd7b65edc0310001574bf4)
+  URL: https://healthyfied.me/sky-high-fibre-toast-banana/
+
+[69/351] Processing recipe_0069.json - Publication date: 2025-05-16
+  Success: Created post 'Healthyfied Salt and Pepper Pork' (ID: 67cd7b68edc0310001574bfc)
+  URL: https://healthyfied.me/healthyfied-salt-and-pepper-pork/
+
+[70/351] Processing recipe_0070.json - Publication date: 2025-05-17
+  Success: Created post 'Healthyfied Tofu Sisig with Egg' (ID: 67cd7b6aedc0310001574c05)
+  URL: https://healthyfied.me/healthyfied-tofu-sisig-with-egg/
+
+[71/351] Processing recipe_0071.json - Publication date: 2025-05-18
+  Success: Created post 'Healthyfied Cabbage Pancake' (ID: 67cd7b6dedc0310001574c0d)
+  URL: https://healthyfied.me/healthyfied-cabbage-pancake/
+
+[72/351] Processing recipe_0072.json - Publication date: 2025-05-19
+  Success: Created post 'Sautéed Cabbage and Egg - Rice Alternative' (ID: 67cd7b70edc0310001574c16)
+  URL: https://healthyfied.me/sauteed-cabbage-and-egg-rice-alternative/
+
+[73/351] Processing recipe_0073.json - Publication date: 2025-05-20
+  Success: Created post 'Healthyfied Egg Garlic Spread' (ID: 67cd7b72edc0310001574c1e)
+  URL: https://healthyfied.me/healthyfied-egg-garlic-spread/
+
+[74/351] Processing recipe_0074.json - Publication date: 2025-05-21
+  Success: Created post 'Healthyfied Dynamite' (ID: 67cd7b75edc0310001574c26)
+  URL: https://healthyfied.me/healthyfied-dynamite/
+
+[75/351] Processing recipe_0075.json - Publication date: 2025-05-22
+  Success: Created post 'Healthyfied Beef Caldereta' (ID: 67cd7b78edc0310001574c2f)
+  URL: https://healthyfied.me/healthyfied-beef-caldereta/
+
+[76/351] Processing recipe_0076.json - Publication date: 2025-05-23
+  Success: Created post 'Beautiful MessVeggies' (ID: 67cd7b7aedc0310001574c38)
+  URL: https://healthyfied.me/beautiful-messveggies/
+
+[77/351] Processing recipe_0077.json - Publication date: 2025-05-24
+  Success: Created post 'Healthyfied Bellpepper Quinoa' (ID: 67cd7b7dedc0310001574c40)
+  URL: https://healthyfied.me/healthyfied-bellpepper-quinoa/
+
+[78/351] Processing recipe_0078.json - Publication date: 2025-05-25
+  Success: Created post 'Healthyfied Shanghai Filling' (ID: 67cd7b80edc0310001574c4a)
+  URL: https://healthyfied.me/healthyfied-shanghai-filling/
+
+[79/351] Processing recipe_0079.json - Publication date: 2025-05-26
+  Success: Created post 'Healthyfied Guacamole' (ID: 67cd7b83edc0310001574c52)
+  URL: https://healthyfied.me/healthyfied-guacamole/
+
+[80/351] Processing recipe_0080.json - Publication date: 2025-05-27
+  Success: Created post 'Healthyfied Soy Free Beef Steak' (ID: 67cd7b85edc0310001574c5a)
+  URL: https://healthyfied.me/healthyfied-soy-free-beef-steak/
+
+[81/351] Processing recipe_0081.json - Publication date: 2025-05-28
+  Success: Created post 'Healthyfied Vegetable Pancake' (ID: 67cd7b88edc0310001574c63)
+  URL: https://healthyfied.me/healthyfied-vegetable-pancake/
+
+[82/351] Processing recipe_0082.json - Publication date: 2025-05-29
+  Success: Created post 'Healthyfied Soy Veggies' (ID: 67cd7b8bedc0310001574c6c)
+  URL: https://healthyfied.me/healthyfied-soy-veggies/
+
+[83/351] Processing recipe_0083.json - Publication date: 2025-05-30
+  Success: Created post 'Healthyfied Pea Hummus' (ID: 67cd7b8eedc0310001574c75)
+  URL: https://healthyfied.me/healthyfied-pea-hummus/
+
+[84/351] Processing recipe_0084.json - Publication date: 2025-05-31
+  Success: Created post 'Healthyfied Vegetable Tamarind Miso Sinigang (Sour soup)' (ID: 67cd7b91edc0310001574c7e)
+  URL: https://healthyfied.me/healthyfied-vegetable-tamarind-miso-sinigang-sour-soup/
+
+[85/351] Processing recipe_0085.json - Publication date: 2025-06-01
+  Success: Created post 'Healthyfied Flourless Takoyaki' (ID: 67cd7b93edc0310001574c88)
+  URL: https://healthyfied.me/healthyfied-flourless-takoyaki/
+
+[86/351] Processing recipe_0086.json - Publication date: 2025-06-02
+  Success: Created post 'Healthyfied Parmesan Corn' (ID: 67cd7b96edc0310001574c90)
+  URL: https://healthyfied.me/healthyfied-parmesan-corn/
+
+[87/351] Processing recipe_0087.json - Publication date: 2025-06-03
+  Success: Created post 'Healthyfied Cucumber Strawberry Yogurt Shake' (ID: 67cd7b9aedc0310001574c9a)
+  URL: https://healthyfied.me/healthyfied-cucumber-strawberry-yogurt-shake/
+
+[88/351] Processing recipe_0088.json - Publication date: 2025-06-04
+  Success: Created post 'Healthyfied Balsamic Cabbage  Slaw' (ID: 67cd7b9dedc0310001574ca4)
+  URL: https://healthyfied.me/healthyfied-balsamic-cabbage-slaw/
+
+[89/351] Processing recipe_0089.json - Publication date: 2025-06-05
+  Success: Created post 'Healthyfied Camote Ham Eff' (ID: 67cd7b9fedc0310001574cad)
+  URL: https://healthyfied.me/healthyfied-camote-ham-eff/
+
+[90/351] Processing recipe_0090.json - Publication date: 2025-06-06
+  Success: Created post 'Healthyfied No Mayo Coleslaw' (ID: 67cd7ba2edc0310001574cb6)
+  URL: https://healthyfied.me/healthyfied-no-mayo-coleslaw/
+
+[91/351] Processing recipe_0091.json - Publication date: 2025-06-07
+  Success: Created post 'Healthyfied Garlic Broccoli' (ID: 67cd7ba5edc0310001574cbf)
+  URL: https://healthyfied.me/healthyfied-garlic-broccoli/
+
+[92/351] Processing recipe_0092.json - Publication date: 2025-06-08
+  Success: Created post 'Healthyfied Buttered Cabbage' (ID: 67cd7ba8edc0310001574cc7)
+  URL: https://healthyfied.me/healthyfied-buttered-cabbage/
+
+[93/351] Processing recipe_0093.json - Publication date: 2025-06-09
+  Success: Created post 'Healthyfied Radish Ensalada' (ID: 67cd7babedc0310001574cd0)
+  URL: https://healthyfied.me/healthyfied-radish-ensalada/
+
+[94/351] Processing recipe_0094.json - Publication date: 2025-06-10
+  Success: Created post 'Healthyfied Wagyu Kebab Sticks' (ID: 67cd7baeedc0310001574cd9)
+  URL: https://healthyfied.me/healthyfied-wagyu-kebab-sticks/
+
+[95/351] Processing recipe_0095.json - Publication date: 2025-06-11
+  Success: Created post 'Leche Flan with Cream Cheese - Salu Salo Recipes' (ID: 67cd7bb1edc0310001574ce3)
+  URL: https://healthyfied.me/leche-flan-with-cream-cheese-salu-salo-recipes/
+
+[96/351] Processing recipe_0096.json - Publication date: 2025-06-12
+  Success: Created post 'Healthyfied Rice Alt - Buttered Carrot and Beans' (ID: 67cd7bb4edc0310001574ced)
+  URL: https://healthyfied.me/healthyfied-rice-alt-buttered-carrot-and-beans/
+
+[97/351] Processing recipe_0097.json - Publication date: 2025-06-13
+  Success: Created post 'Healthyfied White Christmas Salad' (ID: 67cd7bb8edc0310001574cf6)
+  URL: https://healthyfied.me/healthyfied-white-christmas-salad/
+
+[98/351] Processing recipe_0098.json - Publication date: 2025-06-14
+  Success: Created post 'Healthyfied Glazed String Bean Mushroom' (ID: 67cd7bbbedc0310001574cff)
+  URL: https://healthyfied.me/healthyfied-glazed-string-bean-mushroom/
+
+[99/351] Processing recipe_0099.json - Publication date: 2025-06-15
+  Success: Created post 'Healthyfied Chili Parmesan Mayo Dip' (ID: 67cd7bbeedc0310001574d09)
+  URL: https://healthyfied.me/healthyfied-chili-parmesan-mayo-dip/
+
+[100/351] Processing recipe_0100.json - Publication date: 2025-06-16
+  Success: Created post 'Healthyfied Chopseuy' (ID: 67cd7bc1edc0310001574d13)
+  URL: https://healthyfied.me/healthyfied-chopseuy/
+
+[101/351] Processing recipe_0101.json - Publication date: 2025-06-17
+  Success: Created post 'Healthyfied boiled eggplant ensalada' (ID: 67cd7bc4edc0310001574d1c)
+  URL: https://healthyfied.me/healthyfied-boiled-eggplant-ensalada/
+
+[102/351] Processing recipe_0102.json - Publication date: 2025-06-18
+  Success: Created post 'Healthyfied Adobong Sitaw' (ID: 67cd7bc7edc0310001574d25)
+  URL: https://healthyfied.me/healthyfied-adobong-sitaw/
+
+[103/351] Processing recipe_0103.json - Publication date: 2025-06-19
+  Success: Created post 'Grilled Tomato Thyme' (ID: 67cd7bcaedc0310001574d2f)
+  URL: https://healthyfied.me/grilled-tomato-thyme/
+
+[104/351] Processing recipe_0104.json - Publication date: 2025-06-20
+  Success: Created post 'Omega-3 Infused Asparagus' (ID: 67cd7bcdedc0310001574d39)
+  URL: https://healthyfied.me/omega-3-infused-asparagus/
+
+[105/351] Processing recipe_0105.json - Publication date: 2025-06-21
+  Success: Created post 'Salad Dressing - Lemon Hint Vinaigrette' (ID: 67cd7bd0edc0310001574d43)
+  URL: https://healthyfied.me/salad-dressing-lemon-hint-vinaigrette/
+
+[106/351] Processing recipe_0106.json - Publication date: 2025-06-22
+  Success: Created post 'Refreshing Chicken Tomato Pasta' (ID: 67cd7bd2edc0310001574d4c)
+  URL: https://healthyfied.me/refreshing-chicken-tomato-pasta/
+
+[107/351] Processing recipe_0107.json - Publication date: 2025-06-23
+  Success: Created post 'Salad Dressing - Honey Mustard' (ID: 67cd7bd5edc0310001574d53)
+  URL: https://healthyfied.me/salad-dressing-honey-mustard/
+
+[108/351] Processing recipe_0108.json - Publication date: 2025-06-24
+  Success: Created post 'Condo Dinner' (ID: 67cd7bd7edc0310001574d5c)
+  URL: https://healthyfied.me/condo-dinner/
+
+[109/351] Processing recipe_0109.json - Publication date: 2025-06-25
+  Success: Created post 'Garlic Pepper Salmon Belly' (ID: 67cd7bdaedc0310001574d63)
+  URL: https://healthyfied.me/garlic-pepper-salmon-belly/
+
+[110/351] Processing recipe_0110.json - Publication date: 2025-06-26
+  Success: Created post 'Pepper Chicken Paratha Bowl' (ID: 67cd7bdcedc0310001574d6a)
+  URL: https://healthyfied.me/pepper-chicken-paratha-bowl/
+
+[111/351] Processing recipe_0111.json - Publication date: 2025-06-27
+  Success: Created post '2018/10/26 Dinner' (ID: 67cd7bdfedc0310001574d71)
+  URL: https://healthyfied.me/2018-10-26-dinner/
+
+[112/351] Processing recipe_0112.json - Publication date: 2025-06-28
+  Success: Created post 'Pesto Pasta Oolong Tea with Meatballs' (ID: 67cd7be1edc0310001574d78)
+  URL: https://healthyfied.me/pesto-pasta-oolong-tea-with-meatballs/
+
+[113/351] Processing recipe_0113.json - Publication date: 2025-06-29
+  Success: Created post '2018/10/05 Dinner' (ID: 67cd7be3edc0310001574d7f)
+  URL: https://healthyfied.me/2018-10-05-dinner/
+
+[114/351] Processing recipe_0114.json - Publication date: 2025-06-30
+  Success: Created post 'Batutay With Mashpotato' (ID: 67cd7be6edc0310001574d86)
+  URL: https://healthyfied.me/batutay-with-mashpotato/
+
+[115/351] Processing recipe_0115.json - Publication date: 2025-07-01
+  Success: Created post '2018/11/20 Lunch' (ID: 67cd7be8edc0310001574d8d)
+  URL: https://healthyfied.me/2018-11-20-lunch/
+
+[116/351] Processing recipe_0116.json - Publication date: 2025-07-02
+  Success: Created post 'Three Cheese Halibut Red Pesto Pasta' (ID: 67cd7beaedc0310001574d94)
+  URL: https://healthyfied.me/three-cheese-halibut-red-pesto-pasta/
+
+[117/351] Processing recipe_0117.json - Publication date: 2025-07-03
+  Success: Created post 'Globe Lunch' (ID: 67cd7becedc0310001574d9b)
+  URL: https://healthyfied.me/globe-lunch/
+
+[118/351] Processing recipe_0118.json - Publication date: 2025-07-04
+  Success: Created post '03/21 Cheap Steak' (ID: 67cd7befedc0310001574da2)
+  URL: https://healthyfied.me/03-21-cheap-steak/
+
+[119/351] Processing recipe_0119.json - Publication date: 2025-07-05
+  Success: Created post 'Healthyfied Creamy Parmesan Garlic Salmon' (ID: 67cd7bf1edc0310001574daa)
+  URL: https://healthyfied.me/healthyfied-creamy-parmesan-garlic-salmon/
+
+[120/351] Processing recipe_0120.json - Publication date: 2025-07-06
+  Success: Created post 'Healthyfied Lemon Orange Chicken Thighs' (ID: 67cd7bf3edc0310001574db1)
+  URL: https://healthyfied.me/healthyfied-lemon-orange-chicken-thighs/
+
+[121/351] Processing recipe_0121.json - Publication date: 2025-07-07
+  Success: Created post 'keto almond pita egg salami' (ID: 67cd7bf6edc0310001574db8)
+  URL: https://healthyfied.me/keto-almond-pita-egg-salami/
+
+[122/351] Processing recipe_0122.json - Publication date: 2025-07-08
+  Success: Created post 'Healthyfied' (ID: 67cd7bf8edc0310001574dbf)
+  URL: https://healthyfied.me/healthyfied/
+
+[123/351] Processing recipe_0123.json - Publication date: 2025-07-09
+  Success: Created post 'Healthyfied Saturday Liver' (ID: 67cd7bfaedc0310001574dc6)
+  URL: https://healthyfied.me/healthyfied-saturday-liver/
+
+[124/351] Processing recipe_0124.json - Publication date: 2025-07-10
+  Success: Created post '2018/10/23 Lunch Pesto Adlai' (ID: 67cd7bfdedc0310001574dcd)
+  URL: https://healthyfied.me/2018-10-23-lunch-pesto-adlai/
+
+[125/351] Processing recipe_0125.json - Publication date: 2025-07-11
+  Success: Created post '2010/10/10 Lunch' (ID: 67cd7bffedc0310001574dd5)
+  URL: https://healthyfied.me/2010-10-10-lunch/
+
+[126/351] Processing recipe_0126.json - Publication date: 2025-07-12
+  Success: Created post 'Porkchop Adlai Fried Rice' (ID: 67cd7c02edc0310001574ddc)
+  URL: https://healthyfied.me/porkchop-adlai-fried-rice/
+
+[127/351] Processing recipe_0127.json - Publication date: 2025-07-13
+  Success: Created post '3/26 Lunch Bacon' (ID: 67cd7c04edc0310001574de4)
+  URL: https://healthyfied.me/3-26-lunch-bacon/
+
+[128/351] Processing recipe_0128.json - Publication date: 2025-07-14
+  Success: Created post 'Ribeye Quinoa Bowl' (ID: 67cd7c07edc0310001574dec)
+  URL: https://healthyfied.me/ribeye-quinoa-bowl/
+
+[129/351] Processing recipe_0129.json - Publication date: 2025-07-15
+  Success: Created post '2018/10/18' (ID: 67cd7c0aedc0310001574df4)
+  URL: https://healthyfied.me/2018-10-18/
+
+[130/351] Processing recipe_0130.json - Publication date: 2025-07-16
+  Success: Created post 'Bolzico Lettuce Wrap' (ID: 67cd7c0dedc0310001574dfc)
+  URL: https://healthyfied.me/bolzico-lettuce-wrap/
+
+[131/351] Processing recipe_0131.json - Publication date: 2025-07-17
+  Success: Created post '2018/11/07 Lunch Steak' (ID: 67cd7c10edc0310001574e05)
+  URL: https://healthyfied.me/2018-11-07-lunch-steak/
+
+[132/351] Processing recipe_0132.json - Publication date: 2025-07-18
+  Success: Created post 'Edamame Pasta Meal' (ID: 67cd7c12edc0310001574e0e)
+  URL: https://healthyfied.me/edamame-pasta-meal/
+
+[133/351] Processing recipe_0133.json - Publication date: 2025-07-19
+  Success: Created post 'Batutay With Mashpotato' (ID: 67cd7c15edc0310001574e16)
+  URL: https://healthyfied.me/batutay-with-mashpotato-2/
+
+[134/351] Processing recipe_0134.json - Publication date: 2025-07-20
+  Success: Created post 'Adobo Puttanesca' (ID: 67cd7c18edc0310001574e1e)
+  URL: https://healthyfied.me/adobo-puttanesca/
+
+[135/351] Processing recipe_0135.json - Publication date: 2025-07-21
+  Success: Created post 'Health102 Fruit Salad' (ID: 67cd7c1bedc0310001574e26)
+  URL: https://healthyfied.me/health102-fruit-salad/
+
+[136/351] Processing recipe_0136.json - Publication date: 2025-07-22
+  Success: Created post 'Angus Steak and Salad' (ID: 67cd7c1dedc0310001574e30)
+  URL: https://healthyfied.me/angus-steak-and-salad/
+
+[137/351] Processing recipe_0137.json - Publication date: 2025-07-23
+  Success: Created post '2018/09/23 Lunch' (ID: 67cd7c20edc0310001574e38)
+  URL: https://healthyfied.me/2018-09-23-lunch/
+
+[138/351] Processing recipe_0138.json - Publication date: 2025-07-24
+  Success: Created post 'Ground Beef with Cheese' (ID: 67cd7c22edc0310001574e40)
+  URL: https://healthyfied.me/ground-beef-with-cheese/
+
+[139/351] Processing recipe_0139.json - Publication date: 2025-07-25
+  Success: Created post 'Kimchi Spinach Adlai Mix' (ID: 67cd7c25edc0310001574e48)
+  URL: https://healthyfied.me/kimchi-spinach-adlai-mix/
+
+[140/351] Processing recipe_0140.json - Publication date: 2025-07-26
+  Success: Created post '2018/11/08 Lunch' (ID: 67cd7c28edc0310001574e50)
+  URL: https://healthyfied.me/2018-11-08-lunch/
+
+[141/351] Processing recipe_0141.json - Publication date: 2025-07-27
+  Success: Created post '2018/10/17 Lunch with Adobong Sitaw' (ID: 67cd7c2aedc0310001574e58)
+  URL: https://healthyfied.me/2018-10-17-lunch-with-adobong-sitaw/
+
+[142/351] Processing recipe_0142.json - Publication date: 2025-07-28
+  Success: Created post '2019/02/05 Eggplant Omelette With Ground Beef' (ID: 67cd7c2dedc0310001574e60)
+  URL: https://healthyfied.me/2019-02-05-eggplant-omelette-with-ground-beef/
+
+[143/351] Processing recipe_0143.json - Publication date: 2025-07-29
+  Success: Created post '2018/10/10 Dinner' (ID: 67cd7c2fedc0310001574e68)
+  URL: https://healthyfied.me/2018-10-10-dinner/
+
+[144/351] Processing recipe_0144.json - Publication date: 2025-07-30
+  Success: Created post 'Ground Beef with Cheese' (ID: 67cd7c32edc0310001574e70)
+  URL: https://healthyfied.me/ground-beef-with-cheese-2/
+
+[145/351] Processing recipe_0145.json - Publication date: 2025-07-31
+  Success: Created post 'Baguio Pinikpikan' (ID: 67cd7c34edc0310001574e78)
+  URL: https://healthyfied.me/baguio-pinikpikan/
+
+[146/351] Processing recipe_0146.json - Publication date: 2025-08-01
+  Success: Created post 'Healthtyfied Kimchi Curry Soup' (ID: 67cd7c37edc0310001574e80)
+  URL: https://healthyfied.me/healthtyfied-kimchi-curry-soup/
+
+[147/351] Processing recipe_0147.json - Publication date: 2025-08-02
+  Success: Created post 'Aug 31, 2019 Dinner' (ID: 67cd7c3aedc0310001574e88)
+  URL: https://healthyfied.me/aug-31-2019-dinner/
+
+[148/351] Processing recipe_0148.json - Publication date: 2025-08-03
+  Success: Created post '2018/09/24 Dinner' (ID: 67cd7c3dedc0310001574e91)
+  URL: https://healthyfied.me/2018-09-24-dinner/
+
+[149/351] Processing recipe_0149.json - Publication date: 2025-08-04
+  Success: Created post '2018/10/22 Broccoli Beef Bowl' (ID: 67cd7c3fedc0310001574e99)
+  URL: https://healthyfied.me/2018-10-22-broccoli-beef-bowl/
+
+[150/351] Processing recipe_0150.json - Publication date: 2025-08-05
+  Success: Created post '2018/09/24 Lunch' (ID: 67cd7c42edc0310001574ea1)
+  URL: https://healthyfied.me/2018-09-24-lunch/
+
+[151/351] Processing recipe_0151.json - Publication date: 2025-08-06
+  Success: Created post 'Beef Yakiniku Mackerel Meal' (ID: 67cd7c44edc0310001574eaa)
+  URL: https://healthyfied.me/beef-yakiniku-mackerel-meal/
+
+[152/351] Processing recipe_0152.json - Publication date: 2025-08-07
+  Success: Created post 'Dried Chicken Arrozcaldo' (ID: 67cd7c48edc0310001574eb2)
+  URL: https://healthyfied.me/dried-chicken-arrozcaldo/
+
+[153/351] Processing recipe_0153.json - Publication date: 2025-08-08
+  Success: Created post 'Sweet Style Carrot Spaghetti' (ID: 67cd7c4aedc0310001574ebb)
+  URL: https://healthyfied.me/sweet-style-carrot-spaghetti/
+
+[154/351] Processing recipe_0154.json - Publication date: 2025-08-09
+  Success: Created post 'scrambled egg with bacon mushroom' (ID: 67cd7c4dedc0310001574ec3)
+  URL: https://healthyfied.me/scrambled-egg-with-bacon-mushroom/
+
+[155/351] Processing recipe_0155.json - Publication date: 2025-08-10
+  Success: Created post 'Steak with Asparagus Carrot Enoki' (ID: 67cd7c4fedc0310001574ecb)
+  URL: https://healthyfied.me/steak-with-asparagus-carrot-enoki/
+
+[156/351] Processing recipe_0156.json - Publication date: 2025-08-11
+  Success: Created post 'Tinolang tahong' (ID: 67cd7c52edc0310001574ed3)
+  URL: https://healthyfied.me/tinolang-tahong/
+
+[157/351] Processing recipe_0157.json - Publication date: 2025-08-12
+  Success: Created post 'Wagyu Cabbage Bowl' (ID: 67cd7c54edc0310001574edb)
+  URL: https://healthyfied.me/wagyu-cabbage-bowl/
+
+[158/351] Processing recipe_0158.json - Publication date: 2025-08-13
+  Success: Created post '2018/10/04 Lunch' (ID: 67cd7c57edc0310001574ee3)
+  URL: https://healthyfied.me/2018-10-04-lunch/
+
+[159/351] Processing recipe_0159.json - Publication date: 2025-08-14
+  Success: Created post '2018/10/04 Dinner Salmon and Chicken' (ID: 67cd7c5aedc0310001574eeb)
+  URL: https://healthyfied.me/2018-10-04-dinner-salmon-and-chicken/
+
+[160/351] Processing recipe_0160.json - Publication date: 2025-08-15
+  Success: Created post 'Globe Lunch' (ID: 67cd7c5cedc0310001574ef3)
+  URL: https://healthyfied.me/globe-lunch-2/
+
+[161/351] Processing recipe_0161.json - Publication date: 2025-08-16
+  Success: Created post 'Cream Dory Okra Adlai with Cane Vinegar Okra Dip' (ID: 67cd7c5fedc0310001574efb)
+  URL: https://healthyfied.me/cream-dory-okra-adlai-with-cane-vinegar-okra-dip/
+
+[162/351] Processing recipe_0162.json - Publication date: 2025-08-17
+  Success: Created post '2018/11/08 Dinner Mackerel' (ID: 67cd7c62edc0310001574f03)
+  URL: https://healthyfied.me/2018-11-08-dinner-mackerel/
+
+[163/351] Processing recipe_0163.json - Publication date: 2025-08-18
+  Success: Created post '2018/10/11 Lunch Bangus and Broccoli Carrots' (ID: 67cd7c64edc0310001574f0b)
+  URL: https://healthyfied.me/2018-10-11-lunch-bangus-and-broccoli-carrots/
+
+[164/351] Processing recipe_0164.json - Publication date: 2025-08-19
+  Success: Created post '2018/12/05 Burger Lunch' (ID: 67cd7c67edc0310001574f13)
+  URL: https://healthyfied.me/2018-12-05-burger-lunch/
+
+[165/351] Processing recipe_0165.json - Publication date: 2025-08-20
+  Success: Created post 'Sweet Garlic Chicken' (ID: 67cd7c6aedc0310001574f1c)
+  URL: https://healthyfied.me/sweet-garlic-chicken/
+
+[166/351] Processing recipe_0166.json - Publication date: 2025-08-21
+  Success: Created post '2018/09/23 Dinner' (ID: 67cd7c6cedc0310001574f24)
+  URL: https://healthyfied.me/2018-09-23-dinner/
+
+[167/351] Processing recipe_0167.json - Publication date: 2025-08-22
+  Success: Created post '2018/10/16 Lunch' (ID: 67cd7c6fedc0310001574f2c)
+  URL: https://healthyfied.me/2018-10-16-lunch/
+
+[168/351] Processing recipe_0168.json - Publication date: 2025-08-23
+  Success: Created post '02/06/2019 Beef sukiyaki Carrot Noodles' (ID: 67cd7c71edc0310001574f34)
+  URL: https://healthyfied.me/02-06-2019-beef-sukiyaki-carrot-noodles/
+
+[169/351] Processing recipe_0169.json - Publication date: 2025-08-24
+  Success: Created post 'Sweet and Sour Escabeche' (ID: 67cd7c74edc0310001574f3c)
+  URL: https://healthyfied.me/sweet-and-sour-escabeche/
+
+[170/351] Processing recipe_0170.json - Publication date: 2025-08-25
+  Success: Created post 'Garlic Soy Chicken Breast' (ID: 67cd7c76edc0310001574f44)
+  URL: https://healthyfied.me/garlic-soy-chicken-breast/
+
+[171/351] Processing recipe_0171.json - Publication date: 2025-08-26
+  Success: Created post 'Cafe France Bacon Potato Salad' (ID: 67cd7c79edc0310001574f4c)
+  URL: https://healthyfied.me/cafe-france-bacon-potato-salad/
+
+[172/351] Processing recipe_0172.json - Publication date: 2025-08-27
+  Success: Created post 'Zucchini Carrot Tomato Pesto Pasta' (ID: 67cd7c7cedc0310001574f54)
+  URL: https://healthyfied.me/zucchini-carrot-tomato-pesto-pasta/
+
+[173/351] Processing recipe_0173.json - Publication date: 2025-08-28
+  Success: Created post 'Honey Mustard Chicken Pomelo Salad' (ID: 67cd7c7fedc0310001574f5d)
+  URL: https://healthyfied.me/honey-mustard-chicken-pomelo-salad/
+
+[174/351] Processing recipe_0174.json - Publication date: 2025-08-29
+  Success: Created post 'Gusto! Sesame Soy Bowl All Green No Sauce' (ID: 67cd7c81edc0310001574f65)
+  URL: https://healthyfied.me/gusto-sesame-soy-bowl-all-green-no-sauce/
+
+[175/351] Processing recipe_0175.json - Publication date: 2025-08-30
+  Success: Created post '2018/11/28 Dinner' (ID: 67cd7c84edc0310001574f6d)
+  URL: https://healthyfied.me/2018-11-28-dinner/
+
+[176/351] Processing recipe_0176.json - Publication date: 2025-08-31
+  Success: Created post '2018/12/09 Dinner' (ID: 67cd7c86edc0310001574f75)
+  URL: https://healthyfied.me/2018-12-09-dinner/
+
+[177/351] Processing recipe_0177.json - Publication date: 2025-09-01
+  Success: Created post '2018/10/05 Lunch' (ID: 67cd7c89edc0310001574f7d)
+  URL: https://healthyfied.me/2018-10-05-lunch/
+
+[178/351] Processing recipe_0178.json - Publication date: 2025-09-02
+  Success: Created post '2018/10/19 Dinner Chicken Paprika' (ID: 67cd7c8cedc0310001574f85)
+  URL: https://healthyfied.me/2018-10-19-dinner-chicken-paprika/
+
+[179/351] Processing recipe_0179.json - Publication date: 2025-09-03
+  Success: Created post 'Salmon Bellpepper Wrap' (ID: 67cd7c8fedc0310001574f8d)
+  URL: https://healthyfied.me/salmon-bellpepper-wrap/
+
+[180/351] Processing recipe_0180.json - Publication date: 2025-09-04
+  Success: Created post 'Soy Chicken' (ID: 67cd7c91edc0310001574f96)
+  URL: https://healthyfied.me/soy-chicken/
+
+[181/351] Processing recipe_0181.json - Publication date: 2025-09-05
+  Success: Created post 'Globe Lunch 2' (ID: 67cd7c94edc0310001574f9e)
+  URL: https://healthyfied.me/globe-lunch-2-2/
+
+[182/351] Processing recipe_0182.json - Publication date: 2025-09-06
+  Success: Created post 'Chicken Citrus Crabstick Pear Salad' (ID: 67cd7c96edc0310001574fa6)
+  URL: https://healthyfied.me/chicken-citrus-crabstick-pear-salad/
+
+[183/351] Processing recipe_0183.json - Publication date: 2025-09-07
+  Success: Created post '2018/10/26 Lunch Eggplant Salad' (ID: 67cd7c99edc0310001574fae)
+  URL: https://healthyfied.me/2018-10-26-lunch-eggplant-salad/
+
+[184/351] Processing recipe_0184.json - Publication date: 2025-09-08
+  Success: Created post 'Yellow Zucchini Pesto Past' (ID: 67cd7c9bedc0310001574fb6)
+  URL: https://healthyfied.me/yellow-zucchini-pesto-past/
+
+[185/351] Processing recipe_0185.json - Publication date: 2025-09-09
+  Success: Created post 'No Milk Chicken Sopas' (ID: 67cd7c9eedc0310001574fbe)
+  URL: https://healthyfied.me/no-milk-chicken-sopas/
+
+[186/351] Processing recipe_0186.json - Publication date: 2025-09-10
+  Success: Created post 'Dory Blossom Salad' (ID: 67cd7ca0edc0310001574fc6)
+  URL: https://healthyfied.me/dory-blossom-salad/
+
+[187/351] Processing recipe_0187.json - Publication date: 2025-09-11
+  Success: Created post 'Orange “Soy” Salmon' (ID: 67cd7ca3edc0310001574fce)
+  URL: https://healthyfied.me/orange-soy-salmon/
+
+[188/351] Processing recipe_0188.json - Publication date: 2025-09-12
+  Success: Created post 'Cream dory Bellpepper Basil' (ID: 67cd7ca5edc0310001574fd7)
+  URL: https://healthyfied.me/cream-dory-bellpepper-basil/
+
+[189/351] Processing recipe_0189.json - Publication date: 2025-09-13
+  Success: Created post 'Cream dory Bellpepper Basil' (ID: 67cd7ca8edc0310001574fdf)
+  URL: https://healthyfied.me/cream-dory-bellpepper-basil-2/
+
+[190/351] Processing recipe_0190.json - Publication date: 2025-09-14
+  Success: Created post 'Beef with mushroom' (ID: 67cd7caaedc0310001574fe7)
+  URL: https://healthyfied.me/beef-with-mushroom/
+
+[191/351] Processing recipe_0191.json - Publication date: 2025-09-15
+  Success: Created post 'Ground Beef with Green Beans' (ID: 67cd7cadedc0310001574fef)
+  URL: https://healthyfied.me/ground-beef-with-green-beans/
+
+[192/351] Processing recipe_0192.json - Publication date: 2025-09-16
+  Success: Created post 'Chicken Corn Citrus Salad' (ID: 67cd7cb0edc0310001574ff7)
+  URL: https://healthyfied.me/chicken-corn-citrus-salad/
+
+[193/351] Processing recipe_0193.json - Publication date: 2025-09-17
+  Success: Created post 'Potato Pasto with Garlic Tomato Spinach Sauce' (ID: 67cd7cb2edc0310001574fff)
+  URL: https://healthyfied.me/potato-pasto-with-garlic-tomato-spinach-sauce/
+
+[194/351] Processing recipe_0194.json - Publication date: 2025-09-18
+  Success: Created post 'Honey Garlic Beef Yakiniku with Carrot Pasta' (ID: 67cd7cb4edc0310001575007)
+  URL: https://healthyfied.me/honey-garlic-beef-yakiniku-with-carrot-pasta/
+
+[195/351] Processing recipe_0195.json - Publication date: 2025-09-19
+  Success: Created post 'High Protein Seafood Salad without Sauce' (ID: 67cd7cb7edc031000157500f)
+  URL: https://healthyfied.me/high-protein-seafood-salad-without-sauce/
+
+[196/351] Processing recipe_0196.json - Publication date: 2025-09-20
+  Success: Created post 'Chicken Adlai Arrozcaldo' (ID: 67cd7cbaedc0310001575017)
+  URL: https://healthyfied.me/chicken-adlai-arrozcaldo/
+
+[197/351] Processing recipe_0197.json - Publication date: 2025-09-21
+  Success: Created post 'Ginataang Tambakol (Yellow Fin tuna)' (ID: 67cd7cbcedc0310001575020)
+  URL: https://healthyfied.me/ginataang-tambakol-yellow-fin-tuna/
+
+[198/351] Processing recipe_0198.json - Publication date: 2025-09-22
+  Success: Created post '2018/11/12Dinner Grapes and beef' (ID: 67cd7cbfedc0310001575028)
+  URL: https://healthyfied.me/2018-11-12dinner-grapes-and-beef/
+
+[199/351] Processing recipe_0199.json - Publication date: 2025-09-23
+  Success: Created post 'Mixed Cucumber Salad' (ID: 67cd7cc2edc0310001575030)
+  URL: https://healthyfied.me/mixed-cucumber-salad/
+
+[200/351] Processing recipe_0200.json - Publication date: 2025-09-24
+  Success: Created post '2018/10/19 Lunch Pancit' (ID: 67cd7cc4edc0310001575038)
+  URL: https://healthyfied.me/2018-10-19-lunch-pancit/
+
+[201/351] Processing recipe_0201.json - Publication date: 2025-09-25
+  Success: Created post '2018/10/09 Dinner Vegetables (Meat is Chicken Tomato)' (ID: 67cd7cc7edc0310001575040)
+  URL: https://healthyfied.me/2018-10-09-dinner-vegetables-meat-is-chicken-tomato/
+
+[202/351] Processing recipe_0202.json - Publication date: 2025-09-26
+  Success: Created post 'Beef Spaghetti Sauce' (ID: 67cd7cc9edc0310001575048)
+  URL: https://healthyfied.me/beef-spaghetti-sauce/
+
+[203/351] Processing recipe_0203.json - Publication date: 2025-09-27
+  Success: Created post 'Beef Carrot Sweet Ginger' (ID: 67cd7cccedc0310001575050)
+  URL: https://healthyfied.me/beef-carrot-sweet-ginger/
+
+[204/351] Processing recipe_0204.json - Publication date: 2025-09-28
+  Success: Created post 'Sunday camachile' (ID: 67cd7ccfedc0310001575058)
+  URL: https://healthyfied.me/sunday-camachile/
+
+[205/351] Processing recipe_0205.json - Publication date: 2025-09-29
+  Success: Created post 'Sweet potato Pimento' (ID: 67cd7cd1edc0310001575061)
+  URL: https://healthyfied.me/sweet-potato-pimento/
+
+[206/351] Processing recipe_0206.json - Publication date: 2025-09-30
+  Success: Created post 'Crunchy Seafood Red Salad' (ID: 67cd7cd4edc0310001575069)
+  URL: https://healthyfied.me/crunchy-seafood-red-salad/
+
+[207/351] Processing recipe_0207.json - Publication date: 2025-10-01
+  Success: Created post '2018/10/16 Adlai Carrot Rice' (ID: 67cd7cd7edc0310001575072)
+  URL: https://healthyfied.me/2018-10-16-adlai-carrot-rice/
+
+[208/351] Processing recipe_0208.json - Publication date: 2025-10-02
+  Success: Created post '2018/10/18 Dinner' (ID: 67cd7cdaedc031000157507c)
+  URL: https://healthyfied.me/2018-10-18-dinner/
+
+[209/351] Processing recipe_0209.json - Publication date: 2025-10-03
+  Success: Created post 'Tuna Sashimi Dinner' (ID: 67cd7cdcedc0310001575085)
+  URL: https://healthyfied.me/tuna-sashimi-dinner/
+
+[210/351] Processing recipe_0210.json - Publication date: 2025-10-04
+  Success: Created post 'Ampalaya Egg' (ID: 67cd7cdfedc031000157508c)
+  URL: https://healthyfied.me/ampalaya-egg/
+
+[211/351] Processing recipe_0211.json - Publication date: 2025-10-05
+  Success: Created post '2018/11/11 Lunch' (ID: 67cd7ce1edc0310001575094)
+  URL: https://healthyfied.me/2018-11-11-lunch/
+
+[212/351] Processing recipe_0212.json - Publication date: 2025-10-06
+  Success: Created post 'Chicken Rosemary Thyme' (ID: 67cd7ce4edc031000157509d)
+  URL: https://healthyfied.me/chicken-rosemary-thyme/
+
+[213/351] Processing recipe_0213.json - Publication date: 2025-10-07
+  Success: Created post 'Globe Lunch' (ID: 67cd7ce7edc03100015750a6)
+  URL: https://healthyfied.me/globe-lunch-3/
+
+[214/351] Processing recipe_0214.json - Publication date: 2025-10-08
+  Success: Created post '2018/10/11 Dinner Red Cabbage Cumin' (ID: 67cd7ceaedc03100015750ae)
+  URL: https://healthyfied.me/2018-10-11-dinner-red-cabbage-cumin/
+
+[215/351] Processing recipe_0215.json - Publication date: 2025-10-09
+  Success: Created post 'Toasted Tinola Chicken' (ID: 67cd7cecedc03100015750b6)
+  URL: https://healthyfied.me/toasted-tinola-chicken/
+
+[216/351] Processing recipe_0216.json - Publication date: 2025-10-10
+  Success: Created post '2018/10/17 Dinner' (ID: 67cd7cefedc03100015750be)
+  URL: https://healthyfied.me/2018-10-17-dinner/
+
+[217/351] Processing recipe_0217.json - Publication date: 2025-10-11
+  Success: Created post 'Adlai Goto' (ID: 67cd7cf2edc03100015750c6)
+  URL: https://healthyfied.me/adlai-goto/
+
+[218/351] Processing recipe_0218.json - Publication date: 2025-10-12
+  Success: Created post 'Mushroom Meaty Sauce' (ID: 67cd7cf5edc03100015750cf)
+  URL: https://healthyfied.me/mushroom-meaty-sauce/
+
+[219/351] Processing recipe_0219.json - Publication date: 2025-10-13
+  Success: Created post 'Chia Almond Pudding' (ID: 67cd7cf8edc03100015750d8)
+  URL: https://healthyfied.me/chia-almond-pudding/
+
+[220/351] Processing recipe_0220.json - Publication date: 2025-10-14
+  Success: Created post 'Mango Raspberry Goji Chia Pudding' (ID: 67cd7cfbedc03100015750e1)
+  URL: https://healthyfied.me/mango-raspberry-goji-chia-pudding/
+
+[221/351] Processing recipe_0221.json - Publication date: 2025-10-15
+  Success: Created post '2018/10/24 Breakfast Broccoli Salad' (ID: 67cd7cfdedc03100015750ea)
+  URL: https://healthyfied.me/2018-10-24-breakfast-broccoli-salad/
+
+[222/351] Processing recipe_0222.json - Publication date: 2025-10-16
+  Success: Created post '2018/11/06 Dinner Chicke Gizzard' (ID: 67cd7d00edc03100015750f2)
+  URL: https://healthyfied.me/2018-11-06-dinner-chicke-gizzard/
+
+[223/351] Processing recipe_0223.json - Publication date: 2025-10-17
+  Success: Created post 'Beef Banana Blossom Pesto' (ID: 67cd7d02edc03100015750fa)
+  URL: https://healthyfied.me/beef-banana-blossom-pesto/
+
+[224/351] Processing recipe_0224.json - Publication date: 2025-10-18
+  Success: Created post 'Adlai Red Cabbage' (ID: 67cd7d05edc0310001575102)
+  URL: https://healthyfied.me/adlai-red-cabbage/
+
+[225/351] Processing recipe_0225.json - Publication date: 2025-10-19
+  Success: Created post 'Chicken Squash Spinach Tinola Soup' (ID: 67cd7d08edc031000157510c)
+  URL: https://healthyfied.me/chicken-squash-spinach-tinola-soup/
+
+[226/351] Processing recipe_0226.json - Publication date: 2025-10-20
+  Success: Created post 'Coconut Tapioca Tortilla' (ID: 67cd7d0bedc0310001575114)
+  URL: https://healthyfied.me/coconut-tapioca-tortilla/
+
+[227/351] Processing recipe_0227.json - Publication date: 2025-10-21
+  Success: Created post 'Creamy Honey Mustard Tuna Corn Salad' (ID: 67cd7d0dedc031000157511d)
+  URL: https://healthyfied.me/creamy-honey-mustard-tuna-corn-salad/
+
+[228/351] Processing recipe_0228.json - Publication date: 2025-10-22
+  Success: Created post 'Tomato Spinach Fusilli Pasta' (ID: 67cd7d10edc0310001575125)
+  URL: https://healthyfied.me/tomato-spinach-fusilli-pasta/
+
+[229/351] Processing recipe_0229.json - Publication date: 2025-10-23
+  Success: Created post 'Low Cal Refreshing Salad' (ID: 67cd7d12edc031000157512d)
+  URL: https://healthyfied.me/low-cal-refreshing-salad/
+
+[230/351] Processing recipe_0230.json - Publication date: 2025-10-24
+  Success: Created post '2018/11/06 Lunch Tilapia Caulirice' (ID: 67cd7d15edc0310001575135)
+  URL: https://healthyfied.me/2018-11-06-lunch-tilapia-caulirice/
+
+[231/351] Processing recipe_0231.json - Publication date: 2025-10-25
+  Success: Created post 'Chicken Squash Soup' (ID: 67cd7d17edc031000157513d)
+  URL: https://healthyfied.me/chicken-squash-soup/
+
+[232/351] Processing recipe_0232.json - Publication date: 2025-10-26
+  Success: Created post 'Squid in Creamy Ink' (ID: 67cd7d1aedc0310001575145)
+  URL: https://healthyfied.me/squid-in-creamy-ink/
+
+[233/351] Processing recipe_0233.json - Publication date: 2025-10-27
+  Success: Created post 'Beef Honey onion' (ID: 67cd7d1dedc031000157514e)
+  URL: https://healthyfied.me/beef-honey-onion/
+
+[234/351] Processing recipe_0234.json - Publication date: 2025-10-28
+  Success: Created post 'Garlic Paprika Salmon Tail' (ID: 67cd7d1fedc0310001575156)
+  URL: https://healthyfied.me/garlic-paprika-salmon-tail/
+
+[235/351] Processing recipe_0235.json - Publication date: 2025-10-29
+  Success: Created post 'Coconut Banana Pancake' (ID: 67cd7d22edc031000157515f)
+  URL: https://healthyfied.me/coconut-banana-pancake/
+
+[236/351] Processing recipe_0236.json - Publication date: 2025-10-30
+  Success: Created post 'Chicken Egg Drop Soup' (ID: 67cd7d25edc0310001575167)
+  URL: https://healthyfied.me/chicken-egg-drop-soup/
+
+[237/351] Processing recipe_0237.json - Publication date: 2025-10-31
+  Success: Created post 'Carrot Bell Pepper Omelette' (ID: 67cd7d27edc0310001575170)
+  URL: https://healthyfied.me/carrot-bell-pepper-omelette/
+
+[238/351] Processing recipe_0238.json - Publication date: 2025-11-01
+  Success: Created post 'Red Cabbage Chicken Egg Salad' (ID: 67cd7d2aedc0310001575178)
+  URL: https://healthyfied.me/red-cabbage-chicken-egg-salad/
+
+[239/351] Processing recipe_0239.json - Publication date: 2025-11-02
+  Success: Created post 'Tilapia in Soy Ginger' (ID: 67cd7d2dedc0310001575180)
+  URL: https://healthyfied.me/tilapia-in-soy-ginger/
+
+[240/351] Processing recipe_0240.json - Publication date: 2025-11-03
+  Success: Created post 'Edamame Sesame Pancit' (ID: 67cd7d30edc0310001575188)
+  URL: https://healthyfied.me/edamame-sesame-pancit/
+
+[241/351] Processing recipe_0241.json - Publication date: 2025-11-04
+  Success: Created post 'Egg Garlic Adlai Fried Rice' (ID: 67cd7d32edc0310001575190)
+  URL: https://healthyfied.me/egg-garlic-adlai-fried-rice/
+
+[242/351] Processing recipe_0242.json - Publication date: 2025-11-05
+  Success: Created post 'Pan Grilled Bangus' (ID: 67cd7d35edc0310001575198)
+  URL: https://healthyfied.me/pan-grilled-bangus/
+
+[243/351] Processing recipe_0243.json - Publication date: 2025-11-06
+  Success: Created post 'Spicy Carrots Tinapa' (ID: 67cd7d38edc03100015751a0)
+  URL: https://healthyfied.me/spicy-carrots-tinapa/
+
+[244/351] Processing recipe_0244.json - Publication date: 2025-11-07
+  Success: Created post 'Tinola' (ID: 67cd7d3bedc03100015751a8)
+  URL: https://healthyfied.me/tinola/
+
+[245/351] Processing recipe_0245.json - Publication date: 2025-11-08
+  Success: Created post '2019/01/05 Salad Stop Make Your Own' (ID: 67cd7d3dedc03100015751b1)
+  URL: https://healthyfied.me/2019-01-05-salad-stop-make-your-own/
+
+[246/351] Processing recipe_0246.json - Publication date: 2025-11-09
+  Success: Created post 'Creamy Pesto Potato Salad' (ID: 67cd7d40edc03100015751b9)
+  URL: https://healthyfied.me/creamy-pesto-potato-salad/
+
+[247/351] Processing recipe_0247.json - Publication date: 2025-11-10
+  Success: Created post 'Homemade Spaghetti' (ID: 67cd7d42edc03100015751c1)
+  URL: https://healthyfied.me/homemade-spaghetti/
+
+[248/351] Processing recipe_0248.json - Publication date: 2025-11-11
+  Success: Created post 'Homemade Spaghetti' (ID: 67cd7d45edc03100015751c9)
+  URL: https://healthyfied.me/homemade-spaghetti-2/
+
+[249/351] Processing recipe_0249.json - Publication date: 2025-11-12
+  Success: Created post 'Pesto Carrot Adlai' (ID: 67cd7d48edc03100015751d1)
+  URL: https://healthyfied.me/pesto-carrot-adlai/
+
+[250/351] Processing recipe_0250.json - Publication date: 2025-11-13
+  Success: Created post 'Tomato Basil Penne Pasta' (ID: 67cd7d4aedc03100015751da)
+  URL: https://healthyfied.me/tomato-basil-penne-pasta/
+
+[251/351] Processing recipe_0251.json - Publication date: 2025-11-14
+  Success: Created post 'Teryaki Sukiyaki' (ID: 67cd7d4dedc03100015751e2)
+  URL: https://healthyfied.me/teryaki-sukiyaki/
+
+[252/351] Processing recipe_0252.json - Publication date: 2025-11-15
+  Success: Created post 'Honey Garlic Chicken Liver' (ID: 67cd7d50edc03100015751ea)
+  URL: https://healthyfied.me/honey-garlic-chicken-liver/
+
+[253/351] Processing recipe_0253.json - Publication date: 2025-11-16
+  Success: Created post 'Buttered Broccoli Cauliflower Carrots' (ID: 67cd7d53edc03100015751f2)
+  URL: https://healthyfied.me/buttered-broccoli-cauliflower-carrots/
+
+[254/351] Processing recipe_0254.json - Publication date: 2025-11-17
+  Success: Created post 'Cream Dory Beet Pesto Pasta' (ID: 67cd7d55edc03100015751fa)
+  URL: https://healthyfied.me/cream-dory-beet-pesto-pasta/
+
+[255/351] Processing recipe_0255.json - Publication date: 2025-11-18
+  Success: Created post 'Galunggong In Coconut Aminos' (ID: 67cd7d58edc0310001575202)
+  URL: https://healthyfied.me/galunggong-in-coconut-aminos/
+
+[256/351] Processing recipe_0256.json - Publication date: 2025-11-19
+  Success: Created post 'Chicken Shirataki Honey Ginger' (ID: 67cd7d5bedc031000157520b)
+  URL: https://healthyfied.me/chicken-shirataki-honey-ginger/
+
+[257/351] Processing recipe_0257.json - Publication date: 2025-11-20
+  Success: Created post 'Tortang Dulong' (ID: 67cd7d5eedc0310001575214)
+  URL: https://healthyfied.me/tortang-dulong/
+
+[258/351] Processing recipe_0258.json - Publication date: 2025-11-21
+  Success: Created post 'Beef Potato Carrot Tomato Basil Pasta' (ID: 67cd7d61edc031000157521d)
+  URL: https://healthyfied.me/beef-potato-carrot-tomato-basil-pasta/
+
+[259/351] Processing recipe_0259.json - Publication date: 2025-11-22
+  Success: Created post 'Pesto Carrot Adlai' (ID: 67cd7d63edc0310001575225)
+  URL: https://healthyfied.me/pesto-carrot-adlai-2/
+
+[260/351] Processing recipe_0260.json - Publication date: 2025-11-23
+  Success: Created post '2019/01/15 Tuesday Dinner' (ID: 67cd7d66edc031000157522e)
+  URL: https://healthyfied.me/2019-01-15-tuesday-dinner/
+
+[261/351] Processing recipe_0261.json - Publication date: 2025-11-24
+  Success: Created post 'Banana Blossom Beef Sisig' (ID: 67cd7d69edc0310001575236)
+  URL: https://healthyfied.me/banana-blossom-beef-sisig/
+
+[262/351] Processing recipe_0262.json - Publication date: 2025-11-25
+  Success: Created post 'Beef Mushroom with Broccoli' (ID: 67cd7d6cedc031000157523e)
+  URL: https://healthyfied.me/beef-mushroom-with-broccoli/
+
+[263/351] Processing recipe_0263.json - Publication date: 2025-11-26
+  Success: Created post '2019/10/01 Dinner' (ID: 67cd7d6fedc0310001575247)
+  URL: https://healthyfied.me/2019-10-01-dinner/
+
+[264/351] Processing recipe_0264.json - Publication date: 2025-11-27
+  Success: Created post '2018/11/02 Dinner Vegetables' (ID: 67cd7d71edc0310001575250)
+  URL: https://healthyfied.me/2018-11-02-dinner-vegetables/
+
+[265/351] Processing recipe_0265.json - Publication date: 2025-11-28
+  Success: Created post 'Taco Omellete in Bellpepper' (ID: 67cd7d74edc0310001575258)
+  URL: https://healthyfied.me/taco-omellete-in-bellpepper/
+
+[266/351] Processing recipe_0266.json - Publication date: 2025-11-29
+  Success: Created post 'Creamy Honey Mustard Tuna Apple Salad' (ID: 67cd7d77edc0310001575260)
+  URL: https://healthyfied.me/creamy-honey-mustard-tuna-apple-salad/
+
+[267/351] Processing recipe_0267.json - Publication date: 2025-11-30
+  Success: Created post 'Gourmet Pesto Chicken' (ID: 67cd7d7aedc0310001575269)
+  URL: https://healthyfied.me/gourmet-pesto-chicken/
+
+[268/351] Processing recipe_0268.json - Publication date: 2025-12-01
+  Success: Created post '4 Ingredient Pancake' (ID: 67cd7d7cedc0310001575272)
+  URL: https://healthyfied.me/4-ingredient-pancake/
+
+[269/351] Processing recipe_0269.json - Publication date: 2025-12-02
+  Success: Created post 'Low Cal Refreshing Salad' (ID: 67cd7d7fedc031000157527b)
+  URL: https://healthyfied.me/low-cal-refreshing-salad-2/
+
+[270/351] Processing recipe_0270.json - Publication date: 2025-12-03
+  Success: Created post 'Spicy Chicken Mongolian No Rice' (ID: 67cd7d82edc0310001575282)
+  URL: https://healthyfied.me/spicy-chicken-mongolian-no-rice/
+
+[271/351] Processing recipe_0271.json - Publication date: 2025-12-04
+  Success: Created post 'Sayote Tops Bellpepper Steamed Scrambled Egg' (ID: 67cd7d85edc031000157528c)
+  URL: https://healthyfied.me/sayote-tops-bellpepper-steamed-scrambled-egg/
+
+[272/351] Processing recipe_0272.json - Publication date: 2025-12-05
+  Success: Created post 'Beef Kangkong in Soy' (ID: 67cd7d87edc0310001575294)
+  URL: https://healthyfied.me/beef-kangkong-in-soy/
+
+[273/351] Processing recipe_0273.json - Publication date: 2025-12-06
+  Success: Created post '2018/11/07 Dinner Adlai Adobo' (ID: 67cd7d8bedc031000157529c)
+  URL: https://healthyfied.me/2018-11-07-dinner-adlai-adobo/
+
+[274/351] Processing recipe_0274.json - Publication date: 2025-12-07
+  Success: Created post 'Beef Egg Patty (One Patty per Serving About 3” Dia)' (ID: 67cd7d8dedc03100015752a6)
+  URL: https://healthyfied.me/beef-egg-patty-one-patty-per-serving-about-3-dia/
+
+[275/351] Processing recipe_0275.json - Publication date: 2025-12-08
+  Success: Created post 'Jackfruit In Coconut Milk' (ID: 67cd7d90edc03100015752af)
+  URL: https://healthyfied.me/jackfruit-in-coconut-milk/
+
+[276/351] Processing recipe_0276.json - Publication date: 2025-12-09
+  Success: Created post 'Garlic Cheddar Cauliflower' (ID: 67cd7d93edc03100015752b8)
+  URL: https://healthyfied.me/garlic-cheddar-cauliflower/
+
+[277/351] Processing recipe_0277.json - Publication date: 2025-12-10
+  Success: Created post 'Tomato Alpine Penne Pasta' (ID: 67cd7d96edc03100015752c2)
+  URL: https://healthyfied.me/tomato-alpine-penne-pasta/
+
+[278/351] Processing recipe_0278.json - Publication date: 2025-12-11
+  Success: Created post 'Herbed Beef Sukiyaki' (ID: 67cd7d99edc03100015752cb)
+  URL: https://healthyfied.me/herbed-beef-sukiyaki/
+
+[279/351] Processing recipe_0279.json - Publication date: 2025-12-12
+  Success: Created post 'Balsamic Chicken Tomato Salad' (ID: 67cd7d9cedc03100015752d4)
+  URL: https://healthyfied.me/balsamic-chicken-tomato-salad/
+
+[280/351] Processing recipe_0280.json - Publication date: 2025-12-13
+  Success: Created post 'Dory Blossom Salad' (ID: 67cd7d9fedc03100015752dd)
+  URL: https://healthyfied.me/dory-blossom-salad-2/
+
+[281/351] Processing recipe_0281.json - Publication date: 2025-12-14
+  Success: Created post 'Sesame Soy Chicken Enoki Mushroom' (ID: 67cd7da2edc03100015752e6)
+  URL: https://healthyfied.me/sesame-soy-chicken-enoki-mushroom/
+
+[282/351] Processing recipe_0282.json - Publication date: 2025-12-15
+  Success: Created post 'Balsamic Vinaigrette' (ID: 67cd7da5edc03100015752ee)
+  URL: https://healthyfied.me/balsamic-vinaigrette/
+
+[283/351] Processing recipe_0283.json - Publication date: 2025-12-16
+  Success: Created post 'Sarsiadong Kamatis' (ID: 67cd7da8edc03100015752f7)
+  URL: https://healthyfied.me/sarsiadong-kamatis/
+
+[284/351] Processing recipe_0284.json - Publication date: 2025-12-17
+  Success: Created post 'Buttered Potato And Carrot' (ID: 67cd7dabedc0310001575300)
+  URL: https://healthyfied.me/buttered-potato-and-carrot/
+
+[285/351] Processing recipe_0285.json - Publication date: 2025-12-18
+  Success: Created post 'Greek Yogurt Vinaigrette' (ID: 67cd7dadedc031000157530a)
+  URL: https://healthyfied.me/greek-yogurt-vinaigrette/
+
+[286/351] Processing recipe_0286.json - Publication date: 2025-12-19
+  Success: Created post 'Chicken Tomato' (ID: 67cd7db0edc0310001575313)
+  URL: https://healthyfied.me/chicken-tomato/
+
+[287/351] Processing recipe_0287.json - Publication date: 2025-12-20
+  Success: Created post 'Rainbow Chicken' (ID: 67cd7db3edc031000157531c)
+  URL: https://healthyfied.me/rainbow-chicken/
+
+[288/351] Processing recipe_0288.json - Publication date: 2025-12-21
+  Success: Created post 'Adlai Carrot Fried Rice' (ID: 67cd7db6edc0310001575325)
+  URL: https://healthyfied.me/adlai-carrot-fried-rice/
+
+[289/351] Processing recipe_0289.json - Publication date: 2025-12-22
+  Success: Created post 'Kangkong In Coconut Cream' (ID: 67cd7db8edc031000157532d)
+  URL: https://healthyfied.me/kangkong-in-coconut-cream/
+
+[290/351] Processing recipe_0290.json - Publication date: 2025-12-23
+  Success: Created post 'Avocado Oat Shake' (ID: 67cd7dbbedc0310001575335)
+  URL: https://healthyfied.me/avocado-oat-shake/
+
+[291/351] Processing recipe_0291.json - Publication date: 2025-12-24
+  Success: Created post 'Pesto Tomato Potato' (ID: 67cd7dbeedc031000157533e)
+  URL: https://healthyfied.me/pesto-tomato-potato/
+
+[292/351] Processing recipe_0292.json - Publication date: 2025-12-25
+  Success: Created post 'Soy Chocolate Collagen' (ID: 67cd7dc1edc0310001575347)
+  URL: https://healthyfied.me/soy-chocolate-collagen/
+
+[293/351] Processing recipe_0293.json - Publication date: 2025-12-26
+  Success: Created post 'No Bake Eggplant Lasagna' (ID: 67cd7dc3edc0310001575351)
+  URL: https://healthyfied.me/no-bake-eggplant-lasagna/
+
+[294/351] Processing recipe_0294.json - Publication date: 2025-12-27
+  Success: Created post 'No oil French Toast' (ID: 67cd7dc7edc0310001575359)
+  URL: https://healthyfied.me/no-oil-french-toast/
+
+[295/351] Processing recipe_0295.json - Publication date: 2025-12-28
+  Success: Created post 'Pumpkin Carrot Spinach Soup' (ID: 67cd7dc9edc0310001575363)
+  URL: https://healthyfied.me/pumpkin-carrot-spinach-soup/
+
+[296/351] Processing recipe_0296.json - Publication date: 2025-12-29
+  Success: Created post 'Mashed Sweet Potato' (ID: 67cd7dcdedc031000157536c)
+  URL: https://healthyfied.me/mashed-sweet-potato/
+
+[297/351] Processing recipe_0297.json - Publication date: 2025-12-30
+  Success: Created post 'Dory Blossom Salad' (ID: 67cd7dd0edc0310001575376)
+  URL: https://healthyfied.me/dory-blossom-salad-3/
+
+[298/351] Processing recipe_0298.json - Publication date: 2025-12-31
+  Success: Created post 'Toasted Squash Green Beans' (ID: 67cd7dd3edc031000157537f)
+  URL: https://healthyfied.me/toasted-squash-green-beans/
+
+[299/351] Processing recipe_0299.json - Publication date: 2026-01-01
+  Success: Created post 'Banana Blossom In Coconut Milk' (ID: 67cd7dd6edc0310001575388)
+  URL: https://healthyfied.me/banana-blossom-in-coconut-milk/
+
+[300/351] Processing recipe_0300.json - Publication date: 2026-01-02
+  Success: Created post '2018/10/16 Beef Steak Failed' (ID: 67cd7dd9edc0310001575392)
+  URL: https://healthyfied.me/2018-10-16-beef-steak-failed/
+
+[301/351] Processing recipe_0301.json - Publication date: 2026-01-03
+  Success: Created post 'Potato Carrot in Coconut Oil' (ID: 67cd7ddcedc031000157539a)
+  URL: https://healthyfied.me/potato-carrot-in-coconut-oil/
+
+[302/351] Processing recipe_0302.json - Publication date: 2026-01-04
+  Success: Created post 'Raspberry Mango Yogurt' (ID: 67cd7ddfedc03100015753a4)
+  URL: https://healthyfied.me/raspberry-mango-yogurt/
+
+[303/351] Processing recipe_0303.json - Publication date: 2026-01-05
+  Success: Created post 'Creamy egg bellpepper sesame' (ID: 67cd7de2edc03100015753ae)
+  URL: https://healthyfied.me/creamy-egg-bellpepper-sesame/
+
+[304/351] Processing recipe_0304.json - Publication date: 2026-01-06
+  Success: Created post '2018/11/08 Dinner Salad' (ID: 67cd7de5edc03100015753b7)
+  URL: https://healthyfied.me/2018-11-08-dinner-salad/
+
+[305/351] Processing recipe_0305.json - Publication date: 2026-01-07
+  Success: Created post 'Carrot Adlai Garlic Rice' (ID: 67cd7de8edc03100015753c0)
+  URL: https://healthyfied.me/carrot-adlai-garlic-rice/
+
+[306/351] Processing recipe_0306.json - Publication date: 2026-01-08
+  Success: Created post 'Shirataki Cashew Pesto' (ID: 67cd7debedc03100015753ca)
+  URL: https://healthyfied.me/shirataki-cashew-pesto/
+
+[307/351] Processing recipe_0307.json - Publication date: 2026-01-09
+  Success: Created post 'Mushroom Salmon Tomato Sauce' (ID: 67cd7dededc03100015753d3)
+  URL: https://healthyfied.me/mushroom-salmon-tomato-sauce/
+
+[308/351] Processing recipe_0308.json - Publication date: 2026-01-10
+  Success: Created post 'Adlai Bellpepper Rice' (ID: 67cd7df1edc03100015753dc)
+  URL: https://healthyfied.me/adlai-bellpepper-rice/
+
+[309/351] Processing recipe_0309.json - Publication date: 2026-01-11
+  Success: Created post '2018/09/25 Dinner' (ID: 67cd7df3edc03100015753e6)
+  URL: https://healthyfied.me/2018-09-25-dinner/
+
+[310/351] Processing recipe_0310.json - Publication date: 2026-01-12
+  Success: Created post 'Buttered Herbed Corn And Carrot' (ID: 67cd7df7edc03100015753ef)
+  URL: https://healthyfied.me/buttered-herbed-corn-and-carrot/
+
+[311/351] Processing recipe_0311.json - Publication date: 2026-01-13
+  Success: Created post 'Colorful Mixed Vegetables' (ID: 67cd7dfaedc03100015753f7)
+  URL: https://healthyfied.me/colorful-mixed-vegetables/
+
+[312/351] Processing recipe_0312.json - Publication date: 2026-01-14
+  Success: Created post 'Banana Blossom Fresh Spring Rolls' (ID: 67cd7dfdedc0310001575401)
+  URL: https://healthyfied.me/banana-blossom-fresh-spring-rolls/
+
+[313/351] Processing recipe_0313.json - Publication date: 2026-01-15
+  Success: Created post '2018/11/07 Lunch Garlic Sesame Asparagus' (ID: 67cd7e00edc031000157540b)
+  URL: https://healthyfied.me/2018-11-07-lunch-garlic-sesame-asparagus/
+
+[314/351] Processing recipe_0314.json - Publication date: 2026-01-16
+  Success: Created post 'Taragon Tuna' (ID: 67cd7e03edc0310001575414)
+  URL: https://healthyfied.me/taragon-tuna/
+
+[315/351] Processing recipe_0315.json - Publication date: 2026-01-17
+  Success: Created post 'Bokchoy Shitake Veggies' (ID: 67cd7e06edc031000157541e)
+  URL: https://healthyfied.me/bokchoy-shitake-veggies/
+
+[316/351] Processing recipe_0316.json - Publication date: 2026-01-18
+  Success: Created post 'Eggplant Bellpepper Pesto' (ID: 67cd7e09edc0310001575427)
+  URL: https://healthyfied.me/eggplant-bellpepper-pesto/
+
+[317/351] Processing recipe_0317.json - Publication date: 2026-01-19
+  Success: Created post 'pesto potato' (ID: 67cd7e0cedc0310001575430)
+  URL: https://healthyfied.me/pesto-potato/
+
+[318/351] Processing recipe_0318.json - Publication date: 2026-01-20
+  Success: Created post '2018/11/02 Lunch Vegetables' (ID: 67cd7e0fedc031000157543a)
+  URL: https://healthyfied.me/2018-11-02-lunch-vegetables/
+
+[319/351] Processing recipe_0319.json - Publication date: 2026-01-21
+  Success: Created post 'Broccoli White Beech Mushrooms' (ID: 67cd7e12edc0310001575443)
+  URL: https://healthyfied.me/broccoli-white-beech-mushrooms/
+
+[320/351] Processing recipe_0320.json - Publication date: 2026-01-22
+  Success: Created post 'Yellow Pepper With Sunflower Seeds' (ID: 67cd7e15edc031000157544d)
+  URL: https://healthyfied.me/yellow-pepper-with-sunflower-seeds/
+
+[321/351] Processing recipe_0321.json - Publication date: 2026-01-23
+  Success: Created post 'Mango Ensalada' (ID: 67cd7e18edc0310001575457)
+  URL: https://healthyfied.me/mango-ensalada/
+
+[322/351] Processing recipe_0322.json - Publication date: 2026-01-24
+  Success: Created post '2018/11/07 Red Cabbage and Bellpepper in Tomato Puree' (ID: 67cd7e1cedc0310001575461)
+  URL: https://healthyfied.me/2018-11-07-red-cabbage-and-bellpepper-in-tomato-puree/
+
+[323/351] Processing recipe_0323.json - Publication date: 2026-01-25
+  Success: Created post 'Zucchini Corn Radish Salad' (ID: 67cd7e1fedc031000157546b)
+  URL: https://healthyfied.me/zucchini-corn-radish-salad/
+
+[324/351] Processing recipe_0324.json - Publication date: 2026-01-26
+  Success: Created post 'Teryaki Onion' (ID: 67cd7e22edc0310001575475)
+  URL: https://healthyfied.me/teryaki-onion/
+
+[325/351] Processing recipe_0325.json - Publication date: 2026-01-27
+  Success: Created post 'Roast Turkey Salad' (ID: 67cd7e25edc031000157547e)
+  URL: https://healthyfied.me/roast-turkey-salad/
+
+[326/351] Processing recipe_0326.json - Publication date: 2026-01-28
+  Success: Created post 'Salad Stop Create Your Own' (ID: 67cd7e28edc0310001575487)
+  URL: https://healthyfied.me/salad-stop-create-your-own/
+
+[327/351] Processing recipe_0327.json - Publication date: 2026-01-29
+  Success: Created post 'Green Bellpepper and Carrot' (ID: 67cd7e2bedc0310001575491)
+  URL: https://healthyfied.me/green-bellpepper-and-carrot/
+
+[328/351] Processing recipe_0328.json - Publication date: 2026-01-30
+  Success: Created post 'Coconut Carrots' (ID: 67cd7e2eedc031000157549b)
+  URL: https://healthyfied.me/coconut-carrots/
+
+[329/351] Processing recipe_0329.json - Publication date: 2026-01-31
+  Success: Created post 'Coconut Amino Garlic Broccoli' (ID: 67cd7e32edc03100015754a5)
+  URL: https://healthyfied.me/coconut-amino-garlic-broccoli/
+
+[330/351] Processing recipe_0330.json - Publication date: 2026-02-01
+  Success: Created post 'Enoki Carrots' (ID: 67cd7e35edc03100015754af)
+  URL: https://healthyfied.me/enoki-carrots/
+
+[331/351] Processing recipe_0331.json - Publication date: 2026-02-02
+  Success: Created post 'Colorful Ensalada' (ID: 67cd7e38edc03100015754b9)
+  URL: https://healthyfied.me/colorful-ensalada/
+
+[332/351] Processing recipe_0332.json - Publication date: 2026-02-03
+  Success: Created post 'Refreshing Salsa' (ID: 67cd7e3bedc03100015754c3)
+  URL: https://healthyfied.me/refreshing-salsa/
+
+[333/351] Processing recipe_0333.json - Publication date: 2026-02-04
+  Success: Created post 'Camomile Cranberry Green Milk Tea' (ID: 67cd7e3eedc03100015754cd)
+  URL: https://healthyfied.me/camomile-cranberry-green-milk-tea/
+
+[334/351] Processing recipe_0334.json - Publication date: 2026-02-05
+  Success: Created post 'Zucchini Chips' (ID: 67cd7e41edc03100015754d7)
+  URL: https://healthyfied.me/zucchini-chips/
+
+[335/351] Processing recipe_0335.json - Publication date: 2026-02-06
+  Success: Created post 'Tomato Mushrooms' (ID: 67cd7e44edc03100015754e0)
+  URL: https://healthyfied.me/tomato-mushrooms/
+
+[336/351] Processing recipe_0336.json - Publication date: 2026-02-07
+  Success: Created post 'Garlic Lemony Caulirice' (ID: 67cd7e47edc03100015754ea)
+  URL: https://healthyfied.me/garlic-lemony-caulirice/
+
+[337/351] Processing recipe_0337.json - Publication date: 2026-02-08
+  Success: Created post 'Eggplant Egg' (ID: 67cd7e4aedc03100015754f4)
+  URL: https://healthyfied.me/eggplant-egg/
+
+[338/351] Processing recipe_0338.json - Publication date: 2026-02-09
+  Success: Created post 'Herbed Broccoli and Cauliflower' (ID: 67cd7e4dedc03100015754fe)
+  URL: https://healthyfied.me/herbed-broccoli-and-cauliflower/
+
+[339/351] Processing recipe_0339.json - Publication date: 2026-02-10
+  Success: Created post 'Cucumber Ensalada' (ID: 67cd7e50edc0310001575508)
+  URL: https://healthyfied.me/cucumber-ensalada/
+
+[340/351] Processing recipe_0340.json - Publication date: 2026-02-11
+  Success: Created post 'Eggplant in Caramelized Tomato' (ID: 67cd7e54edc0310001575512)
+  URL: https://healthyfied.me/eggplant-in-caramelized-tomato/
+
+[341/351] Processing recipe_0341.json - Publication date: 2026-02-12
+  Success: Created post 'Zucchini Tomato Thyme Skillet' (ID: 67cd7e56edc031000157551c)
+  URL: https://healthyfied.me/zucchini-tomato-thyme-skillet/
+
+[342/351] Processing recipe_0342.json - Publication date: 2026-02-13
+  Success: Created post 'Ensaladang Kamatis' (ID: 67cd7e5aedc0310001575525)
+  URL: https://healthyfied.me/ensaladang-kamatis/
+
+[343/351] Processing recipe_0343.json - Publication date: 2026-02-14
+  Success: Created post 'Adobong Sitaw' (ID: 67cd7e5dedc031000157552f)
+  URL: https://healthyfied.me/adobong-sitaw/
+
+[344/351] Processing recipe_0344.json - Publication date: 2026-02-15
+  Success: Created post 'Traditional Filipino Ginisang Upo (Sautéed Bottle Gourd with Tomatoes)' (ID: 67cd7e60edc0310001575538)
+  URL: https://healthyfied.me/traditional-filipino-ginisang-upo-sauteed-bottle-gourd-with-tomatoes/
+
+[345/351] Processing recipe_0345.json - Publication date: 2026-02-16
+  Success: Created post 'Orange Amino Sauce' (ID: 67cd7e63edc0310001575542)
+  URL: https://healthyfied.me/orange-amino-sauce/
+
+[346/351] Processing recipe_0346.json - Publication date: 2026-02-17
+  Success: Created post 'Crispy Baked Kale Chips with Olive Oil (Low-Carb Snack)' (ID: 67cd7e66edc031000157554c)
+  URL: https://healthyfied.me/crispy-baked-kale-chips-with-olive-oil-low-carb-snack/
+
+[347/351] Processing recipe_0347.json - Publication date: 2026-02-18
+  Success: Created post 'Easy Sautéed Garlic Butter Asparagus (Low-Carb Side Dish)' (ID: 67cd7e69edc0310001575556)
+  URL: https://healthyfied.me/easy-sauteed-garlic-butter-asparagus-low-carb-side-dish/
+
+[348/351] Processing recipe_0348.json - Publication date: 2026-02-19
+  Success: Created post 'Simple Glazed Young Corn with Coconut Aminos and Orange Juice' (ID: 67cd7e6eedc0310001575563)
+  URL: https://healthyfied.me/simple-glazed-young-corn-with-coconut-aminos-and-orange-juice/
+
+[349/351] Processing recipe_0349.json - Publication date: 2026-02-20
+  Success: Created post 'Quick Low-Carb Shirataki Noodles with Black Olives and Coconut Aminos' (ID: 67cd7e71edc0310001575570)
+  URL: https://healthyfied.me/quick-low-carb-shirataki-noodles-with-black-olives-and-coconut-aminos/
+
+[350/351] Processing recipe_0350.json - Publication date: 2026-02-21
+  Success: Created post 'Fresh Rainbow Salsa with Yellow Bell Peppers and Thyme (Low-Calorie)' (ID: 67cd7e76edc031000157557c)
+  URL: https://healthyfied.me/fresh-rainbow-salsa-with-yellow-bell-peppers-and-thyme-low-calorie/
+
+[351/351] Processing recipe_template.json - Publication date: 2026-02-22
+  Success: Created post 'Recipe Title' (ID: 67cd7e7aedc031000157558e)
+  URL: https://healthyfied.me/recipe-title/
+

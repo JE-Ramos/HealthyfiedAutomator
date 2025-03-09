@@ -1,0 +1,101 @@
+{
+  "post_id": "65d49752977bcd0001feee41",
+  "title": "Naked Burrito",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Naked Burrito",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 teaspoon, Salt",
+      "0.25 tsp(s), Spices, cumin seed",
+      "0.25 tsp, ground, Pepper",
+      "0.50 Tsp, Ground Dried Oregano",
+      "1 kg(s), Cauliflower - Raw",
+      "1 tsp, Spices, marjoram, dried",
+      "1 tsp, Spices, paprika",
+      "15 gram, Fresh",
+      "3 tablespoon, Parmesan",
+      "30 gram(s), Butter - Unsalted",
+      "30.00 g, Red Onion",
+      "45 g, Red Capsicum",
+      "500 grams, Lean Beef"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "384",
+      "carbohydrateContent": "21",
+      "fiberContent": "10",
+      "sugarContent": "9",
+      "sodiumContent": "415",
+      "proteinContent": "48",
+      "fatContent": "15",
+      "saturatedFatContent": "7",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the cauliflower under cold water and chop it into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the red capsicum and red onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, melt the butter over medium heat and sauté the cauliflower until it starts to soften, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the lean beef to the pan, breaking it apart with a spoon. Cook until browned, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the spices (marjoram, oregano, paprika, cumin), salt, and pepper. Cook for an additional 2 minutes to blend the flavors."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced capsicum and red onion to the pan. Cook until they are soft, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the Parmesan cheese over the burrito mix and stir until melted and well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve hot, garnished with fresh herbs if desired."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-protein",
+      "high-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Naked Burrito packs a punch with its high-protein, high-fiber ingredients while keeping an eye on health. Seasoned with spices like marjoram, dried oregano, paprika, and cumin, it's a flavorful take on healthy eating. Perfect for those on a quest for Healthy Recipes that don't skimp on taste!",
+    "prepTime": "PT10M",
+    "cookTime": "PT22M",
+    "totalTime": "PT32M",
+    "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_014_65d49752977bcd0001feee41.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/014_65d49752977bcd0001feee41.json",
+  "original_files": [
+    "014_65d49752977bcd0001feee41.json",
+    "011_65d49752977bcd0001feee41.json"
+  ]
+}

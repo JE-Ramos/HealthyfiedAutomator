@@ -1,0 +1,86 @@
+{
+  "post_id": "65d496a7977bcd0001feeab6",
+  "title": "Creamy Honey Mustard Tuna Corn Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Creamy Honey Mustard Tuna Corn Salad",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.50 ear, small (5-1/2\" to 6-1/2\" long), Corn, sweet, white, raw",
+      "1 cup  (72gm), Ice Berg Lettuce",
+      "1 packet, Sugar Substitute",
+      "1 wedge, Cream Cheese Wedge",
+      "10 g, mustard",
+      "15 g, All-Bran Regular",
+      "90 g, Tuna Fillet In Water"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "210",
+      "carbohydrateContent": "20",
+      "fiberContent": "4",
+      "sugarContent": "7",
+      "sodiumContent": "415",
+      "proteinContent": "21",
+      "fatContent": "5",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Ice Berg Lettuce under cold water and chop it into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain the Tuna Fillet In Water and flake it into a mixing bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil the corn ear for 7 minutes. Once cool, cut the kernels off the cob."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crumble the All-Bran Regular into smaller pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Soften the Cream Cheese Wedge and mix it with 10 g of mustard and 1 packet of Sugar Substitute to create the honey mustard dressing."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the lettuce, flaked tuna, corn kernels, and crumbled All-Bran in a salad bowl. Drizzle with the creamy honey mustard dressing and toss until everything is evenly coated. Serve immediately. Cooking time: 7 minutes"
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "high-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a high-protein, high-sodium delight with our Creamy Honey Mustard Tuna Corn Salad. This healthified recipe transforms simple, nutritious ingredients into a flavorful salad that's perfect for those seeking wholesome yet hearty dishes. The creamy honey mustard dressing, combined with the richness of tuna and the sweetness of corn, creates a satisfying meal that's both flavorful and beneficial.",
+    "prepTime": "PT10M",
+    "cookTime": "PT7M",
+    "totalTime": "PT17M",
+    "keywords": "high-protein,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_229_65d496a7977bcd0001feeab6.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/229_65d496a7977bcd0001feeab6.json",
+  "original_files": [
+    "229_65d496a7977bcd0001feeab6.json",
+    "226_65d496a7977bcd0001feeab6.json"
+  ]
+}

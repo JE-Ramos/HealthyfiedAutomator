@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Ground Beef with Green Beans",
+  "image": [
+    "https://healthyfied.me/images/recipes/ground-beef-with-green-beans.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Ground Beef with Green Beans recipe is perfect for those seeking a healthy, high-protein, and low-carb meal. Ideal for anyone looking to enjoy a nutritious dish without sacrificing flavor, this recipe combines the savory taste of ground beef with the crisp freshness of green beans, all seasoned with the rich depth of oyster sauce and the aromatic sharpness of garlic and onions. Whether you're aiming for a healthier lifestyle or just want to explore new healthy recipes, this dish is sure to delight.",
+  "prepTime": "PT10M",
+  "cookTime": "PT18M",
+  "totalTime": "PT28M",
+  "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "6",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "289",
+    "carbohydrateContent": "10",
+    "fiberContent": "3",
+    "sugarContent": "3",
+    "sodiumContent": "173",
+    "proteinContent": "23",
+    "fatContent": "17",
+    "saturatedFatContent": "6",
+    "monounsaturatedFatContent": "8",
+    "polyunsaturatedFatContent": "2",
+    "unsaturatedFatContent": 10,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.06  tsp Salt",
+    "1  cup Red,Sweet",
+    "1 large White onion",
+    "1  tbsp Oyster Sauce",
+    "1  tsp ground, Black pepper",
+    "12 clove , Garlic",
+    "300 g Green beans",
+    "500 g Pork, fresh, ground, cooked"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the ingredients: Dice the red, sweet onion, mince the garlic cloves, and cut the green beans into bite-sized pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet over medium heat, cook the ground pork for about 10 minutes or until browned. Drain excess fat and set aside.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the same skillet, add a tablespoon of oil if needed, and sauté the diced onion and minced garlic until they're soft and fragrant, about 3 minutes.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cut green beans to the skillet and cook for about 5 minutes until they are tender yet crisp.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return the cooked ground pork to the skillet. Stir in the oyster sauce, salt, and ground black pepper, cooking for an additional 5 minutes to let the flavors meld.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

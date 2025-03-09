@@ -1,0 +1,80 @@
+{
+  "post_id": "65d4964f977bcd0001fee8d2",
+  "title": "Egg Garlic Spread",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Egg Garlic Spread",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "0.25 teaspoon, Salt",
+      "1 teaspoon, Garlic powder",
+      "1 teaspoon, Red bell pepper",
+      "12 gram, Olive oil",
+      "2 large, Egg",
+      "30 gram, Greek Yogurt, Plain, Nonfat, 0%"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "139",
+      "carbohydrateContent": "2",
+      "fiberContent": "0",
+      "sugarContent": "1",
+      "sodiumContent": "368",
+      "proteinContent": "8",
+      "fatContent": "11",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "6",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 8,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Start by boiling the eggs until they are hard-boiled, approximately 10 minutes, then cool, peel, and finely chop them."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the red bell pepper into fine pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, combine the chopped eggs, Greek yogurt, diced red bell pepper, garlic powder, and salt. Stir until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the olive oil in a skillet over medium heat and then sauté the egg mixture for about 5 minutes, until heated through and flavors meld."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "diabetic-friendly",
+      "keto",
+      "low carb",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into a world of flavor with our Healthyfied Egg Garlic Spread! This keto, low-carb, diabetic-friendly, and low-sugar recipe is perfect for those looking to enjoy a healthy yet delicious option. Ideal for anyone following a strict dietary regimen but not willing to compromise on taste.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "keto,low carb,diabetic-friendly,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_075_65d4964f977bcd0001fee8d2.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/075_65d4964f977bcd0001fee8d2.json",
+  "original_files": [
+    "075_65d4964f977bcd0001fee8d2.json",
+    "072_65d4964f977bcd0001fee8d2.json"
+  ]
+}

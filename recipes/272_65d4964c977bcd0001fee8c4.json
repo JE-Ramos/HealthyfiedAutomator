@@ -1,0 +1,85 @@
+{
+  "post_id": "65d4964c977bcd0001fee8c4",
+  "title": "2018/11/07 Dinner Adlai Adobo",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/11/07 Dinner Adlai Adobo",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.19 cup, Blanched Green Beans",
+      "60.00 g, Red Onion",
+      "138 gram, Bellpepper",
+      "95 g, Adlai Rice (Job's Tears)",
+      "2 tablespoon, Coconut Amino",
+      "15.00 g, Garlic, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "138",
+      "carbohydrateContent": "29",
+      "fiberContent": "1",
+      "sugarContent": "3",
+      "sodiumContent": "94",
+      "proteinContent": "5",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep your ingredients: Blanch the green beans, chop the red onion, dice the bell pepper, and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Adlai Rice under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Adlai Rice according to package instructions until tender, about 20 minutes, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, heat a tablespoon of oil over medium heat and saut\u00e9 the red onion, bell pepper, and minced garlic until they're softened, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the blanched green beans to the pan and continue to saut\u00e9 for another 3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the coconut amino into the vegetable mixture and let it simmer for about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cooked Adlai Rice with the vegetable and coconut amino mixture. Mix well and cook together for another 5 minutes."
+      }
+    ],
+    "tags": [
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This 2018/11/07 Dinner Adlai Adobo recipe is perfect for those who are looking for a healthy yet delicious meal option. With its low-sodium and low-sugar content, it fits wonderfully into a diet focusing on healthy living. Enjoy a dish that doesn't compromise on flavor while adhering to your health goals.",
+    "prepTime": "PT10M",
+    "cookTime": "PT35M",
+    "totalTime": "PT45M",
+    "keywords": "low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "post_id": "65d497a7977bcd0001feefb9",
+  "title": "Keto Almond Pita Egg Salami",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "keto almond pita egg salami",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "2 piece, Almond Cauliflower Pita",
+      "0.50 slice or wedge, Lemon",
+      "2 slice, Salami, beef",
+      "5 gram, Roman Garlic Spread",
+      "1 large, Egg",
+      "5 gram, Spread"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "525",
+      "carbohydrateContent": "5",
+      "fiberContent": "0",
+      "sugarContent": "1",
+      "sodiumContent": "664",
+      "proteinContent": "25",
+      "fatContent": "45",
+      "saturatedFatContent": "7",
+      "monounsaturatedFatContent": "7",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 8,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep your ingredients: Slice the lemon into wedges, cut the salami slices if not already done, measure the Roman garlic spread, and crack the egg into a bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a non-stick pan over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toast the almond cauliflower pita in the pan until crisp, about 2 minutes per side."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the pita and add a little oil or butter to the pan. Cook the egg to your preference, about 3-4 minutes for a runny yolk or 5-6 minutes for fully set."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the Roman garlic spread evenly over the toasted almond cauliflower pita."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the spread with salami slices."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the egg is cooked to your liking, place it on top of the salami."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Squeeze the lemon wedge over the egg and pita for added zest. Serve immediately."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [],
+    "description": "Indulge in a delightful, high-protein and low-carb meal with our Keto Almond Pita Egg Salami recipe. Perfect for those looking to maintain a healthy lifestyle without compromising on taste. This recipe is packed with the goodness of almond cauliflower pita, topped with savory salami, a sumptuous egg, and a delectable Roman garlic spread. Ideal for anyone following a health-conscious diet while managing their sodium and sugar intake.",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

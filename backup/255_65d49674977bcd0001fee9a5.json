@@ -1,0 +1,77 @@
+{
+  "post_id": "65d49674977bcd0001fee9a5",
+  "title": "Pesto Carrot Adlai",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Pesto Carrot Adlai",
+    "recipeYield": "6",
+    "recipeIngredient": [
+      "190 g, Adlai Rice (Job's Tears)",
+      "2 Tbsp, Pesto Sauce (Updated)",
+      "93 g, Yellow, Raw",
+      "10.00 g, Garlic, raw",
+      "1 tbsp, Fish oil, salmon",
+      "2 tbsp, Fresh Squeezed Lemon Juice",
+      "69.00 g, Carrots, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "164",
+      "carbohydrateContent": "26",
+      "fiberContent": "1",
+      "sugarContent": "1",
+      "sodiumContent": "75",
+      "proteinContent": "5",
+      "fatContent": "5",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Adlai Rice under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Adlai Rice according to package instructions until tender, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the yellow carrot and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, heat the fish oil over medium heat and saut\u00e9 the diced carrot and minced garlic until they're softened, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cooked Adlai Rice with the carrot and garlic mixture. Stir in the pesto sauce and fresh squeezed lemon juice until well combined."
+      }
+    ],
+    "tags": [
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Pesto Carrot Adlai recipe is perfect for those seeking a healthy and delicious meal option. With its low-sodium and low-sugar content, it's a heart-healthy choice that doesn't compromise on flavor. Ideal for anyone looking to enjoy healthy recipes without sacrificing taste.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "keywords": "low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

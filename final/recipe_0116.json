@@ -1,0 +1,121 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Three Cheese Halibut Red Pesto Pasta",
+  "image": [
+    "https://healthyfied.me/images/recipes/three-cheese-halibut-red-pesto-pasta.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Three Cheese Halibut Red Pesto Pasta is a healthified gourmet delight, perfect for those who enjoy high-protein and flavorful meals. With a unique combination of tender halibut, rich cheeses including mozzarella, parmesan, and cream cheese, and the vibrant touch of red cabbage and tomatoes, this dish is not just nutritious but bursting with flavors. Dive into a healthy recipe that doesn't compromise on taste!",
+  "prepTime": "PT15M",
+  "cookTime": "PT27M",
+  "totalTime": "PT42M",
+  "keywords": "high-protein,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "557",
+    "carbohydrateContent": "37",
+    "fiberContent": "3",
+    "sugarContent": "7",
+    "sodiumContent": "585",
+    "proteinContent": "34",
+    "fatContent": "31",
+    "saturatedFatContent": "9",
+    "monounsaturatedFatContent": "14",
+    "polyunsaturatedFatContent": "2",
+    "unsaturatedFatContent": 16,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup(s) Extra Virgin Olive Oil",
+    "0.25  teaspoon Salt",
+    "0.25  tsp ground, Pepper",
+    "100 g Calendula Noodles",
+    "250 g Cabbage, red, raw",
+    "30 g Mozzarella Cheese",
+    "30 g Parmesan",
+    "30 g Garlic, raw",
+    "300 g Halibut",
+    "50 g Generic",
+    "80 g cream cheese (original)",
+    "80 g Tomatoes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Begin by washing the red cabbage under cold water and then thinly slicing it.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the tomatoes and garlic finely.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the halibut into medium-sized pieces, then season with salt and pepper.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Grate the mozzarella and Parmesan cheese.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Boil the Calendula Noodles according to the package instructions, then drain and set aside.",
+      "time": "PT10M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet, heat the extra virgin olive oil over medium heat and sauté the chopped garlic until fragrant.",
+      "time": "PT2M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the halibut pieces to the skillet and cook until they are browned and cooked through.",
+      "time": "PT10M",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sliced cabbage and chopped tomatoes to the skillet, cooking until they are slightly softened.",
+      "time": "PT5M",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the cream cheese, mozzarella, and Parmesan until the cheeses melt and the mixture becomes creamy.",
+      "name": "Step 9"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cooked Calendula Noodles to the skillet, tossing everything together until the noodles are well coated with the cheesy pesto sauce.",
+      "name": "Step 10"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Adjust the seasoning with salt and pepper to taste, then serve hot.",
+      "name": "Step 11"
+    }
+  ],
+  "suitableForDiet": []
+}

@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Condo Dinner",
+  "image": [
+    "https://healthyfied.me/images/recipes/condo-dinner.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Condo Dinner recipe is perfect for those seeking a healthy yet satisfying meal. Packed with high-protein, low-carb ingredients, it's designed to fit into a health-conscious diet without sacrificing flavor. Featuring eggs, butter, cream cheese, sausage, kiwi, and a delightful mix of vegetables, it's a delightful way to enjoy a nutritious dinner that’s also high in sodium for those who need it.",
+  "prepTime": "PT10M",
+  "cookTime": "PT12M",
+  "totalTime": "PT22M",
+  "keywords": "high-protein,low-carb,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "861",
+    "carbohydrateContent": "15",
+    "fiberContent": "2",
+    "sugarContent": "9",
+    "sodiumContent": "1685",
+    "proteinContent": "34",
+    "fatContent": "64",
+    "saturatedFatContent": "27",
+    "monounsaturatedFatContent": "5",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 6,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  cup Vegetable Chopseuy",
+    "1 medium Kiwis, Kiwi",
+    "1  tbsp Butter",
+    "1  tbsp Cream cheese",
+    "2 g (50g), Eggs",
+    "2 piece Sausage",
+    "3  oz Sausage"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Begin by dicing the sausage into bite-sized pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel and slice the kiwi into thin rounds.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the Vegetable Chopseuy by washing and cutting the vegetables into small chunks.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet, melt the butter over medium heat. Once melted, add the diced sausage pieces and sauté for about 5 minutes until they are nicely browned.",
+      "time": "PT5M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Crack the eggs into a bowl, add the cream cheese, and whisk together until the mixture is smooth.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the egg mixture over the sautéed sausage in the skillet. Cook for about 4 minutes, gently scrambling the eggs with a spatula until they are just set.",
+      "time": "PT4M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lastly, stir in the Vegetable Chopseuy into the skillet and cook for an additional 3 minutes, until the vegetables are heated through but still crisp.",
+      "time": "PT3M",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the scramble on a plate and garnish with the fresh kiwi slices on the side.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": []
+}

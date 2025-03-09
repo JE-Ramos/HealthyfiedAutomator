@@ -1,0 +1,89 @@
+{
+  "post_id": "65d49643977bcd0001fee890",
+  "title": "Beef Caldereta",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Beef Caldereta",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 tsp(s), Salt",
+      "102 g, Bellpepper Red",
+      "133 g, Passata",
+      "168 g, Beef Brisket-raw",
+      "2 tsp, ground (2.3 g), Black Pepper - Ground",
+      "30 g, Pickle Chips",
+      "53 g, Capsicum - Green"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "132",
+      "carbohydrateContent": "10",
+      "fiberContent": "2",
+      "sugarContent": "7",
+      "sodiumContent": "92",
+      "proteinContent": "13",
+      "fatContent": "4",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your ingredients: dice the bell pepper, capsicum, and pickle chips; measure out the passata, black pepper, and salt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the beef brisket into small, bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, combine the beef brisket with salt and black pepper. Cook over medium heat until the beef is browned, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced bell pepper, capsicum, pickle chips, and passata to the pot. Stir well to combine.",
+        "time": "5 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover the pot and let the caldereta simmer on low heat until the beef is tender, about 45 minutes.",
+        "time": "45 minutes"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Adjust the seasoning with more salt and black pepper, if necessary, before serving."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Healthyfied Beef Caldereta recipe is perfect for those following a low-carb and low-sodium diet. Designed with health in mind, it remains bursting with flavors, making it a perfect choice for anyone looking to enjoy a healthier version of this classic dish.",
+    "prepTime": "PT20M",
+    "cookTime": "PT60M",
+    "totalTime": "PT80M",
+    "keywords": "low-carb,low-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_077_65d49643977bcd0001fee890.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/077_65d49643977bcd0001fee890.json",
+  "original_files": [
+    "077_65d49643977bcd0001fee890.json",
+    "074_65d49643977bcd0001fee890.json"
+  ]
+}

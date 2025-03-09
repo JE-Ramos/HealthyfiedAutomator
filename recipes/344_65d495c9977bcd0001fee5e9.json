@@ -1,0 +1,82 @@
+{
+  "post_id": "65d495c9977bcd0001fee5e9",
+  "title": "Zucchini Tomato Thyme Skillet",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Zucchini Tomato Thyme Skillet",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "300 gram, Steamed",
+      "160.00 grams, Tomatoes",
+      "0.25 tsp(s), Salt",
+      "1 tsp, ground (2.3 g), Black Pepper - Ground",
+      "1 tsp, Thyme, fresh",
+      "1 tps, Coconut Aminos"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "31",
+      "carbohydrateContent": "7",
+      "fiberContent": "2",
+      "sugarContent": "3",
+      "sodiumContent": "284",
+      "proteinContent": "1",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your vegetables by slicing the zucchini into thin rounds and chopping the tomatoes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the sliced zucchini with salt, ground black pepper, and fresh thyme."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a skillet over medium heat and add a dash of coconut aminos to prevent sticking."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Arrange the seasoned zucchini slices in the skillet and let them cook for about 5 minutes until they are slightly tender.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped tomatoes to the skillet and cook for an additional 5 minutes until the tomatoes are just softened and the zucchini is fully cooked.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the dish with additional thyme before serving warm."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "The Zucchini Tomato Thyme Skillet is a vibrant, low-carb and low-sugar dish perfect for those looking to enjoy healthy yet flavorful options. With the freshness of thyme and the tanginess of tomatoes, it's a healthified recipe that doesn't compromise on taste.",
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

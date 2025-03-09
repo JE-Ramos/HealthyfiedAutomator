@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Buttered Broccoli Cauliflower Carrots",
+  "image": [
+    "https://healthyfied.me/images/recipes/buttered-broccoli-cauliflower-carrots.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Buttered Broccoli Cauliflower Carrots recipe is a testament to eating well and staying healthy. With its high fiber content, this dish fits perfectly into a diet aiming for health and wellness. The combination of tender broccoli, cauliflower, and carrots, all seasoned and buttered to perfection, makes it a healthy choice for anyone looking to maintain a nutritious diet while indulging in some high-sodium, high-taste goodness.",
+  "prepTime": "PT15M",
+  "cookTime": "PT12M",
+  "totalTime": "PT27M",
+  "keywords": "high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "5",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Boiling",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "161",
+    "carbohydrateContent": "22",
+    "fiberContent": "8",
+    "sugarContent": "10",
+    "sodiumContent": "646",
+    "proteinContent": "6",
+    "fatContent": "8",
+    "saturatedFatContent": "4",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  teaspoon Salt",
+    "1  tsp ground, Pepper",
+    "3  tbsp Butter - Salted",
+    "500 g Broccoli, raw",
+    "500 g Carrots, raw",
+    "500 g Cauliflower - Raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash the broccoli, cauliflower, and carrots under cold water.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the broccoli and cauliflower into florets, and peel and slice the carrots.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring a large pot of water to a boil. Add 1 teaspoon of salt.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Blanch the broccoli and cauliflower florets and carrot slices in boiling water for 3 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the vegetables and rinse under cold water to stop the cooking process.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet, melt the butter over medium heat.",
+      "time": "PT5M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the blanched vegetables to the skillet. Season with salt and pepper. Toss well to coat all the vegetables with butter.",
+      "time": "PT7M",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

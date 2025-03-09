@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Steamed Egg In Pork",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-steamed-egg-in-pork.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a healthier version of a classic with our Healthyfied Steamed Egg in Pork recipe. Perfect for those following a high-protein, low-carb diet, this dish offers a delightful experience without compromising on taste. Embracing a 'healthified' approach to cooking, this recipe is designed to cater to the nutritious needs of individuals looking for healthy recipes that don't sacrifice flavor for benefits.",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Steaming",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "223",
+    "carbohydrateContent": "2",
+    "fiberContent": "0",
+    "sugarContent": "1",
+    "sodiumContent": "477",
+    "proteinContent": "20",
+    "fatContent": "14",
+    "saturatedFatContent": "5",
+    "monounsaturatedFatContent": "6",
+    "polyunsaturatedFatContent": "3",
+    "unsaturatedFatContent": 9,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.06  teaspoon Salt",
+    "0.06  tsp Ground Black Pepper",
+    "0.25  cup Pork Broth",
+    "3 large Egg"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Crack the 3 large eggs into a bowl.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add 0.25 cup of pork broth to the eggs.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season with 0.06 tsp of ground black pepper and 0.06 teaspoon of salt. Whisk everything together until well combined.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the egg mixture through a fine strainer into another bowl to ensure a smooth consistency.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the bowl with foil or a lid designed for steaming.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fill a steamer pot with water and bring to a boil. Place the bowl inside the steamer, reduce heat to a gentle simmer, and steam for about 12 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "After 12 minutes, check if the egg is set by gently shaking the bowl. If it wobbles slightly in the center, cover and steam for an additional 2-3 minutes.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Carefully remove the bowl from the steamer and let it cool for a minute before serving.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Zucchini Carrot Tomato Pesto Pasta",
+  "image": [
+    "https://healthyfied.me/images/recipes/zucchini-carrot-tomato-pesto-pasta.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Zucchini Carrot Tomato Pesto Pasta is perfect for those who are looking for a low-sodium, high-fiber meal option. Not only is it packed with fresh vegetables like zucchini, carrots, tomatoes, and eggplant, but it's also a testament to how healthy recipes can still be incredibly delicious. It's a wonderful choice for anyone aiming to add more nutritious dishes to their repertoire without sacrificing taste.",
+  "prepTime": "PT20M",
+  "cookTime": "PT25M",
+  "totalTime": "PT45M",
+  "keywords": "low-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "2",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Boiling",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "329",
+    "carbohydrateContent": "24",
+    "fiberContent": "7",
+    "sugarContent": "9",
+    "sodiumContent": "47",
+    "proteinContent": "6",
+    "fatContent": "30",
+    "saturatedFatContent": "4",
+    "monounsaturatedFatContent": "20",
+    "polyunsaturatedFatContent": "3",
+    "unsaturatedFatContent": 23,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup(s) Extra Virgin Olive Oil",
+    "1  cup Chopped, Red Onion",
+    "1 medium Carrots, raw",
+    "100 g Fresh---100g",
+    "100 g Eggplant Raw",
+    "260 g Zucchini",
+    "4 small Tomato-whole, Small",
+    "4 clove Garlic, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash and prepare your vegetables: slice the zucchini into thin strips, peel and slice the carrot, chop the red onion, mince the garlic, dice the tomatoes, and slice the eggplant.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot of boiling salted water, cook pasta until al dente, about 8 minutes; drain and set aside.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet, heat the olive oil over medium heat. Add the chopped onion and minced garlic, sautéing until they're soft and fragrant, about 5 minutes.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sliced zucchini, carrot, and eggplant to the skillet. Cook, stirring occasionally, until the vegetables are tender, about 10 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the diced tomatoes and cook for an additional 5 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cooked pasta to the skillet with the vegetable mixture. Toss everything together with your choice of pesto sauce until well combined. Heat through for a couple of minutes.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

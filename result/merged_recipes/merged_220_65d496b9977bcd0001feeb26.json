@@ -1,0 +1,94 @@
+{
+  "post_id": "65d496b9977bcd0001feeb26",
+  "title": "Chia Almond Pudding",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Chia Almond Pudding",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.50 Cup (240ML), Almond Milk - Original",
+      "0.50 medium apple, Apples",
+      "1 tbsp, Chia Seed",
+      "15 g, Almonds",
+      "15.00 g, Grapes - Raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "225",
+      "carbohydrateContent": "23",
+      "fiberContent": "10",
+      "sugarContent": "14",
+      "sodiumContent": "81",
+      "proteinContent": "6",
+      "fatContent": "12",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "7",
+      "polyunsaturatedFatContent": "4",
+      "unsaturatedFatContent": 11,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Measure 1 tablespoon of Chia Seeds."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Measure 0.50 cup (240ml) of Almond Milk - Original."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash and dice half a medium apple."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse 15 grams of grapes under cold water and pat dry."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Measure 15 grams of almonds."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine chia seeds with almond milk. Stir well and let it sit for 5 minutes to allow the chia seeds to start absorbing the liquid."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced apples, grapes, and almonds to the chia mixture. Stir until all ingredients are well combined.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover the bowl with a lid or plastic wrap and refrigerate for at least 2 hours or overnight to let the pudding set."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "low-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Chia Almond Pudding is a perfect choice for anyone looking to enjoy a low-sodium, high-fiber meal that doesn't compromise on taste. Part of our Healthy Recipes collection, it's meticulously designed to cater to those who are on a quest for healthified meal options. Delicious and nutritious, it's a delightful way to start your day or enjoy as a light snack.",
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "PT2H10M",
+    "keywords": "low-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_220_65d496b9977bcd0001feeb26.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/220_65d496b9977bcd0001feeb26.json",
+  "original_files": [
+    "220_65d496b9977bcd0001feeb26.json",
+    "217_65d496b9977bcd0001feeb26.json"
+  ]
+}

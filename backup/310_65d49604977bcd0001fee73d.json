@@ -1,0 +1,73 @@
+{
+  "post_id": "65d49604977bcd0001fee73d",
+  "title": "Shirataki Cashew Pesto",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Shirataki Cashew Pesto",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "3 tbsp(s), Cream Cheese Fluff (Keto)",
+      "0.25 cup, Almond Milk - Vanilla - Unsweetened",
+      "2 tbs, Pesto Sauce",
+      "2 tbsp, Cashews",
+      "0.25 package, Shirataki Noodles"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "81",
+      "carbohydrateContent": "2",
+      "fiberContent": "1",
+      "sugarContent": "0",
+      "sodiumContent": "98",
+      "proteinContent": "3",
+      "fatContent": "7",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Soak cashews in hot water for 20 minutes, then drain."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse shirataki noodles under cold water for 2 minutes then boil for 3 minutes. Drain and set aside to dry."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a blender, combine the cream cheese fluff, unsweetened vanilla almond milk, pesto sauce, and soaked cashews. Blend until smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss the shirataki noodles with the cashew pesto mixture until evenly coated.",
+        "time": "5 minutes"
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in the guilt-free pleasure of our Shirataki Cashew Pesto, a perfect blend for those following a low-carb, low-sodium, and low-sugar diet. This healthified recipe brings together the creamy softness of cream cheese fluff with the nutty crunch of cashews, all mixed into shirataki noodles for a deliciously healthy meal.",
+    "prepTime": "PT25M",
+    "cookTime": "PT8M",
+    "totalTime": "PT33M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

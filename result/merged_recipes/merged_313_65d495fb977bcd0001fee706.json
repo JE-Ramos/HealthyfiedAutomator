@@ -1,0 +1,103 @@
+{
+  "post_id": "65d495fb977bcd0001fee706",
+  "title": "Banana Blossom Fresh Spring Rolls",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Banana Blossom Fresh Spring Rolls",
+    "recipeYield": "10",
+    "recipeIngredient": [
+      "0.50 whole, Red Bellpepper",
+      "1 Thigh, Chicken Thigh",
+      "1 cup, banana blossom",
+      "1 medium onion, White Onion",
+      "1 medium, Carrots, raw",
+      "10 wraps, Spring Roll Wrapper",
+      "30 g, Yellow Bellpepper",
+      "30 gram, Lettuce (Iceberg)",
+      "6 clove, Garlic, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "70",
+      "carbohydrateContent": "11",
+      "fiberContent": "1",
+      "sugarContent": "1",
+      "sodiumContent": "84",
+      "proteinContent": "3",
+      "fatContent": "2",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the chicken thigh, carrots, yellow bell pepper, red bell pepper, garlic, and white onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Shred the banana blossom and prepare lettuce leaves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring a pot of water to a boil, add the chicken thigh slices, and cook for about 10 minutes or until fully cooked. Remove and set aside to cool."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, sauté the garlic and onion for about 5 minutes or until fragrant and translucent."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced carrots, yellow bell pepper, and red bell pepper to the pan and sauté for another 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the chicken, sautéed vegetables, and shredded banana blossom in a mixing bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Soak a spring roll wrapper in warm water for a few seconds until pliable."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place a lettuce leaf on the softened wrapper, then add a portion of the chicken and vegetable mixture. Roll tightly, tucking in the edges as you go."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Repeat with the remaining wrappers and filling."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Dive into the world of healthy eating with our Banana Blossom Fresh Spring Rolls. This delightful recipe is perfect for those following a low-carb, low-sodium, low-sugar diet. Made with chicken thigh, a variety of fresh vegetables, and the unique ingredient, banana blossom, each bite offers a burst of freshness. Perfect for health-conscious individuals looking for delicious, healthified recipes.",
+    "prepTime": "PT20M",
+    "cookTime": "PT15M",
+    "totalTime": "PT35M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_313_65d495fb977bcd0001fee706.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/313_65d495fb977bcd0001fee706.json",
+  "original_files": [
+    "313_65d495fb977bcd0001fee706.json",
+    "316_65d495fb977bcd0001fee706.json"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "post_id": "65d49670977bcd0001fee98e",
+  "title": "Tortang Dulong",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Tortang Dulong",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "10.00 g, Garlic, raw",
+      "15 grams, Onion",
+      "3 medium, Egg",
+      "305 grams, Silverfish"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "161",
+      "carbohydrateContent": "2",
+      "fiberContent": "0",
+      "sugarContent": "1",
+      "sodiumContent": "72",
+      "proteinContent": "25",
+      "fatContent": "6",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Silverfish under cold water until the water runs clear and let it drain."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely chop the 15 grams of onion and mince the 10 grams of garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, beat the 3 medium eggs until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the drained Silverfish, chopped onion, and minced garlic to the beaten eggs, gently stirring to ensure everything is evenly mixed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a non-stick skillet over medium heat and lightly oil it."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spoon the Silverfish and egg mixture into the skillet, forming small patties. Cook each side for about 3-4 minutes or until golden and cooked through."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Tortang Dulong is a high-protein, low-carb, low-sodium, and low-sugar take on a classic Filipino dish. Perfect for those looking for healthier yet satisfying meal options, the recipe transforms silverfish into a nutritious delight. This approach aligns with the Healthified and Healthy Recipes trend, ensuring a delicious way to maintain a balanced diet.",
+    "prepTime": "PT15M",
+    "cookTime": "PT8M",
+    "totalTime": "PT23M",
+    "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_258_65d49670977bcd0001fee98e.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/258_65d49670977bcd0001fee98e.json",
+  "original_files": [
+    "258_65d49670977bcd0001fee98e.json",
+    "255_65d49670977bcd0001fee98e.json"
+  ]
+}

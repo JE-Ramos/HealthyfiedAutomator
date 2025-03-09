@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Health102 Fruit Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/health102-fruit-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a refreshing and guilt-free Health102 Fruit Salad, perfect for those following a healthy lifestyle. Packed with high-fiber fruits like apple, watermelon, banana, cantaloupe, and honeydew melon, this salad is a delightful mix of sweet and crunchy textures. Sprinkled with cinnamon for an aromatic kick and nestled on a bed of green leaf lettuce, this low-sodium, healthified recipe is an excellent choice for anyone looking to enjoy a nutritious and delicious treat.",
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT20M",
+  "keywords": "low-sodium,high-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "423",
+    "carbohydrateContent": "113",
+    "fiberContent": "28",
+    "sugarContent": "65",
+    "sodiumContent": "69",
+    "proteinContent": "5",
+    "fatContent": "1",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  cup shredded, Lettuce, green leaf, raw",
+    "1 medium apple, Apples",
+    "1 g Bananas, raw",
+    "1  tsp Cinnamon Powder",
+    "150 g Melons, cantaloupe, raw",
+    "150 g Water Melon (S)",
+    "150 g ***honey Dew Melon***"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare your fruits: Core and dice the apple, cube the watermelon, slice the banana, cube the cantaloupe, and cube the honeydew melon.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, combine the diced apple, cubed watermelon, sliced banana, cubed cantaloupe, and cubed honeydew melon.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wash and shred the green leaf lettuce, then add it to the bowl with the fruits.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle the cinnamon powder over the fruits and lettuce, and gently toss the salad to ensure an even coating of cinnamon.",
+      "name": "Step 4"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

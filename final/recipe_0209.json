@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Tuna Sashimi Dinner",
+  "image": [
+    "https://healthyfied.me/images/recipes/tuna-sashimi-dinner.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Tuna Sashimi Dinner recipe is perfect for those who are looking for a healthy meal that is high in protein and low in carbs, sodium, and sugar. It's an ideal option for anyone dedicated to maintaining a nutritious diet without sacrificing flavor.",
+  "prepTime": "PT70M",
+  "cookTime": "PT0M",
+  "totalTime": "PT70M",
+  "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "235",
+    "carbohydrateContent": "0",
+    "fiberContent": "0",
+    "sugarContent": "0",
+    "sodiumContent": "59",
+    "proteinContent": "41",
+    "fatContent": "0",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "500 g Sashimi Tuna"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Ensure the Sashimi Tuna is fresh and of sushi-grade quality.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the tuna in the freezer for about an hour to make slicing easier.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the tuna from the freezer and, using a sharp knife, slice it into thin slices, about 1/8 inch thick.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange the tuna slices neatly on a serving plate.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Optionally, garnish with microgreens or a light drizzle of soy sauce and wasabi on the side for those who enjoy a bit of spice.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "http://schema.org/LowCarbDiet",
+    "http://schema.org/LowFatDiet",
+    "http://schema.org/LowSaltDiet"
+  ]
+}

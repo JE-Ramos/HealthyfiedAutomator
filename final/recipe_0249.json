@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Pesto Carrot Adlai",
+  "image": [
+    "https://healthyfied.me/images/recipes/pesto-carrot-adlai.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Pesto Carrot Adlai recipe is perfect for those seeking a healthy and delicious meal option. With its low-sodium and low-sugar content, it's a heart-healthy choice that doesn't compromise on flavor. Ideal for anyone looking to enjoy healthy recipes without sacrificing taste.",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "keywords": "low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "6",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "164",
+    "carbohydrateContent": "26",
+    "fiberContent": "1",
+    "sugarContent": "1",
+    "sodiumContent": "75",
+    "proteinContent": "5",
+    "fatContent": "5",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "1",
+    "polyunsaturatedFatContent": "2",
+    "unsaturatedFatContent": 3,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  tbsp Fish oil, salmon",
+    "10 g Garlic, raw",
+    "190 g Adlai Rice (Job's Tears)",
+    "2  tbsp Pesto Sauce (Updated)",
+    "2  tbsp Fresh Squeezed Lemon Juice",
+    "69 g Carrots, raw",
+    "93 g Yellow, Raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Adlai Rice under cold water until the water runs clear.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the Adlai Rice according to package instructions until tender, then set aside.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the yellow carrot and mince the garlic.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan, heat the fish oil over medium heat and sauté the diced carrot and minced garlic until they're softened, about 5 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the cooked Adlai Rice with the carrot and garlic mixture. Stir in the pesto sauce and fresh squeezed lemon juice until well combined.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

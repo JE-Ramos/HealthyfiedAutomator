@@ -1,0 +1,95 @@
+{
+  "post_id": "65d49798977bcd0001feef73",
+  "title": "3/26 Lunch Bacon",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "3/26 Lunch Bacon ",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "700 g, Cauliflower - Raw",
+      "60.00 g, Red",
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "15 gram(s), Butter - Unsalted",
+      "200 g, Eggplant, raw",
+      "80 grams, Tomatoes",
+      "45.00 g, Red Onion",
+      "1 tsp, Coconut Amino",
+      "2 Tbsp, Raw Coconut Vinegar",
+      "1 tbsp, Spices, garlic powder",
+      "400 g, Samgyupsal"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "484",
+      "carbohydrateContent": "22",
+      "fiberContent": "9",
+      "sugarContent": "11",
+      "sodiumContent": "383",
+      "proteinContent": "44",
+      "fatContent": "26",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the cauliflower, eggplant, and tomatoes under cold water. Pat dry with a paper towel."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the cauliflower into florets, dice the eggplant into cubes, slice the tomatoes, and finely chop the red onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 200\u00b0C (392\u00b0F)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, combine cauliflower florets, diced eggplant, sliced tomatoes, chopped red onion, salt, ground pepper, garlic powder, coconut amino, and raw coconut vinegar. Toss until the vegetables are well coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the vegetables on a baking sheet in a single layer and dot with small pieces of unsalted butter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 25 minutes until the vegetables are tender and slightly caramelized.",
+        "time": "PT25M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the vegetables are baking, grill the samgyupsal (bacon) in a separate pan over medium heat until crispy, approximately 10 minutes.",
+        "time": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the roasted vegetables with crispy samgyupsal on top. Enjoy your healthy and satisfying lunch!"
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a high-protein, high-fiber lunch with our Healthyfied Bacon Lunch recipe. Perfect for those looking to enjoy delicious and nutritious meals, this recipe offers a rich blend of flavors, combining fresh vegetables, savory bacon, and a hint of spice. A great addition to your healthy recipe collection, ensuring you get both taste and health benefits in one dish.",
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "keywords": "high-protein,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

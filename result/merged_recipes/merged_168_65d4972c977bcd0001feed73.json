@@ -1,0 +1,95 @@
+{
+  "post_id": "65d4972c977bcd0001feed73",
+  "title": "2018/09/23 Dinner",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/09/23 Dinner ",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.12 cup (28g), Salad Topper Lite",
+      "0.12 cup, diced, Cheese, cheddar",
+      "0.25 pita, large (6-1/2\" dia), Bread, pita, white, enriched",
+      "30.00 g, Okra, raw",
+      "5.00 G, Ginisang Pechay",
+      "50 gram, Smoked Chicken Breast",
+      "50 gram, Tilapia"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "334",
+      "carbohydrateContent": "16",
+      "fiberContent": "2",
+      "sugarContent": "4",
+      "sodiumContent": "316",
+      "proteinContent": "31",
+      "fatContent": "17",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 180°C (356°F) for the tilapia and smoked chicken breast."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash the okra under cold water, then cut into slices."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the Ginisang Pechay by chopping it finely."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the tilapia and smoked chicken breast on a baking sheet, season to taste, and bake for 20 minutes or until fully cooked."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the meats are baking, lightly steam the sliced okra and chopped Ginisang Pechay for about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the pita bread into quarters and lightly toast."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grate the cheddar cheese."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble your plate by placing the baked tilapia and smoked chicken breast, steamed okra and Ginisang Pechay, toasted pita quarters, grated cheddar cheese, and sprinkle with the salad topper lite."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This '2018/09/23 Dinner' recipe is perfect for those looking to enjoy a high-protein, low-carb, and low-sugar meal. Healthy and delicious, it fits wonderfully into diets aiming for nutritious yet satisfying options. Dive into this blend of flavors with okra, pechay, tilapia, smoked chicken breast, and more for a healthified dining experience.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_168_65d4972c977bcd0001feed73.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/168_65d4972c977bcd0001feed73.json",
+  "original_files": [
+    "168_65d4972c977bcd0001feed73.json",
+    "171_65d4972c977bcd0001feed73.json"
+  ]
+}

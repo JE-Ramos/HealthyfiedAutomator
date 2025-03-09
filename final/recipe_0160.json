@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Globe Lunch",
+  "image": [
+    "https://healthyfied.me/images/recipes/globe-lunch.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "The Globe Lunch is a nutritious, high-protein and high-fiber meal that epitomizes healthful eating. Combining roasted chicken breast with corn on the cob, ripe bananas, and sautéed string beans, this dish is perfect for anyone looking to enjoy healthy recipes that don't compromise on flavor.",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "keywords": "high-protein,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "341",
+    "carbohydrateContent": "39",
+    "fiberContent": "7",
+    "sugarContent": "17",
+    "sodiumContent": "368",
+    "proteinContent": "30",
+    "fatContent": "9",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 1,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.03  ear Corn on the Cob",
+    "1  each Roasted Chicken Breast",
+    "1 g Bananas, raw",
+    "150 g Sauteed String Beans"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven for the roasted chicken breast or reheat if already cooked.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Trim the ends off the string beans and wash them thoroughly.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Boil the corn on the cob in a large pot of water until tender, about 10 minutes.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan, sauté the string beans with a little bit of olive oil until they are tender and vibrant green.",
+      "cookTime": "PT10M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel and slice the banana just before serving to prevent it from browning.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Assemble the plate with a serving of roasted chicken breast, a portion of corn on the cob, sautéed string beans, and slices of fresh banana.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/09/24 Dinner",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/09/24-dinner.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a wholesome meal that blends high-sugar, high-fiber ingredients with a healthified twist. This unique mix of fruits, vegetables, and proteins offers a nutritious adventure perfect for those looking to enjoy healthy recipes without sacrificing flavor.",
+  "prepTime": "PT20M",
+  "cookTime": "PT22M",
+  "totalTime": "PT42M",
+  "keywords": "high-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "388",
+    "carbohydrateContent": "56",
+    "fiberContent": "6",
+    "sugarContent": "30",
+    "sodiumContent": "315",
+    "proteinContent": "16",
+    "fatContent": "14",
+    "saturatedFatContent": "4",
+    "monounsaturatedFatContent": "5",
+    "polyunsaturatedFatContent": "3",
+    "unsaturatedFatContent": 8,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup Mushroom Soup",
+    "1 large Egg",
+    "1  oz(s) Tomatoes",
+    "1 g Bananas, raw",
+    "1 small (2-1/4\" dia), Tangerines, (mandarin oranges), raw",
+    "10 g White Onion Raw",
+    "10 g Cabbage, raw",
+    "30 g Boston Butt Roast",
+    "30 g Grapes - Raw",
+    "4  fruit Rambutans"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Begin by washing the grapes, tangerines, and tomatoes under cold water. Peel the bananas and tangerines. Set aside.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Thinly slice the cabbage, dice the white onion, and slice the tomatoes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the Boston Butt Roast by cutting it into small cubes.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a medium pot, bring water to a boil and carefully add the egg. Cook for 10 minutes for a hard-boiled egg.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a separate pan, sauté the onions and Boston Butt Roast cubes until they are lightly browned, about 10 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sliced cabbage and tomatoes to the pan, cooking until they're soft, approximately 5 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the mushroom soup according to the package instructions, then combine with the sautéed vegetables and meat in the pan. Let it simmer for another 5 minutes.",
+      "time": "5 minutes",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel the rambutans and add them to the dish, allowing them to warm through for about 2 minutes.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the dish with the peeled banana, tangerines, and hard-boiled egg on the side.",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

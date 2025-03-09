@@ -1,0 +1,84 @@
+{
+  "post_id": "65d495c1977bcd0001fee5ba",
+  "title": "Boiled Eggplant Ensalada",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied boiled eggplant ensalada",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 teaspoon, Salt",
+      "120.00 g, Eggplant, raw",
+      "50.00 g, Capsicum Green",
+      "70 g, White Onion Raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "23",
+      "carbohydrateContent": "5",
+      "fiberContent": "1",
+      "sugarContent": "4",
+      "sodiumContent": "195",
+      "proteinContent": "1",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the eggplant, onion, and capsicum under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring a pot of water to boil. Meanwhile, cut the eggplant into halves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil the eggplant halves for 8-10 minutes until tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the eggplant is boiling, thinly slice the white onion and capsicum."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the eggplant is cooked and cooled, gently peel and cut it into strips."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, combine the eggplant strips with the sliced onion and capsicum. Season with 0.25 teaspoon of salt, and mix well."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "Dive into a healthy feast with our Healthyfied Boiled Eggplant Ensalada. Perfect for those adhering to a low-carb and low-sugar diet, this recipe brings a refreshing twist to your healthy food repertoire. Focused on nutritious ingredients and bold flavors, it's a delight for anyone looking to maintain a balanced lifestyle while indulging in delicious, healthified recipes.",
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_102_65d495c1977bcd0001fee5ba.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/102_65d495c1977bcd0001fee5ba.json",
+  "original_files": [
+    "102_65d495c1977bcd0001fee5ba.json",
+    "105_65d495c1977bcd0001fee5ba.json"
+  ]
+}

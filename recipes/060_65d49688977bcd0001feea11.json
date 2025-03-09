@@ -1,0 +1,72 @@
+{
+  "post_id": "65d49688977bcd0001feea11",
+  "title": "Bolognese Sauce",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Bolognese Sauce",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "300.00 gram, Ground Beef",
+      "83.00 g, Red capsicum (nutritional info from veggycation)",
+      "200 g, Barilla alla bolognese"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "182",
+      "carbohydrateContent": "5",
+      "fiberContent": "1",
+      "sugarContent": "3",
+      "sodiumContent": "247",
+      "proteinContent": "18",
+      "fatContent": "10",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse and finely dice the red capsicum."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pan, cook the ground beef over medium heat until browned, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced red capsicum to the pan with the beef and cook until softened, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the Barilla alla bolognese sauce and simmer the mixture on low heat, allowing the flavors to meld, about 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve your Healthyfied Bolognese Sauce hot over your choice of pasta or zucchini noodles for an even lighter option."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Bolognese Sauce is a low-carb, low-sugar delight that does not compromise on flavor. Perfect for anyone following a healthy lifestyle, this recipe transforms the classic Bolognese into a nutritious meal without losing its hearty essence. A great addition to your collection of Healthy Recipes.",
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

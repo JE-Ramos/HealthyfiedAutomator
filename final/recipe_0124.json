@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/10/23 Lunch Pesto Adlai",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/10/23-lunch-pesto-adlai.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This 2018/10/23 Lunch Pesto Adlai recipe is perfect for those looking to enjoy a healthy, low-sugar meal. Incorporating fresh ingredients like Adlai Rice, juicy tomatoes, and eggplant, this dish is healthified to provide a nutritious boost without compromising on taste. The pesto and lemon juice add a vibrant, flavorful twist that will leave you feeling satisfied and energized.",
+  "prepTime": "PT10M",
+  "cookTime": "PT35M",
+  "totalTime": "PT45M",
+  "keywords": "low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "489",
+    "carbohydrateContent": "50",
+    "fiberContent": "2",
+    "sugarContent": "2",
+    "sodiumContent": "252",
+    "proteinContent": "15",
+    "fatContent": "23",
+    "saturatedFatContent": "5",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  tsp ground, Pepper",
+    "1  tbsp Pesto",
+    "1  tbsp(s) Lemon juice, raw",
+    "120 g Eggplant, raw",
+    "180 g Belly",
+    "190 g Adlai Rice (Job's Tears)",
+    "80 g Tomatoes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse 190 g of Adlai Rice under cold water until the water runs clear.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the Adlai Rice according to package instructions until tender, which should take about 20 minutes; then set aside.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop 80 grams of tomatoes and cut 120 g of eggplant into cubes.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet, cook 180 grams of belly over medium heat until it's evenly browned and crisp, about 10 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the belly from the skillet, and in the same skillet, sauté the chopped tomatoes and cubed eggplant until they are soft, about 5 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the cooked Adlai Rice with the sautéd tomatoes and eggplant. Stir in 1 Tbsp of pesto and 1 tbsp of lemon juice until well combined.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season with 0.25 tsp of ground pepper to taste.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

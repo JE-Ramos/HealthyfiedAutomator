@@ -1,0 +1,219 @@
+/* Recipe Page Styling for Healthyfied */
+
+/* Main recipe card */
+.recipe-card {
+    max-width: 800px;
+    margin: 0 auto 2em;
+    padding: 2em;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+/* Recipe header with title and image */
+.recipe-header img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1em;
+}
+
+.recipe-header h1 {
+    font-size: 2.2em;
+    margin-bottom: 0.3em;
+    color: #333;
+}
+
+/* Recipe description */
+.recipe-description {
+    font-style: italic;
+    margin-bottom: 1.5em;
+    color: #555;
+}
+
+/* Recipe meta information (time, servings, etc.) */
+.recipe-meta {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1em;
+    margin-bottom: 2em;
+    padding: 1em;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+}
+
+.recipe-meta-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.recipe-meta-label {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    color: #666;
+}
+
+.recipe-meta-value {
+    font-size: 1.1em;
+    color: #333;
+}
+
+/* Nutrition information */
+.nutrition-info {
+    margin-bottom: 2em;
+    padding: 1em;
+    background-color: #eaf5ea;
+    border-radius: 8px;
+}
+
+.nutrition-info h2 {
+    margin-top: 0;
+    color: #326e32;
+}
+
+.nutrition-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1em;
+}
+
+.nutrition-item {
+    text-align: center;
+    padding: 0.5em;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.nutrition-label {
+    font-weight: bold;
+    color: #444;
+    font-size: 0.9em;
+}
+
+.nutrition-value {
+    font-size: 1.2em;
+    color: #333;
+}
+
+/* Ingredients section */
+.ingredients {
+    margin-bottom: 2em;
+}
+
+.ingredients h2 {
+    color: #555;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.5em;
+}
+
+.ingredients ul {
+    padding-left: 1.2em;
+}
+
+.ingredients li {
+    margin-bottom: 0.5em;
+    line-height: 1.5;
+}
+
+/* Instructions section */
+.instructions {
+    margin-bottom: 2em;
+}
+
+.instructions h2 {
+    color: #555;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.5em;
+}
+
+.instructions ol {
+    padding-left: 1.2em;
+}
+
+.instructions li {
+    margin-bottom: 1em;
+    line-height: 1.6;
+}
+
+/* Advertisement styling */
+.ad-container {
+    margin: 2em 0;
+    padding: 15px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.ad-label {
+    text-align: center;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #888;
+    margin-bottom: 10px;
+}
+
+.ad-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90px;
+}
+
+/* Tags section */
+.recipe-tags {
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid #eee;
+}
+
+.recipe-tags span {
+    display: inline-block;
+    margin-right: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 0.3em 0.8em;
+    background-color: #eef2f7;
+    border-radius: 30px;
+    font-size: 0.9em;
+    color: #4a6b8a;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .recipe-card {
+        padding: 1.2em;
+    }
+    
+    .recipe-meta {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .nutrition-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Print styling */
+@media print {
+    .ad-container {
+        display: none;
+    }
+    
+    .recipe-card {
+        box-shadow: none;
+        padding: 0;
+    }
+    
+    .recipe-header h1 {
+        font-size: 1.8em;
+    }
+}
+
+/* Utility classes */
+.mb-1 { margin-bottom: 1em; }
+.mb-2 { margin-bottom: 2em; }
+.text-center { text-align: center; }
+.hidden { display: none; } 

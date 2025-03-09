@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Cream dory Bellpepper Basil",
+  "image": [
+    "https://healthyfied.me/images/recipes/cream-dory-bellpepper-basil.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a healthy and flavorful journey with our Cream dory Bellpepper Basil recipe. Perfect for those following a high-protein, low-carb diet without compromising on taste. This dish is crafted with succulent Pangasius fillet, enriched with the aromatic presence of fresh basil leaves, and complemented with a sharp cheddar cheese topping, making it a hearty yet healthy choice.",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "290",
+    "carbohydrateContent": "3",
+    "fiberContent": "0",
+    "sugarContent": "0",
+    "sodiumContent": "491",
+    "proteinContent": "41",
+    "fatContent": "13",
+    "saturatedFatContent": "6",
+    "monounsaturatedFatContent": "3",
+    "polyunsaturatedFatContent": "2",
+    "unsaturatedFatContent": 5,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "21 g Fresh Basil Leaves",
+    "28 g Sharp Cheddar Cheese",
+    "500 g Pangasius Fillet",
+    "6 medium Egg"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 375°F (190°C).",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Crack the eggs into a bowl and beat them lightly.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Grate the sharp cheddar cheese and set aside.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Pangasius fillet under cold water and pat dry with paper towels.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the fresh basil leaves finely.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a mixing bowl, combine the beaten eggs, grated cheese, and chopped basil. Mix well.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lay the Pangasius fillets in a baking dish and cover them with the egg-cheese-basil mixture.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in the preheated oven for 20 minutes or until the fillets are cooked through and the topping is golden brown.",
+      "time": "PT20M",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

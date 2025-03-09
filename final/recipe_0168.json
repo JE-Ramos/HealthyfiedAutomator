@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "02/06/2019 Beef sukiyaki Carrot Noodles",
+  "image": [
+    "https://healthyfied.me/images/recipes/02/06/2019-beef-sukiyaki-carrot-noodles.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Beef Sukiyaki with Carrot Noodles recipe is a high-protein, low-carb dish that transforms traditional indulgence into a healthified masterpiece. Perfect for anyone looking to enjoy healthy recipes without sacrificing flavor, this dish marries the rich taste of sukiyaki beef with the freshness of carrot noodles and a bouquet of herbs.",
+  "prepTime": "PT20M",
+  "cookTime": "PT15M",
+  "totalTime": "PT35M",
+  "keywords": "high-protein,low-carb,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Sautéing",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "331",
+    "carbohydrateContent": "19",
+    "fiberContent": "4",
+    "sugarContent": "8",
+    "sodiumContent": "156",
+    "proteinContent": "25",
+    "fatContent": "18",
+    "saturatedFatContent": "5",
+    "monounsaturatedFatContent": "7",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 8,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup Blanched Green Beans",
+    "0.50  tsp(s) Salt",
+    "0.50  tsp ground, Pepper",
+    "1  tsp Oregano",
+    "1  tsp Spices, marjoram, dried",
+    "1  tsp Thyme, fresh",
+    "108 g Red",
+    "140 g Red Onion",
+    "2  tbsp , Extra Virgin Olive Oil",
+    "26 g Garlic, raw",
+    "294 g Carrots, raw",
+    "300 g Sukiyaki beef"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the carrots by washing them thoroughly. Use a spiralizer to create carrot noodles.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Thinly slice the red onion and dice the garlic.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Trim the green beans and cut them into bite-sized pieces.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pan, heat the extra virgin olive oil over medium heat. Add the garlic and red onion, sautéing until fragrant and translucent, about 3 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sukiyaki beef to the pan and cook until browned on all sides, approximately 5 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Incorporate the green beans and carrot noodles into the pan, seasoning with salt, pepper, marjoram, thyme, and oregano. Cook for an additional 7 minutes, or until the vegetables are tender but still crisp.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

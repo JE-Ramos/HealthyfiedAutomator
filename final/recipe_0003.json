@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Quick Beef Patty and Tuna Wrap with Colorful Vegetables",
+  "image": [
+    "https://healthyfied.me/images/recipes/s&r-meets-healthyfied-.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into the world of healthy eating without sacrificing taste with our 'S&r Meets Healthyfied' recipe. Perfect for those who are looking for high-protein and high-fiber options, this recipe combines the goodness of fresh vegetables like broccoli, capsicum, and tomatoes with the hearty satisfaction of a quarter pound beef patty and a tuna wrap. It's a unique blend that brings together health and flavor in each bite, making it an excellent choice for anyone looking to enjoy healthy recipes without compromise.",
+  "prepTime": "PT15M",
+  "cookTime": "PT8M",
+  "totalTime": "PT23M",
+  "keywords": "high-protein,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "456",
+    "carbohydrateContent": "26",
+    "fiberContent": "5",
+    "sugarContent": "17",
+    "sodiumContent": "378",
+    "proteinContent": "24",
+    "fatContent": "31",
+    "saturatedFatContent": "10",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.33 wrap tuna wrap",
+    "1 patty quarter pound beef patty",
+    "100 g broccoli, raw",
+    "20 g green capsicum",
+    "20 g red capsicum",
+    "3 pieces cherry tomatoes",
+    "5 g tomatoes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place all vegetables (tomatoes, broccoli, and capsicums) in a colander or strainer. Rinse them under cold running water for about 30 seconds. Shake off excess water and pat dry with a clean towel.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the broccoli into small florets (small tree-like pieces) of about 3 cm each. Cut the green and red capsicums into 2 cm squares. Halve the cherry tomatoes and chop the regular tomatoes into small cubes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a grill pan or regular frying pan over medium-high heat (no oil needed if using a non-stick pan). Place the beef patty in the hot pan. Cook for 2-3 minutes on each side for medium-rare, 3-4 minutes for medium, or 4-6 minutes for well-done. The patty is ready when the internal temperature reaches 71°C (160°F) or when it's no longer pink in the center.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the beef patty is cooking, heat another small pan over low heat. Place the tuna wrap in the pan and warm it for about 1-2 minutes on each side. It should be just warm, not crispy or dry.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Take a serving plate and place the cooked beef patty and warmed tuna wrap in the center.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange the prepared vegetables (broccoli florets, capsicum pieces, and tomatoes) around the patty and wrap. Create a colorful display by alternating the different colored vegetables.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately while the beef patty and tuna wrap are still warm.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet",
+    "https://schema.org/GlutenFreeDiet"
+  ]
+}

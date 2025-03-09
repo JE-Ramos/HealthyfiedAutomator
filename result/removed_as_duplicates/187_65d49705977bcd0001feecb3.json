@@ -1,0 +1,77 @@
+{
+  "post_id": "65d49705977bcd0001feecb3",
+  "title": "Chicken Citrus Crabstick Pear Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Chicken Citrus Crabstick Pear Salad",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.50 cup, Ice Burg Lettuce",
+      "3 sticks, Seafood Crabstick",
+      "16.56 g, Young Baby Corn",
+      "0.50 medium breast, Boiled Chicken Breast",
+      "1 small, 5 oz, Small Orange 5 oz",
+      "0.50 pear, 1 Medium",
+      "1 large egg (50 g), Egg, Large, Boiled"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "300",
+      "carbohydrateContent": "44",
+      "fiberContent": "6",
+      "sugarContent": "20",
+      "sodiumContent": "625",
+      "proteinContent": "25",
+      "fatContent": "9",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Shred the Iceberg lettuce, slice the seafood crabstick, dice the young baby corn, and cut the boiled chicken breast into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and segment the small orange, and chop the pear into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the boiled large egg into thin slices or wedges."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl, combine the lettuce, crabstick, baby corn, chicken, orange segments, and pear. Gently toss to mix."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the salad with egg slices and serve immediately."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into a high-protein, high-fiber delicacy with our Chicken Citrus Crabstick Pear Salad. Perfect for those looking to maintain a healthy lifestyle without sacrificing flavor. Each bite is a fusion of tender boiled chicken, crisp Iceberg lettuce, succulent seafood crabstick, and crunchy baby corn, all complemented by the freshness of orange and pear. Topped off with a boiled egg for an extra protein punch, this salad is not just a meal; it's a healthy, flavorful journey!",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "totalTime": "PT15M",
+    "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

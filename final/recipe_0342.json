@@ -1,0 +1,89 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Ensaladang Kamatis",
+  "image": [
+    "https://healthyfied.me/images/recipes/ensaladang-kamatis.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Ensaladang Kamatis is a delightful, refreshing salad perfect for those adhering to low-carb, low-sodium, and low-sugar diets. This Healthified recipe is not only simple to make but brings a burst of flavors that perfectly complement any meal, making it ideal for anyone looking to enjoy healthy recipes without sacrificing taste.",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "25",
+    "carbohydrateContent": "7",
+    "fiberContent": "1",
+    "sugarContent": "5",
+    "sodiumContent": "2",
+    "proteinContent": "1",
+    "fatContent": "0",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50 medium (approx 2-3/4\" long, 2-1/2\" dia), Peppers, sweet, green, raw",
+    "1  cup Chopped, Red Onion",
+    "100 g Tomatoes",
+    "2  tbsp Cane Vinegar",
+    "2  tsp , Coconut Sugar"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Begin by preparing your ingredients: finely chop the red onions, dice the green peppers, and slice the tomatoes into wedges.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large mixing bowl, combine the chopped red onions, diced green peppers, and tomato wedges.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, mix together 2 teaspoons of coconut sugar with 2 tablespoons of cane vinegar until the sugar is completely dissolved.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the vinegar and sugar mixture over the vegetables and gently toss to combine, ensuring all the ingredients are evenly coated.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Allow the salad to sit for about 10 minutes to marinate, enhancing the flavors of the ingredients.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the Ensaladang Kamatis chilled or at room temperature as a refreshing side dish.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

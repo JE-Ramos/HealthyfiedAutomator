@@ -1,0 +1,99 @@
+{
+  "post_id": "65d495ee977bcd0001fee6b9",
+  "title": "Wagyu Kebab Sticks",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Wagyu Kebab Sticks",
+    "recipeYield": "9",
+    "recipeIngredient": [
+      "0.25 cup, chopped, Cabbage, red, raw",
+      "1 tsp(s), Rosemary, fresh",
+      "1 tsp, Thyme, fresh",
+      "1 tsp, ground, Basil, fresh",
+      "255.00 g, wagyu sirloin steak",
+      "60.00 g, Red",
+      "80 grams, Tomatoes"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "60",
+      "carbohydrateContent": "1",
+      "fiberContent": "1",
+      "sugarContent": "1",
+      "sodiumContent": "16",
+      "proteinContent": "6",
+      "fatContent": "3",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the 60.00 g of red bell peppers and the 80 grams of tomatoes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop 0.25 cup of raw red cabbage."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely chop 1 tsp of fresh rosemary, 1 tsp of fresh thyme, and 1 tsp of fresh basil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cube the 255.00 g wagyu sirloin steak into 1-inch pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your grill to a medium-high heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Skewer the wagyu steak cubes alternatively with slices of red bell peppers and tomatoes.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the skewers with the chopped red cabbage, rosemary, thyme, and basil for added flavor."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grill the kebabs for about 10-12 minutes, turning occasionally, until the wagyu steak is cooked to your preferred doneness.",
+        "time": "PT12M"
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in the sumptuous taste of Healthyfied Wagyu Kebab Sticks, a perfect addition to your healthy recipe collection. Crafted for those following a low-carb, low-sodium, and low-sugar diet, these kebabs bring the luxurious flavor of wagyu steak into a health-conscious era. Whether you're looking for a nutritious meal option or simply aiming to maintain a healthy lifestyle, this recipe caters to your needs without compromising on taste.",
+    "prepTime": "PT20M",
+    "cookTime": "PT12M",
+    "totalTime": "PT32M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_095_65d495ee977bcd0001fee6b9.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/095_65d495ee977bcd0001fee6b9.json",
+  "original_files": [
+    "095_65d495ee977bcd0001fee6b9.json",
+    "092_65d495ee977bcd0001fee6b9.json"
+  ]
+}

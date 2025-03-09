@@ -1,0 +1,100 @@
+{
+  "post_id": "65d4961f977bcd0001fee7dc",
+  "title": "No Bake Eggplant Lasagna",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "No Bake Eggplant Lasagna",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "100 g, Eggplant, raw",
+      "180 grams, Tomatoes",
+      "1 tsp, Spices, marjoram, dried",
+      "1 tsp, Oregano",
+      "1 cup (8 fl oz), Water - Municipal",
+      "1 tbsp(s), Butter - Unsalted",
+      "0.25 tsp(s), Salt",
+      "0.25 tsp, ground, Pepper",
+      "30.00 g, Red Onion",
+      "10.00 g, Garlic, raw",
+      "1 tsp, Smoked Paprika",
+      "1 tsp, ground, Spices, thyme, dried",
+      "1 tsp(s), Spices, rosemary, dried",
+      "10.00 g, Cheese, cheddar, sharp, sliced",
+      "20 gram, Cheese - Parmesan, shredded"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "107",
+      "carbohydrateContent": "7",
+      "fiberContent": "2",
+      "sugarContent": "3",
+      "sodiumContent": "153",
+      "proteinContent": "5",
+      "fatContent": "7",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash the eggplant and tomatoes, then slice the eggplant into thin rounds."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the tomatoes and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely chop the red onion and garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix together marjoram, oregano, smoked paprika, thyme, and rosemary."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Layer a slice of eggplant on a plate, followed by a slice of tomato. Sprinkle some of the herb mixture over the tomato."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add a small amount of chopped onion and garlic on top, then a couple of slices of cheddar cheese."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Repeat the layers until all ingredients are used, finishing with a sprinkle of Parmesan cheese on top."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small saucepan, melt butter over low heat and add the remaining herb mixture. Stir in water, salt, and pepper, and simmer for 5 minutes to create a herb-infused sauce."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the herb sauce gently over the assembled lasagna. Allow it to sit for a few minutes so the flavors meld together."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into a healthy culinary experience with our No Bake Eggplant Lasagna! This dish is perfect for those seeking a low-carb and low-sugar option without sacrificing flavor. Packed with fresh vegetables, aromatic herbs, and a mix of sharp cheddar and Parmesan cheese, it's a delicious way to indulge in healthy eating. Whether you're following a health-conscious diet or simply looking for a flavorful meal, this eggplant lasagna is a must-try.",
+    "prepTime": "PT20M",
+    "cookTime": "PT0M",
+    "totalTime": "PT20M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

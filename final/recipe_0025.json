@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied English Breakfast",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-english-breakfast.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Dive into a delicious makeover of the classic English breakfast, tailored for those seeking a high-protein, low-carb start to their day. With an aromatic combination of mushrooms, uncured bacon, and eggs all seasoned with Himalayan salt and a hint of coconut aminos, this 'Healthyfied English Breakfast' transforms traditional indulgence into a guilt-free pleasure. Perfect for anyone looking to maintain a healthy lifestyle without sacrificing taste.",
+  "prepTime": "",
+  "cookTime": "",
+  "totalTime": "",
+  "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "2",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "302",
+    "carbohydrateContent": "7",
+    "fiberContent": "0",
+    "sugarContent": "5",
+    "sodiumContent": "1670",
+    "proteinContent": "21",
+    "fatContent": "21",
+    "saturatedFatContent": "9",
+    "monounsaturatedFatContent": "5",
+    "polyunsaturatedFatContent": "2",
+    "unsaturatedFatContent": 7,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  cup ( 240 ml ), Whole Milk",
+    "1  tsp (1.5g), Himalayan Fine Salt",
+    "100 g Mushroom",
+    "2  tsp Coconut Aminos",
+    "3 large Egg",
+    "3  pat (1 inch sq, 1/2 inch high), Butter",
+    "5  cooked slices, Uncured Bacon"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your skillet over medium heat and add 1 pat of butter.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Clean the mushrooms with a damp cloth and slice them.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the butter has melted, add the sliced mushrooms to the skillet and sauté for 5 minutes until they're browned and tender.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl, whisk together the eggs, whole milk, coconut aminos, and Himalayan salt.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In another skillet, melt 2 pats of butter over medium heat. Once melted, pour in the egg mixture and let it sit without stirring for 1 minute. Continue cooking for 3 minutes, gently pulling the eggs from the edge towards the center, until the eggs are softly set.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Warm the cooked slices of uncured bacon in the microwave for about 20 seconds or in a skillet over medium heat for about 2 minutes.",
+      "prepTime": "PT10M",
+      "cookTime": "PT8M",
+      "totalTime": "PT18M",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

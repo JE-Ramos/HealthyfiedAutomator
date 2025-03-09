@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Sayote Tops Bellpepper Steamed Scrambled Egg",
+  "image": [
+    "https://healthyfied.me/images/recipes/sayote-tops-bellpepper-steamed-scrambled-egg.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This delightful Sayote Tops Bellpepper Steamed Scrambled Egg recipe is perfect for those following a low-carb and low-sugar diet. Full of fresh flavors and healthy ingredients, it's an ideal addition to your collection of healthy recipes.",
+  "prepTime": "PT10M",
+  "cookTime": "PT7M",
+  "totalTime": "PT17M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "139",
+    "carbohydrateContent": "4",
+    "fiberContent": "1",
+    "sugarContent": "1",
+    "sodiumContent": "144",
+    "proteinContent": "13",
+    "fatContent": "8",
+    "saturatedFatContent": "3",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.19  tsp(s) Salt",
+    "2  tsp ground, Pepper",
+    "41 g Leaves - Steamed",
+    "5 g Parsley, fresh",
+    "6 g Eggs",
+    "80 g Red"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Chop the steamed sayote tops and red bell pepper into small pieces. Mince the parsley finely.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Crack the eggs into a bowl, season with salt and ground pepper, and beat them until well mixed.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chopped sayote tops, bell pepper, and minced parsley to the egg mixture and stir to combine.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a non-stick pan over medium heat and pour the egg mixture into the pan.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook for about 5-7 minutes, gently stirring occasionally, until the eggs are fully cooked but still soft and creamy.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

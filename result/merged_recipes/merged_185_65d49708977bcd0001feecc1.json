@@ -1,0 +1,81 @@
+{
+  "post_id": "65d49708977bcd0001feecc1",
+  "title": "Yellow Zucchini Pesto Past",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Yellow Zucchini Pesto Past",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.50 cup, Penne Pasta",
+      "15 g, Original Cream Cheese",
+      "30 g, Pesto",
+      "50 g, Broccoli",
+      "50 g, Cauliflower",
+      "50 gram, Yellow Zucchini"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "302",
+      "carbohydrateContent": "29",
+      "fiberContent": "5",
+      "sugarContent": "3",
+      "sodiumContent": "223",
+      "proteinContent": "11",
+      "fatContent": "17",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your ingredients: cook the penne pasta according to package instructions; chop the broccoli, cauliflower, and yellow zucchini into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Steam the broccoli and cauliflower for about 5 minutes, or until tender yet crisp."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet over medium heat, sauté the chopped yellow zucchini for about 7 minutes, or until it begins to soften."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Reduce the heat to low, add the cooked pasta, steamed broccoli, cauliflower, and pesto to the skillet with the zucchini. Cook for an additional 3 minutes, stirring until everything is well combined and heated through."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the cream cheese until the pasta is evenly coated and creamy."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Yellow Zucchini Pesto Pasta is a delight for those looking for a healthy, low-sugar yet high-fiber meal. Perfectly fitting within the realm of healthy recipes, this dish combines the goodness of vegetables with the rich, creamy texture of pesto and cream cheese to create a healthified version of your favorite pasta. Suitable for anyone aiming to maintain a balanced diet without compromising on taste.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "low-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_185_65d49708977bcd0001feecc1.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/185_65d49708977bcd0001feecc1.json",
+  "original_files": [
+    "185_65d49708977bcd0001feecc1.json",
+    "182_65d49708977bcd0001feecc1.json"
+  ]
+}

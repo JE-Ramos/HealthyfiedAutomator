@@ -1,0 +1,87 @@
+{
+  "post_id": "65d49644977bcd0001fee897",
+  "title": "Garlic Cheddar Cauliflower",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Garlic Cheddar Cauliflower",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "863.00 g, Cauliflower - Raw",
+      "15 grams, Sharp Cheddar Cheese",
+      "120.00 g, Red",
+      "160.00 g, Capsicum - Green",
+      "0.25 tsp(s), Salt",
+      "0.50 tsp, ground, Pepper",
+      "1 tbsp(s), Spice World"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "134",
+      "carbohydrateContent": "25",
+      "fiberContent": "9",
+      "sugarContent": "12",
+      "sodiumContent": "136",
+      "proteinContent": "9",
+      "fatContent": "2",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375\u00b0F (190\u00b0C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash the cauliflower and cut it into florets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the red and green capsicum into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grate the sharp cheddar cheese."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, mix the cauliflower florets, chopped capsicum, grated cheese, salt, ground pepper, and spice. Ensure everything is evenly coated."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the mixture onto a baking sheet in a single layer."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for 25 minutes, or until the cauliflower is tender and the cheese is bubbly and slightly golden.",
+        "time": "PT25M"
+      }
+    ],
+    "tags": [
+      "low-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Garlic Cheddar Cauliflower recipe is a delightful addition to your healthy recipe collection. It's low-sodium and high in fiber, falling perfectly under the tag of Healthified Recipes. A dish that ensures you enjoy delicious flavors without compromising on your health goals.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "keywords": "low-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

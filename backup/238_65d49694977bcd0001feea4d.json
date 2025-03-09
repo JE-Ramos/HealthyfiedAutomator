@@ -1,0 +1,90 @@
+{
+  "post_id": "65d49694977bcd0001feea4d",
+  "title": "Egg Garlic Adlai Fried Rice",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Egg Garlic Adlai Fried Rice",
+    "recipeYield": "6",
+    "recipeIngredient": [
+      "5.00 g, Garlic, raw",
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, Black Pepper - Ground",
+      "0.25 tsp(s), Spices, rosemary, dried",
+      "190 g, Adlai Rice (Job's Tears)",
+      "7 Egg, Egg"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "193",
+      "carbohydrateContent": "25",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "173",
+      "proteinContent": "11",
+      "fatContent": "6",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Adlai Rice under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Adlai Rice according to package instructions until tender, which takes about 20 minutes, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the eggs into a bowl, add salt, black pepper, and dried rosemary. Whisk until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a large skillet or wok over medium heat, add 1 tablespoon of oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the minced garlic to the skillet and saut\u00e9 until fragrant, about 2 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the egg mixture into the skillet and stir gently until the eggs are softly set, about 3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cooked Adlai Rice to the skillet with the eggs. Stir and toss gently, breaking up the eggs and mixing them well with the rice. Cook for another 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the fried rice with additional salt and pepper to taste. Serve hot."
+      }
+    ],
+    "tags": [
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into a plate of Egg Garlic Adlai Fried Rice, tailored to suit your health-centric lifestyle. Meticulously selected for those who prefer low-sugar and nutritious meals, this recipe transforms simple ingredients into a delightful fusion of flavors and textures. A perfect embodiment of 'healthy eating without sacrificing taste', it's crafted for those who seek to maintain a balanced diet while indulging in the pleasures of home-cooked comfort food.",
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "keywords": "low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

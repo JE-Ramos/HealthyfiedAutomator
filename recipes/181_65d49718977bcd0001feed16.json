@@ -1,0 +1,78 @@
+{
+  "post_id": "65d49718977bcd0001feed16",
+  "title": "Soy Chicken",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Soy Chicken",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "712 gram, Chicken Thigh Skinless Boneless",
+      "15.00 g, Garlic, raw",
+      "53 gram, Red Onion",
+      "5.00 g, Ginger root - Raw",
+      "4 tsp, Coconut Amino",
+      "1 tbsp(s), Seeds, sesame seeds, whole, dried"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "315",
+      "carbohydrateContent": "6",
+      "fiberContent": "1",
+      "sugarContent": "2",
+      "sodiumContent": "321",
+      "proteinContent": "47",
+      "fatContent": "11",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel and mince the garlic and ginger root. Finely chop the red onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl, combine the coconut amino, minced garlic, minced ginger, and chopped red onion. Mix thoroughly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken thighs to the bowl and ensure they are well coated with the marinade. Cover and allow to marinate in the refrigerator for at least 30 minutes, ideally for a few hours or overnight for deeper flavor."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375\u00b0F (190\u00b0C). Place the marinated chicken thighs on a baking tray lined with parchment paper, and sprinkle the sesame seeds evenly over the chicken.",
+        "time": "PT0M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake the chicken in the preheated oven for 25-30 minutes, or until the chicken is cooked through and the juices run clear.",
+        "time": "PT30M"
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Soy Chicken recipe is a high-protein, low-carb, and low-sugar delight that's perfect for anyone looking to enjoy a healthy yet delicious meal. Featuring skinless, boneless chicken thighs marinated in a savory mix of coconut amino, ginger, garlic, and sesame seeds, this dish promises a mouthwatering experience. It's an excellent choice for those who cherish healthy recipes without compromising on taste.",
+    "prepTime": "PT40M",
+    "cookTime": "PT30M",
+    "totalTime": "PT70M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

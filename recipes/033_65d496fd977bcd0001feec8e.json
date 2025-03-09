@@ -1,0 +1,108 @@
+{
+  "post_id": "65d496fd977bcd0001feec8e",
+  "title": "Pork And Mushrooms",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Pork and Mushrooms",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "200 g (13Cal/g), Bokchoi",
+      "1 pat (1 inch sq, 1/2 inch high), Butter, unsalted",
+      "1 large, White onion",
+      "1 tsp, Worcestershire sauce",
+      "0.25 tsp, Salt",
+      "12 clove , Garlic",
+      "240.00 g, White Button",
+      "1 tsp, ground, Black pepper",
+      "1 medium, Red bell pepper",
+      "200 ml, Puremilk 200ml",
+      "452 gram, Pork Tenderloin"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "295",
+      "carbohydrateContent": "21",
+      "fiberContent": "4",
+      "sugarContent": "10",
+      "sodiumContent": "333",
+      "proteinContent": "38",
+      "fatContent": "7",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Bokchoi under cold water and chop it into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and finely chop the White onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and mince the garlic cloves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Clean the White Button mushrooms by wiping them with a damp cloth and slice them."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the Pork Tenderloin into thin strips."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Seed and dice the Red bell pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pan, melt the butter over medium heat. Add the chopped onion and minced garlic, saut\u00e9ing until soft and fragrant, about 3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Increase the heat to medium-high and add the pork strips to the pan. Cook until browned on all sides, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced mushrooms and diced red bell pepper to the pan, cooking until they start to soften, about 4 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the Worcestershire sauce, salt, and ground black pepper, cooking for another minute."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lower the heat to medium and pour in the Puremilk. Let the mixture simmer until the sauce slightly thickens, about 8 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped Bokchoi to the pan, cover, and let it steam until tender, about 4 minutes."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Pork and Mushrooms recipe is a delicious way to enjoy a high-protein meal without sacrificing flavor. Perfect for those looking for healthy alternatives.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "suiteableForDiet": [],
+    "keywords": "high-protein,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

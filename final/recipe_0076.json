@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Beautiful MessVeggies",
+  "image": [
+    "https://healthyfied.me/images/recipes/beautiful-messveggies.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in the vibrant flavors of our Beautiful MessVeggies, meticulously crafted for those following a low-carb and low-sugar lifestyle. This healthified recipe is a colorful medley of red cabbage, beans, spiralized carrot noodles, spinach, and sweet peppers, all brought together with the unique touch of corn meat. Perfect for anyone seeking to enjoy healthy recipes without compromising on taste.",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "5",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "114",
+    "carbohydrateContent": "11",
+    "fiberContent": "3",
+    "sugarContent": "5",
+    "sodiumContent": "296",
+    "proteinContent": "6",
+    "fatContent": "6",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  cup chopped, Peppers, sweet, green, raw",
+    "0.50  pepper large (3-3/4\" long, 3\" dia), Peppers, sweet, yellow, raw",
+    "1  cup Spinach - Raw",
+    "1  cup Spiralized Carrot Noodles",
+    "1  tsp(s) Virgin Coconut Oil",
+    "128 g Corn Meat",
+    "2  cup Bean",
+    "3  cup chopped, Cabbage, red, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Chop 3 cups of red cabbage and 0.50 cup of green sweet peppers. Dice 0.50 large yellow sweet pepper.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pan, heat 1 tsp of virgin coconut oil over medium heat.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chopped cabbage and peppers to the pan and sauté for about 5 minutes, until slightly softened.",
+      "time": "PT5M",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Incorporate 2 cups of beans, 1 cup of spiralized carrot noodles, 1 cup of raw spinach, and 128 grams of corn meat into the pan. Stir well to combine.",
+      "time": "PT5M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Continue to cook the mixture for an additional 10 minutes, stirring occasionally until everything is heated through and the spinach has wilted.",
+      "time": "PT10M",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

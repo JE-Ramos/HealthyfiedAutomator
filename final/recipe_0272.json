@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Beef Kangkong in Soy",
+  "image": [
+    "https://healthyfied.me/images/recipes/beef-kangkong-in-soy.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Beef Kangkong in Soy recipe is perfect for those following a low-carb and low-sugar diet, but with a mindful note on its high sodium content. Ideal for anyone looking to enjoy healthy yet flavorful dishes, this recipe combines the rich taste of ground beef with the fresh crunch of water spinach, all seasoned with a hint of soy for an irresistible, healthified meal.",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "keywords": "low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "134",
+    "carbohydrateContent": "3",
+    "fiberContent": "1",
+    "sugarContent": "3",
+    "sodiumContent": "855",
+    "proteinContent": "14",
+    "fatContent": "7",
+    "saturatedFatContent": "3",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  teaspoon Salt",
+    "1  tsp ground, Pepper",
+    "117 g Tomatoes",
+    "200 g Ground Beef",
+    "59 g Red Onion",
+    "90 g Water Spinach"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Begin by dicing the tomatoes and finely chopping the red onion.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Thoroughly wash the water spinach and chop it into bite-sized pieces.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan over medium heat, cook the ground beef until it is fully browned. This should take about 8 minutes.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the diced tomatoes and chopped red onion to the pan with the beef. Cook together for 5 minutes until the vegetables are softened.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the salt and ground pepper, adjusting the seasoning according to taste.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finally, add the chopped water spinach to the pan, cooking until wilted, about 2 minutes.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

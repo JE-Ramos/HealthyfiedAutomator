@@ -1,0 +1,78 @@
+{
+  "post_id": "65d4960f977bcd0001fee77a",
+  "title": "2018/10/16 Beef Steak Failed",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/16 Beef Steak Failed",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "200 gram, Beef Sukiyaki Meat",
+      "30.00 g, Red Onion",
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "10 grams, Calamansi"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "91",
+      "carbohydrateContent": "1",
+      "fiberContent": "0",
+      "sugarContent": "2",
+      "sodiumContent": "229",
+      "proteinContent": "14",
+      "fatContent": "4",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the red onion and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Marinate the beef sukiyaki meat with calamansi juice, salt, and ground pepper. Ensure each piece is well-coated. Let it sit for at least 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a pan over medium heat and cook the marinated beef for about 3-4 minutes on each side or until it reaches your desired doneness."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the beef from the pan and let it rest for a couple of minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same pan, add the sliced red onion and saut\u00e9 until translucent and slightly caramelized, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the beef topped with the saut\u00e9ed red onion."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This beef steak recipe brings a healthy twist to your meal, making it perfect for those following a low-carb and low-sugar diet. It's part of our Healthified Recipes, ensuring you get both flavor and nutrition in every bite.",
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

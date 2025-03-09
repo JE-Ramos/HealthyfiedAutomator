@@ -1,0 +1,86 @@
+{
+  "post_id": "65d496a5977bcd0001feeaae",
+  "title": "Mexican Ground Beef",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Mexican Ground Beef",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "21.00 g, Garlic, raw",
+      "300 gram, Ground Beef",
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "0.12 tsp, whole, Spices, cumin seed",
+      "0.12 tsp, Spanish Paprika",
+      "1 tsp, Spices, marjoram, dried",
+      "1 tsp, Oregano",
+      "79.00 g, Capsicum Green",
+      "60.00 g, Red",
+      "65.00 g, Red Onion",
+      "1 tsp, Spices, ginger, ground"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "208",
+      "carbohydrateContent": "7",
+      "fiberContent": "1",
+      "sugarContent": "3",
+      "sodiumContent": "264",
+      "proteinContent": "21",
+      "fatContent": "10",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your ingredients: Peel and mince the garlic, dice the capsicum green and red peppers, and finely chop the red onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl, combine the ground beef with salt, ground pepper, cumin, Spanish paprika, dried marjoram, oregano, and ground ginger. Mix thoroughly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a large skillet over medium heat. Once hot, add the minced garlic and chopped onions, saut\u00e9ing until they are soft and fragrant, about 3-4 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the seasoned ground beef to the skillet. Cook, breaking the meat apart with a spatula, until it is browned and cooked through, about 8-10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the diced capsicum green and red peppers. Continue cooking for an additional 5-7 minutes, allowing the flavors to meld together."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Taste and adjust the seasoning if necessary. Your Healthyfied Mexican Ground Beef is now ready to be enjoyed!"
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into the bold flavors of Mexico with this Healthyfied Mexican Ground Beef recipe! Designed for those seeking a high-protein and low-carb diet without sacrificing taste, this dish is perfect for anyone looking to enjoy the richness of Mexican cuisine in a healthier, low-sugar version. Infused with a blend of traditional spices, this recipe guarantees a delicious and satisfying meal, making it a must-try in your healthy recipe collection.",
+    "prepTime": "PT15M",
+    "cookTime": "PT18M",
+    "totalTime": "PT33M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Chicken Adlai Arrozcaldo",
+  "image": [
+    "https://healthyfied.me/images/recipes/chicken-adlai-arrozcaldo.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a nourishing bowl of Chicken Adlai Arrozcaldo, a healthified twist on the classic Filipino comfort food. Perfect for those seeking high-protein, low-sodium, and low-sugar meal options, this arrozcaldo promises to warm your soul without compromising on health.",
+  "prepTime": "PT15M",
+  "cookTime": "PT60M",
+  "totalTime": "PT75M",
+  "keywords": "high-protein,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "262",
+    "carbohydrateContent": "27",
+    "fiberContent": "2",
+    "sugarContent": "3",
+    "sodiumContent": "138",
+    "proteinContent": "27",
+    "fatContent": "5",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  tbsp Spices, garlic powder",
+    "10 g Ginger root - Raw",
+    "153 g Carrots, raw",
+    "2  tsp ground, Pepper",
+    "29 g Red Onion",
+    "358 g Chicken Thigh Skinless Boneless",
+    "4  cup Water",
+    "75 g Adlai Rice (Job's Tears)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Adlai Rice under cold water until the water runs clear.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the carrots, mince the ginger root, and finely chop the red onion.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the chicken thigh into bite-size pieces.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot, combine 4 cups of water, the ginger, and the chicken pieces. Bring to a boil over medium-high heat, then reduce the heat to simmer for 20 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the rinsed Adlai Rice to the pot and continue simmering for 30 minutes, or until the rice is fully cooked and has absorbed most of the liquid.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the diced carrots, chopped red onions, garlic powder, and ground pepper. Cook for another 10 minutes, or until the vegetables are tender.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "post_id": "65d49778977bcd0001feef02",
+  "title": "Japchae",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "healthyfied japchae",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 Cup, Chopped, Red Onion",
+      "1 large, Egg",
+      "1 tbsp, Butter",
+      "1 tbsp, Garlic",
+      "1 tsp, Oil - Sesame",
+      "1 tsp, ground, Black pepper",
+      "15 g, Organic Green Peas",
+      "2 pinch, Salt",
+      "226 g (1/2 pkg=113g), Shirataki Tofu Spaghetti",
+      "3 tbsp(s), Coconut Aminos",
+      "50 gram, beef strips meat"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "432",
+      "carbohydrateContent": "27",
+      "fiberContent": "6",
+      "sugarContent": "13",
+      "sodiumContent": "1270",
+      "proteinContent": "21",
+      "fatContent": "26",
+      "saturatedFatContent": "11",
+      "monounsaturatedFatContent": "7",
+      "polyunsaturatedFatContent": "3",
+      "unsaturatedFatContent": 10,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Organic Green Peas under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Beat the Egg with 1 pinch of Salt and a 1/2 tsp of ground Black Pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the Garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Shirataki Tofu Spaghetti under cold water and drain well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the Red Onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet, heat the Butter over medium heat and cook the Egg to make a thin omelette, then slice it into strips, approximately 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same skillet, add the Sesame Oil and sauté the Garlic and Red Onion until soft, approximately 8 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the beef strips and season with the remaining Salt and Black Pepper, cooking until the beef is browned, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the Shirataki Tofu Spaghetti, cooked beef, egg strips, and Organic Green Peas in the skillet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the Coconut Aminos over the mixture and toss well to combine. Cook for an additional 5 minutes, ensuring the flavors meld together."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-protein",
+      "high-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a healthy twist on the traditional Korean favorite with this Healthyfied Japchae recipe. Packed with high-protein beef strips, high-fiber shirataki tofu spaghetti, and a variety of flavorful ingredients, this dish is perfect for those seeking healthy recipes without sacrificing taste. The use of coconut aminos and organic green peas adds a unique touch to this nutritious meal, making it suitable for health-conscious individuals looking for high-sodium options.",
+    "prepTime": "PT15M",
+    "cookTime": "PT28M",
+    "totalTime": "PT43M",
+    "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_005_65d49778977bcd0001feef02.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/005_65d49778977bcd0001feef02.json",
+  "original_files": [
+    "005_65d49778977bcd0001feef02.json",
+    "008_65d49778977bcd0001feef02.json"
+  ]
+}

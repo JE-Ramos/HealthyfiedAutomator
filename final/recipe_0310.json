@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Buttered Herbed Corn And Carrot",
+  "image": [
+    "https://healthyfied.me/images/recipes/buttered-herbed-corn-and-carrot.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Buttered Herbed Corn and Carrot recipe is perfect for those who are looking for a healthy, low-carb, and low-sugar side dish. Its simple yet delicious flavors will complement any main course, making it a must-try for healthy recipe enthusiasts.",
+  "prepTime": "PT10M",
+  "cookTime": "PT9M",
+  "totalTime": "PT19M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "73",
+    "carbohydrateContent": "6",
+    "fiberContent": "3",
+    "sugarContent": "3",
+    "sodiumContent": "260",
+    "proteinContent": "2",
+    "fatContent": "4",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  tbsp Butter (Salted)",
+    "129 g Carrots, raw",
+    "200 g Baby Corn"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash the Baby Corn and Carrots under cold water.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the carrots into thin rounds.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the Baby Corn into halves.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring a pot of water to a boil and blanch the Baby Corn and Carrots for 3 minutes, then drain and set aside.",
+      "time": "PT3M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan, melt 1 tbsp of Butter over medium heat.",
+      "time": "PT1M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the blanched Baby Corn and Carrots to the pan and sauté for 5 minutes, or until they are slightly softened and coated with butter.",
+      "time": "PT5M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve hot as a delicious and nutritious side dish.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

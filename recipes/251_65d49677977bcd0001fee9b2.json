@@ -1,0 +1,95 @@
+{
+  "post_id": "65d49677977bcd0001fee9b2",
+  "title": "Cream Dory Beet Pesto Pasta",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Cream Dory Beet Pesto Pasta",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "113 gram, Cream Dory",
+      "1 Carrot Medium, Medium Carrot",
+      "25 g, Shitake Mushrooms",
+      "20 g, Young Baby Corn",
+      "6 cloves, clove",
+      "50 g, Fresh Basil Leaves",
+      "200 grams, Tomatoes",
+      "4 oz, Beets"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "164",
+      "carbohydrateContent": "24",
+      "fiberContent": "3",
+      "sugarContent": "4",
+      "sodiumContent": "177",
+      "proteinContent": "14",
+      "fatContent": "6",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Begin by rinsing the Cream Dory under cold water and pat dry with paper towels."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the Cream Dory into strips, season as desired and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and dice the carrot, slice the Shitake mushrooms, and cut the young baby corn into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely chop the cloves and fresh basil leaves, dice the tomatoes, and peel and chop the beets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan over medium heat, cook the diced beet until soft, about 10 minutes.",
+        "duration": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cooked beets to a blender along with the chopped basil, tomatoes, and cloves. Blend until smooth to create the beet pesto sauce."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate pan, heat a bit of oil and lightly saut\u00e9 the carrot, shitake mushrooms, and baby corn until tender, about 5 minutes.",
+        "duration": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the Cream Dory strips to the pan with the vegetables and cook until the fish is done, about 7 minutes.",
+        "duration": "PT7M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the saut\u00e9ed vegetables, Cream Dory, and beet pesto sauce. Toss with your favorite cooked pasta."
+      }
+    ],
+    "tags": [
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a healthy yet hearty meal with our Cream Dory Beet Pesto Pasta. This recipe is perfect for those looking for low-sugar, nutritious options without compromising on taste. Packed with fresh vegetables, seasoned Cream Dory, and a unique beet pesto, it's a healthy twist on a classic pasta dish.",
+    "prepTime": "PT30M",
+    "cookTime": "PT22M",
+    "totalTime": "PT52M",
+    "keywords": "low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

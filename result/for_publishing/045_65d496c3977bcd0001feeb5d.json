@@ -1,0 +1,76 @@
+{
+  "post_id": "65d496c3977bcd0001feeb5d",
+  "title": "Instant Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Instant Salad",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "15.00 g, \u062e\u0633",
+      "30 grams, Tomatoes",
+      "15 gram, Sweet Potato",
+      "3 tbsp(s), Salad Topper",
+      "124 g, Adobo"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "233",
+      "carbohydrateContent": "13",
+      "fiberContent": "4",
+      "sugarContent": "2",
+      "sodiumContent": "542",
+      "proteinContent": "23",
+      "fatContent": "10",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the lettuce under cold water and let it dry."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the tomatoes into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel the sweet potato, dice it into cubes, and steam until tender, approximately 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large salad bowl, combine the rinsed lettuce, diced tomatoes, steamed sweet potato cubes, salad topper of your choice, and adobo."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss all the ingredients until they are evenly mixed and coated in the adobo for flavor, approximately 2 minutes."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Instant Salad is perfect for those who are looking for a high-protein, low-carb meal with the added benefits of being low-sugar and high-sodium. Ideal for anyone on a path to a healthier lifestyle and searching for delicious, healthy recipes.",
+    "prepTime": "PT20M",
+    "cookTime": "PT15M",
+    "totalTime": "PT35M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

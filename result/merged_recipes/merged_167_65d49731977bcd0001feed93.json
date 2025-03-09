@@ -1,0 +1,94 @@
+{
+  "post_id": "65d49731977bcd0001feed93",
+  "title": "Sweet Garlic Chicken",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Sweet Garlic Chicken",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 tsp(s), Salt",
+      "1 tsp, ground, Spices, pepper, black",
+      "2 tsp, Coconut Sugar",
+      "5.00 g, Garlic, raw",
+      "710 gram, Chicken Thighs"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "336",
+      "carbohydrateContent": "4",
+      "fiberContent": "0",
+      "sugarContent": "3",
+      "sodiumContent": "173",
+      "proteinContent": "29",
+      "fatContent": "24",
+      "saturatedFatContent": "7",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375°F."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the chicken thighs under cold water, then pat dry with paper towels."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, combine the minced garlic, coconut sugar, salt, and ground black pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rub the garlic mixture evenly onto both sides of the chicken thighs."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the seasoned chicken thighs on a baking tray lined with parchment paper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 25 minutes, or until the chicken is thoroughly cooked and has a golden brown exterior.",
+        "time": "PT25M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the chicken rest for a few minutes before serving."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a high-protein, low-carb meal with our Sweet Garlic Chicken recipe. Perfect for those seeking a healthy yet delicious twist on chicken, this recipe combines the robust flavors of garlic and coconut sugar with chicken thighs to create a dish that's not only nutritious but also rich in taste and perfect for health-conscious food lovers.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_167_65d49731977bcd0001feed93.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/167_65d49731977bcd0001feed93.json",
+  "original_files": [
+    "167_65d49731977bcd0001feed93.json",
+    "164_65d49731977bcd0001feed93.json"
+  ]
+}

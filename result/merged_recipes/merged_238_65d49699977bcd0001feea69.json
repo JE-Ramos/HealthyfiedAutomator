@@ -1,0 +1,92 @@
+{
+  "post_id": "65d49699977bcd0001feea69",
+  "title": "Chicken Egg Drop Soup",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Chicken Egg Drop Soup",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 Cup, Chopped, Red Onion",
+      "1 cup chopped, Carrots, raw",
+      "1 large, Egg",
+      "1 tbsp, Ginger",
+      "10 clove, Garlic, raw",
+      "100 gram, Chicken Back Portions",
+      "100 gram, Chicken Livers"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "197",
+      "carbohydrateContent": "10",
+      "fiberContent": "2",
+      "sugarContent": "3",
+      "sodiumContent": "76",
+      "proteinContent": "18",
+      "fatContent": "9",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 5,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the vegetables by chopping the carrots, dicing the red onion, and mincing the garlic and ginger. Set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the chicken back portions and chicken livers under cold water, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, bring water to a boil. Add the chicken back portions and chicken livers. Reduce heat to a simmer and cook for about 30 minutes or until the chicken is fully cooked."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the chicken pieces from the broth. Once cool enough to handle, shred the meat from the bones and set the meat aside. Discard the bones and livers."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same pot with the broth, add the chopped carrots, diced red onion, minced garlic, and ginger. Simmer for about 10 minutes until the vegetables are tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk the egg in a bowl. Slowly pour the whisked egg into the simmering soup, stirring constantly to create egg ribbons. Cook for an additional 2 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the shredded chicken back into the pot. Stir well and continue to cook for another 5 minutes, ensuring the chicken is heated through."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Chicken Egg Drop Soup is a low-carb, low-sodium, and low-sugar delight, tailor-made for those who are watching their dietary intake but don't want to compromise on flavor. A hearty and healthy recipe, it's perfect for anyone looking to enjoy a nourishing meal that's both delicious and beneficial to their health.",
+    "prepTime": "PT20M",
+    "cookTime": "PT45M",
+    "totalTime": "PT65M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_238_65d49699977bcd0001feea69.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/238_65d49699977bcd0001feea69.json",
+  "original_files": [
+    "238_65d49699977bcd0001feea69.json",
+    "235_65d49699977bcd0001feea69.json"
+  ]
+}

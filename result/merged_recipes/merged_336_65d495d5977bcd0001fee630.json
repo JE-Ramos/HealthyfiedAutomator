@@ -1,0 +1,106 @@
+{
+  "post_id": "65d495d5977bcd0001fee630",
+  "title": "Garlic Lemony Caulirice",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Garlic Lemony Caulirice",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "0.25 tsp(s), Salt",
+      "1 tsp (5g) (1/2 tsp= clove), Spice World",
+      "1 tsp, ground (2.3 g), Black Pepper - Ground",
+      "133 g, Yellow, Raw",
+      "177.00 g, Cauliflower - Raw",
+      "22.00 g, Garlic, raw",
+      "3 tsp(s), Lemon juice, raw",
+      "59 gram, Red Onion"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "40",
+      "carbohydrateContent": "9",
+      "fiberContent": "2",
+      "sugarContent": "3",
+      "sodiumContent": "24",
+      "proteinContent": "2",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the cauliflower, red onion, and yellow bell pepper under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the cauliflower into florets, dice the red onion, and chop the yellow bell pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a food processor, pulse the cauliflower florets until they reach a rice-like consistency."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large skillet over medium heat, sauté the diced red onion and chopped yellow bell pepper for about 5 minutes, until softened.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the minced garlic to the skillet and cook for an additional 1 minute, until fragrant.",
+        "time": "PT1M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the cauliflower rice, and continue to sauté for about 8 minutes, until the cauliflower is tender.",
+        "time": "PT8M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with salt and ground black pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the lemon juice and cook for an additional 2 minutes.",
+        "time": "PT2M"
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Discover the delightful flavors of Garlic Lemony Caulirice, a perfect dish for anyone seeking a healthy and vibrant meal. This low-carb, low-sodium, and low-sugar recipe brings together the freshness of cauliflower, red onion, yellow bell pepper, and garlic, with a zesty twist of lemon. It's an ideal choice for those looking for nourishing healthified recipes that don't sacrifice taste.",
+    "prepTime": "PT15M",
+    "cookTime": "PT16M",
+    "totalTime": "PT31M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_336_65d495d5977bcd0001fee630.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/336_65d495d5977bcd0001fee630.json",
+  "original_files": [
+    "336_65d495d5977bcd0001fee630.json",
+    "333_65d495d5977bcd0001fee630.json"
+  ]
+}

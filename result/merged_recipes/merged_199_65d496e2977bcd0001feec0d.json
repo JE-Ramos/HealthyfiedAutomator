@@ -1,0 +1,97 @@
+{
+  "post_id": "65d496e2977bcd0001feec0d",
+  "title": "Mixed Cucumber Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Mixed Cucumber Salad",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.50 cup, Mango",
+      "1 large, Egg, whole, cooked, hard-boiled",
+      "1 medium, Carrots, baby, raw",
+      "10 g, Whole Almonds (Almendras)",
+      "2 small whole, Small",
+      "3 stick, Imitation crab",
+      "350 g, Cucumber"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "269",
+      "carbohydrateContent": "31",
+      "fiberContent": "5",
+      "sugarContent": "13",
+      "sodiumContent": "583",
+      "proteinContent": "15",
+      "fatContent": "10",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel and thinly slice the cucumber."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel the mango and cut it into small cubes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Julienne the baby carrots."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the hard-boiled egg into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the imitation crab into bite-size pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the almonds coarsely."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large mixing bowl, combine the sliced cucumber, cubed mango, julienned carrots, chopped egg, imitation crab, and almonds."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss the ingredients gently to ensure they are well mixed. Serve chilled or at room temperature."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Mixed Cucumber Salad is not only a high-fiber, healthy choice but also caters to those looking for healthified recipes with a touch of indulgence. Perfect for anyone looking to enjoy a nutritious, yet delicious, meal.",
+    "prepTime": "PT20M",
+    "cookTime": "PT0M",
+    "totalTime": "PT20M",
+    "suiteableForDiet": [
+      "http://schema.org/LowSaltDiet"
+    ],
+    "keywords": "high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_199_65d496e2977bcd0001feec0d.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/199_65d496e2977bcd0001feec0d.json",
+  "original_files": [
+    "199_65d496e2977bcd0001feec0d.json",
+    "196_65d496e2977bcd0001feec0d.json"
+  ]
+}

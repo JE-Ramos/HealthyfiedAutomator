@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Sky-High Fibre Toast - Banana",
+  "image": [
+    "https://healthyfied.me/images/recipes/sky-high-fibre-toast---banana.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a delicious breakfast option with our Sky-High Fibre Toast - Banana recipe. It's a health-conscious choice that's low in sugar and high in nutrients, perfect for those looking to maintain a healthy lifestyle without sacrificing taste. This recipe transforms simple ingredients into a wholesome meal that's both satisfying and nutritious.",
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT25M",
+  "keywords": "low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "8",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "155",
+    "carbohydrateContent": "25",
+    "fiberContent": "3",
+    "sugarContent": "5",
+    "sodiumContent": "163",
+    "proteinContent": "6",
+    "fatContent": "4",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "1",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 2,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup ( 8 oz--250 ml ), Ice Cold Water",
+    "0.25  cup Non-Fat",
+    "0.50  cup Quick Cook Oats",
+    "1  banana (101g), Medium 6\"",
+    "1  packet Sugar Substitute",
+    "2 large Egg, whole, cooked, fried",
+    "8 slice (70 g), Whole Wheat Bread"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl, mix together the sugar substitute, Quick Cook Oats, and Non-Fat milk until well blended.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel the banana and cut it into slices.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fry the eggs to your liking, preferably using a non-stick pan to minimize the need for added fats.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toast the whole wheat bread slices until they're golden and crispy.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Assemble the toast by spreading the oat mixture on the toasted bread, add a layer of fried egg and top with banana slices.",
+      "time": "5 minutes",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drizzle ice cold water over the assembled toast for added freshness.",
+      "time": "1 minute",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

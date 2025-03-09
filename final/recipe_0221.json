@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/10/24 Breakfast Broccoli Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/10/24-breakfast-broccoli-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This high-protein, low-carb, low-sugar, high-fiber Breakfast Broccoli Salad is perfect for those who are looking for a Healthyfied recipe to kickstart their day. Full of nutrients and flavors, it's a great addition to your Healthy Recipes collection.",
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "keywords": "high-protein,low-carb,low-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "220",
+    "carbohydrateContent": "15",
+    "fiberContent": "5",
+    "sugarContent": "5",
+    "sodiumContent": "328",
+    "proteinContent": "21",
+    "fatContent": "9",
+    "saturatedFatContent": "3",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  teaspoon Salt",
+    "0.25  tsp ground, Pepper",
+    "1  tsp Spices, marjoram, dried",
+    "10 g Garlic, raw",
+    "150 g Carrots, raw",
+    "250 g Ground Beef",
+    "30 g Red Onion",
+    "400 g Broccoli, raw"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the broccoli under cold water and chop into small florets.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel the carrots and chop them finely.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mince the garlic and finely dice the red onion.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet over medium heat, cook the ground beef until browned, about 5-7 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the minced garlic, diced red onion, marjoram, salt, and pepper to the beef. Stir and cook for an additional 2-3 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Steam the broccoli and carrots until tender, about 5 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the steamed vegetables with the beef mixture. Toss well to combine.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

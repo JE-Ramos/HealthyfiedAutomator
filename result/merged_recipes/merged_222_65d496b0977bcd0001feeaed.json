@@ -1,0 +1,87 @@
+{
+  "post_id": "65d496b0977bcd0001feeaed",
+  "title": "Mango Raspberry Goji Chia Pudding",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Mango Raspberry Goji Chia Pudding",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "0.30 cup, Raspberries All Natural (Frozen",
+      "1 cup, Organic almond milk",
+      "1 tablespoon (10g), Goji Berries",
+      "2 tbsp, Chia Seed",
+      "20 gram, Almonds Sliced (Costco)",
+      "60.00 g, Mangos, raw",
+      "82 g, Kiwi"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "220",
+      "carbohydrateContent": "24",
+      "fiberContent": "10",
+      "sugarContent": "8",
+      "sodiumContent": "23",
+      "proteinContent": "7",
+      "fatContent": "11",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "4",
+      "polyunsaturatedFatContent": "4",
+      "unsaturatedFatContent": 8,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the chia seeds and goji berries with almond milk. Stir well until fully combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover the bowl with a lid or plastic wrap and refrigerate overnight, or at least for 4 hours, to allow the chia seeds to absorb the almond milk and thicken."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the almonds and set aside. Peel and dice the kiwi. Thaw the raspberries if using frozen and chop the mango into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the chia pudding has set, give it a good stir to ensure the consistency is even. If the pudding is too thick, you can add a little more almond milk to reach your desired consistency."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Layer the chia pudding in serving glasses or bowls with the sliced almonds, diced kiwi, raspberries, and mango pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the Mango Raspberry Goji Chia Pudding immediately or keep it refrigerated until ready to serve."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "low-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a delightful, healthy treat with our Mango Raspberry Goji Chia Pudding. Perfect for those following a low-sodium, high-fiber diet, this pudding is not just a feast for your tastebuds but also a powerhouse of nutrition. Embark on a journey to wellness with this easy-to-make, delicious pudding that's sure to become a staple in your healthy recipe collection.",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "totalTime": "PT4H15M",
+    "keywords": "low-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_222_65d496b0977bcd0001feeaed.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/222_65d496b0977bcd0001feeaed.json",
+  "original_files": [
+    "222_65d496b0977bcd0001feeaed.json",
+    "225_65d496b0977bcd0001feeaed.json"
+  ]
+}

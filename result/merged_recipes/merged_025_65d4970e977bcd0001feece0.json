@@ -1,0 +1,101 @@
+{
+  "post_id": "65d4970e977bcd0001feece0",
+  "title": "Mango Veggie Wrap",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Mango Veggie wrap",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.25 cup, Cucumber",
+      "0.25 cup, pieces, Mango",
+      "1 tbsp, Labneh",
+      "1 tortilla, Tortilla Wrap",
+      "1 tsp, chopped, Red onion",
+      "100 g, Lettuce",
+      "2 tsp(s), Cheese - Parmesan, grated"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "303",
+      "carbohydrateContent": "47",
+      "fiberContent": "4",
+      "sugarContent": "11",
+      "sodiumContent": "601",
+      "proteinContent": "9",
+      "fatContent": "10",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the cucumber under cold water, then slice into thin pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the lettuce into bite-size pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the mango into small, bite-size pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finely chop the red onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lay the tortilla wrap flat on a clean surface."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spread the labneh over the tortilla."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Arrange the lettuce, cucumber slices, mango pieces, and red onion on the tortilla."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the grated Parmesan cheese over the vegetables."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully roll up the tortilla tightly to enclose the filling."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the wrap in half diagonally and serve immediately."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Mango Veggie Wrap combines the sweetness of mango with fresh vegetables and a hint of Parmesan cheese, all wrapped in a soft tortilla. Perfect for those who love healthy recipes with a high-sodium twist.",
+    "prepTime": "PT15M",
+    "cookTime": "PT0M",
+    "totalTime": "PT15M",
+    "keywords": "high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_025_65d4970e977bcd0001feece0.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/025_65d4970e977bcd0001feece0.json",
+  "original_files": [
+    "025_65d4970e977bcd0001feece0.json",
+    "028_65d4970e977bcd0001feece0.json"
+  ]
+}

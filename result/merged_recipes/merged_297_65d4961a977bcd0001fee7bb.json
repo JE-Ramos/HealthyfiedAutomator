@@ -1,0 +1,104 @@
+{
+  "post_id": "65d4961a977bcd0001fee7bb",
+  "title": "Pumpkin Carrot Spinach Soup",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Pumpkin Carrot Spinach Soup",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "0.50 cup, Diced White Onion",
+      "0.50 tsp, Thyme, fresh",
+      "1 medium, Carrots, raw",
+      "1 teaspoon, Pepper",
+      "1 tsp(s), Extra Virgin Olive Oil",
+      "1 tsp, Salt",
+      "1.50 cup, Boiled Pumpkin",
+      "2 cups, Water - 2 Cups",
+      "2 tbsp(s), Garlic Powder",
+      "77 ml, Evaporated Filled Milk",
+      "85 gram, Spinach Leaves"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "102",
+      "carbohydrateContent": "18",
+      "fiberContent": "3",
+      "sugarContent": "3",
+      "sodiumContent": "602",
+      "proteinContent": "3",
+      "fatContent": "2",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel and dice the carrot."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Wash and roughly chop the spinach leaves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the extra virgin olive oil in a large pot over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add diced white onion to the pot and cook until translucent, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced carrot and cook for another 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in garlic powder, salt, pepper, and fresh thyme, cooking for 1 minute until fragrant."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the boiled pumpkin and water to the pot. Bring the mixture to a boil, then reduce heat and simmer for 20 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the evaporated milk and spinach leaves to the pot. Stir well and continue cooking for an additional 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Use an immersion blender to puree the soup until smooth. If you prefer a chunkier soup, blend only half of the soup."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-sodium",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "This wholesome Pumpkin Carrot Spinach Soup is a perfect blend for those who enjoy low-carb, healthy recipes. With a high-sodium kick, minimal sugar, and packed with nutritious ingredients, it caters to anyone looking for a healthified twist to their meals. Whether you're looking for something warm during the colder months or a light and comforting meal, this soup will not disappoint.",
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "keywords": "low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_297_65d4961a977bcd0001fee7bb.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/297_65d4961a977bcd0001fee7bb.json",
+  "original_files": [
+    "297_65d4961a977bcd0001fee7bb.json",
+    "300_65d4961a977bcd0001fee7bb.json"
+  ]
+}

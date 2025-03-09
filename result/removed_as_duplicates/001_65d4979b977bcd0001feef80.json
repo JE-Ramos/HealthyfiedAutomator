@@ -1,0 +1,79 @@
+{
+  "post_id": "65d4979b977bcd0001feef80",
+  "title": "Filipino Style Steak",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Filipino Style Steak",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "80g Eggplant, raw",
+      "40g Tomatoes",
+      "30g Onion",
+      "1/4 teaspoon Salt",
+      "1/4 teaspoon Ground Pepper",
+      "1/5 cup Chopped Cabbage, raw",
+      "15g Red Bell Pepper",
+      "175g Ribeye Steak"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "497",
+      "carbohydrateContent": "11",
+      "fiberContent": "4",
+      "sugarContent": "9",
+      "sodiumContent": "675",
+      "proteinContent": "34",
+      "fatContent": "36",
+      "saturatedFatContent": "14",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the eggplant, tomatoes, onion, and cabbage. Cut the red bell pepper into strips."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the ribeye steak with salt and pepper on both sides."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare a grill or skillet over medium-high heat. Cook the steak to your preferred doneness, about 4 minutes per side for medium-rare. Let it rest for 3 minutes, then slice against the grain."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Using the same skillet, reduce to medium heat. Add the sliced vegetables and saut\u00e9 until they are soft and tender, about 5-7 minutes.",
+        "time": "PT7M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the sliced steak topped with the saut\u00e9ed vegetables."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into a guilt-free culinary adventure with our Healthyfied Filipino Style Steak! Tailored for health enthusiasts, this high-protein, low-carb, yet slightly high-sodium recipe brings a healthy twist to your meals without compromising flavor. Perfect for those on a journey for healthier alternatives.",
+    "prepTime": "PT15M",
+    "cookTime": "PT12M",
+    "totalTime": "PT27M",
+    "keywords": "high-protein,low-carb,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

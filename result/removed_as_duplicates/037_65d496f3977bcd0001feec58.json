@@ -1,0 +1,81 @@
+{
+  "post_id": "65d496f3977bcd0001feec58",
+  "title": "Potato Vegetable Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Potato Vegetable Salad",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "256 grams, Garlic Marble Potatoes",
+      "270.00 g, Carrots, raw",
+      "125 g, Cabbage, raw",
+      "400 g, Eggplant, raw",
+      "135 g, Yellow, Raw",
+      "5.00 g, Garlic, raw",
+      "3 tbsp (15g), Mayonnaise",
+      "0.25 tsp, ground, Pepper",
+      "1 tbsp(s), Lemon juice, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "287",
+      "carbohydrateContent": "22",
+      "fiberContent": "8",
+      "sugarContent": "13",
+      "sodiumContent": "349",
+      "proteinContent": "5",
+      "fatContent": "13",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "6",
+      "unsaturatedFatContent": 9,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash the Garlic Marble Potatoes, Carrots, Cabbage, Eggplant, and Yellow raw under cold water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the Carrots, Cabbage, Eggplant, and Yellow raw, and mince the Garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil the Garlic Marble Potatoes in a pot of water until they are tender, about 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In another pot, blanch the diced Carrots, Cabbage, and Eggplant for about 5 minutes, then drain."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the boiled potatoes, blanched vegetables, minced garlic in a large bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the mayonnaise, ground pepper, and lemon juice to the bowl. Mix well until all the ingredients are evenly coated."
+      }
+    ],
+    "tags": [
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into a bowl of Healthyfied Potato Vegetable Salad, a delight for anyone looking to enjoy a high-fiber, nutritious meal. Crafted with an assortment of fresh vegetables and seasoned to perfection, this salad epitomizes the essence of healthy living through 'Healthyfied' and 'Healthified Recipes'. It's a perfect choice for those seeking a refreshing, hearty meal.",
+    "prepTime": "PT20M",
+    "cookTime": "PT20M",
+    "totalTime": "PT40M",
+    "keywords": "high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

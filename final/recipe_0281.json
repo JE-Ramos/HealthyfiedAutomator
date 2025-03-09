@@ -1,0 +1,101 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Sesame Soy Chicken Enoki Mushroom",
+  "image": [
+    "https://healthyfied.me/images/recipes/sesame-soy-chicken-enoki-mushroom.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Sesame Soy Chicken Enoki Mushroom dish is a perfect blend of succulence and health, tailored for those on a low-carb, low-sugar diet. It's been crafted with a special focus on healthy living, featuring a delightful mix of sesame seeds, tender chicken, and Golden Mushroom, all flavored with coconut amino and a hint of spices. A dish that doesn't just satisfy your taste buds but also aligns with your health-conscious lifestyle.",
+  "prepTime": "PT20M",
+  "cookTime": "PT20M",
+  "totalTime": "PT40M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "128",
+    "carbohydrateContent": "5",
+    "fiberContent": "1",
+    "sugarContent": "2",
+    "sodiumContent": "298",
+    "proteinContent": "14",
+    "fatContent": "5",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "1",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 1,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  teaspoon Salt",
+    "0.50  tbsp(s) Butter - Unsalted",
+    "0.50  tbsp(s) Seeds, sesame seeds, whole, dried",
+    "0.50  tsp ground, Spices, pepper, black",
+    "1  tablespoon Coconut Amino",
+    "10 g Garlic, raw",
+    "100 g (Golden Mushroom) Grams",
+    "200 g chicken",
+    "40 g Red Onion"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Start by rinsing the Golden Mushroom under cold water and draining thoroughly.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the Red Onion and mince the Garlic.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the chicken into small, bite-sized pieces.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, mix together the Coconut Amino, ground Spices, pepper, black, Salt, and Sesame Seeds to create the marinade.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the chicken pieces in the marinade and let sit for at least 20 minutes to absorb the flavors.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Melt the Butter in a large skillet over medium heat and add the diced Red Onion and minced Garlic. Sauté until they become translucent and fragrant, about 5 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Increase the heat to medium-high and add the marinated chicken to the skillet. Cook until the chicken is thoroughly cooked, about 10 minutes.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finally, add the Golden Mushroom to the skillet and stir-fry for an additional 5 minutes, until the mushrooms are tender and the flavors are well combined.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

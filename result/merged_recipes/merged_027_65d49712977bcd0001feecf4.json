@@ -1,0 +1,106 @@
+{
+  "post_id": "65d49712977bcd0001feecf4",
+  "title": "Tuna Tomato Bowl",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Tuna Tomato Bowl",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.25 teaspoon, Salt",
+      "0.25 tsp, ground, Pepper",
+      "1 lemon yields, Lemon juice, raw",
+      "1 tsp(s), Rosemary, fresh",
+      "1 tsp, Spices, marjoram, dried",
+      "1 tsp, Thyme, fresh",
+      "110 grams, Tomatoes",
+      "13.00 g, Garlic, raw",
+      "3 tbsp., Extra Virgin Olive Oil",
+      "300 gram, Tuna in Water",
+      "45.00 g, Red Onion",
+      "570.00 g, Bok Choi",
+      "600 g, Eggplant, raw",
+      "70 g, Red"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "310",
+      "carbohydrateContent": "21",
+      "fiberContent": "9",
+      "sugarContent": "13",
+      "sodiumContent": "533",
+      "proteinContent": "24",
+      "fatContent": "16",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "10",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 12,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep the vegetables: wash and chop the Bok Choi, dice the eggplant, chop the tomatoes, finely slice the red onion, and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain and flake the tuna."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the olive oil, lemon juice, marjoram, thyme, rosemary, salt, and pepper to make the dressing."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large skillet, heat a tablespoon of olive oil over medium heat and sauté the red onion and garlic until soft, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced eggplant to the skillet and cook until tender, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the bok choy and chopped tomatoes to the skillet, cooking until the bok choy is wilted, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Finally, stir in the flaked tuna, warming it through."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from heat and drizzle the dressing over the cooked mixture. Gently toss to combine."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the Tuna Tomato Bowl warm."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-protein",
+      "high-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into this 'Healthyfied Tuna Tomato Bowl', a splendid combination of high-protein, high-fiber goodness that makes it a perfect choice for those looking for healthy meal options. With robust flavors from fresh herbs and the tanginess of lemon juice, this dish promises to deliver on both taste and health.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_027_65d49712977bcd0001feecf4.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/027_65d49712977bcd0001feecf4.json",
+  "original_files": [
+    "027_65d49712977bcd0001feecf4.json",
+    "024_65d49712977bcd0001feecf4.json"
+  ]
+}

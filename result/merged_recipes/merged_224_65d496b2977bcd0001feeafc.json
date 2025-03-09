@@ -1,0 +1,76 @@
+{
+  "post_id": "65d496b2977bcd0001feeafc",
+  "title": "Adlai Red Cabbage",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Adlai Red Cabbage",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "190 g, Adlai Rice (Job's Tears)",
+      "20.00 g, Cabbage, red, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "222",
+      "carbohydrateContent": "46",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "2",
+      "proteinContent": "8",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Adlai Rice under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Adlai Rice according to package instructions until tender, about 20 minutes, then set aside to cool."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the red cabbage."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the cooked Adlai Rice with the thinly sliced red cabbage. Mix well.",
+        "time": "PT10M"
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Adlai Red Cabbage recipe is a perfect combination for those looking to enjoy a delicious, healthy dish that is low in sodium and sugar. Each bite is packed with the nutty flavors of Adlai Rice (Job's Tears) and the crunchy texture of fresh red cabbage, making it a great addition to your list of healthified recipes.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "keywords": "low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_224_65d496b2977bcd0001feeafc.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/224_65d496b2977bcd0001feeafc.json",
+  "original_files": [
+    "224_65d496b2977bcd0001feeafc.json",
+    "221_65d496b2977bcd0001feeafc.json"
+  ]
+}

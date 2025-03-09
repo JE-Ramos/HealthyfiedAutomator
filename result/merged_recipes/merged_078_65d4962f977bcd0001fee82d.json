@@ -1,0 +1,86 @@
+{
+  "post_id": "65d4962f977bcd0001fee82d",
+  "title": "Beautiful Messveggies",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Beautiful MessVeggies",
+    "recipeYield": "5",
+    "recipeIngredient": [
+      "0.50 cup, chopped, Peppers, sweet, green, raw",
+      "0.50 pepper, large (3-3/4\" long, 3\" dia), Peppers, sweet, yellow, raw",
+      "1 cup, Spinach - Raw",
+      "1 cup, Spiralized Carrot Noodles",
+      "1 tsp(s), Virgin Coconut Oil",
+      "128 gram, Corn Meat",
+      "2 cup, Bean",
+      "3 cup, chopped, Cabbage, red, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "114",
+      "carbohydrateContent": "11",
+      "fiberContent": "3",
+      "sugarContent": "5",
+      "sodiumContent": "296",
+      "proteinContent": "6",
+      "fatContent": "6",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop 3 cups of red cabbage and 0.50 cup of green sweet peppers. Dice 0.50 large yellow sweet pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pan, heat 1 tsp of virgin coconut oil over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped cabbage and peppers to the pan and sauté for about 5 minutes, until slightly softened.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Incorporate 2 cups of beans, 1 cup of spiralized carrot noodles, 1 cup of raw spinach, and 128 grams of corn meat into the pan. Stir well to combine.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Continue to cook the mixture for an additional 10 minutes, stirring occasionally until everything is heated through and the spinach has wilted.",
+        "time": "PT10M"
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in the vibrant flavors of our Beautiful MessVeggies, meticulously crafted for those following a low-carb and low-sugar lifestyle. This healthified recipe is a colorful medley of red cabbage, beans, spiralized carrot noodles, spinach, and sweet peppers, all brought together with the unique touch of corn meat. Perfect for anyone seeking to enjoy healthy recipes without compromising on taste.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_078_65d4962f977bcd0001fee82d.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/078_65d4962f977bcd0001fee82d.json",
+  "original_files": [
+    "078_65d4962f977bcd0001fee82d.json",
+    "081_65d4962f977bcd0001fee82d.json"
+  ]
+}

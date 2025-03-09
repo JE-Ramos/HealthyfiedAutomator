@@ -1,0 +1,80 @@
+{
+  "post_id": "65d49697977bcd0001feea5a",
+  "title": "Garlic Paprika Salmon Tail",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Garlic Paprika Salmon Tail",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 tbsp(s), Black Pepper - Ground",
+      "1 tsp, Mccormick",
+      "404 g, Salmon Tail",
+      "2 tbsp, Fresh"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "197",
+      "carbohydrateContent": "4",
+      "fiberContent": "1",
+      "sugarContent": "0",
+      "sodiumContent": "0",
+      "proteinContent": "29",
+      "fatContent": "8",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 375\u00b0F (190\u00b0C)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pat the salmon tail dry with paper towels to remove any excess moisture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix 1 tablespoon of ground black pepper, 1 teaspoon of McCormick Paprika, and 2 tablespoons of fresh lemon juice in a small bowl to create the marinade."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rub the marinade evenly over both sides of the salmon tail."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the salmon tail on a baking sheet lined with parchment paper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 20 minutes, or until the salmon is cooked through and flakes easily with a fork."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Garlic Paprika Salmon Tail recipe is a healthy indulgence for anyone following a high-protein, low-carb, low-sodium, and low-sugar diet. Perfect for those looking to enjoy a sumptuous meal while keeping it nutritious.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "post_id": "65d496cb977bcd0001feeb8d",
+  "title": "Tuna In Citrus Soy Sauce",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Tuna In Citrus Soy Sauce",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "0.12 teaspoon, Salt",
+      "0.25 cup (8 fl oz), Water",
+      "1 large, White onion",
+      "1 tsp(s), Ground Black Pepper",
+      "2 tablespoon, Cornstarch",
+      "2 tablespoon, Olive oil",
+      "3 Tbsp, low sodium soy sauce",
+      "50 gramm, Calamondin",
+      "500 g, Frozen Tuna Cubes"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "236",
+      "carbohydrateContent": "9",
+      "fiberContent": "1",
+      "sugarContent": "3",
+      "sodiumContent": "534",
+      "proteinContent": "32",
+      "fatContent": "7",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "5",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 6,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Dice the white onion and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix the cornstarch with 2 tablespoons of water to create a slurry. Set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Juice the calamondin to get the required amount of juice. Set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the olive oil in a skillet over medium heat. Add the diced onion and sauté until translucent, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the frozen tuna cubes to the skillet and cook until they are evenly browned on all sides, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the low sodium soy sauce, calamondin juice, the remaining water (6 fl oz), and salt. Bring to a simmer."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cornstarch slurry to the skillet. Stir constantly until the sauce thickens, about 2-3 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with ground black pepper. Simmer for an additional 2 minutes to blend the flavors."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "high-sodium",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Healthify your meals with this Healthyfied Tuna in Citrus Soy Sauce recipe. Rich in protein and low in carbs and sugar, it's an ideal choice for anyone looking to maintain a balanced diet without sacrificing flavor. This delicious recipe brings together the freshness of calamondin with the savory depth of low-sodium soy sauce, presenting a dish that exudes culinary sophistication while adhering to healthy eating principles. Perfect for the health-conscious food lover!",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_046_65d496cb977bcd0001feeb8d.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/046_65d496cb977bcd0001feeb8d.json",
+  "original_files": [
+    "046_65d496cb977bcd0001feeb8d.json",
+    "043_65d496cb977bcd0001feeb8d.json"
+  ]
+}

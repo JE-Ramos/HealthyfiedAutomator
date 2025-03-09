@@ -1,0 +1,71 @@
+{
+  "post_id": "65d49629977bcd0001fee810",
+  "title": "Guacamole",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Guacamole",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.50 kg(s), Red capsicum (nutritional info from veggycation)",
+      "1 tbsp, Lemon juice",
+      "0.50 tsp, Ground Black Pepper",
+      "0.25 tsp, Salt",
+      "0.50 cup, mashed or pureed  , Avocado",
+      "0.50 medium, Red onion"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "112",
+      "carbohydrateContent": "11",
+      "fiberContent": "6",
+      "sugarContent": "7",
+      "sodiumContent": "197",
+      "proteinContent": "4",
+      "fatContent": "6",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "4",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 5,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the red capsicum under cold water, then chop it finely."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the red onion into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a medium bowl, combine the mashed avocado, chopped red capsicum, diced red onion, lemon juice, ground black pepper, and salt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix all the ingredients until well incorporated. For best flavor, let it sit for about 10 minutes before serving."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Guacamole is a perfect blend of nutrition and taste, making it an ideal choice for those following a low-carb, high-fiber diet. Featuring fresh avocados, red capsicum, and a hint of lemon, it's a delicious way to enjoy a health-conscious version of the classic guacamole, perfect for any healthy recipe collection.",
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "PT10M",
+    "keywords": "low-carb,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

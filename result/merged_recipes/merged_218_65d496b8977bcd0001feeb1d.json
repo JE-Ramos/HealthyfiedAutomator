@@ -1,0 +1,106 @@
+{
+  "post_id": "65d496b8977bcd0001feeb1d",
+  "title": "2018/10/17 Dinner",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/17 Dinner",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.12 teaspoon, Salt",
+      "0.25 tbsp(s), Lemon juice, raw",
+      "0.25 tsp, ground, Pepper",
+      "0.50 tbsp(s), Lemon juice, raw",
+      "1.50 cup, chopped, Cabbage, raw",
+      "100 g, Carrots, raw",
+      "2 tbsp (15g), Mayonnaise",
+      "400 gram, Pangasius"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "225",
+      "carbohydrateContent": "8",
+      "fiberContent": "2",
+      "sugarContent": "5",
+      "sodiumContent": "865",
+      "proteinContent": "25",
+      "fatContent": "10",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "4",
+      "unsaturatedFatContent": 6,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven to 180°C (356°F)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Pangasius fillets and pat them dry. Lay them out on a baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle 0.50 tbsp of lemon juice over the Pangasius fillets. Season with 0.12 teaspoon of salt and 0.25 tsp of ground pepper evenly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and slice the carrots into thin strips."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the cabbage into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chopped vegetables around the Pangasius in the baking dish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the preheated oven for 20 minutes, until the fish is cooked through and vegetables are tender.",
+        "time": "PT20M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the fish and vegetables are baking, prepare the sauce by mixing 2 tbsp of mayonnaise with 0.25 tbsp of lemon juice."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once cooked, remove the baking dish from the oven and let it cool for a few minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the Pangasius and vegetables with the lemon-mayonnaise sauce drizzled on top or on the side."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-protein",
+      "high-sodium",
+      "low-carb",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied dinner is perfect for those following a high-protein, low-carb diet. Made with pangasius, fresh vegetables, and seasoned with lemon juice and ground pepper, it's a nutritious choice that does not skimp on flavor. Ideal for anyone looking for healthy recipes that are delicious and easy to prepare.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_218_65d496b8977bcd0001feeb1d.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/218_65d496b8977bcd0001feeb1d.json",
+  "original_files": [
+    "218_65d496b8977bcd0001feeb1d.json",
+    "221_65d496b8977bcd0001feeb1d.json"
+  ]
+}

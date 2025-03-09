@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Broccoli White Beech Mushrooms",
+  "image": [
+    "https://healthyfied.me/images/recipes/broccoli-white-beech-mushrooms.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Broccoli White Beech Mushrooms recipe is a testament to healthy eating, perfectly aligning with a low-carb, low-sodium, and low-sugar dietary preference. Ideal for those looking to enjoy a nutritious yet delicious meal, this dish brings together the fresh flavors of broccoli and white beech mushrooms, seasoned with coconut amino, black pepper, and a hint of garlic for an extra kick. A must-try for anyone seeking healthified recipes that don't compromise on taste!",
+  "prepTime": "PT12M",
+  "cookTime": "PT14M",
+  "totalTime": "PT26M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "62",
+    "carbohydrateContent": "11",
+    "fiberContent": "4",
+    "sugarContent": "2",
+    "sodiumContent": "92",
+    "proteinContent": "4",
+    "fatContent": "0",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.03 kg Garlic, raw",
+    "1  tsp ground (2.3 g), Black Pepper - Ground",
+    "262 g Broccoli, raw",
+    "292 g (3.5 oz.), White Beech Mushrooms",
+    "3  tsp Coconut Amino",
+    "30 g Red Onion"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the broccoli under cold water and cut into bite-sized pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Clean the white beech mushrooms by gently wiping them with a damp cloth.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finely chop the red onion and mince the garlic.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pan, heat some water over medium heat and steam the broccoli for about 5 minutes until they are bright green and tender. Remove from the pan and set aside.",
+      "time": "PT5M",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the same pan, lightly sauté the chopped red onion and minced garlic for about 2 minutes until fragrant.",
+      "time": "PT2M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the white beech mushrooms to the pan and cook for another 5 minutes, or until they are soft.",
+      "time": "PT5M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return the steamed broccoli to the pan. Sprinkle the ground black pepper and drizzle the coconut amino over the top. Stir well to combine all the ingredients and cook for another 2 minutes.",
+      "time": "PT2M",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve hot as a healthy and delicious side dish or a main course.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

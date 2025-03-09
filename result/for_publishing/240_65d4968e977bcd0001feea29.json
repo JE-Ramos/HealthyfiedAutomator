@@ -1,0 +1,77 @@
+{
+  "post_id": "65d4968e977bcd0001feea29",
+  "title": "Tilapia In Soy Ginger",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Tilapia in Soy Ginger",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "150 gram, Tilapia Fresh",
+      "0.25 tsp, Soy",
+      "10.00 g, Ginger root - Raw",
+      "1 Tbsp, Moringa - Pure Leaves",
+      "5 grams, Calamansi",
+      "1 tsp, ground, Spices, pepper, black"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "187",
+      "carbohydrateContent": "8",
+      "fiberContent": "4",
+      "sugarContent": "2",
+      "sodiumContent": "195",
+      "proteinContent": "31",
+      "fatContent": "4",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the ingredients: Peel and mince the ginger root. Squeeze the calamansi to get fresh juice. Rinse the tilapia under cold water and pat dry."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Marinate the tilapia in a mixture of soy sauce, calamansi juice, minced ginger, and black pepper for at least 30 minutes in the refrigerator."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a non-stick pan over medium heat and gently place the marinated tilapia in it, cooking for 4 minutes on each side or until the fish is cooked through and golden brown."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the last minute of cooking, sprinkle the moringa leaves over the tilapia to lightly wilt them.",
+        "time": "PT1M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the tilapia hot, garnished with additional calamansi slices or moringa leaves if desired."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Tilapia in Soy Ginger recipe is a perfect match for those looking for a high-protein, low-carb, and low-sugar option. Embrace a healthier lifestyle with this mouthwatering dish that combines the delicate flavors of fresh tilapia, ginger, and soy, beautifully accented with moringa leaves and a hint of calamansi and black pepper. Ideal for anyone looking to enjoy healthy recipes without sacrificing flavor!",
+    "prepTime": "PT35M",
+    "cookTime": "PT8M",
+    "totalTime": "PT43M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Salad Dressing - Honey Mustard ",
+  "image": [
+    "https://healthyfied.me/images/recipes/salad-dressing---honey-mustard-.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This low-carb, low-sugar Honey Mustard Salad Dressing is a healthier twist on a classic, making it perfect for those following a health-conscious diet without sacrificing flavor. Dive into a blend of tangy mustard and sweet undertones, guaranteed to elevate your salads!",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "0",
+    "carbohydrateContent": "1",
+    "fiberContent": "0",
+    "sugarContent": "1",
+    "sodiumContent": "150",
+    "proteinContent": "0",
+    "fatContent": "0",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  packet Sugar Substitute",
+    "12.50 g mustard"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place the mustard and sugar substitute in a small mixing bowl.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk until the sugar substitute is completely dissolved and the mixture is smooth.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Taste and adjust the sweeteness by adding more sugar substitute if necessary. Your Honey Mustard Salad Dressing is ready to dress your favorite salads.",
+      "name": "Step 3"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

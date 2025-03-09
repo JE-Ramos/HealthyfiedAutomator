@@ -1,0 +1,92 @@
+{
+  "post_id": "65d4970c977bcd0001feecd8",
+  "title": "Salmon Bellpepper Wrap",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Salmon Bellpepper Wrap",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "0.50 whole, Red Bellpepper",
+      "0.50 pepper, Yellow Bell Pepper",
+      "2 wrap, Wholemeal Wrap",
+      "100 g, Grilled Salmon Steak",
+      "6 leaf (medium), Iceberg Lettuce - Leaf"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "303",
+      "carbohydrateContent": "29",
+      "fiberContent": "6",
+      "sugarContent": "4",
+      "sodiumContent": "77",
+      "proteinContent": "16",
+      "fatContent": "12",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Slice the red bell pepper and yellow bell pepper into thin strips."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Tear the iceberg lettuce leaves into smaller pieces that fit the size of the wraps."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Warm the wholemeal wraps in a dry pan over low heat for about 1 minute on each side to make them more pliable."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flake the grilled salmon steak into bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lay out the warmed wraps and evenly distribute the lettuce leaves across them."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Top the lettuce with the sliced bell peppers."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Distribute the flaked grilled salmon evenly over the bell peppers."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Carefully roll up the wraps, tucking in the edges as you go to secure the filling."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the salmon bellpepper wraps immediately, or wrap them in foil to keep them fresh if serving later."
+      }
+    ],
+    "tags": [
+      "low-sodium",
+      "low-sugar",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a healthful delight with our Salmon Bellpepper Wrap, perfectly tailored for those prioritizing low-sodium, low-sugar, and high-fiber meals. This recipe is part of our Healthified Recipes collection, aiming to provide delicious yet nutritious alternatives for your diet. Packed with the goodness of grilled salmon, vibrant bell peppers, and fresh iceberg lettuce, all wrapped in a hearty wholemeal wrap, it's a guilt-free option for a satisfying meal.",
+    "prepTime": "PT15M",
+    "cookTime": "PT1M",
+    "totalTime": "PT16M",
+    "keywords": "low-sodium,low-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

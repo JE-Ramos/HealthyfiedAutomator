@@ -1,0 +1,92 @@
+{
+  "post_id": "65d4971a977bcd0001feed1e",
+  "title": "Bacon Alog",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Bacon ALog",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 large, Egg",
+      "70 g, Adlai Rice (Job's Tears)",
+      "120.00 g, Carrots, raw",
+      "50 gram, Red Bellpepper (Ounces)",
+      "40 gram, Bellpepper",
+      "70.00 g, Red Onion",
+      "12.00 g, Garlic, raw",
+      "100 g, Bacon"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "318",
+      "carbohydrateContent": "25",
+      "fiberContent": "2",
+      "sugarContent": "3",
+      "sodiumContent": "274",
+      "proteinContent": "18",
+      "fatContent": "16",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "6",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 8,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Adlai Rice under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Adlai Rice according to package instructions until tender, then set aside. This should take about 20 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dice the carrots, red bell pepper, bell pepper, and red onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet, cook the bacon over medium heat until crisp. Remove the bacon and set aside on a paper towel to drain the excess grease."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same skillet with the bacon grease, saut\u00e9 the diced carrots, bell peppers, red onion, and minced garlic over medium heat until softened, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the cooked bacon into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cooked Adlai Rice, saut\u00e9ed vegetables, and chopped bacon in a large bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Crack the egg into the skillet and scramble until fully cooked, then stir into the rice mixture."
+      }
+    ],
+    "tags": [
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Bacon ALog is a delightful twist on a healthy meal, incorporating nutritious ingredients like Adlai Rice, fresh vegetables, and the irresistible taste of bacon. This recipe is perfect for those following a low-sugar diet and seeking healthified versions of their favorite dishes.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "keywords": "low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "post_id": "65d496dc977bcd0001feebef",
+  "title": "2018/11/12Dinner Grapes And Beef",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/11/12Dinner Grapes and beef",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "15.00 G, Ginisang Pechay",
+      "2.47 Oz, Beef Ground Mexican (Bison)",
+      "50 g, Grapes - Raw",
+      "56.50 gram, Mixed Chinese Vegetables"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "261",
+      "carbohydrateContent": "17",
+      "fiberContent": "2",
+      "sugarContent": "10",
+      "sodiumContent": "587",
+      "proteinContent": "19",
+      "fatContent": "13",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "6",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 7,
+      "transFatContent": "1"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse 50g of grapes under cold water and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prep the 15.00g of Ginisang Pechay by washing and chopping it into bite-size pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare 2.47 ounces of Beef Ground Mexican (Bison) by breaking it into smaller chunks for even cooking."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse and drain 56.50 grams of Mixed Chinese Vegetables."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet over medium heat, cook the ground beef for 10 minutes or until browned and cooked through."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the mixed Chinese vegetables and ginisang pechay to the skillet, cooking for an additional 5 minutes until the vegetables are tender.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently toss in the grapes, cooking for an additional 5 minutes to allow the flavors to meld.",
+        "time": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve hot and enjoy a nutritious, healthified dinner."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-sodium",
+      "low-carb"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a healthy and delectable low-carb dinner with our 'Grapes and Beef' recipe. Specially designed for those looking for high-sodium, healthified recipes, this dish combines the freshness of grapes with the rich flavor of ground beef and mixed Chinese vegetables. Perfect for those pursuing a balanced and nutritious eating plan.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "low-carb,high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_199_65d496dc977bcd0001feebef.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/199_65d496dc977bcd0001feebef.json",
+  "original_files": [
+    "199_65d496dc977bcd0001feebef.json",
+    "202_65d496dc977bcd0001feebef.json"
+  ]
+}

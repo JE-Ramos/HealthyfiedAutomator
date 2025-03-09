@@ -1,0 +1,84 @@
+{
+  "post_id": "65d495b6977bcd0001fee57b",
+  "title": "Grilled Tomato Thyme",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Grilled Tomato Thyme",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 tsp, Thyme, fresh",
+      "258 grams, Tomatoes"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "16",
+      "carbohydrateContent": "3",
+      "fiberContent": "1",
+      "sugarContent": "2",
+      "sodiumContent": "4",
+      "proteinContent": "1",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the tomatoes under cold water and pat them dry."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the tomatoes into halves."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your grill to medium-high heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the fresh thyme over the cut sides of the tomatoes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the tomatoes cut-side down on the grill and cook for 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Turn the tomatoes over and grill for another 4 minutes until they are soft and the skins are slightly charred."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Grilled Tomato Thyme recipe is perfect for anyone looking to enjoy a healthy, low-carb, low-sodium, and low-sugar meal. With fresh ingredients like tomatoes and thyme, it's an ideal choice for anyone seeking healthy recipes.",
+    "prepTime": "PT10M",
+    "cookTime": "PT9M",
+    "totalTime": "PT19M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_104_65d495b6977bcd0001fee57b.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/104_65d495b6977bcd0001fee57b.json",
+  "original_files": [
+    "104_65d495b6977bcd0001fee57b.json",
+    "107_65d495b6977bcd0001fee57b.json"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "post_id": "65d49702977bcd0001feeca4",
+  "title": "Cajun Chicken",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Cajun Chicken",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "1 tsp, Thyme, fresh",
+      "1 tsp(s), Rosemary, fresh",
+      "1 tsp, Ground Black Pepper",
+      "2 breast (per 4 oz/112 g), Chicken Breast",
+      "0.50 Tbsp, Kikoman",
+      "0.50 tsp, Cajun Style Seasoning, Spicy",
+      "1 tbsp, Butter, salted"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "297",
+      "carbohydrateContent": "2",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "409",
+      "proteinContent": "52",
+      "fatContent": "8",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "1",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the chicken breasts by trimming any excess fat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, mix together thyme, rosemary, ground black pepper, and cajun style seasoning."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rub the seasoning mix onto both sides of the chicken breasts."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a skillet over medium heat and add butter."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the butter is melted, add the seasoned chicken breasts to the skillet and cook for 5 minutes on each side or until the internal temperature reaches 165\u00b0F (74\u00b0C), adjusting the heat as necessary to prevent burning."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drizzle the Kikoman over the chicken during the last minute of cooking."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Cajun Chicken recipe is perfect for those who are looking for a tasty, high-protein, and low-carb meal. It's seasoned with a spicy cajun style seasoning, fresh thyme, and rosemary, making it a flavorful yet health-conscious choice. Suitable for anyone looking to maintain a healthy diet without compromising on taste.",
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

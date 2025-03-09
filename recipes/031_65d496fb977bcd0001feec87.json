@@ -1,0 +1,77 @@
+{
+  "post_id": "65d496fb977bcd0001feec87",
+  "title": "Omurice",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied omurice",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "34 gram, Keto Ketchup",
+      "2 egg (50g), Eggs",
+      "1 container (150 gs ea.), Shirataki Noodles",
+      "1 tbsp, Butter"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "292",
+      "carbohydrateContent": "9",
+      "fiberContent": "3",
+      "sugarContent": "0",
+      "sodiumContent": "142",
+      "proteinContent": "13",
+      "fatContent": "22",
+      "saturatedFatContent": "10",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the Shirataki Noodles by rinsing them under cold water and boiling for 2 minutes. Then, drain and set aside to dry."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a mixing bowl, whisk the eggs until well beaten."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat half a tablespoon of butter in a non-stick skillet over medium heat. Pour in the eggs and cook for 2-3 minutes until the omelette is just set. Carefully fold the omelette in half and then slide it onto a plate."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same skillet, add the remaining butter and saut\u00e9 the prepared Shirataki Noodles for about 5 minutes, or until they begin to slightly brown."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the Keto Ketchup with the noodles, mixing well to ensure the noodles are evenly coated. Cook for an additional 2 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the noodle mixture on the plate and gently fold the omelette over the top. Serve immediately for a warm, comforting meal."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in this Healthyfied omurice, a delicious low-carb and low-sugar twist on the traditional Japanese omelette rice. Made with keto-friendly ingredients, this dish perfectly blends healthy eating with mouthwatering flavors, making it an ideal choice for those seeking nutritious yet satisfying meals.",
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

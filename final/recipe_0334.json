@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Zucchini Chips",
+  "image": [
+    "https://healthyfied.me/images/recipes/zucchini-chips.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in our Zucchini Chips for a low-carb, low-sugar snack option. Perfect for those on a health journey, these chips are not only delicious but are a part of our Healthy Recipes collection, ensuring you can enjoy a crisp, guilt-free treat anytime.",
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "41",
+    "carbohydrateContent": "5",
+    "fiberContent": "2",
+    "sugarContent": "2",
+    "sodiumContent": "283",
+    "proteinContent": "1",
+    "fatContent": "2",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "2  tsp(s) Extra Virgin Coconut Oil",
+    "472 g Steamed"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 220 degrees Celsius.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the steamed zucchini into thin, chip-sized pieces.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl, toss the zucchini slices with the extra virgin coconut oil until evenly coated.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange the zucchini slices in a single layer on a baking sheet lined with parchment paper.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in the preheated oven for 15 minutes, then flip the chips and bake for another 10 minutes or until crisp and golden brown.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Omega-3 Infused Asparagus",
+  "image": [
+    "https://healthyfied.me/images/recipes/omega-3-infused-asparagus.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in the goodness of Omega-3 Infused Asparagus, a perfect blend of health and flavor. This recipe is designed with health in mind, ensuring a low-carb, low-sodium, and low-sugar diet without sacrificing taste. Ideal for anyone looking for healthy and delicious meal options.",
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "26",
+    "carbohydrateContent": "1",
+    "fiberContent": "1",
+    "sugarContent": "1",
+    "sodiumContent": "1",
+    "proteinContent": "1",
+    "fatContent": "2",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "1",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 2,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "118 g Asparagus - Raw",
+    "2  tsp Fish oil, salmon"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Trim the woody ends off the asparagus.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the asparagus under cold water to remove any dirt or sediment.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring a pot of water to a boil and blanch the asparagus for 2-3 minutes until vibrant and slightly tender.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the asparagus and immediately plunge into ice water to stop the cooking process.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pat the asparagus dry with paper towels.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drizzle the fish oil over the asparagus and toss to evenly coat.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the Omega-3 Infused Asparagus as a nutritious side dish.",
+      "time": "PT5M",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

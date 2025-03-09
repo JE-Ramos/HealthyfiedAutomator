@@ -1,0 +1,82 @@
+{
+  "post_id": "65d4975e977bcd0001feee7e",
+  "title": "Cabbage Shanghai",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Cabbage Shanghai",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "1 teaspoon, Salt",
+      "1 tsp, ground (2.3 g), Black Pepper - Ground",
+      "130.00 g, Red",
+      "2 large, Egg",
+      "250 g, Pork, fresh, ground, raw",
+      "296.00 g, Eggplant, raw",
+      "30.00 g, Carrots, raw",
+      "300 g, Cabbage, raw",
+      "400 gram, Silken Tofu"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "406",
+      "carbohydrateContent": "19",
+      "fiberContent": "7",
+      "sugarContent": "9",
+      "sodiumContent": "905",
+      "proteinContent": "27",
+      "fatContent": "24",
+      "saturatedFatContent": "8",
+      "monounsaturatedFatContent": "10",
+      "polyunsaturatedFatContent": "4",
+      "unsaturatedFatContent": 14,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse and finely shred the cabbage. Cut the eggplant and carrots into thin strips. Crumble the silken tofu."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whisk the eggs in a large mixing bowl."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the shredded cabbage, eggplant strips, crumbled tofu, shredded carrot, ground pork, salt, and ground black pepper to the bowl with the whisked eggs. Mix well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a skillet over medium heat. Take spoonfuls of the mixture and form them into small rolls. Cook in batches, turning occasionally, until golden brown and the pork is fully cooked, about 8 minutes."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-protein",
+      "high-sodium",
+      "low-carb"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a wholesome and nutritious twist with our Healthyfied Cabbage Shanghai recipe. Perfect for those seeking high-protein and high-fiber meals, this dish is a savory delight that's both low in carbs and beautifully healthified. Whether you're on a quest for healthy recipes or looking to maintain a balanced diet without compromising taste, this creation promises to cater to your needs while satisfying your cravings.",
+    "prepTime": "PT20M",
+    "cookTime": "PT8M",
+    "totalTime": "PT28M",
+    "keywords": "high-protein,low-carb,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_012_65d4975e977bcd0001feee7e.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/012_65d4975e977bcd0001feee7e.json",
+  "original_files": [
+    "012_65d4975e977bcd0001feee7e.json",
+    "009_65d4975e977bcd0001feee7e.json"
+  ]
+}

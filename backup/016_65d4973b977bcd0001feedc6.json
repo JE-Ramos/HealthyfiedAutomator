@@ -1,0 +1,84 @@
+{
+  "post_id": "65d4973b977bcd0001feedc6",
+  "title": "Tinola Manok",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Tinola Manok",
+    "recipeYield": "6",
+    "recipeIngredient": [
+      "1.80 kg(s), Thigh fillets",
+      "60.00 g, Red Onion",
+      "5.00 g, Ginger root - Raw",
+      "0.25 teaspoon, Salt",
+      "0.50 tsp, ground, Pepper",
+      "15.00 g, Garlic, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "350",
+      "carbohydrateContent": "1",
+      "fiberContent": "0",
+      "sugarContent": "0",
+      "sodiumContent": "362",
+      "proteinContent": "58",
+      "fatContent": "12",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the thigh fillets under cold water and pat dry with a paper towel."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and slice the red onion. Peel and julienne the ginger root. Peel and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the thigh fillets with salt and ground pepper evenly on both sides."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, saut\u00e9 the sliced onion, julienned ginger, and minced garlic until they are soft and aromatic, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the seasoned thigh fillets to the pot and sear each side for about 3 minutes, allowing them to brown slightly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fill the pot with enough water to cover the chicken, then bring to a boil. Lower the heat and let it simmer until the chicken is fully cooked, about 30 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Optional: Add your choice of leafy greens or papaya slices 10 minutes before finishing the cooking to incorporate more nutrients."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into a healthier version of a classic Filipino comfort food with this Healthyfied Tinola Manok. Brimming with high-protein, low-carb, and low-sugar ingredients, it's a guilt-free delight for those seeking healthy yet hearty meals. Perfect for anyone looking to enjoy traditional flavors without compromising their dietary goals.",
+    "prepTime": "PT15M",
+    "cookTime": "PT38M",
+    "totalTime": "PT53M",
+    "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

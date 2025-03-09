@@ -1,0 +1,101 @@
+{
+  "post_id": "65d4973a977bcd0001feedc0",
+  "title": "Cream Dory Okra Adlai With Cane Vinegar Okra Dip",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Cream Dory Okra Adlai with Cane Vinegar Okra Dip",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.33 cup (55g), 율무 (Job's Tears)",
+      "0.33 cup raw, Butternut Squash Raw Shredded",
+      "0.50 cup chopped raw, Organic Eggplant",
+      "0.50 fillet, Cream Dory",
+      "1 Tbsp, Cane Vinegar",
+      "1 pods (3\" long), Okra, raw",
+      "3 clove, Garlic Juice (Juicer)"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "345",
+      "carbohydrateContent": "59",
+      "fiberContent": "4",
+      "sugarContent": "7",
+      "sodiumContent": "681",
+      "proteinContent": "19",
+      "fatContent": "4",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the 율무 (Job's Tears) under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the 율무 (Job's Tears) according to package instructions until tender, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the okra pods and shred the butternut squash."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop the organic eggplant into small cubes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the cream dory fillet with garlic juice and set aside for marination."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, lightly fry the cream dory fillet until golden brown and fully cooked, about 7 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same pan, sauté the okra, butternut squash, and eggplant until they're softened, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cooked 율무 (Job's Tears) with the sautéed vegetables and mix well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "For the dip, mix 1 Tbsp of cane vinegar with the juice of 3 cloves of garlic. Adjust the quantity as per taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the Cream Dory and vegetable mix hot with the Cane Vinegar Okra Dip on the side."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in a healthful delight with our Cream Dory Okra Adlai recipe, perfectly complemented by a Cane Vinegar Okra Dip. This dish is an innovative twist on Healthy Recipes and Healthified Recipes, aimed at those who are looking to enjoy high-sodium flavors in a more nutritious manner. A combination of creamy dory fish, crisp okra, and the nutty flavors of Adlai (Job's Tears), paired with a tangy cane vinegar dip, promises a delicious and wholesome meal.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "high-sodium,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_163_65d4973a977bcd0001feedc0.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/163_65d4973a977bcd0001feedc0.json",
+  "original_files": [
+    "163_65d4973a977bcd0001feedc0.json",
+    "160_65d4973a977bcd0001feedc0.json"
+  ]
+}

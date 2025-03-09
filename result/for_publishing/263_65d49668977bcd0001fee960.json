@@ -1,0 +1,90 @@
+{
+  "post_id": "65d49668977bcd0001fee960",
+  "title": "2019/01/15 Tuesday Dinner",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2019/01/15 Tuesday Dinner",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "100 g, Broccoli, raw",
+      "5.00 g, Lettuce, red leaf, raw",
+      "1 large, Egg",
+      "5 g, Water Spinach",
+      "20 gram, Fish, milkfish, raw",
+      "15 gram, Chicken Leg",
+      "17.50 grams, Strawberry"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "157",
+      "carbohydrateContent": "7",
+      "fiberContent": "3",
+      "sugarContent": "2",
+      "sodiumContent": "176",
+      "proteinContent": "16",
+      "fatContent": "8",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash the broccoli, red leaf lettuce, and water spinach under cold water. Pat dry with paper towels."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the vegetables for cooking: chop the broccoli into florets, tear the lettuce into bite-sized pieces, and trim the ends of the water spinach."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Hard boil the egg by placing it in a saucepan, covering it with water, and bringing it to a boil. Once boiling, reduce the heat to low, cover, and simmer for 10 minutes. Remove from heat, cool in cold water, and then peel."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the fish and chicken leg into small, bite-sized pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a steamer, steam the broccoli and water spinach for 5 minutes until they are just tender.",
+        "cookTime": "PT5M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate pan, cook the fish and chicken pieces over medium heat for 10 minutes until fully cooked.",
+        "cookTime": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the strawberry for garnish."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble your dish by placing the lettuce on a plate, topping it with the steamed vegetables, cooked egg, fish, chicken, and garnishing with strawberry slices."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This dinner recipe is perfect for those looking to maintain a healthy lifestyle with a low-carb and low-sugar diet. Featuring ingredients like broccoli, red leaf lettuce, egg, water spinach, milkfish, chicken leg, and strawberry, it's a meal that doesn't compromise on nutrition or flavor. Ideal for anyone following a health-conscious diet.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

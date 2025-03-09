@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Ground Beef Caldereta",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-ground-beef-caldereta.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Healthyfied Ground Beef Caldereta is a delicious twist on a classic Filipino dish, focusing on high-protein and low-carb ingredients to fit into a healthy lifestyle. Perfect for those who love to enjoy traditional flavors without compromising their dietary goals.",
+  "prepTime": "PT15M",
+  "cookTime": "PT23M",
+  "totalTime": "PT38M",
+  "keywords": "high-protein,low-carb,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "281",
+    "carbohydrateContent": "13",
+    "fiberContent": "2",
+    "sugarContent": "6",
+    "sodiumContent": "141",
+    "proteinContent": "26",
+    "fatContent": "13",
+    "saturatedFatContent": "5",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup Tomato Purée",
+    "0.25  tsp(s) Salt",
+    "0.25  tsp ground (2.3 g), Black Pepper - Ground",
+    "120 g Red",
+    "3  teaspoon Sweet Pickle Chips",
+    "380 g Ground Beef",
+    "6 clove Garlic, raw",
+    "83 g Red Onion"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare all the vegetables first: mince the 6 cloves of garlic and dice the 83 grams of red onion and 120 grams of red bell pepper.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pan, brown the 380 grams of ground beef over medium heat for about 8 minutes or until fully cooked. Drain excess fat if necessary.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the minced garlic and diced onion to the pan with beef. Cook for another 3 minutes or until the onion is translucent.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Introduce the 0.25 cup of tomato purée along with the diced red bell pepper to the pan. Stir well to combine.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the 3 teaspoons of sweet pickle chips and add them to the pan. Season with 0.25 tsp of salt and 0.25 tsp of ground black pepper. Mix everything thoroughly.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let the mixture simmer on low heat for 15 minutes, stirring occasionally to meld the flavors together.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

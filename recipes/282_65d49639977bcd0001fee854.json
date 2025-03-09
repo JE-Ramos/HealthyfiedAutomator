@@ -1,0 +1,94 @@
+{
+  "post_id": "65d49639977bcd0001fee854",
+  "title": "Dory Blossom Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Dory Blossom Salad",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "2 cup, Chopped Romaine",
+      "1 Carrot Medium, Medium Carrot",
+      "133 g, Cucumber",
+      "25 g, Yellow Bellpepper",
+      "25 g, Green Bellpepper",
+      "1 fillet, Cream Dory",
+      "50 grams, Tomatoes",
+      "50 gram, Extra Firm",
+      "1 tbsp, leaves, Spices, basil, dried",
+      "100 g, Banana Blossom/ Flower"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "122",
+      "carbohydrateContent": "17",
+      "fiberContent": "5",
+      "sugarContent": "3",
+      "sodiumContent": "473",
+      "proteinContent": "7",
+      "fatContent": "3",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Wash and chop the romaine lettuce. Peel and slice the carrot. Dice the cucumber, yellow bell pepper, and green bell pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the tomatoes into wedges. Prepare the extra firm tofu by cutting it into small cubes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season the cream dory fillet with dried basil leaves, salt, and pepper to taste."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a pan over medium heat and cook the dory fillet until it's golden and cooked through, about 6-8 minutes each side."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the banana blossom/flower by slicing it thinly and soaking it in water mixed with a bit of vinegar to prevent browning."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, combine the chopped romaine lettuce, sliced carrot, diced cucumber, yellow bell pepper, green bell pepper, tomato wedges, and tofu cubes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the cooked cream dory fillet and sliced banana blossom/flower to the salad mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss everything gently to combine. Optionally, you can add your favorite salad dressing or a squeeze of lemon juice for extra flavor."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "high-sodium",
+      "low-sugar",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "Dive into the freshness with our Dory Blossom Salad, a melody of crisp greens, colorful vegetables, and tender cream dory fillet, all coming together for a low-carb, low-sugar, high-fiber delight. Perfect for those looking for a heart-healthy option that doesn't skimp on flavor. This salad brings together the best of both worlds, combining nutritional benefits with mouth-watering tastes. Ideal for anyone on a healthful journey looking for healthy, delicious recipes.",
+    "prepTime": "PT20M",
+    "cookTime": "PT16M",
+    "totalTime": "PT36M",
+    "keywords": "low-carb,high-sodium,low-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

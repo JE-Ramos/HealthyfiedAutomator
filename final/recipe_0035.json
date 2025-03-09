@@ -1,0 +1,102 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Chicken Chopseuy",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-chicken-chopseuy.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Healthyfied Chicken Chopseuy is a delightful take on the classic dish, packed with vibrant vegetables and flavorful chicken thigh. Perfect for those who are looking for healthy recipes that do not compromise on taste. This chopseuy is not just a feast for the eyes but also a nourishing meal that fits perfectly into a health-conscious lifestyle.",
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
+  "keywords": "Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "271",
+    "carbohydrateContent": "20",
+    "fiberContent": "4",
+    "sugarContent": "6",
+    "sodiumContent": "241",
+    "proteinContent": "17",
+    "fatContent": "13",
+    "saturatedFatContent": "4",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  tbsp Kikoman",
+    "1  cob Corn",
+    "1  cup (1\" pieces), Chayote",
+    "1  cup strips or slices, Carrots",
+    "1  cup chopped , Green cabbage",
+    "1 large Red bell pepper",
+    "1 medium Red onion",
+    "1  tsp Ground Black Pepper",
+    "12 clove , Garlic",
+    "339 g Chicken Thigh"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare your vegetables: Peel and slice the carrots into strips, chop the red onion, mince the garlic cloves, dice the red bell pepper into squares, cut the chayote into 1\" pieces, and chop the green cabbage.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the chicken thigh into bite-sized pieces.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut off the kernels from the cob of corn.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large pan, over medium heat, cook the chicken pieces until they are lightly browned, about 5 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the minced garlic, chopped onions, and slices of carrot into the pan, cook for another 5 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Introduce the red bell pepper, chayote, and corn to the pan, and pour in 1 cup of water. Allow the mixture to simmer for 10 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the chopseuy with ground black pepper and Kikoman. Stir well.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lastly, add the chopped green cabbage, and let the dish simmer for an additional 5 minutes until the vegetables are tender but still crisp.",
+      "name": "Step 8"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

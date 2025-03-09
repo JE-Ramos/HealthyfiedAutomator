@@ -1,0 +1,87 @@
+{
+  "post_id": "65d496b5977bcd0001feeb0b",
+  "title": "Mushroom Meaty Sauce",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Mushroom Meaty Sauce",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "300 g, Ground Beef",
+      "104.00 g, Red",
+      "64 g, Capsicum - Green",
+      "122 g (3.5 oz.), White Beech Mushrooms",
+      "2 tbsp(s), Tomato Puree",
+      "1.50 tsp(s), Salt",
+      "1 tsp, Black Pepper - Ground",
+      "53.00 g, Red Onion",
+      "1 tsp, Spices, marjoram, dried",
+      "1 tsp, ground, Spices, tarragon, dried",
+      "1 tsp, Garlic, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "223",
+      "carbohydrateContent": "9",
+      "fiberContent": "3",
+      "sugarContent": "4",
+      "sodiumContent": "139",
+      "proteinContent": "23",
+      "fatContent": "11",
+      "saturatedFatContent": "4",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep the vegetables by dicing the red and green capsicum, chopping the white beech mushrooms, and finely chopping the red onion."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan, cook the ground beef over medium heat until browned and no longer pink, about 8 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the diced red and green capsicum, chopped mushrooms, and finely chopped red onion to the pan. Cook for an additional 5 minutes until the vegetables are soft."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the tomato puree, salt, black pepper, marjoram, tarragon, and minced garlic. Cook for another 7 minutes, allowing the flavors to meld together."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Taste and adjust seasoning if necessary. Serve warm over your choice of pasta or zoodles."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Indulge in a healthier twist on classic flavors with our Mushroom Meaty Sauce. Featuring a high-protein, low-carb, low-sodium, and low-sugar profile, this sauce is perfect for those looking to enjoy hearty meals without sacrificing nutrition. Pair it with your favorite pasta or zoodles for a satisfying, health-conscious meal.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

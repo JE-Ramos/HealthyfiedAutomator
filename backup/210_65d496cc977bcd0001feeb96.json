@@ -1,0 +1,81 @@
+{
+  "post_id": "65d496cc977bcd0001feeb96",
+  "title": "Crunchy Seafood Red Salad",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Crunchy Seafood Red Salad",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 cup, chopped, Cabbage, red, raw",
+      "90 g, Tuna Fillet In Water",
+      "0.50 cup (120g) drained, Young Corn - Cut",
+      "3 sticks (86 g), Ichiban Alaskan Crab Flavored",
+      "0.50 fruit 2-1/4\" high x 2-1/2\" dia, Pears, asian, raw",
+      "0.50 medium apple, Apples"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "236",
+      "carbohydrateContent": "35",
+      "fiberContent": "9",
+      "sugarContent": "18",
+      "sodiumContent": "690",
+      "proteinContent": "25",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Chop the red cabbage, and drain the young corn."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the Asian pear and apple into thin slices."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Open the can of tuna and drain the water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Slice the Alaskan crab flavored sticks into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, gently mix the chopped cabbage, drained young corn, sliced pear and apple, drained tuna, and chopped crab sticks until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chill in the refrigerator for about 15 minutes before serving to let the flavors blend."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "This Crunchy Seafood Red Salad blends the delicious flavors of the ocean with the freshness of raw vegetables and fruits, making it a perfect dish for those seeking high-protein, high-fiber, and health-conscious recipes. Dive into a bowl of goodness that brings together the best of both worlds.",
+    "prepTime": "PT20M",
+    "cookTime": "PT0M",
+    "totalTime": "PT20M",
+    "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

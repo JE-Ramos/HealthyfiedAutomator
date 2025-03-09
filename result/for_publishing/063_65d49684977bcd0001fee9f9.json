@@ -1,0 +1,87 @@
+{
+  "post_id": "65d49684977bcd0001fee9f9",
+  "title": "Beef Yakiniku",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Beef Yakiniku",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "50 g, Red",
+      "40.00 g, Red Onion",
+      "15.00 g, Garlic, raw",
+      "0.25 tsp(s), Salt",
+      "0.25 tsp, ground, Pepper",
+      "0.25 tsp, Oil - Sesame",
+      "310.00 g, Beef Brisket Yakiniku"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "180",
+      "carbohydrateContent": "4",
+      "fiberContent": "0",
+      "sugarContent": "1",
+      "sodiumContent": "95",
+      "proteinContent": "22",
+      "fatContent": "8",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "4",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Thinly slice the red onion and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the beef brisket yakiniku with salt, ground pepper, and sesame oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Preheat a grill pan over medium-high heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the beef brisket yakiniku for about 3-5 minutes on each side or until desired doneness. (cooking time: PT10M)"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the beef from the grill pan and let it rest."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same pan, add the sliced red onion and cook until soft and golden. (cooking time: PT5M)"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the beef yakiniku topped with cooked onions and a side of freshly minced garlic."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Our Healthyfied Beef Yakiniku is perfect for those following a high-protein, low-carb, low-sodium, and low-sugar diet. This delicious recipe marries the savory taste of beef yakiniku with health-conscious ingredients, making it an ideal choice for anyone looking to enjoy a classic dish with a healthier twist. Dive into the world of healthy recipes without compromising on taste.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

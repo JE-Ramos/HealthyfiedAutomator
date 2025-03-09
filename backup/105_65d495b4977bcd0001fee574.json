@@ -1,0 +1,75 @@
+{
+  "post_id": "65d495b4977bcd0001fee574",
+  "title": "Salad Dressing Lemon Hint Vinaigrette",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Salad Dressing - Lemon Hint Vinaigrette",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.06 tsp, Rock Salt",
+      "0.06 tsp(s), White Pepper",
+      "0.25 cup, Lemon juice, raw",
+      "0.25 cup(s), Vinegar",
+      "1 packet, Sugar Substitute"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "13",
+      "carbohydrateContent": "5",
+      "fiberContent": "0",
+      "sugarContent": "2",
+      "sodiumContent": "145",
+      "proteinContent": "0",
+      "fatContent": "0",
+      "saturatedFatContent": "0",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a small bowl, add 0.25 cup of lemon juice and 0.25 cup of vinegar."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add 0.06 tsp of rock salt and 0.06 tsp(s) of white pepper to the mixture."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add 1 packet of sugar substitute to the bowl and whisk all the ingredients together until the sugar substitute is fully dissolved and the dressing is well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Taste the dressing and adjust the seasoning if needed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Store the vinaigrette in a sealed container in the refrigerator until ready to use."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet"
+    ],
+    "description": "This Lemon Hint Vinaigrette is a perfect embodiment of a Healthyfied recipe, making it ideal for anyone following a low-carb and low-sugar diet. The tangy lemon juice paired with the subtle heat of white pepper creates a refreshing dressing that elevates any salad.",
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

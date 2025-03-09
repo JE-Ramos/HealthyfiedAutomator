@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Steamed Boneless Bangus",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-steamed-boneless-bangus.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This 'Healthyfied Steamed Boneless Bangus' is perfect for those looking for a high-protein, low-carb, low-sodium, and low-sugar meal option. Crafted with health in mind, this recipe aligns with modern nutritional preferences, offering a delicious and nourishing dish that fits seamlessly into a healthy lifestyle.",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "keywords": "high-protein,low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "2",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "380",
+    "carbohydrateContent": "5",
+    "fiberContent": "1",
+    "sugarContent": "3",
+    "sodiumContent": "52",
+    "proteinContent": "47",
+    "fatContent": "21",
+    "saturatedFatContent": "6",
+    "monounsaturatedFatContent": "2",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 2,
+    "transFatContent": "1"
+  },
+  "recipeIngredient": [
+    "0.50 small Red Onion",
+    "1  tsp(s) Extra-Virgin Olive Oil",
+    "1  tsp ground, Pepper",
+    "12  oz Boneless Milkfish Belly",
+    "5 clove Garlic, raw",
+    "8  tomatoes One Single Cherry Tomato"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Boneless Milkfish Belly under cold water and pat dry with paper towels.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finely chop the Garlic and Red Onion, and slice the Tomatoes into small pieces.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season the Milkfish Belly with ground Pepper.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the Extra-Virgin Olive Oil in a steamer over medium heat.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "On the steamer tray, lay out the seasoned Milkfish Belly and top with the chopped Garlic, Onion, and Tomatoes.",
+      "time": "Preparation time: 10 minutes",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover and steam for about 15 minutes or until the Milkfish Belly is fully cooked.",
+      "time": "Cooking time: 15 minutes",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

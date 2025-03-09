@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Grilled Tomato Thyme",
+  "image": [
+    "https://healthyfied.me/images/recipes/grilled-tomato-thyme.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Grilled Tomato Thyme recipe is perfect for anyone looking to enjoy a healthy, low-carb, low-sodium, and low-sugar meal. With fresh ingredients like tomatoes and thyme, it's an ideal choice for anyone seeking healthy recipes.",
+  "prepTime": "PT10M",
+  "cookTime": "PT9M",
+  "totalTime": "PT19M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "16",
+    "carbohydrateContent": "3",
+    "fiberContent": "1",
+    "sugarContent": "2",
+    "sodiumContent": "4",
+    "proteinContent": "1",
+    "fatContent": "0",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  tsp Thyme, fresh",
+    "258 g Tomatoes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the tomatoes under cold water and pat them dry.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the tomatoes into halves.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your grill to medium-high heat.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle the fresh thyme over the cut sides of the tomatoes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the tomatoes cut-side down on the grill and cook for 5 minutes.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Turn the tomatoes over and grill for another 4 minutes until they are soft and the skins are slightly charred.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

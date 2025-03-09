@@ -1,0 +1,88 @@
+{
+  "post_id": "65d4965c977bcd0001fee91b",
+  "title": "2018/11/06 Caulirice",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/11/06 Healthyfied Caulirice",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "47.50 g, Adlai Rice (Job's Tears)",
+      "67 g, Capsicum Green",
+      "200 g, Cauliflower - Raw",
+      "0.25 teaspoon, Salt",
+      "2 tbsp, Butter - Salted",
+      "0.25 tsp, ground, Pepper",
+      "10.00 g, Garlic, raw"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "149",
+      "carbohydrateContent": "17",
+      "fiberContent": "2",
+      "sugarContent": "3",
+      "sodiumContent": "270",
+      "proteinContent": "4",
+      "fatContent": "8",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 2,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse 47.50 g of Adlai Rice (Job's Tears) under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Chop 67 g of Capsicum Green and 200 g of Cauliflower into small pieces."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince 10.00 g of Garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet, melt 2 tbsp of Butter over medium heat."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the minced Garlic to the skillet and saut\u00e9 for about 1 minute or until fragrant. Cook Time: 1M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped Capsicum Green and Cauliflower to the skillet, sprinkle with 0.25 teaspoon of Salt and 0.25 teaspoon of ground Pepper. Cook for about 7-10 minutes until the vegetables are tender. Cook Time: 10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the Adlai Rice according to package instructions, then set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the cooked Adlai Rice with the saut\u00e9ed vegetables. Mix well and adjust the seasoning if needed."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Caulirice recipe is perfect for those looking to enjoy a delicious, nutritious meal without the guilt. With its low-carb and low-sugar tags, it's ideal for a healthy lifestyle. Featuring a blend of flavors with Adlai Rice, Capsicum Green, Cauliflower, and a hint of garlic, this dish is not just healthy but also incredibly flavorful. Dive into the world of healthy recipes with this delightful dish.",
+    "prepTime": "PT20M",
+    "cookTime": "PT15M",
+    "totalTime": "PT35M",
+    "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Adlai Carrot Fried Rice",
+  "image": [
+    "https://healthyfied.me/images/recipes/adlai-carrot-fried-rice.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Adlai Carrot Fried Rice is a perfect harmony of health and taste, ideal for those following a low-carb and low-sugar diet. Infused with wholesome ingredients like Adlai Rice, fresh carrots, and coconut, it's a healthy twist to your traditional fried rice that does not compromise on flavor. A great addition to your healthy recipes collection, this dish is packed with nutrients and easily fits into your health-conscious lifestyle.",
+  "prepTime": "PT30M",
+  "cookTime": "PT13M",
+  "totalTime": "PT43M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "112",
+    "carbohydrateContent": "13",
+    "fiberContent": "1",
+    "sugarContent": "2",
+    "sodiumContent": "242",
+    "proteinContent": "4",
+    "fatContent": "5",
+    "saturatedFatContent": "3",
+    "monounsaturatedFatContent": "1",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 2,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  teaspoon Salt",
+    "1 large Egg",
+    "109 g Carrots, raw",
+    "2  tsp(s) Coconut",
+    "40 g Adlai Rice (Job's Tears)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Adlai Rice under cold water until the water runs clear.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the Adlai Rice according to package instructions until tender, about 20 minutes, then set aside.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel and dice the carrots into small pieces.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Crack the egg into a bowl, beating it lightly with a fork.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a non-stick pan over medium heat and add the coconut. Wait until it is hot, then add the diced carrots. Cook for about 5 minutes until they start to soften.",
+      "time": "PT5M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Push the carrots to one side of the pan, and pour in the beaten egg on the other side. Let it set for a minute before scrambling it and mixing with the carrots.",
+      "time": "PT3M",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cooked Adlai Rice to the pan. Season with salt. Stir everything together and cook for an additional 5 minutes, making sure the rice is heated through.",
+      "time": "PT5M",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

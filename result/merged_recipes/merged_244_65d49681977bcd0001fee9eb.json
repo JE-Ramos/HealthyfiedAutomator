@@ -1,0 +1,97 @@
+{
+  "post_id": "65d49681977bcd0001fee9eb",
+  "title": "Spicy Carrots Tinapa",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Spicy Carrots Tinapa",
+    "recipeYield": "4",
+    "recipeIngredient": [
+      "0.50 cup, 1/2 Cup Fresh Zucchini",
+      "1 eggplant, peeled (yield from 1-1/4 lb), Eggplant, raw",
+      "1 olives, Olives",
+      "1 teaspoon, Salt",
+      "1 tsp, ground, Pepper",
+      "2 clove, Garlic, raw",
+      "3 cup, Spiralized Carrot Noodles",
+      "4 piece, Tamban",
+      "4 tsp(s), Extra-Virgin Olive Oil",
+      "6 Small, Tomato-whole, Small"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "179",
+      "carbohydrateContent": "24",
+      "fiberContent": "8",
+      "sugarContent": "14",
+      "sodiumContent": "758",
+      "proteinContent": "14",
+      "fatContent": "5",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 4,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Tamban (sardines) under cold water and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Spiralize the carrots to create carrot noodles and peel the eggplant. Chop the eggplant, tomatoes, and zucchini into desired sizes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic cloves and slice the olives."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix the salt and ground pepper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat the extra-virgin olive oil in a pan over medium heat. Add the minced garlic and sauté until it's fragrant, about 2 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the Tamban (sardines) to the pan and cook for 5 minutes. Remove the sardines and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same pan, add the spiralized carrot noodles, chopped eggplant, zucchini, and tomatoes. Cook for 8 minutes, until the vegetables are tender."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Gently mix in the sardines and olives into the pan. Season with the salt and pepper mixture. Cook for an additional 2 minutes, allowing all flavors to meld together."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Spicy Carrots Tinapa is a flavorful and nutritious dish that is perfect for anyone looking to enjoy a healthy yet indulgent meal. This recipe combines spiralized carrot noodles with fresh zucchini, tomatoes, olives, and delicious Tamban, creating a high-fiber and high-sodium delightful blend that fits right into your healthy lifestyle. Dive into this healthyfied recipe that promises not just great taste but also a boost to your health.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_244_65d49681977bcd0001fee9eb.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/244_65d49681977bcd0001fee9eb.json",
+  "original_files": [
+    "244_65d49681977bcd0001fee9eb.json",
+    "247_65d49681977bcd0001fee9eb.json"
+  ]
+}

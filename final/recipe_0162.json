@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/11/08 Dinner Mackerel",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/11/08-dinner-mackerel.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This '2018/11/08 Dinner Mackerel' recipe is perfect for those looking for a healthy meal option. It's high in protein and low in both carbs and sugar, making it an ideal choice for anyone wanting to maintain a balanced diet. Enjoy a delicious, healthified recipe that's sure to satisfy your taste buds without compromising on nutrition.",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "4",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Baking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "342",
+    "carbohydrateContent": "0",
+    "fiberContent": "0",
+    "sugarContent": "0",
+    "sodiumContent": "150",
+    "proteinContent": "31",
+    "fatContent": "24",
+    "saturatedFatContent": "6",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "595 g Mackerel (Saba Fish)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 375°F (190°C).",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the Mackerel (Saba Fish) under cold water and pat dry with paper towels.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the Mackerel on a lightly greased baking tray.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake in the preheated oven for 20 minutes, or until the fish flakes easily with a fork.",
+      "time": "PT20M",
+      "name": "Step 4"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "post_id": "65d49680977bcd0001fee9e3",
+  "title": "Tinola",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Tinola",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "50 gram, Chicken Back Portions",
+      "50 g, Papayas, raw",
+      "10.00 g, Garlic, raw",
+      "10.00 grams, Onion",
+      "10.00 g, Ginger root - Raw",
+      "0.25 tsp(s), Salt",
+      "1 tsp, ground, Spices, pepper, black"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "178",
+      "carbohydrateContent": "13",
+      "fiberContent": "2",
+      "sugarContent": "5",
+      "sodiumContent": "73",
+      "proteinContent": "12",
+      "fatContent": "9",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "4",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 6,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your ingredients: Slice the 50 grams of chicken back portions into smaller pieces, peel and cut 50 grams of raw papayas into chunks, finely chop 10 grams of garlic, dice 10 grams of onion, and slice 10 grams of ginger root."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pot, saut\u00e9 the chopped garlic, diced onion, and sliced ginger with a little oil over medium heat until the onion is translucent and fragrant, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chicken pieces to the pot and cook until slightly browned on all sides, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour enough water into the pot to cover the chicken. Bring to a boil, then reduce heat and let simmer for 20 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the raw papaya chunks to the pot. Simmer until the papaya is tender, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season with 0.25 teaspoon of salt and 1 teaspoon of ground black pepper. Adjust seasoning to taste. Continue to simmer for an additional 5 minutes."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Tinola is a classic Filipino soup that's perfect for those looking for a healthy and comforting dish. This version is low-carb, low-sodium, and low-sugar, making it a perfect addition to a healthy lifestyle. Dive into the rich flavors of chicken, papaya, and ginger in this healthified recipe.",
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT60M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

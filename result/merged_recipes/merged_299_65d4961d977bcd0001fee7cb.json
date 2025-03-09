@@ -1,0 +1,83 @@
+{
+  "post_id": "65d4961d977bcd0001fee7cb",
+  "title": "Banana Blossom In Coconut Milk",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Banana Blossom In Coconut Milk",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "15.00 g, Garlic, raw",
+      "18 gram, Red Onion",
+      "30 ml, Coconut Cream (Uht)",
+      "400 g, Banana Blossom/ Flower"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "104",
+      "carbohydrateContent": "16",
+      "fiberContent": "8",
+      "sugarContent": "1",
+      "sodiumContent": "4",
+      "proteinContent": "3",
+      "fatContent": "3",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the ingredients: peel and finely mince the garlic, peel and finely chop the red onion, and trim the banana blossom, removing the tough outer layers and slicing the tender parts."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a large pan over medium heat and sauté the garlic and red onion until they are soft and fragrant, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the sliced banana blossom to the pan, stir to combine with the garlic and onion, and cook for an additional 10 minutes until the banana blossom has softened."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in the coconut cream, reduce the heat to low, and simmer the mixture gently for 20 minutes, allowing the flavors to meld and the sauce to slightly thicken."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After simmering, remove the pan from heat and let the dish rest for a few minutes before serving. This allows the banana blossom to absorb the flavors fully."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "low-carb",
+      "low-sodium",
+      "low-sugar"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "Dive into a heart-healthy journey with this Banana Blossom in Coconut Milk recipe, perfectly tailored for a low-carb, low-sodium, low-sugar, and high-fiber diet. Embrace a healthier lifestyle without sacrificing flavor with this exquisite dish that joins the ranks of Healthyfied Recipes. A delightful choice for anyone looking to enjoy delicious, nutritious meals.",
+    "prepTime": "PT15M",
+    "cookTime": "PT35M",
+    "totalTime": "PT50M",
+    "keywords": "low-carb,low-sodium,low-sugar,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_299_65d4961d977bcd0001fee7cb.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/299_65d4961d977bcd0001fee7cb.json",
+  "original_files": [
+    "299_65d4961d977bcd0001fee7cb.json",
+    "296_65d4961d977bcd0001fee7cb.json"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Teryaki Onion",
+  "image": [
+    "https://healthyfied.me/images/recipes/teryaki-onion.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a deliciously Healthyfied Teryaki Onion recipe that aligns perfectly with a low-carb and low-sugar diet. This dish captures the essence of health-conscious cooking without compromising on taste, making it a staple for anyone looking to enjoy healthy recipes.",
+  "prepTime": "PT5M",
+  "cookTime": "PT7M",
+  "totalTime": "PT12M",
+  "keywords": "low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "2",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "54",
+    "carbohydrateContent": "14",
+    "fiberContent": "2",
+    "sugarContent": "3",
+    "sodiumContent": "228",
+    "proteinContent": "2",
+    "fatContent": "0",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1  tablespoon White Onion - Diced",
+    "1  tbsp Teryaki Sauce"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dice the white onion into small pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pan over medium heat, sauté the diced onion until they become translucent, about 5 minutes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add 1 tbsp of Teryaki Sauce to the pan and stir well, ensuring the onions are evenly coated. Cook for another 2 minutes until the sauce thickens slightly and the onions absorb the flavor.",
+      "name": "Step 3"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

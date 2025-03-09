@@ -1,0 +1,78 @@
+{
+  "post_id": "65d49736977bcd0001feeda9",
+  "title": "Globe Lunch",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Globe Lunch",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 Each, Roasted Chicken Breast",
+      "0.03 Ear, Corn on the Cob",
+      "1 serving, Bananas, raw",
+      "150 gram, Sauteed String Beans"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "341",
+      "carbohydrateContent": "39",
+      "fiberContent": "7",
+      "sugarContent": "17",
+      "sodiumContent": "368",
+      "proteinContent": "30",
+      "fatContent": "9",
+      "saturatedFatContent": "2",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 1,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat your oven for the roasted chicken breast or reheat if already cooked."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Trim the ends off the string beans and wash them thoroughly."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil the corn on the cob in a large pot of water until tender, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a pan, saut\u00e9 the string beans with a little bit of olive oil until they are tender and vibrant green.",
+        "cookTime": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Peel and slice the banana just before serving to prevent it from browning."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble the plate with a serving of roasted chicken breast, a portion of corn on the cob, saut\u00e9ed string beans, and slices of fresh banana."
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "The Globe Lunch is a nutritious, high-protein and high-fiber meal that epitomizes healthful eating. Combining roasted chicken breast with corn on the cob, ripe bananas, and saut\u00e9ed string beans, this dish is perfect for anyone looking to enjoy healthy recipes that don't compromise on flavor.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "high-protein,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

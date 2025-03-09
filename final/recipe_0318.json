@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/11/02 Lunch Vegetables",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/11/02-lunch-vegetables.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This low-carb, high-fiber lunch featuring steamed vegetables, enoki mushrooms, tender eggplant, crisp capsicum, and rich tomato puree is not only a healthy choice but also aligns with Healthyfied Recipes. It's designed to nourish your body while satisfying your cravings for a wholesome meal.",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "keywords": "low-carb,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Steaming",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "68",
+    "carbohydrateContent": "15",
+    "fiberContent": "6",
+    "sugarContent": "10",
+    "sodiumContent": "212",
+    "proteinContent": "3",
+    "fatContent": "1",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  teaspoon Salt",
+    "0.25  tsp ground, Pepper",
+    "100 g Capsicum Green",
+    "2 g Mushrooms, Enoki, Raw",
+    "3  tbsp(s) Tomato Puree",
+    "400 g Eggplant, raw",
+    "400 g Steamed"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare all vegetables: wash and cut the eggplant into slices, trim the ends off the enoki mushrooms, and dice the capsicum.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Steam the 400g of vegetables until fully cooked and tender, about 15 minutes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the vegetables are steaming, season them with 0.25 teaspoon of salt and a quarter teaspoon of ground pepper.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the vegetables are steamed, transfer them to a large bowl.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the 3 tablespoons of tomato puree to the steamed vegetables. Mix well to ensure all the vegetables are coated evenly.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

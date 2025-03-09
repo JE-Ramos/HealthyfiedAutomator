@@ -1,0 +1,91 @@
+{
+  "post_id": "65d49775977bcd0001feeef2",
+  "title": "2018/09/23 Lunch",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/09/23 Lunch",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "0.25 cup (40 g), Salad Topper",
+      "1 Tbsp, Slivered, Blanched",
+      "1 roll, Dim Sum Steamed Beancurd Roll",
+      "15 gram, Lettuce",
+      "20.00 grams, Pineapple, Fresh, Chunks",
+      "30 gram, Asado (Pork In Red Sauce)",
+      "30 gram, Shrimps",
+      "60 gram, Beef with Broccoli"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "429",
+      "carbohydrateContent": "25",
+      "fiberContent": "5",
+      "sugarContent": "9",
+      "sodiumContent": "891",
+      "proteinContent": "29",
+      "fatContent": "27",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "2",
+      "unsaturatedFatContent": 5,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Start by preparing the ingredients: Blanch the shrimp, slice the asado pork in red sauce, cut the beef for the beef with broccoli dish, dice the fresh pineapple chunks, and measure out the salad topper."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the shrimp and asado pork according to their respective recipes, ensuring they are fully cooked through.",
+        "time": "PT15M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the dim sum steamed beancurd roll according to package instructions.",
+        "time": "PT10M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "For the beef with broccoli, stir-fry the beef until it's nearly cooked, then add the broccoli and continue to cook until the beef is fully done and the broccoli is tender but still crisp.",
+        "time": "PT15M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Toss the lettuce with the salad topper, and arrange on a plate as a bed for the other components of the meal."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble the dish by placing the cooked shrimp, asado pork, dim sum, and beef with broccoli on the bed of lettuce. Garnish with the pineapple chunks."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-protein",
+      "high-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This high-protein, high-sodium, and high-fiber lunch is a healthified version of your favorite dishes, featuring a blend of flavors that elevate your meal to a healthier status without compromising taste. It includes a mix of shrimp, asado pork, dim sum, beef with broccoli, and fresh pineapple chunks alongside a nutritious salad topper, making it ideal for those seeking delicious and healthy recipes.",
+    "prepTime": "PT20M",
+    "cookTime": "PT40M",
+    "totalTime": "PT60M",
+    "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_138_65d49775977bcd0001feeef2.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/138_65d49775977bcd0001feeef2.json",
+  "original_files": [
+    "138_65d49775977bcd0001feeef2.json",
+    "135_65d49775977bcd0001feeef2.json"
+  ]
+}

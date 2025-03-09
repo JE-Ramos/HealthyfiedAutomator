@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "2018/11/07 Red Cabbage and Bellpepper in Tomato Puree",
+  "image": [
+    "https://healthyfied.me/images/recipes/2018/11/07-red-cabbage-and-bellpepper-in-tomato-puree.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This delicious recipe for Red Cabbage and Bellpepper in Tomato Puree is perfect for those looking for a healthy, low-carb, low-sodium, and low-sugar meal. It's a wonderful addition to your collection of healthy recipes, designed to bring vibrant colors and flavors to your table while keeping your nutrition in check.",
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "54",
+    "carbohydrateContent": "8",
+    "fiberContent": "2",
+    "sugarContent": "4",
+    "sodiumContent": "56",
+    "proteinContent": "3",
+    "fatContent": "2",
+    "saturatedFatContent": "1",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup Tomato Puree",
+    "15 g Cheese, cheddar",
+    "200 g Cabbage, red, raw",
+    "57 g Sweet, Capsicum, Orange, Raw 100g"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Thinly slice the 200g of red cabbage.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the 57g of orange bell pepper into thin strips.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Grate the 15g of cheddar cheese and set aside.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet over medium heat, cook the cabbage and bell pepper with the 0.25 cup of tomato puree until the vegetables are tender, about 10 minutes.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve hot, garnishing with the grated cheddar cheese on top.",
+      "name": "Step 5"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "post_id": "65d49773977bcd0001feeeea",
+  "title": "Batutay With Mashpotato",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Batutay With Mashpotato",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "0.21 cup, Blanched Green Beans",
+      "0.25 teaspoon, Salt",
+      "0.50 tsp, ground, Pepper",
+      "1 tsp(s), Rosemary, fresh",
+      "1 tsp, Spices, marjoram, dried",
+      "1 tsp, Thyme, fresh",
+      "100 milliliter, Milk",
+      "200 g, Eggplant, raw",
+      "250 g, Carrots, raw",
+      "360 g, Longganisa",
+      "480 g, Potato"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "428",
+      "carbohydrateContent": "77",
+      "fiberContent": "7",
+      "sugarContent": "17",
+      "sodiumContent": "988",
+      "proteinContent": "23",
+      "fatContent": "7",
+      "saturatedFatContent": "5",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel and cut the carrots and potato into small pieces. Cut the eggplant into small cubes. Trim the green beans."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring a pot of salted water to a boil and blanch the green beans for 2 minutes, then drain and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In the same pot, add the carrots and potatoes. Boil until they are soft, about 15 minutes. Drain and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the vegetables are boiling, cook the longganisa according to package instructions until fully cooked, about 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a skillet, sauté the eggplant with a little oil until they are soft, about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mash the boiled potatoes with milk, marjoram, thyme, rosemary, salt, and pepper until smooth and creamy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the cooked longganisa with the mashed potatoes, sautéed eggplant, and blanched green beans."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber",
+      "high-protein",
+      "high-sodium"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Batutay With Mashpotato is a high-protein, high-sodium, high-fiber dish that brings a healthified twist to classic recipes. Combining the savory flavors of longganisa with the wholesomeness of vegetables like carrots, green beans, and eggplant, this dish is perfect for those seeking hearty and healthy recipes.",
+    "prepTime": "PT20M",
+    "cookTime": "PT30M",
+    "totalTime": "PT50M",
+    "keywords": "high-protein,high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_136_65d49773977bcd0001feeeea.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/136_65d49773977bcd0001feeeea.json",
+  "original_files": [
+    "136_65d49773977bcd0001feeeea.json",
+    "139_65d49773977bcd0001feeeea.json"
+  ]
+}

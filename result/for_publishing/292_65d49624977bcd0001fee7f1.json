@@ -1,0 +1,71 @@
+{
+  "post_id": "65d49624977bcd0001fee7f1",
+  "title": "Avocado Oat Shake",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Avocado Oat Shake",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "0.50 cup, mashed or pureed  , Avocado",
+      "0.50 cup (8 fl oz), Water",
+      "0.25 cup, Oat Milk",
+      "4 g, Stevia Sachet"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "109",
+      "carbohydrateContent": "9",
+      "fiberContent": "4",
+      "sugarContent": "3",
+      "sodiumContent": "8",
+      "proteinContent": "1",
+      "fatContent": "9",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "6",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 7,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mash or puree the avocado until smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a blender, combine the mashed avocado, water, oat milk, and Stevia sachet."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Blend on high speed for 2 minutes or until the mixture is smooth and creamy."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour the shake into a glass and enjoy immediately."
+      }
+    ],
+    "tags": [
+      "low-carb",
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Avocado Oat Shake is a perfect blend for those seeking a healthy yet delicious drink. It's crafted with low-carb, low-sodium, and low-sugar ingredients, making it an ideal choice for anyone looking to indulge in a guilt-free treat. Dive into the healthified world with this nutrient-packed recipe that promises to refresh and revitalize your day.",
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

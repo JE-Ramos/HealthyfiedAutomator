@@ -1,0 +1,93 @@
+{
+  "post_id": "65d496dd977bcd0001feebf6",
+  "title": "Basmati Paella Negra",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Healthyfied Basmati Paella Negra",
+    "recipeYield": "8",
+    "recipeIngredient": [
+      "1 medium, Red onion",
+      "6 clove , Garlic",
+      "2 cup, Basmati rice",
+      "3 tbsp, Crab Paste",
+      "1 teaspoon, Salt",
+      "1 Tbsp, Kewpie Mayo (Tbs)",
+      "300 g, Frozen Cooked Shrimp",
+      "2 cup, Mixed vegetables, frozen",
+      "1 tsp, ground, Black pepper",
+      "60 gr, Posta Negra",
+      "1 teaspoon, Butter, unsalted"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "261",
+      "carbohydrateContent": "40",
+      "fiberContent": "1",
+      "sugarContent": "1",
+      "sodiumContent": "700",
+      "proteinContent": "12",
+      "fatContent": "5",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Finely chop the red onion and mince the garlic."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the Basmati rice under cold water until the water runs clear."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large pan, melt the butter over medium heat and saut\u00e9 the onion and garlic until they are soft and fragrant, which takes about 5 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the crab paste, salt, and black pepper to the onion mixture; mix well."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the Basmati rice to the pan, stirring constantly to ensure the rice is fully coated with the onion and crab paste mixture, cook for 2 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Dissolve the Posta Negra in 4 cups of hot water and add this to the rice mixture. Bring to a boil, then reduce the heat to low, cover, and simmer for 10 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the frozen cooked shrimp and mixed vegetables to the pan. Cover and cook for an additional 10 minutes or until the rice is tender and the liquid has been absorbed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from heat and gently fold in the Kewpie Mayo until everything is well combined.",
+        "time": "5 minutes"
+      }
+    ],
+    "tags": [
+      "high-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Healthyfied Basmati Paella Negra is a delightful twist on a traditional favorite, designed for those looking to enjoy the richness of paella with a health-conscious approach. Perfect for anyone following a high-sodium, low-sugar diet, this recipe combines the aromatic Basmati rice with savory Posta Negra, crab paste, and a medley of vegetables and shrimp. It's a hearty meal that doesn't skimp on flavor, making it a fantastic choice for healthy recipe lovers seeking to mix up their meal routine.",
+    "prepTime": "PT20M",
+    "cookTime": "PT25M",
+    "totalTime": "PT45M",
+    "keywords": "high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

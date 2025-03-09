@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Seafood City - Sauteed Scallops with Veggies",
+  "image": [
+    "https://healthyfied.me/images/recipes/seafood-city---sauteed-scallops-with-veggies.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in the taste of the ocean with 'Seafood City - Sauteed Scallops with Veggies', a dish perfect for those who love a high-protein, low-carb meal with the benefits of a healthy recipe. This dish balances the succulence of scallops with the crunch of fresh vegetables, all while keeping an eye on your health needs. It's a delectable way to keep your meals interesting and nutritious.",
+  "prepTime": "PT15M",
+  "cookTime": "PT12M",
+  "totalTime": "PT27M",
+  "keywords": "high-protein,low-carb,high-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "10",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "160",
+    "carbohydrateContent": "10",
+    "fiberContent": "3",
+    "sugarContent": "4",
+    "sodiumContent": "433",
+    "proteinContent": "25",
+    "fatContent": "1",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.50  tsp(s) Salt",
+    "1 kg Scallop",
+    "1  tsp ground, Pepper",
+    "2  tbs Oyster",
+    "50 g Fresh Garlic",
+    "500 g Carrots, raw",
+    "500 g Cauliflower - Raw",
+    "500 g taiwan pechay"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the scallops under cold water and pat dry with paper towels.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the cauliflower into florets.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel and slice the carrots.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the taiwan pechay into bite-sized pieces.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mince the fresh garlic.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a large pan over medium heat and sauté the garlic until fragrant, about 1 minute.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cauliflower and carrots to the pan, season with salt and pepper, and cook for 5-7 minutes until slightly tender.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Increase the heat to medium-high and add the scallops to the pan, cooking for 2-3 minutes on each side until golden brown and cooked through.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the oyster sauce and add the taiwan pechay, cook for an additional 2 minutes until the greens wilt.",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

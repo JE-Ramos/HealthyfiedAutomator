@@ -1,0 +1,77 @@
+{
+  "post_id": "65d49616977bcd0001fee7a7",
+  "title": "Mashed Sweet Potato",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Mashed Sweet Potato",
+    "recipeYield": "3",
+    "recipeIngredient": [
+      "300 gram, Sweet Potato",
+      "10 gram, Cheese - Parmesan, shredded"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "100",
+      "carbohydrateContent": "20",
+      "fiberContent": "3",
+      "sugarContent": "5",
+      "sodiumContent": "111",
+      "proteinContent": "3",
+      "fatContent": "1",
+      "saturatedFatContent": "1",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Peel the sweet potatoes and cut them into chunks."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the chunks into a pot and cover with water."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring to a boil, then reduce the heat to medium and simmer until tender, about 15 minutes."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Drain the potatoes and return them to the pot."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mash the sweet potatoes until smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the shredded Parmesan cheese until well combined and cheese is melted."
+      }
+    ],
+    "tags": [
+      "low-sodium",
+      "low-sugar",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet",
+      "https://schema.org/LowFatDiet",
+      "https://schema.org/LowSaltDiet"
+    ],
+    "description": "This Mashed Sweet Potato recipe is perfect for those looking for a healthy and delicious side dish. With its low sodium and low sugar profile, it's a guilt-free addition to any meal. Perfect for anyone following a healthy lifestyle, these mashed sweet potatoes are enriched with Parmesan cheese, offering a tasty twist on a classic favorite.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "keywords": "low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

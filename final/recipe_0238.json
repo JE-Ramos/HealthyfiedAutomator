@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Red Cabbage Chicken Egg Salad",
+  "image": [
+    "https://healthyfied.me/images/recipes/red-cabbage-chicken-egg-salad.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a refreshing blend of crunch and flavor with our Red Cabbage Chicken Egg Salad. Perfect for those seeking a high-fiber and healthified meal, this recipe beautifully combines tender boiled chicken, crisp red cabbage, juicy apples, and more for a delightful and nutritious experience.",
+  "prepTime": "PT15M",
+  "cookTime": "PT9M",
+  "totalTime": "PT24M",
+  "keywords": "high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Boiling",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "197",
+    "carbohydrateContent": "22",
+    "fiberContent": "5",
+    "sugarContent": "14",
+    "sodiumContent": "147",
+    "proteinContent": "15",
+    "fatContent": "6",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "3",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 4,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.11 head small (4\" dia), Cabbage, red, raw",
+    "0.25  cup Ice Burg Lettuce",
+    "0.33 medium apple, Honey Crisp Apple",
+    "0.33 medium breast, Boiled Chicken Breast",
+    "1 large Egg, whole, cooked, hard-boiled",
+    "17.67 g Young Corn - Cut",
+    "47.50 g Baby Carrots 170g"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Start by hard boiling the egg. Place the egg in a saucepan, cover with water, bring to a boil, then lower the heat and simmer for 9 minutes.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the egg is cooking, slice the red cabbage thinly and chop the honey crisp apple into bite-sized pieces.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the boiled chicken breast and baby carrots into small pieces.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the ice burg lettuce into thin strips and slice the young corn.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the egg is done, place it in cold water to cool before peeling and chopping it into pieces.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large salad bowl, combine the sliced red cabbage, chopped apple, chicken breast, baby carrots, ice burg lettuce, young corn, and chopped egg.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the ingredients together until well mixed. Serve this nourishing salad chilled for a refreshing and healthy meal.",
+      "name": "Step 7"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet"
+  ]
+}

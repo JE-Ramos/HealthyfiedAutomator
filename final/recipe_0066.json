@@ -1,0 +1,89 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Mashed Unripe Plantain",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-mashed-unripe-plantain.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Healthyfied Mashed Unripe Plantain recipe is a delightful twist on traditional mashed recipes, tailor-made for those seeking low-sodium, healthy options. Perfect for anyone looking to enjoy healthier versions of their favorite dishes.",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "keywords": "low-sodium,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "2",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Boiling",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "148",
+    "carbohydrateContent": "33",
+    "fiberContent": "2",
+    "sugarContent": "16",
+    "sodiumContent": "100",
+    "proteinContent": "2",
+    "fatContent": "2",
+    "saturatedFatContent": "2",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.06  teaspoon Red bell pepper",
+    "0.06  teaspoon Salt",
+    "1  teaspoon Butter, salted",
+    "2  tablespoon Evaporated Milk",
+    "200 g Boiled Unripe Plantain"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Peel the unripe plantains and cut them into chunks.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pot, boil the plantain chunks until they become tender, about 20 minutes.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the plantains are boiling, finely dice the red bell pepper.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the plantains are tender, drain the water and transfer the plantains to a large bowl.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the evaporated milk, salted butter, salt, and diced red bell pepper to the warm plantains.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mash the mixture until smooth and well combined.",
+      "name": "Step 6"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

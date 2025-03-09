@@ -1,0 +1,76 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Greek Yogurt Vinaigrette",
+  "image": [
+    "https://healthyfied.me/images/recipes/greek-yogurt-vinaigrette.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Greek Yogurt Vinaigrette is a health-conscious choice for those looking for a tasty, low-carb, low-sodium, and low-sugar dressing option. Perfect for adding a delicious zest to your salads while keeping things light and healthy!",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "keywords": "low-carb,low-sodium,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "2",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "118",
+    "carbohydrateContent": "7",
+    "fiberContent": "0",
+    "sugarContent": "4",
+    "sodiumContent": "50",
+    "proteinContent": "5",
+    "fatContent": "9",
+    "saturatedFatContent": "6",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "1 medium Clove (8g), Fresh",
+    "1  tbsp Cane Vinegar",
+    "8  fluid ounce, Greek Yogurt, Plain"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Peel and mince the garlic clove.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a mixing bowl, whisk together the Greek yogurt, minced garlic, and cane vinegar until well combined.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Taste the vinaigrette, and adjust seasoning if necessary. If the dressing is too thick, you can thin it out with a little bit of water or more vinegar to achieve your desired consistency.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the vinaigrette to an airtight container and refrigerate until ready to use.",
+      "name": "Step 4"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet"
+  ]
+}

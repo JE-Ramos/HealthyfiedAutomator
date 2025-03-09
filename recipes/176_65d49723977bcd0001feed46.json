@@ -1,0 +1,80 @@
+{
+  "post_id": "65d49723977bcd0001feed46",
+  "title": "Gusto! Sesame Soy Bowl All Green No Sauce",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Gusto! Sesame Soy Bowl All Green No Sauce",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "15.00 g, Lettuce, green leaf, raw",
+      "0.50 cup, Miso Glazed Sweet Potatoes (49739.1)",
+      "30.00 g, Carrots, raw",
+      "15.00 g, Cucumber - With peel, raw",
+      "1 tablespoon, Seaweed, wakame, raw",
+      "40 gram, Lemon Butter Shrimp",
+      "1 tbsp (9 g), Black Sesame Seeds"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "327",
+      "carbohydrateContent": "34",
+      "fiberContent": "5",
+      "sugarContent": "19",
+      "sodiumContent": "669",
+      "proteinContent": "17",
+      "fatContent": "14",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "3",
+      "polyunsaturatedFatContent": "3",
+      "unsaturatedFatContent": 6,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Rinse the lettuce, carrots, and cucumber under cold water. Pat them dry with a paper towel."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the miso glazed sweet potatoes as per the instructions or until they are tender. Set them aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Hydrate the raw wakame seaweed in water for about 15 minutes, then drain and set aside."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook the lemon butter shrimp in a pan over medium heat for 5 minutes or until they are pink and cooked through."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Assemble the bowl by placing the green leaf lettuce at the bottom. Add the cooked sweet potatoes, raw carrots, cucumber, hydrated wakame, and cooked shrimp."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle the black sesame seeds over the top of the bowl."
+      }
+    ],
+    "tags": [
+      "high-sodium",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Dive into the refreshing world of healthy eating with our Gusto! Sesame Soy Bowl All Green No Sauce. A perfect blend of high-fiber ingredients like green leaf lettuce, miso glazed sweet potatoes, raw carrots, cucumber, and wakame seaweed, topped with lemon butter shrimp and black sesame seeds. This bowl is not only a feast for the eyes but also a nutrient powerhouse designed for those who enjoy 'Healthyfied' and health-conscious recipes. Despite its high sodium content, this recipe remains a guilt-free pleasure that satisfies the craving for something savory and nutritious.",
+    "prepTime": "PT25M",
+    "cookTime": "PT5M",
+    "totalTime": "PT30M",
+    "keywords": "high-sodium,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

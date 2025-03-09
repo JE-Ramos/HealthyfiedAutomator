@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Low-Carb Ice Cream Sandwich with Keto Bread (High Protein)",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-ice-cream-sandwich.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "Indulge in a guilt-free treat with our Healthyfied Ice Cream Sandwich, perfect for those following a high-protein, low-carb, and low-sugar diet. Enjoy the union of homemade Mike's Keto Bread with rich chocolate ice cream, offering a smarter choice for your dessert cravings.",
+  "prepTime": "PT10M",
+  "cookTime": "PT6M",
+  "totalTime": "PT16M",
+  "keywords": "high-protein,low-carb,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "1",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "407",
+    "carbohydrateContent": "16",
+    "fiberContent": "3",
+    "sugarContent": "1",
+    "sodiumContent": "155",
+    "proteinContent": "41",
+    "fatContent": "46",
+    "saturatedFatContent": "8",
+    "monounsaturatedFatContent": "3",
+    "polyunsaturatedFatContent": "1",
+    "unsaturatedFatContent": 4,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25 cup unsweetened almond milk",
+    "1 medium egg",
+    "2 slice mikes keto bread, homemade",
+    "2 tbsp chocolate ice cream"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "If your Mike's Keto Bread is not already sliced, use a bread knife (serrated knife) to cut two even slices about 1 cm thick.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Crack the egg into a wide, shallow bowl. Add the unsweetened almond milk. Using a fork or whisk, beat the mixture together until fully combined and no egg white streaks remain.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Take one slice of bread and place it into the egg-milk mixture. Let it soak for about 15 seconds, then flip it over and let the other side soak for another 15 seconds. The bread should absorb some of the mixture but not become completely soggy. Repeat with the second slice.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place a non-stick frying pan on the stove and set to medium heat. If you don't have a non-stick pan, you can lightly spray or brush with oil to prevent sticking. Once the pan is warm (you can test by sprinkling a few drops of water – they should sizzle), place both soaked bread slices in the pan.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook each side of the bread for 2-3 minutes until golden brown and slightly crispy on the outside. You can lift an edge with a spatula to check the color. Flip carefully using a spatula when the first side is done.",
+      "time": "PT6M",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the cooked bread slices from the pan and place them on a plate. Let them cool for about 2 minutes – they should be warm but not hot enough to immediately melt the ice cream.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the chocolate ice cream from the freezer and let it soften for 1-2 minutes. Using a spoon or ice cream scoop, place 1 tablespoon of chocolate ice cream on one slice of the cooked bread. Spread it evenly, leaving a small border around the edges.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the second slice of bread on top of the ice cream, gently pressing down to make a sandwich. The warm bread will slightly soften the ice cream, creating a nice texture.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately for a soft ice cream center, or wrap in parchment paper and place in the freezer for 10-15 minutes if you prefer a firmer texture.",
+      "name": "Step 9"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowSaltDiet",
+    "https://schema.org/GlutenFreeDiet"
+  ]
+}

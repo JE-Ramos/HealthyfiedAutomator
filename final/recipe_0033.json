@@ -1,0 +1,113 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Healthyfied Beef Tendon Kaldereta",
+  "image": [
+    "https://healthyfied.me/images/recipes/healthyfied-beef-tendon-kaldereta.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Healthyfied"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Healthyfied",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://healthyfied.me/logo.jpg"
+    }
+  },
+  "datePublished": "2025-03-09",
+  "description": "This Healthyfied Beef Tendon Kaldereta is a perfect combination of healthful eating and indulgent flavors. Designed for those who love high-protein and low-sugar diets, this recipe transforms a classic dish into a healthier alternative without compromising taste. Whether you're following a health-conscious lifestyle or simply looking for a nutritious meal, this healthy twist on the traditional Kaldereta is sure to impress.",
+  "prepTime": "PT20M",
+  "cookTime": "PT110M",
+  "totalTime": "PT130M",
+  "keywords": "high-protein,low-sugar,Healthyfied,Healthy Recipes,Healthified Recipes",
+  "recipeYield": "3",
+  "recipeCategory": "High Protein",
+  "recipeCuisine": "Filipino",
+  "cookingMethod": "Cooking",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "291",
+    "carbohydrateContent": "23",
+    "fiberContent": "3",
+    "sugarContent": "4",
+    "sodiumContent": "205",
+    "proteinContent": "48",
+    "fatContent": "1",
+    "saturatedFatContent": "0",
+    "monounsaturatedFatContent": "0",
+    "polyunsaturatedFatContent": "0",
+    "unsaturatedFatContent": 0,
+    "transFatContent": "0"
+  },
+  "recipeIngredient": [
+    "0.25  cup Tomato sauce",
+    "1  cup (8 fl oz), Water",
+    "2 pinch Salt",
+    "2  tsp ground, Black pepper",
+    "205 g Potato",
+    "400 g Beef Tendon",
+    "50 g Green bell pepper",
+    "50 g Red bell pepper",
+    "50 g White onion",
+    "6 clove , Garlic"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash the beef tendon thoroughly and cut into bite-sized pieces.",
+      "name": "Step 1"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel and mince the garlic.",
+      "name": "Step 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Peel and chop the potato, red bell pepper, green bell pepper, and white onion into equal sizes to ensure even cooking.",
+      "name": "Step 3"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pot, add the beef tendon and water. Bring to a boil and simmer for about 1 hour 30 minutes or until the tendon is tender.",
+      "name": "Step 4"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the tendon from the pot, set aside, and discard the water.",
+      "name": "Step 5"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the same pot, heat a little oil over medium heat and sauté the minced garlic until golden brown, about 2 minutes.",
+      "name": "Step 6"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cut vegetables (potato, red bell pepper, green bell pepper, and white onion) to the pot and sauté for another 5 minutes.",
+      "name": "Step 7"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return the beef tendon to the pot and add the tomato sauce, stirring well to combine. Season with black pepper and salt.",
+      "name": "Step 8"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the pot and let the kaldereta simmer on low heat for about 20 minutes, or until the vegetables are tender and the sauce has thickened.",
+      "name": "Step 9"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve your Healthyfied Beef Tendon Kaldereta hot and enjoy this nutritious twist on a classic Filipino comfort food.",
+      "name": "Step 10"
+    }
+  ],
+  "suitableForDiet": [
+    "https://schema.org/LowCalorieDiet",
+    "https://schema.org/LowFatDiet"
+  ]
+}

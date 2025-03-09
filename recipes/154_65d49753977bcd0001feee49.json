@@ -1,0 +1,87 @@
+{
+  "post_id": "65d49753977bcd0001feee49",
+  "title": "2018/10/22 Broccoli Beef Bowl",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "2018/10/22 Broccoli Beef Bowl",
+    "recipeYield": "2",
+    "recipeIngredient": [
+      "200 gram, Ground Beef",
+      "1 tbsp, Honey",
+      "100 g, Carrots, raw",
+      "300 g, Broccoli, raw",
+      "0.25 tsp(s), Salt",
+      "0.25 tsp, ground, Pepper",
+      "60.00 g, Red Onion",
+      "10.00 g, Garlic, raw",
+      "2 large, Egg",
+      "110.00 g, Red"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "386",
+      "carbohydrateContent": "32",
+      "fiberContent": "6",
+      "sugarContent": "17",
+      "sodiumContent": "244",
+      "proteinContent": "32",
+      "fatContent": "15",
+      "saturatedFatContent": "6",
+      "monounsaturatedFatContent": "2",
+      "polyunsaturatedFatContent": "1",
+      "unsaturatedFatContent": 3,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare the vegetables by dicing the red onion, mincing the garlic, chopping the carrots into bite-size pieces, and cutting the broccoli into florets."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a pan over medium heat, add the ground beef, and season with salt and pepper. Cook for about 10 minutes or until the beef is browned and cooked through."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove the beef from the pan and set aside. In the same pan, add a bit more oil if needed, then saut\u00e9 the garlic and onion for about 3 minutes until softened."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chopped carrots and broccoli florets to the pan. Cook, stirring occasionally, for about 7 minutes or until the vegetables are tender but still slightly crisp."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Return the beef to the pan. Drizzle in the honey and stir everything together. Cook for an additional 2 minutes to allow the flavors to meld."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate pan, fry the eggs to your desired doneness."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the beef and vegetable mixture in bowls, topped with a fried egg. Enjoy your nutrient-packed Broccoli Beef Bowl!"
+      }
+    ],
+    "tags": [
+      "high-protein",
+      "high-fiber",
+      "Healthyfied",
+      "Healthy Recipes",
+      "Healthified Recipes"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "This Broccoli Beef Bowl is a nutritious delight, packed with high-protein and high-fiber ingredients to fuel your body. Perfect for those seeking healthy, revitalized eating options, this dish combines the savory goodness of ground beef with the fresh crunch of broccoli, carrots, and other fresh veggies. A wonderful addition to your healthy recipe collection.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "keywords": "high-protein,high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  }
+}

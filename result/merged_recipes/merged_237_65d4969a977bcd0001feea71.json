@@ -1,0 +1,81 @@
+{
+  "post_id": "65d4969a977bcd0001feea71",
+  "title": "Coconut Banana Pancake",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": {
+      "@type": "Organization",
+      "name": "Healthyfied"
+    },
+    "org_url": "https://healthyfied.me",
+    "name": "Coconut Banana Pancake",
+    "recipeYield": "12",
+    "recipeIngredient": [
+      "1 cup(s), Coconut Flour",
+      "1 tbl, Extra Virgin Coconut Oil",
+      "1 tsp(s), Salt",
+      "12 banana, Saba Banana",
+      "3 tsp, Baking Powder",
+      "5 egg, Eggs"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "198",
+      "carbohydrateContent": "37",
+      "fiberContent": "7",
+      "sugarContent": "9",
+      "sodiumContent": "177",
+      "proteinContent": "6",
+      "fatContent": "5",
+      "saturatedFatContent": "3",
+      "monounsaturatedFatContent": "0",
+      "polyunsaturatedFatContent": "0",
+      "unsaturatedFatContent": 0,
+      "transFatContent": "0"
+    },
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mash the Saba Banana until smooth."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large bowl, mix together the mashed banana, coconut flour, eggs, baking powder, and salt until well combined."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a non-stick skillet over medium heat and add a tablespoon of extra virgin coconut oil."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour a scoop of the pancake batter into the skillet, cook for about 3 minutes on each side or until golden brown.",
+        "time": "PT3M"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Repeat the process with the remaining batter, adding more coconut oil to the skillet as needed."
+      }
+    ],
+    "tags": [
+      "Healthified Recipes",
+      "Healthy Recipes",
+      "Healthyfied",
+      "high-fiber"
+    ],
+    "suitableForDiet": [
+      "https://schema.org/LowCalorieDiet"
+    ],
+    "description": "Indulge in the goodness of Coconut Banana Pancakes, a healthified delight that's perfect for those seeking high-fiber, nutritious meal options. Crafted with the wholesomeness of Saba bananas, coconut flour, and extra virgin coconut oil, these pancakes promise a heart-healthy start to your day",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "high-fiber,Healthyfied,Healthy Recipes,Healthified Recipes"
+  },
+  "file_name": "merged_237_65d4969a977bcd0001feea71.json",
+  "file_path": "/Users/je-dev/Documents/Repository/Healthyfied/HealthyfiedAutomator/recipes/237_65d4969a977bcd0001feea71.json",
+  "original_files": [
+    "237_65d4969a977bcd0001feea71.json",
+    "234_65d4969a977bcd0001feea71.json"
+  ]
+}
